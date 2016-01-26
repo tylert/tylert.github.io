@@ -70,6 +70,34 @@ Install Stuff
 OSMC Stuff
 ----------
 
+::
+    #!/usr/bin/env bash
+
+    # http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer
+    # s/8.0/7.0/ for wheezy
+
+    wget -O - \
+      http://download.opensuse.org/repositories/home:osmc/Debian_8.0/Release.key |\
+      apt-key add -
+
+    echo 'deb http://download.opensuse.org/repositories/home:/osmc/Debian_8.0/ /' \
+      > /etc/apt/sources.list.d/osmc-installer.list
+
+    apt-get update
+    apt-get install osmc-installer
+
+    #echo >> /etc/rc.local <EOF
+    #sleep 20
+    #sudo -u osmc sshfs osmc@file:/television /home/osmc/TV\ Shows
+    #sudo -u osmc sshfs osmc@file:/movie /home/osmc/Movies
+    #sudo -u osmc sshfs osmc@file:/audio /home/osmc/Music
+    #sudo -u osmc sshfs osmc@file:/photo /home/osmc/Pictures
+    #
+    #exit
+    #EOF
+
+Video Plug-ins -> Genesis
+
 * http://srp.nu
 * http://fusion.tvaddons.ag
 
