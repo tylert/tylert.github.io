@@ -257,6 +257,11 @@ Kobo Stuff
 
 ::
 
+    127.0.0.1 host localhost.localdomain localhost localhost localhost.localdomain
+    127.0.0.1 www.google-analytics.com ssl.google-analytics.com google-analytics.com
+
+::
+
     cd KOBOeReader/.kobo
     sqlite3 KoboReader.sqlite
     INSERT INTO user VALUES('', '', '', '', '', '', '', '', '', '', '', '', '');
