@@ -325,3 +325,54 @@ Awesome Font Stuff
 ------------------
 
 * http://www.1001fonts.com/
+
+
+Git Stuff
+---------
+
+::
+
+    # Snip out just a single directory
+    git clone foo
+    cd foo
+    git remote rm origin
+    git filter-branch --subdirectory-filter arf --prune-empty -- --all
+
+
+    # Get rid of files permanently
+    for i in foo.svg bar.svg ; do
+      git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch $i" --prune-empty -f HEAD
+    done
+
+
+    # Fix the size of the repository by losing unreferenced things
+    git reflog expire --expire=now --all
+    git fsck --full --unreachable
+    git gc --prune=now --aggressive
+
+    rm -rf .git/refs/original/*
+    git reflog expire --all --expire-unreachable=0
+    git repack -A -d
+    git prune
+
+
+    # Fix email for old commits
+    git filter-branch --env-filter 'GIT_AUTHOR_NAME="Tyler Tidman" ; GIT_COMMITTER_NAME="Tyler Tidman"' -f -- --all
+    git filter-branch --env-filter 'GIT_AUTHOR_EMAIL="tyler.tidman@draak.ca" ; GIT_COMMITTER_EMAIL="tyler.tidman@draak.ca"' -f -- --all
+    git show-ref
+    git update-ref -d refs/original/refs/heads/master
+
+
+    # Cull a single directory
+    git filter-branch --tree-filter 'rm -rf radio/logos/ares' -f HEAD
+    git filter-branch --prune-empty -f HEAD
+
+
+    # Stitch two repos together
+    cd Adir
+    mkdir Bdir
+    git remote add -f Bproject /path/to/Brepo
+    git merge -s ours --no-commit Bproject/master
+    git read-tree --prefix=Bdir -u Bproject/master
+    git commit -m "Merge B project as our subdirectory"
+    git pull -s subtree Bproject master
