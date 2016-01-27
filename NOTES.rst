@@ -275,6 +275,10 @@ Keyboard CNC
 Raspberry Pi Stuff
 ------------------
 
+* http://bobbyromeo.com/technology/triple-boot-raspberry-pi-on-usb-raspbianretropieopenelec-part-2/
+* https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt
+* https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793
+
 ::
 
     # On Mac OS X
