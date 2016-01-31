@@ -32,6 +32,7 @@ Apt-cacher-ng Stuff
 * http://www.boehmi.net/index.php/blog/14-how-to-setup-an-apt-cacher-ng-server-in-ubuntu
 * https://help.ubuntu.com/community/Apt-Cacher-Server
 * https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings?highlight=%28\bCategoryInternet\b%29
+* http://docs.docker.com/examples/apt-cacher-ng/
 
 (on apt-cacher-ng server)::
 
