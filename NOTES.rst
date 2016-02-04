@@ -203,6 +203,7 @@ Assorted Things-to-Read
 * https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
+* http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
 
 
 Zoom Stuff
