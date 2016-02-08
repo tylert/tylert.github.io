@@ -358,10 +358,11 @@ Git Stuff
     git prune
 
 
-    # Fix email for old commits
+    # Fix author/committer user.name/user.email for old commits
     git filter-branch --env-filter 'GIT_AUTHOR_NAME="Tyler Tidman" ; GIT_COMMITTER_NAME="Tyler Tidman"' -f -- --all
     git filter-branch --env-filter 'GIT_AUTHOR_EMAIL="tyler.tidman@draak.ca" ; GIT_COMMITTER_EMAIL="tyler.tidman@draak.ca"' -f -- --all
     git show-ref
+    # Delete any refs that have the name "original"
     git update-ref -d refs/original/refs/heads/master
 
 
