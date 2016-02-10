@@ -250,6 +250,7 @@ Cool Products
 -------------
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
+* http://www.thingiverse.com/search/page:1?q=warhammer&sa=
 
 
 Stuff to watch
