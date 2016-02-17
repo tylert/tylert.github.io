@@ -325,10 +325,12 @@ Kobo Stuff
     ebook-convert dummy.html .epub
 
 
-Awesome Font Stuff
-------------------
+Awesome Stuff
+-------------
 
 * http://www.1001fonts.com/
+* http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
+* http://gohugo.io/
 
 
 Git Stuff
