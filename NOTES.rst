@@ -49,6 +49,7 @@ New file /etc/apt/apt.conf.d/98check-proxy::
 Docker
 ------
 
+* https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
 * http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
 * http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
 * http://prakhar.me/docker-curriculum/
