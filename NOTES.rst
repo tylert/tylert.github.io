@@ -25,6 +25,7 @@ Go Stuff
 
 * http://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
+* https://www.youtube.com/watch?v=ysgMlGHtDMo
 
 
 Apt-cacher-ng Stuff
