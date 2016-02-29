@@ -28,8 +28,8 @@ Go Stuff
 * https://www.youtube.com/watch?v=ysgMlGHtDMo
 
 
-Apt-cacher-ng Stuff
--------------------
+Apt Stuff
+---------
 
 * http://www.boehmi.net/index.php/blog/14-how-to-setup-an-apt-cacher-ng-server-in-ubuntu
 * https://help.ubuntu.com/community/Apt-Cacher-Server
@@ -46,6 +46,8 @@ New file /etc/apt/apt.conf.d/98check-proxy::
     APT::Update::Pre-Invoke {
       "ping -c1 -W1 10.0.2.4; if [ $? == \"0\" ]; then echo \"Acquire::http::Proxy 'http://10.0.2.4:3142'\;\" > /etc/apt/apt.conf.d/99use-proxy; else echo \"\" > /etc/apt/apt.conf.d/99use-proxy; fi"
     }
+
+    dpkg-reconfigure -plow unattended-upgrades
 
 
 Docker
