@@ -214,7 +214,7 @@ Assorted Things-to-Read
 Zoom Stuff
 ----------
 
-* https://support.zoom.us/hc/en-us/articles/204206269-Getting-Started-on-Linux
+* https://support.zoom.us/hc/en-us/articles/204206269-Linux-Installation
 
 
 MySQL Stuff
