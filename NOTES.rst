@@ -296,7 +296,7 @@ Raspberry Pi Stuff
     # sha1sum 97888fcd9bfbbae2a359b0f1d199850852bf0104
     unzip 2015-11-21-raspbian-jessie-lite.zip
     diskutil unmountDisk /dev/disk2
-    sudo dd if=2015-11-21-raspbian-jessie-lite.img of=/dev/rdisk2 bs=4m
+    sudo dd if=2015-11-21-raspbian-jessie-lite.img of=/dev/disk2 bs=4m
 
     # On SD/uSD
     echo -n ‘ logo.nologo’ >> /boot/cmdline.txt
