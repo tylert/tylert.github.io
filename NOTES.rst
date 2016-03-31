@@ -4,6 +4,8 @@ Python Stuff
 * http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 * http://flask-restful.readthedocs.org/en/0.3.5/quickstart.html#a-minimal-api
 * http://locust.io/
+* https://pypi.python.org/pypi/pip2pi/0.6.8
+* https://github.com/pypiserver/pypiserver
 
 ::
 
@@ -388,3 +390,12 @@ Git Stuff
     git read-tree --prefix=Bdir -u Bproject/master
     git commit -m "Merge B project as our subdirectory"
     git pull -s subtree Bproject master
+
+
+Style Guide Stuff
+-----------------
+
+* bashate (former bash8)
+* https://github.com/bahamas10/bash-style-guide
+* http://wiki.bash-hackers.org/scripting/style
+* https://google.github.io/styleguide/shell.xml
