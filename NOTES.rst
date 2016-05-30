@@ -215,6 +215,16 @@ Assorted Things-to-Read
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
 
 
+Stuff to watch
+--------------
+
+* https://drive.google.com/a/lightspeedretail.com/folderview?id=0B8u-re5tDrX8fldWX3I1VnNNVnlxSmJBRzB5VEVSc2ZkTkdTUDctSW1hSDV5NFliVHJ5QVU&usp=drive_web#list
+* https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+* https://www.youtube.com/watch?v=cn7QLSPB3OA
+* https://www.youtube.com/watch?v=fVMlxJJNmyA
+* https://www.youtube.com/watch?v=uicjqeZO690&list=WL&index=9
+
+
 Zoom Stuff
 ----------
 
@@ -260,23 +270,6 @@ Cool Products
 * http://www.thingiverse.com/search/page:1?q=warhammer&sa=
 
 
-Stuff to watch
---------------
-
-* https://drive.google.com/a/lightspeedretail.com/folderview?id=0B8u-re5tDrX8fldWX3I1VnNNVnlxSmJBRzB5VEVSc2ZkTkdTUDctSW1hSDV5NFliVHJ5QVU&usp=drive_web#list
-* https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
-* https://www.youtube.com/watch?v=cn7QLSPB3OA
-* https://www.youtube.com/watch?v=fVMlxJJNmyA
-* https://www.youtube.com/watch?v=uicjqeZO690&list=WL&index=9
-
-
-Current Stuff
--------------
-
-* https://github.com/WhoopInc/vagrant-s3auth
-* https://github.com/mlafeldt/chef-runner
-
-
 Keyboard CNC
 ------------
 
@@ -289,6 +282,8 @@ Raspberry Pi Stuff
 * http://bobbyromeo.com/technology/triple-boot-raspberry-pi-on-usb-raspbianretropieopenelec-part-2/
 * https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt
 * https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793
+* https://gist.github.com/abulte/3941653
+* https://gist.github.com/sturadnidge/5630813
 
 ::
 
