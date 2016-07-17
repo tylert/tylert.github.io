@@ -7,20 +7,6 @@ Python Stuff
 * https://pypi.python.org/pypi/pip2pi/0.6.8
 * https://github.com/pypiserver/pypiserver
 
-::
-
-    get_json_string_val() {
-        python -c "import json,sys;sys.stdout.write(json.dumps(json.load(sys.stdin)$1))";
-    }
-
-    FOO=$(cat os_config.json | get_json_string_val "['flavour']")
-    BAR=$(cat os_config.json | get_json_string_val "['language']")
-    BAZ=$(cat os_config.json | get_json_string_val "['keyboard']")
-
-    echo $FOO
-    echo $BAR
-    echo $BAZ
-
 
 Go Stuff
 --------
@@ -284,6 +270,18 @@ Raspberry Pi Stuff
 * https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793
 * https://gist.github.com/abulte/3941653
 * https://gist.github.com/sturadnidge/5630813
+* https://github.com/Wookie/rpi_image_builder
+* https://12dash.com
+
+Adding codec junk::
+
+    echo "decode_MPG2=0xdeadbeef" >> /boot/config.txt
+
+    vcgencmd codec_enabled MPG2
+
+Turn off annoying raspberries::
+
+    echo -n ‘ logo.nologo’ >> /boot/cmdline.txt
 
 ::
 
@@ -296,7 +294,6 @@ Raspberry Pi Stuff
     sudo dd if=2015-11-21-raspbian-jessie-lite.img of=/dev/disk2 bs=4m
 
     # On SD/uSD
-    echo -n ‘ logo.nologo’ >> /boot/cmdline.txt
     sed /boot/config.txt -i -e ‘s/^overscan_/#overscan_/’
     uncomment ‘disable_overscan=1’ in /boot/config.txt
 
@@ -305,6 +302,20 @@ Raspberry Pi Stuff
     sudo raspi-config --expand-rootfs ; sudo reboot
     sudo apt-get update ; sudo apt-get --yes dist-upgrade ; sudo reboot
     sudo apt-get install dnsmasq
+
+::
+
+    get_json_string_val() {
+        python -c "import json,sys;sys.stdout.write(json.dumps(json.load(sys.stdin)$1))";
+    }
+
+    FOO=$(cat os_config.json | get_json_string_val "['flavour']")
+    BAR=$(cat os_config.json | get_json_string_val "['language']")
+    BAZ=$(cat os_config.json | get_json_string_val "['keyboard']")
+
+    echo $FOO
+    echo $BAR
+    echo $BAZ
 
 
 Kobo Stuff
