@@ -269,3 +269,62 @@ Style Guide Stuff
 * https://github.com/bahamas10/bash-style-guide
 * http://wiki.bash-hackers.org/scripting/style
 * https://google.github.io/styleguide/shell.xml
+
+
+VPC Fundamentals
+----------------
+
+* https://youtu.be/5_bQ6Dgk6k8
+* https://www.youtube.com/watch?v=5_bQ6Dgk6k8&authuser=0
+
+
+Elasticsearch
+-------------
+
+* https://youtu.be/cn7QLSPB3OA
+* http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
+
+
+ECS
+---
+
+* https://www.youtube.com/watch?v=MRoPaHUttoA
+* http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
+
+
+Continuous Delivery on EC2
+--------------------------
+
+* https://youtu.be/I6ApIARoMxE
+* http://www.slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
+
+
+Cloud Hybrid
+------------
+
+* https://youtu.be/tIDbFTIPolQ
+* http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
+
+
+Microservices
+-------------
+
+* https://www.capgemini.com/blog/capping-it-off/2016/02/lego-power-how-to-build-repeatable-microservices-based-infrastructure?utm_content=buffere4cf6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+
+SSH
+---
+
+::
+
+    Use the undocumented option "UseRoaming=no'  on the command line: 
+    example: ssh -oUseRoaming=no pacharest@mc.pubb-it.com
+
+    Or, force the option for all future outgoing connections : 
+    Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section. 
+
+
+AWS STS
+-------
+
+* http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
