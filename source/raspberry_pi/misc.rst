@@ -9,16 +9,6 @@ Raspberry Pi Stuff
 * https://github.com/Wookie/rpi_image_builder
 * https://12dash.com
 
-Adding codec junk::
-
-    echo "decode_MPG2=0xdeadbeef" >> /boot/config.txt
-    reboot
-    vcgencmd codec_enabled MPG2
-
-Turn off annoying raspberries::
-
-    echo -n ‘ logo.nologo’ >> /boot/cmdline.txt
-
 ::
 
     # On Mac OS X
@@ -29,15 +19,9 @@ Turn off annoying raspberries::
     diskutil unmountDisk /dev/disk2
     sudo dd if=2015-11-21-raspbian-jessie-lite.img of=/dev/disk2 bs=4m
 
-    # On SD/uSD
-    sed /boot/config.txt -i -e ‘s/^overscan_/#overscan_/’
-    uncomment ‘disable_overscan=1’ in /boot/config.txt
-
     # On Raspbian
     sudo dpkg-reconfigure locales
     sudo raspi-config --expand-rootfs ; sudo reboot
-    sudo apt-get update ; sudo apt-get --yes dist-upgrade ; sudo reboot
-    sudo apt-get install dnsmasq
 
 ::
 
