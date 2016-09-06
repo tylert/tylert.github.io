@@ -15,9 +15,6 @@ Setup
 ::
 
     sudo apt-get --yes install avahi-daemon cups cups-pdf python-cups
-
-::
-
     sudo apt-get --yes install printer-driver-hpijs
 
 ::
@@ -58,5 +55,6 @@ select 'Set As Server Default'.
 Background
 ----------
 
-https://njh.eu/printer.html
-http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint/
+* https://njh.eu/printer.html
+* http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint/
+* http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=hl2240_us_eu&os=128
