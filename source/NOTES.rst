@@ -35,7 +35,19 @@ New file /etc/apt/apt.conf.d/98check-proxy::
       "ping -c1 -W1 10.0.2.4; if [ $? == \"0\" ]; then echo \"Acquire::http::Proxy 'http://10.0.2.4:3142'\;\" > /etc/apt/apt.conf.d/99use-proxy; else echo \"\" > /etc/apt/apt.conf.d/99use-proxy; fi"
     }
 
+Install it::
+
+    apt-get install unattended-upgrades
+
+Then enable it::
+
     dpkg-reconfigure -plow unattended-upgrades
+
+Or, do it manually with::
+
+    # /etc/apt/apt.conf.d/20auto-upgrades
+    APT::Periodic::Update-Package-Lists "1";
+    APT::Periodic::Unattended-Upgrade "1";
 
 
 Docker
