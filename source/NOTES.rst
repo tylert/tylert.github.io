@@ -136,7 +136,6 @@ Assorted Things-to-Read
 Stuff to watch
 --------------
 
-* https://drive.google.com/a/lightspeedretail.com/folderview?id=0B8u-re5tDrX8fldWX3I1VnNNVnlxSmJBRzB5VEVSc2ZkTkdTUDctSW1hSDV5NFliVHJ5QVU&usp=drive_web#list
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 * https://www.youtube.com/watch?v=cn7QLSPB3OA
 * https://www.youtube.com/watch?v=fVMlxJJNmyA
