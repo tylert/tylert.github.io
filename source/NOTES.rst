@@ -273,6 +273,13 @@ Git Stuff
     git pull -s subtree Bproject master
 
 
+    # Rewrite an older commit
+    git rebase --interactive deadbeef^
+    # edit stuff
+    git commit --all --amend --no-edit
+    git rebase --continue
+
+
 Style Guide Stuff
 -----------------
 
