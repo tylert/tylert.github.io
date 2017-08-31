@@ -42,51 +42,6 @@ OSMC Stuff
 ----------
 
 ::
-
-    <sources>
-        <programs>
-            <default pathversion="1"></default>
-        </programs>
-        <video>
-            <default pathversion="1"></default>
-            <source>
-                <name>television</name>
-                <path pathversion="1">/home/user/far/television/</path>
-                <allowsharing>true</allowsharing>
-            </source>
-            <source>
-                <name>movie</name>
-                <path pathversion="1">/home/user/far/movie/</path>
-                <allowsharing>true</allowsharing>
-            </source>
-        </video>
-        <music>
-            <default pathversion="1"></default>
-            <source>
-                <name>audio</name>
-                <path pathversion="1">/home/user/far/audio/</path>
-                <allowsharing>true</allowsharing>
-            </source>
-        </music>
-        <pictures>
-            <default pathversion="1"></default>
-            <source>
-                <name>photo</name>
-                <path pathversion="1">/home/user/far/photo/</path>
-                <allowsharing>true</allowsharing>
-            </source>
-        </pictures>
-        <files>
-            <default pathversion="1"></default>
-            <source>
-                <name>SuperRepo</name>
-                <path pathversion="1">http://srp.nu/</path>
-                <allowsharing>true</allowsharing>
-            </source>
-        </files>
-    </sources>
-
-::
     #!/usr/bin/env bash
 
     # http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer
@@ -101,18 +56,3 @@ OSMC Stuff
 
     apt-get update
     apt-get install osmc-installer
-
-    #echo >> /etc/rc.local <EOF
-    #sleep 20
-    #sudo -u osmc sshfs osmc@file:/television /home/osmc/TV\ Shows
-    #sudo -u osmc sshfs osmc@file:/movie /home/osmc/Movies
-    #sudo -u osmc sshfs osmc@file:/audio /home/osmc/Music
-    #sudo -u osmc sshfs osmc@file:/photo /home/osmc/Pictures
-    #
-    #exit
-    #EOF
-
-Video Plug-ins -> Genesis
-
-* http://srp.nu
-* http://fusion.tvaddons.ag

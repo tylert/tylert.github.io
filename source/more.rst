@@ -1,9 +1,3 @@
-Old IBM Commercial
-------------------
-
-* https://www.youtube.com/watch?v=AIOqOxI0K_I
-
-
 Time-Series and Graphing Considerations
 ---------------------------------------
 

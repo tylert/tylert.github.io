@@ -1,0 +1,81 @@
+﻿How to Install OSMC (Kodi + Raspbian) on a Raspberry Pi
+
+1.  Download an image file.  Go to osmc.tv (https://osmc.tv/download/-> Disk
+mmages) and fetch a new image or else pull a recently downloaded one off your
+local storage somewhere.  Make sure to get the one for the appropriate model of
+Raspberry Pi (0, 1, 2 or 3).  These instructions should be roughly pertient for
+versions circa July 2017 and onwards.
+
+2.  Flash the image file to your desired microSD card.  If you are flashing
+this using a machine with an SD card reader, the device below will likely be
+named "/dev/mmcblk0".  If you are flashing this on a machine with a USB reader,
+the device below will likely be named "/dev/sdb" or "/dev/sdc".  Plug the
+device in and then type "sudo dmesg" to look at the last few lines of output to
+see the most recent hotplug events for the name of the applicable device.  Make
+sure you specify the device itself (e.g.:  "/dev/mmcblk0" or "/dev/sdb") rather
+than the partition number (e.g.:  "/dev/mmcblk0p1" or "/dev/sdb1").
+
+Next, pop open a new terminal window and type the following command (again,
+make sure the output file or "of" is set to the correct device location
+mentioned above;  you may omit the "status=progress" part if your version of dd
+doesn't support it or if you don't care about seeing a progress meter):
+
+zcat $(find . -name OSMC*.img.gz) | sudo dd of=/dev/mmcblk0 bs=16M \ status=progress && sync
+# ... or something like...
+zcat OSMC_TGT_rbp2_20170803.img.gz | sudo dd of=/dev/sdb bs=16M \
+&& sync
+
+3.  Once your flashing is complete, plug everything back in again.  After a few
+minutes, when the command prompt returns to being interactive again (the
+"user@host:~$ " part of the command prompt is again printed on a fresh line to
+indicate that it is waiting for new user input), just pop out the microSD card
+and reinsert it into the Raspberry Pi.  Next, plug in ALL THE THINGS again and
+let the unit boot up fully.
+
+4.  Do the basic configuration steps.  After the units boots, the first thing
+you'll be forced to set up is the language, timezone and hostname settings and
+so on.  I usually pick "English", "America/Toronto" and "osmc" for mine.  Lease
+the SSH service enabled.  Select your desired "Look + Feel" and choose whether
+you want to sign up for the email newsletter and then exit the setup wizard
+stuff.
+
+5.  Set up the codecs (assuming you have purchased and received these already).
+You will want to set up all the codec gunk so the GPU is enabled with full
+hardware-assisted video decoding.  On all my units, I printed out all the codec
+information for each individual unit on stickers mounted to the side of the
+Raspberry Pi case right next to the HDMI connector.  Go to the "My OSMC" menu,
+enter "Pi Config" and head down to the "GPU Mem & Codec" submenu.  Enter the
+exact hexadecimal strings for your unit into the MPG2 and/or WVC1 License
+fields including the "0x" prefix, e.g.:  "0xdeadb33f".  Do the "OK" thing to
+save your new settings and then reboot your Raspberry Pi.
+
+After the Raspberry Pi has done rebooting, go back in again to the "My OSMC"
+menu, enter "Pi Config" again and check the "GPU Mem & Codec" submenu again.
+Make sure you see the strings above your newly entered codec say "MPG2=enabled,
+WVC1=enabled" (or similar, if you don't have a given codec entered, do not
+expect it to say "enabled";  if you do NOT see "enabled" for a codec that you
+entered properly, then go panic and commence heavy drinking because your $2
+codec failed to work with this unit... go buy another one or check your notes
+again for typos;  you will need to reboot each time to confirm that the new
+value "took" properly).  Once you have finished confirming the codecs are
+enabled, move onto the next step.
+
+6.  Fix the default regional settings.  Go to "Settings" -> "Interface" ->
+"Regional" -> "Unit Formats" -> "Region default format" -> "USA (24h)".
+
+7.  Fix the default subtitles settings.  Go to "Settings" -> "Player" ->
+"Language" -> "Subtitles" -> "Preferred subtitle language" -> "None".
+
+8.  Install a few mundane plug-ins.  Go to "Settings" -> "Add-on browser" and
+select "Install from repository".  Go into the "Kodi Add-on repository".  Under
+"Video add-ons", install the "HDHomeRun", "HGTV" and "HGTV Canada" plug-ins.
+
+9.  Pull in local file sources.  Go to "Videos" -> "Files" -> "Add videos" ->
+"Browse" -> "Add network location..." -> "Protocol Windows network (SMB)" ->
+"Server booya" -> OK.  "Videos" -> "Files" -> "Add videos" -> "Browse" ->
+"smb://booya/" -> "file_pub" -> "movie" -> OK.  "This directory contains" ->
+"Movies" -> OK.  "Do you want to refresh information for all items within this
+path" -> No.  "Videos" -> "Files" -> "Add videos" -> "Browse" -> "smb://booya/"
+-> "file_pub" -> "television" -> OK.  "This directory contains" -> "TV Shows"
+-> OK.  "Do you want to refresh information for all items within this path" ->
+No.

@@ -212,17 +212,20 @@ FIXME Do this better.
 Activate MPEG Stuff
 -------------------
 
-Go buy a license key from http://www.raspberrypi.com/mpeg-2-license-key/.
+Go buy license key(s) from http://www.raspberrypi.com/mpeg-2-license-key/ and
+http://www.raspberrypi.com/vc-1-license-key/.
 
-Wait up to 24 hours for an email to arrive with your license key.
+Wait up to 24 hours for an email to arrive with your keys.
 
 FIXME Do this better.
 
 ::
 
     # Add 'decode_MPG2=0xdeadbeef' to /boot/config.txt
+    # Add 'decode_WVC1=0xdeadbeef' to /boot/config.txt
     sudo reboot
 
 To verify that it worked after a reboot, type::
 
     vcgencmd codec_enabled MPG2
+    vcgencmd codec_enabled WVC1

@@ -112,7 +112,6 @@ Backups
 * https://blog.interlinked.org/tutorials/rsync_time_machine.html
 * https://github.com/Backblaze/B2_Command_Line_Tool
 * https://www.backblaze.com/b2/cloud-storage.html
-* https://www.code42.com/store/
 
 
 Assorted Things-to-Read
@@ -131,6 +130,16 @@ Assorted Things-to-Read
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
+* http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/
+* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
+* http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
+* http://redsquirrel.com/dave/work/a2j/patterns/SustainableMotivations.html
+* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
+* http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/
+* https://github.com/mitchellh/packer/pull/2962
+* https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
+* https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
+* https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
 
 
 Stuff to watch
