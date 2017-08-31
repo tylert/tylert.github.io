@@ -146,7 +146,6 @@ Stuff to watch
 --------------
 
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
-* https://www.youtube.com/watch?v=cn7QLSPB3OA
 * https://www.youtube.com/watch?v=fVMlxJJNmyA
 * https://www.youtube.com/watch?v=uicjqeZO690&list=WL&index=9
 
@@ -355,3 +354,16 @@ AWS STS
 -------
 
 * http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
+
+
+Time-Series and Graphing Considerations
+---------------------------------------
+
+* https://www.datadoghq.com/blog/timeseries-metric-graphs-101/
+* https://www.datadoghq.com/blog/metric-units-descriptions-metadata/
+
+
+Cloud Backup and Recovery
+-------------------------
+
+* http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
