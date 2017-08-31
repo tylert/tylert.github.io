@@ -168,8 +168,8 @@ MySQL Stuff
     echo "Killing existing xlsws_category queries"
     for process_id in `mysql -e "show full processlist" | grep 'xlsws_category' | awk '{print $1}'`
     do
-      echo "- process: ${process_id}"
-      mysql -e "kill ${process_id}"
+        echo "- process: ${process_id}"
+        mysql -e "kill ${process_id}"
     done
 
 
@@ -241,7 +241,7 @@ Git Stuff
 
     # Get rid of files permanently
     for i in foo.svg bar.svg ; do
-      git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch $i" --prune-empty -f HEAD
+        git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch $i" --prune-empty -f HEAD
     done
 
 
