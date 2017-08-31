@@ -146,8 +146,6 @@ Stuff to watch
 --------------
 
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
-* https://www.youtube.com/watch?v=fVMlxJJNmyA
-* https://www.youtube.com/watch?v=uicjqeZO690&list=WL&index=9
 
 
 Zoom Stuff
@@ -185,7 +183,7 @@ Keepass Stuff
 * https://github.com/keepassx/keepassx
 * https://github.com/kindahl/libkeepass
 * https://github.com/phpwutz/libkeepass
-* https://www.keepassx.org
+* https://keepassxc.org/
 
 
 Cool Products
@@ -301,7 +299,6 @@ VPC Fundamentals
 ----------------
 
 * https://youtu.be/5_bQ6Dgk6k8
-* https://www.youtube.com/watch?v=5_bQ6Dgk6k8&authuser=0
 
 
 Elasticsearch
