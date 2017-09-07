@@ -42,3 +42,10 @@ python
 ------
 
 * http://sedimental.org/the_packaging_gradient.html
+
+
+Custom Cases
+------------
+
+* http://fuzzcraft.com/flightcasediy.html
+* https://www.amazon.ca/s/ref=bl_dp_s_web_3006902011?ie=UTF8&node=3006902011&field-brandtextbin=Reliable+Hardware
