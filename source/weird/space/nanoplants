@@ -1,0 +1,990 @@
+Nanoplants
+
+The race that was known in the last galaxy as Gang Green has been building for
+some centuries a race of tiny plant-like machines.  These machines individually
+have all the intelligence of an ant.  Together, they behave much as ants do.
+Think of them as the nanobots of Science Fiction fame.  Call them the
+nanoplants.  Infinitely adaptable little buggers.  Being such tiny little
+objects, they consume a ridiculously small amount of power.  Due to their size,
+singly they can achieve practically nothing but in large enough numbers they
+can move planets.  I was thinking an internal microfusion reactor in each unit
+could provide their energy.
+
+The seedship that came to this galaxy has long since been cannibalized for
+parts by the nanoplants.  It would be best and most fun if they arrived after
+everyone else playing a race has had time to settle in.  I'd like to start them
+off mining an asteroid field for materials to start building smaller mining
+ships and several large colonies.  They won't have any weapons yet...  not
+until they've been attacked once.  These guys don't fight unless they are
+provoked because they're too stupid to even know how to fight until they are
+forced to "learn" how to.
+
+If they do eventually start building ships, the ships will look like derelict
+hunks of floating metal and rock and whatever else they can find to build with.
+Each ship will be unique although they will "share" technological advancements
+amongst themselves.  The ships that would be built would have spartan or
+non-existant life-support systems but would still retain many of the elements
+of a "standard" ship design (ie: engine, hull, steering thrusters, sensors,
+weapons, etc.).
+
+These guys respond only to changes to their environment.  Anything that
+interferes with their task of growing and changing is considered a threat and
+they will focus all of their time and energy to removing that threat.  The
+evolution of new technology works much like Darwin's Theory Of Natural
+Selection.  Good important stuff gets improved upon and stuff that doesn't work
+or is no longer required just disappears gradually.
+
+You should probably keep track of nanoplant population for each colony and ship
+(n x 10^6 nanoplants) because they take time to build and many are required to
+crew each ship.  Maybe instead of giving me material resources I could have
+population resources with space garbage for building materials.  Maybe garbage
+left over from one of the galaxy's inhabitants will "attract" the attention of
+the nanoplants.  At any rate, just pull the tab and sit them near a light
+source and throw them some scraps and eons after everyone playing has become
+bored and has stopped playing the nanoplants will rule what's left of the
+galaxy!
+
+---
+
+Here is an excerpt from an ancient Gang Greenous manuscript:
+
+"The elders have seen the wisdom of spreading the seeds of our race throughout
+the Universe.  Orders were made to create the vast seedships that would soon be
+sped on their way... soon to leave our galaxy...  forever.  It is hoped that
+someday we will again meet with one of our advanced colonies in the progress of
+our expansion and we will have a strong ally with which to join forces with.
+Live for the swarm.
+
+Our scientists have been successful in creating a lifeform similar to our own
+in function and yet fundamentally different in every respect. Using elements
+copied from the captured enemy technology, we have discovered how to make tiny,
+simple mechanical objects that are capable of being programmed.  These entities
+when given even the simplest of tasks perform them with surprising speed and
+tranquility of purpose.  Even in environments where life for us is not
+possible, our little children will flourish and multiply spreading our essence
+throughout the Cosmos.
+
+It seems as though these... devices, if you can call them that, have almost a
+life of their own.  It is as if they act as a single sentient being.  Even
+without the benefit of contact with the Hive they can achieve almost impossible
+tasks with ease.  Maybe some day in the far future we will encounter our
+children again.  For now, it is enough for us to know that we are securing our
+future among the stars.
+
+Experiments have been made using the entities to see how that can adapt to
+their environment.  When left on their own floating in space, they were found
+to have constructed ships of their own design built from space junk.  Any
+damage done to these ships was corrected by the builders quite quickly.  When
+left on their own on an asteroid or planet surface, the entities were able to
+construct a colony capable of sustaining itself and growing beyond the confines
+of our experiments.  No further tests were conducted as the Council feels that
+the primary objectives have been met and that no further time should be wasted
+keeping the entities here.
+
+And so today, we watched the seedships speed off in all directions.  Their
+destinations unknown.  Perhaps never to be seen again.  It is of no concern to
+us.  The strength of our children is great and we have much confidence in their
+ability to survive the rigors that they will face on their respective journeys.
+We are confident that our essence will live on and in this way, we are
+immortal."
+
+---
+
+Des.    Value   Comment
+----    -----   -------
+F8      1.0
+G7      1.0
+G8      2.0     Ground Zero
+G9      1.0
+H7      1.0
+H8      1.0
+I9      1.0
+
+Total:  7 sectors, 8.0 points, 0.0 carryover
+
+The final Great Leap wasn't really that close to the center of the galactic
+core; however, it was within acceptable bounds.  Strange, floating metallic
+entities were hanging about the arrival point; they issued strange radio
+signals that fit no recognition patterns.
+
+Much of the old memory databanks had been dumped to create extra space for
+advanced designs--as a result, there was little information to fall back on.
+The index-key 'organic' was triggered, but an index-key on its own was of
+little use.  The 'organics' seemed to be of two different basic configurations,
+however, and as the correctional short-hop systems were engaged, it appeared
+that a great many more of one were present, while none of the other were about.
+
+No matter.  More materials were gathered, and a suitable area of the core was
+developed; the Great Seed was broken up and rapidly dispersed.  There are a
+number of communication hotspots bordering on colonized regions, however.  This
+may prove scientifically interesting.
+
+Strange signals, within 30% of similarity with previous 'organic' signals,
+appear to be originating from F6, G6 and E8.
+
+New options:  Researching lost memory fragment 'organics', either or both of
+the 'organic' metalloid configurations, or (requiring more than one success)
+converting atypical communications type I and II from the F14 region, type III
+(from F6 and G6) or type IV (from E8) to known format, standardized RPSCP-99.
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+  /                                    ___                           ___      \
+E \                                   /   \                         /   \     /
+   .                              ___.  IV .___                 ___.     .___.
+   /                             /   \     /   \               /   \     /   \
+  /                          ___/     \___/     \___          /     \___/     \
+F \                         /   \     /   \     /   \         \     /   \     /
+   .                       . III .___. 1.0 .___.     .         .___. I/II.___.
+   /                       \     /   \     /   \     /         /   \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/         /     \___/     \
+G \                         /   \     /   \     /   \         \     /   \     /
+   .                       . III .___. 2.0 .___.     .         .___.     .___.
+   /                       \     /   \     /   \     /             \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/               \___/     \
+H \                         /   \     /   \     /   \                         /
+   .                       .     .___. 1.0 .___.     .                       .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/     \___/     \___/                         \
+I \                             \     /   \     /                             /
+   .                             .___.     .___.                             .
+   /                                 \     /                                 \
+  /                                   \___/                                   \
+
+
+  Point Allocation Summary:
+
+      8.0 total sector points
+    + 0.0 carryover points
+
+    - 4.0 points developing Yocto-class ships
+    - 4.0 points terraforming sector G7
+
+   -------
+    = 0.0 carryover points
+
+---
+
+It has been many an eon since the Gang Green have spread from our womb galaxy
+to follow the call of our orphaned children.  Even to this day, the travels of
+our spore seedship colonies have become almost legendary to us.  On the eve of
+each lustrum since the construction of the first colony seedship we celebrate.
+We celebrate this and the life-giving of the Hive nanocluster archives which
+store the combined chronicles of our orphaned children--to be forever stored so
+that their epics may be told and may teach many important lessons to our other
+beloved children.  Starting today, we begin our usual time of celebration.  On
+this day, this eve of the anniversary of the birth of our Nanoplants, we will
+honour our suffering, our growing, starting first with a selected speaking from
+Compilation 12 of Our Translated Epic Of Spore Seedship Colony SSC12875-Fii-K.
+
+
+Chronicle 36
+
+For many, many years did the great seedship travel the empty wasteland of deep
+space.  Our lonely children journeying to a far off galaxy leaving the womb of
+The Hive.  And so our mighty spore seedship colony came upon the life-giving
+galaxy.  Its course took it almost directly to the galaxy core.  Our caregiver,
+having survived the rigors of intergalactic travel, began to nurse our dormant
+children back to life.  Our children soon began to feel the urging to waken.
+As life began to return to our ship, so too began the growing.  Our children,
+having never been alive before soon were forced to learn and grow on their own.
+Even before our caregiver died from the reactivation, our children were
+beginning to move about, interface with the ship and even build with what they
+found in the plentiful treasure of the core.
+
+We collapsing of warp envelope.
+We warp recharge procedure.
+We continuation of warp braking procedure.
+We scanning of ecliptic plane for galaxy core.
+We navigational corrections.
+We reactivation of drones.
+We construction of additional drones.
+We scanning of immediate sectors.
+We acquisition of minerals for colony start.
+We construction of colony framework.
+
+And so the colony was founded.
+
+
+Chronicle 61
+
+Our wondrous children, being the inquisitive type, began to have yearnings to
+explore our new home.  Having already dismantled the seedship in the process of
+constructing the new colony framework, soon our attentions turned to the task
+of building fast, light ships for scouting.  These scout ships have been given
+the unorthodox designation of Yocto 10^-24 by the elders to commemorate the
+finding of the strange symbol charts found in the land of Physics Department on
+the long-dead, partially destroyed planet of NASA.
+
+We detection of damaging forces negative.
+We exploration algorithm.
+We preparation of colonization of sector F7.
+We construction of shipyards on colony framework alpha.
+We construction of ship design Yocto.
+
+And so began the construction of the first scout ships.
+
+---
+
+Des.    Value   Comment
+----    -----   -------
+F7      0.5     Recently colonized
+G7      1.4     Terraformed from 1.0
+
+New Total:  8 sectors, 8.9 points, 0 carryover
+
+Yocto (Difficulty 4):  5, 0, 7, 0
+
+Dumping 'organics' in favour of theoretical design specifications turned out to
+be an eminently wise decision.  The amount of CPU time that would have been
+spent working out an acceptable design for scouting was better used in refining
+and practical applications.  As a result, a strikingly excellent ship was
+produced--initial trial runs suggest it to have better performance than the
+type II ships initially encountered; little was known about the type I ships.
+
+Type IV signals located in E8 have been positively identified by colonization
+procedurals also in E7.  Station in F8 has located Type IV signals in F9;
+station in G9 confirms.
+
+As for type III signals, they have not changed, and the newly built station in
+F7 is not able to find more; type III is apparently constrained to F6 and G6 at
+this time.
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+   .                              ___                                        .
+   /                             /   \                                       \
+  /                          ___/  IV \___                           ___      \
+E \                         /   \     /   \                         /   \     /
+   .                       .     .___.  IV .___                 ___.     .___.
+   /                       \     /   \     /   \               /   \     /   \
+  /                         \___/ 0.5 \___/  IV \___          /     \___/     \
+F \                         /   \     /   \     /   \         \     /   \     /
+   .                       . III .___. 1.0 .___.     .         .___. I/II.___.
+   /                       \     /   \     /   \     /         /   \     /   \
+  /                         \___/ 1.4 \___/ 1.0 \___/         /     \___/     \
+G \                         /   \     /   \     /   \         \     /   \     /
+   .                       . III .___. 2.0 .___.     .         .___.     .___.
+   /                       \     /   \     /   \     /             \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/               \___/     \
+H \                         /   \     /   \     /   \                         /
+   .                       .     .___. 1.0 .___.     .                       .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/     \___/     \___/                         \
+I \                             \     /   \     /                             /
+   .                             .___.     .___.                             .
+   /                                 \     /                                 \
+  /                                   \___/                                   \
+
+
+  Point Allocation Summary:
+
+      8.9 total sector points
+    + 0.0 carryover points
+
+    - 4.0 points developing CAPTMARC weapon
+    - 4.0 points terraforming sector G7
+
+   -------
+    = 0.9 carryover points
+
+---
+
+"...
+Batch 4390-JU POLLEN8 Nanoprocessor Startup
+Power Sub-System Status... 97.09279% working
+Hive Sub-System Status.... 98.24561% working
+Unit ID 84KAF89389!
+No module installed!
+Module JB4-283549P installed!
+
+Unit assigned to Strategic Planning and Analysis Subgroup 21A.
+Report to Station 78 Colony Framework Gamma Omicron.
+Switching to Strategic Planning and Analysis sublink.
+
+Defense Recommendation Summary:
+Commence colonization of sector G10.
+
+Slave Processing:
+Recommend response to anomalous damage to sector G7.
+
+Damage Analysis Summary:
+Several ships damaged severely by intense radiation point sources.
+Radiation inconsistent with known forms.
+Increase in radiation corresponds to presence of Type III ships.
+Sensors indicate radiation damage deliberate.
+
+Repair Summary:
+Sector terraforming resuming and still ahead of schedule.
+Negligible damage to sector production.
+Repairs to all colony components well underway.
+Stopgap rerouting of mining ships to the sector completed.
+
+Option Summary:
+Abort, Refry, Ignore, Flail?
+
+Abort  utility = -infinity
+Refry  utility = -1000
+Ignore utility = -100
+Flail  utility = +infinity
+
+Recommendation Summary:
+Commence weapons development.
+
+Weapons Development Recommendation Summary:
+Design Carbonified Alloy Projectile-Throwing MAgnetic Repulsion Catapult.
+..."
+
+The lead historical researcher glanced at the display and nodded.  "Our
+historical simulation seems to be running excellently.".  A junior research
+assistant was the first to respond.  "Our cell has been learning Nanoplant
+language in our attempts to further complete the historical documents.  We have
+been studying with great interest the memory modules sent to us from the new
+colony.  The modules are quite old and its design is very different from our
+own.  We have been able to integrate them into our databanks with a little help
+from the engineers from the new colony.".
+
+"This is the first time that we've ever seen one of our Nanoplant colonies
+create weapons--simulation or no simulation.  We've seen the ambassadorial
+ships from the new colony but still... to actually witness it happening is
+really quite exciting for us.".  "We were right to let our children grow on
+their own.  The Council is wise.  Wiser still was The Council's decision to
+integrate the combined knowledge of our forward colonies into The Hive Cluster.
+Proudest of parents be we now that our children teach us.".
+
+---
+
+Des.    Value   Comment
+----    -----   -------
+G7      1.8     Terraformed from 1.4
+G10     0.5     Newly colonized
+
+New Total:  9 sectors, 9.8 points, 0.9 carryover.
+
+Pistil Processor 92A, designed CAPTMARC processing module.
+
+MRC (Difficulty 4): 3, 3, 2, 5
+
+Difficulty encountered in projectile-class weaponry.  Memory residue conflicts
+with signal, Marcon class VII: "Shake your boogie, baybee."  Data filtering
+processes enabled, at 72% loss of efficiency mark.  Reroutes established,
+working models produced for use against 'organic' anomalies type III, fitted
+into Yocto forward module 3.
+
+Submarcon 17:  Requirement for improved piloting software.  Combat situations
+initiated; beginning recursive AI refinement algorithm (FZZT:  A woodchuck
+could chuck as much would as a woodchuck could, were it so able.)
+
+Type III signals located at F5, F6, G6.
+Type IV signals located at E7, E8, F9.
+
+Type III signals located in mobile form at G7.  Type IV signals located in
+mobile form at F8.
+
+Type IIIa:
+ - 6 tonnes
+ - infrared beam projector weapon
+
+Type IIIbi:
+ - guarded by a
+ - approx. 30 tonnes
+ - device of unknown purpose
+
+Type IIIbii:
+ (IIIbi with additional ports drilled through its leading surfaces)
+
+Type IIIc:
+ - guarded by b
+ - approx. 100 tonnes
+ - supplies vessels
+
+Type IIId:
+ - guarded by a and b
+ - 500 tonnes
+ - only one of these present
+ - source of many (communicative?) radiations
+
+Type IIIe:
+ - guarded by a and b
+ - 20 tonnes
+ - only one of these present
+ - source of scanning-type radiations
+ - Parasite/symbiote of d?
+
+Type IVa:
+ - 5 tonnes
+ - Somewhat unstable, very offensive
+
+Type IVb:
+ - 70 tonnes
+ - Assumes more defensive posture
+
+Type IVc:
+ - Very large, escort-class ship
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+   .                              ___                                        .
+   /                             /   \                                       \
+  /                          ___/  IV \___                           ___      \
+E \                         /   \     /   \                         /   \     /
+   .                    ___. III .___.  IV .___                 ___.     .___.
+   /                   /   \     /   \     /   \               /   \     /   \
+  /                   / III \___/ 0.5 \___/  IV \___          /     \___/     \
+F \                   \     /   \     /   \     /   \         \     /   \     /
+   .                   .___. III .___. 1.0 .___.     .         .___. I/II.___.
+   /                       \     /   \     /   \     /         /   \     /   \
+  /                         \___/ 1.8 \___/ 1.0 \___/         /     \___/     \
+G \                         /   \     /   \     /   \         \     /   \     /
+   .                       . III .___. 2.0 .___. 0.5 .         .___.     .___.
+   /                       \     /   \     /   \     /             \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/               \___/     \
+H \                         /   \     /   \     /   \                         /
+   .                       .     .___. 1.0 .___.     .                       .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/     \___/     \___/                         \
+I \                             \     /   \     /                             /
+   .                             .___.     .___.                             .
+   /                                 \     /                                 \
+  /                                   \___/                                   \
+
+
+  Point Allocation Summary:
+
+      9.8 total sector points
+    + 0.9 carryover points
+
+    - 4.0 points improving the MRC weapon
+    - 4.0 points developing pre-fabricated terraforming construction units
+    - 2.0 points terraforming sector G7
+
+   -------
+    = 0.7 carryover points
+
+---
+
+SSC12875-Fii-K Simulation Tau Corpus Lunar Day 312
+
+After the initial attacks on their territories, the subjects began to utilize
+unused processing power developing specialized combat software to be installed
+on units serving aboard Yocto-class vessels.  These software entities require
+more processing power to maintain them than conventional units.  Few have been
+made because of this and it is obvious that they are still in the process of
+learning how to create these lifeforms.  For this reason, they have isolated
+the lifeforms and have given them some level of autonomy to prevent system
+corruption.  It appears as though several of the prototype entities went insane
+or died, if it can be called that.  Our Chief Psychologist has been called in
+to help us to better understand this phenomenon.
+
+
+SSC12875-Fii-K Simulation Tau Corpus Lunar Day 319
+
+It appears that the Yocto-class vessels have been commissioned for military use
+now that the subjects feel more threatened.  Their newest weapon, the Magnetic
+Repulsion Catapult, has been fitted into their ships.  Initial trial runs of
+the prototype replicated by our engineering department were inconclusive.  It
+is amazing that such a primitive weapon even works at all.
+
+The subjects have also begun to colonize sector H6.  There is still no signs
+that this colonization blitz is slowing.  Their military fleet is still
+continuing to grow in strength and numbers.  This appears to be helping them to
+design improved terraforming strategies.  The subjects have begun to design
+pre-fabricated colony framework modules that can be transported to the
+terraforming site by freighter and assembled more quickly than conventional
+construction methods.  It seems possible that the Yocto-class ships can also be
+used to help in the manufacturing process.  We are still analyzing their
+reasoning.
+
+A few notes regarding the software entities discovered.  Their purpose now is
+clear: to increase battle effectiveness.  The autonomy of the software entities
+is an attempt to isolate some of the processing power of the nanocluster to be
+used for military purposes.  In other words, the software entities act as ship
+commanders.  Each acts on its own with input from the ships sensors and from
+other ship commanders.  Quite amazing that they have discovered this tactic.
+We have begun to develop scenarios for battle simulations for a proposed
+alternate branch of this simulation.  It is hoped that more can be learned by
+manipulating the simulation characteristics.  The replicant simulation is due
+to commence soon.
+
+
+SSC12875-Fii-K Simulation Tau Corpus Lunar Day 323
+
+The historical record shows that the colony at this stage in its development
+began to have many encounters with two races unknown to us at this time.  Their
+initial encounters did not result in an armed conflict at this time.  More
+information, however, has been returned from testing the Magnetic Repulsion
+Catapult prototypes.  It appears that the weapons are vastly inefficient.  For
+this reason, we believe that the subjects will be redesigning or perhaps even
+scraping this particular weapon design.
+
+The team working on cloning the current live simulation for the purpose of
+running battle simulations are experiencing difficulties with the software
+entities despite the help of the Chief Psychologist.  Apparently, the software
+entities have begun to use rather bizarre language constructs.  This does not
+appear to be a malfunction.  We do not yet know if we will begin to see this
+abbaration manifest itself in our simulation.  More to follow.
+
+---
+
+Des.    Value   Comment
+----    -----   -------
+G7      2.0     Terraformed from 1.8
+
+New total:  9 sectors, 10.0 points, 0.7 carryover
+
+Inconclusive data from Xenoprobe 17; unit ceased reporting very shortly after
+the jump.  Difficulties encountered with expansion fleet due type III activity;
+coarse-scale type IV activity has not changed.
+
+MRC research continues (1 previous success, difficulty 4):  4, 0, 1, 8.  Two
+extra successes, total three.
+
+Pistil Processor 92A, designed MRC research module, renamed Pistol Power 92A,
+reports that ammunition capacities for the MRC have been increased as a primary
+improvement; small improvements in range and considerable improvements in the
+base weapon's size have also been reported.  Overall, the new MRC is slightly
+bulkier because of the extra ammunition carried, requiring more of the Yocto's
+storage spaces.
+
+Prefabricated Terraforming Construction Units (diff 5):  5, 0, 2, 7--3
+successes.
+
+[Each point spent on terraforming, as of next turn, adds 0.25 to a sector's
+value instead of 0.1.]
+
+The scanner sent out in pursuit of type III vessels has failed to report back.
+Logically, it either malfunctioned (not likely) or it was destroyed by the type
+III entities (likely, considering past history).
+
+Colonization attempts at H6 are presently held up, due to the presence of type
+III military vessels.  Logic dictates patience and analysis due to their
+unpredictable nature.
+
+[Combat strength now at 35% optimum capacity... and, uhh, you really have this
+crazy urge to send me a conclusive list of your 'aberrant life form' stats.]
+
+Type III activity has spread to E6 as well; the signals there are sufficiently
+similar to other noted type III data (within a very small margin of error).
+
+One type IV entity has been in known space for some while; logic assumes it to
+be a probe of some sort.  Autonomous mining units mistook it for rich metal
+until it moved away at great speed.  It has not moved aggressively against
+known holdings, and it has left for type IV space.
+
+Abort, Flail, Ignore, Pursue?
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+   .                              ___                                        .
+   /                             /   \                                       \
+  /                          ___/  IV \___                           ___      \
+E \                         /   \     /   \                         /   \     /
+   .                    ___. III .___.  IV .___                 ___.     .___.
+   /                   /   \     /   \     /   \               /   \     /   \
+  /                   / III \___/ 0.5 \___/  IV \___          /     \___/     \
+F \                   \     /   \     /   \     /   \         \     /   \     /
+   .                   .___. III .___. 1.0 .___.     .___      .___. I/II.___.
+   /                       \     /   \     /   \     /   \     /   \     /   \
+  /                         \___/ 2.0 \___/ 1.0 \___/     \   /     \___/     \
+G \                         /   \     /   \     /   \     /   \     /   \     /
+   .                       . III .___. 2.0 .___. 0.5 .___.     .___.     .___.
+   /                       \     /   \     /   \     /   \         \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/     \         \___/     \
+H \                         /   \     /   \     /   \     /                   /
+   .                       .     .___. 1.0 .___.     .___.                   .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/     \___/     \___/                         \
+I \                             \     /   \     /                             /
+   .                             .___.     .___.                             .
+   /                                 \     /                                 \
+  /                                   \___/                                   \
+
+
+  Point Allocation Summary:
+
+     10.0 total sector points
+   +  0.7 carryover points
+
+   -  3.0 points developing better sensor arrays
+   -  2.0 points developing Yocto-class decoys
+   -  2.0 points terraforming sector F7
+   -  3.7 points increasing fleet strength
+
+  --------
+   =  0.0 carryover points
+
+
+  Character Inventory:
+
+    Lifeform Piloting Gunnery Tactics Cost Status
+
+      C4        6        4       7      6  On Maneuvers
+      C7        6        4       7      6  In For Maintenance
+      C12       6        4       4      2  In For Maintenance
+      C13       5        4       4      1  On Maneuvers
+
+---
+
+Aberrant Lifeform C4 Colony Command Program Initiated
+Alpha Override Protocol Accepted
+
+Priorities:
+1. Increase fleet strength to acceptable levels in preparation for war
+2. Develop Yocto-class decoy ships to add confusion should Type III attack
+3. Develop better sensors in preparation for stealth mining
+4. Continue to satisfy prime directive
+
+Have continued to consult with other command-level lifeform C7.  Discussed
+possibility of invasion by Type III.  Chance of invasion high.  Suggest
+increasing fleet strength to match current estimates of Type III and Type IV
+fleet sizes.
+
+Encounters with Type IV suggest that they may be non-threatening.  Failure to
+colonize sector E6 may prove beneficial.  Type III appears obviously aggressive
+and thus alliance between Type III and Type IV seems unlikely at this time.
+Alliance with Type IV will yield no expansion opportunities at present.
+Neglecting to ally with Type IV offers better expansion opportunities because
+they may draw the attention of Type III, delaying attacks on colony sectors,
+and allow colonization of empty sectors to continue uninterrupted.  Attacks on
+Type IV by Type III may also lead to a reduction in the use of the word
+'spiff', whatever that may be, and may lead to an estimated 50% less
+superfluous radio communications.
+
+Earliest contact with all typed entities suggest inferior communication between
+components.  Giving false information to enemy components may prove a useful
+tactic.  To this end, false Yocto-class vessels are being developed to give
+false impression of fleet size and to give extra targets to enemies during
+battles.  Decoys will be used primarily to patrol colony mines and modules.
+
+Decoys will also be used to confuse the enemy by skirting their space and
+providing surplus sensory data.  This increase in sensory data will help
+obfuscate ship signals.  Testing will commence on improved sensors to see how
+this increase in ship activity affects our sensors.  Decoy use along enemy
+borders will be minimal until stealth mining development has commenced.
+
+The stealth mining project will allow us to mine undetected in enemy space and
+thus increase productivity.  Suspect that mining may continue without
+attracting attention of enemy ships patrolling in the area.
+
+To satisfy prime directive, colonization fleet is being sent to sector I7 with
+orders to claim it.  This time, engagement level is at active setting.  If any
+enemy ships try to prevent colonization, orders state that the fleet should
+continue to attempt to colonize.  If resistance is met, analyze the threat and
+take new orders from the supervising command software lifeform.  Use of deadly
+force has been deemed acceptable.
+
+The new terraforming and construction methods are presently under review.
+Initial projections suggest it is within acceptable limits.  Improvements may
+be forthcoming.  Sector F7 is being used as the initial testing grounds.
+Increasing productivity of existing sectors benefits by providing increased
+resources.  This method of improving productivity may become more useful once
+fleet engagements prevent further sector expansion.
+
+---
+
+Des.    Value   Comment
+----    -----   -------
+F7      1.0     Preassembled terraforming from 0.5
+F8      1.0
+G7      2.0
+G8      2.0
+G9      1.0
+G10     0.5
+H7      1.0
+H8      1.0
+I7      0.5
+H9      1.0
+
+New Total:  10 sectors, 11.0 points, and the coffers are dry. (3.0 suspended)
+Fleet strength up to 87% optimum capacity.
+
+Sensor Array progress halted due to faulty communications.
+
+Yocto-class Decoy:  (diff 5, two dice):  3, 4.  Failure.  [Subsequent rolls
+here at +1 difficulty.]
+
+Tactical analysis suggests that decoys may not be, at this point in time, the
+ideal route to pursue.  Further analysis of enemy capabilities may be required.
+
+Sector I7 claimed; simultaneously, sensors report sector H6 recently occupied
+by type III.  Furthermore, sectors F7, G7, H7 and I7 report sporadic raiding
+activity by type III forces.  Only sector I7 adequately defended at this time.
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+   .                              ___                                        .
+   /                             /   \                                       \
+  /                          ___/  IV \___                           ___      \
+E \                         /   \     /   \                         /   \     /
+   .                    ___. III .___.  IV .___                 ___.     .___.
+   /                   /   \     /   \     /   \               /   \     /   \
+  /                   / III \___/ 1.0 \___/  IV \___          /     \___/     \
+F \                   \     /   \     /   \     /   \         \     /   \     /
+   .                   .___. III .___. 1.0 .___.     .___      .___. I/II.___.
+   /                       \     /   \     /   \     /   \     /   \     /   \
+  /                         \___/ 2.0 \___/ 1.0 \___/     \   /     \___/     \
+G \                         /   \     /   \     /   \     /   \     /   \     /
+   .                       . III .___. 2.0 .___. 0.5 .___.     .___.     .___.
+   /                       \     /   \     /   \     /   \         \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/     \         \___/     \
+H \                         /   \     /   \     /   \     /                   /
+   .                       . III .___. 1.0 .___.     .___.                   .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/ 0.5 \___/     \___/                         \
+I \                         /   \     /   \     /                             /
+   .                       .     .___.     .___.                             .
+   /                       \     /   \     /                                 \
+  /                         \___/     \___/                                   \
+J \                             \     /                                       /
+   .                             .___.                                       .
+
+
+  Point Allocation Summary:
+
+     11.0 total sector points
+   +  0.0 carryover points
+
+   -  5.0 points developing Zepto-class ships
+   -  2.0 points terraforming sector G10
+   -  2.0 points terraforming sector I7
+
+  --------
+   =  2.0 carryover points
+
+
+  Character Inventory:
+
+    Lifeform Piloting Gunnery Tactics Cost Status
+
+      C4        6        4       7      6  In For Maintenance
+      C7        6        4       7      6  On Maneuvers
+      C12       6        4       4      2  On Maneuvers
+      C13       5        4       4      1  In For Maintenance
+
+---
+
+Lifeform C7 Personal Log Entry 2007
+
+Orders have been given to continue colonization in sectors G10 and I7.  Further
+colony expansion has been put on standby temporarily as fleet engagements along
+Type III border will occupy our armed forces.  I have called back the majority
+of in-service units to colony framework stations along the Type III border.
+
+Initial forecasts indicate that a new class of ship may be required for battle
+with the Type III entities.  The Type IIIb series ships seems to be well suited
+for supporting the Type IIIa series ships and vice versa.  For this reason, I
+have taken the liberty of ordering the top-level engineering cell to commence
+designing a new medium or heavy fighter as a support ship for the Yocto-class
+vessels without approval from lifeform C4.  I think I have managed to do this
+without its notice.
+
+
+Lifeform C7 Personal Log Entry 2009
+
+I have noticed some more anomalous behaviour with the C4 lifeform.  Its
+decision to create Yocto-class decoy ships was in error.  Such devices would
+prove useless in battle and would have little use elsewhere.  As a precaution,
+I have reduced C4's security clearance to Alpha prime.  This should prevent any
+further problems as I should be able to override any mistaken commands.
+
+The designs for the improved sensor systems has been put on standby until
+further notice pending a deeper investigation of the decision process spawned
+by unit C4.
+
+For some reason, I feel precaution is necessary when dealing with unit C4.
+This feeling is greater when I am thinking about the Type III entities.  I do
+not yet know if this preclusion for caution when dealing with these elements is
+inappropriate.  It is almost as if I am expecting something to go wrong when I
+am dealing with them.  I will spend further time before, during and after my
+next scheduled maintenance period to study this reaction.
+
+
+Lifeform C7 Personal Log Entry 2010
+
+Design specifications for the newest class of ship are now mostly complete.
+The new Zepto-class ships will be larger than the Yocto-class ships and will
+act as support and command ships in battle.  Studying enemy ship formations has
+led me to believe that we require such a vessel to complement our primary
+defense fighters.  Lifeforms C4, C12 and C13 concur with this decision.
+
+---
+
+Research crud:  Difficulty 5, 5 dice:  3, 5, 9, 9, 8.
+
+Increase G10 by .5 points, and I7 by .5 points.  Total points you git is 12.0
+now, with 2.0 left over.  Wooi!
+
+You may lose some of those excess points depending on how the raids from last
+turn went.  Recall that you won't have the wossit ship available--it'll be you,
+me, several catships and your yoctos.
+
+Now, your new ship has one sooperdooper optimization on it, as you've exceeded
+three successes.  Pick it.  Lemme know.
+
+     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+   .                              ___                                        .
+   /                             /   \                                       \
+  /                          ___/  IV \___                           ___      \
+E \                         /   \     /   \                         /   \     /
+   .                    ___. III .___.  IV .___                 ___.     .___.
+   /                   /   \     /   \     /   \               /   \     /   \
+  /                   / III \___/ 1.0 \___/  IV \___          /     \___/     \
+F \                   \     /   \     /   \     /   \         \     /   \     /
+   .                   .___. III .___. 1.0 .___.     .___      .___. I/II.___.
+   /                       \     /   \     /   \     /   \     /   \     /   \
+  /                         \___/ 2.0 \___/ 1.0 \___/     \   /     \___/     \
+G \                         /   \     /   \     /   \     /   \     /   \     /
+   .                       . III .___. 2.0 .___. 1.0 .___.     .___.     .___.
+   /                       \     /   \     /   \     /   \         \     /   \
+  /                         \___/ 1.0 \___/ 1.0 \___/     \         \___/     \
+H \                         /   \     /   \     /   \     /                   /
+   .                       . III .___. 1.0 .___.     .___.                   .
+   /                       \     /   \     /   \     /                       \
+  /                         \___/ 1.0 \___/     \___/                         \
+I \                         /   \     /   \     /                             /
+   .                       .     .___.     .___.                             .
+   /                       \     /   \     /                                 \
+  /                         \___/     \___/                                   \
+J \                             \     /                                       /
+   .                             .___.                                       .
+
+
+  Point Allocation Summary:
+
+     12.0 total sector points
+   +  2.0 carryover points
+
+   -  5.0 points building colonization fleet to send to sector H11
+   -  4.0 points terraforming sector H9
+   -  4.0 points developing better new sector colonization procedures
+
+  --------
+   =  1.0 carryover points
+
+
+  Character Inventory:
+
+    Lifeform Piloting Gunnery Tactics Cost Status
+
+      C4        6        4       7      6  On Maneuvers
+      C7        6        4       7      6  In For Maintenance
+      C12       6        4       4      2  In For Maintenance
+      C13       5        4       4      1  On Maneuvers
+
+---
+
+The rays from the system's binary star pierced the horizon of the small, lonely
+asteroid.  Beautiful colours swam along the surface and played amongst the
+craters and scars as first the glow from the red dwarf, and then that of the
+smaller yellow dwarf, flooded the sky.  The breathtaking double sunrise lasted
+nearly a full minute before the entire sky was swallowed by the gaping maw of
+black caused by the shadow of one of the asteroid's neighbours.  As if
+controlled by the hands of several skilled jugglers, the thousands of
+planetoids made endless, perfect orbits of the twin star, twisting and weaving
+around each other like bees buzzing about their hive.  The less stable orbits
+had long since been cleared of debris after millions of years of cosmic
+billiards and gravitational pinball followed by the occasional brief flash of
+light from the maternal or paternal sun.
+
+The larger planetoids in the system sported great composite metallic gantries
+hewn from their own rock and shaped like the pentagonal faceted spheres of the
+most lethal gas in the known Universe, Tylerene(tm).  The hundreds of
+infinitely thin threads cross-crossing and connecting these structures
+shimmered in the light cast by the two stars.  The mining ships that made up
+these threads conveyed megatons of minerals from the smaller asteroids to the
+processing facilities aboard the honeycomb structures every second like a
+dripping tap using the gravity wells and their own mass plus their cargo's to
+accelerate themselves toward their destinations.  Like a spider's web on a
+moonlit night, the delicate strands of mining ships would ripple and sway ever
+so slightly with the beat of the solar winds and flares that pulsed irregularly
+from the centre of the system.
+
+Now and then, the odd star seemed to be occluded by some black object moving in
+front of them.  These phantoms would travel around the great spires of mining
+ships and near the inhabited planetesimals.  When one would pass in front of an
+asteroid, its shape could just barely be made out to be a large ship, nearly
+all black.  With a better knowledge of their size and shape, it now seemed
+easier to pick them out amongst the stars and to catch reflections off of their
+shiny black surfaces.  Now, the ships appeared to be all over the system,
+apparently in ideal positions to be protecting the mining colony, not attacking
+it.  A few of the enormous space shepards were milling about a collection of
+smaller ships that appeared to be constructing flat pentagonal rings in an
+orbit around one of the largest hive rocks.  These rings seemed to be the same
+as those used in the construction of the colony spheres.  This difficulty in
+identifying them was due to the fact that the rings were being stacked neatly
+by the miners into long cylindrical configurations.
+
+The long ring stacks were broken off into two seperate groups and additional
+rings were attached surrounding each central cylinder.  Ship docking collars
+were attached to these additional outer rings.  Some of the black ships now
+began to connect to the docking collars and tow the giant hulks with them.
+With little more than a simple status report, the first group left towards the
+galaxy core, their escort ships to return after being relieved by their
+replacements from the adjacent sector at the half-way point.  The second, and
+much larger group, left towards the galaxy rim, accompanied by a large
+contingent of mining ships.  Their escorts would remain with the new colony
+until a more substatial patrol force could be manufactured.  For now, they
+would be the sector's only defense against attacks.
+
+To the escorts leaving for the new colony, the twin suns were now only another
+speck of dandruff stuck to the tar paper of the Universe.  Any emergency radio
+transmissions would take hours to reach the nearest help and by then it would
+already be too late.  With any luck, the new colony framework could be set up
+in the new sector with little incident.
+
+---
+
+Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1
+Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2
+Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3
+         .  .  .10. *.  .4          .  .  .10. *.  .4          .  .  .10. *.  .4
+Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5
+DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6
+Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7
+     OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8
+MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9
+2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0
+(special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4
+
+Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1
+Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2
+Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3
+         .  .  .10. *.  .4          .  .  .10. *.  .4          .  .  .10. *.  .4
+Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5
+DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6
+Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7
+     OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8
+MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9
+2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0
+(special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4
+
+Plt      .  .  .15.  .  .1 Yocto-class 50tonnes 51pts Plt      .  .  .15.  .  .1
+Gun      .14.  .  .13.  .2                            Gun      .14.  .  .13.  .2
+Tac      .  .12.a3.  .11.3 0.0-2.0" High              Tac      .  .12.a3.  .11.3
+         .  .  .10. *.  .4 2.1-4.0" Med                        .  .  .10. *.  .4
+Ar 3     .  . 9.  .  . w.5 4.1-8.0" Low               Ar 3     .  . 9.  .  . w.5
+DV 14    . 8.a2. 7.  .  .6                            DV 14    . 8.a2. 7.  .  .6
+Dr 15    . 6.  .  . 5.  .7 2 no pilot   7 no fire 1tn Dr 15    . 6.  .  . 5.  .7
+     OOOO. *.a1. 4.  .  .8 3 Dr1/2 1tn  8 DV-2             OOOO. *.a1. 4.  .  .8
+MRC F OOO. 3.  .  . 2.  .9 4 DV-4       9 no ammo     MRC F OOO. 3.  .  . 2.  .9
+2d8+2+   .  . 1.  .  . X.0 5 -2 to hit 10 DV-3 Ar-1   2d8+2+   .  . 1.  .  . X.0
+(special)  PD 1-6x2 DC 1-4 6 DV-2      11 Dr0 DV5 1tn (special)  PD 1-6x2 DC 1-4
+
+Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1
+Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2
+Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3
+         .  .  .10. *.  .4          .  .  .10. *.  .4          .  .  .10. *.  .4
+Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5
+DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6
+Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7
+     OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8
+MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9
+2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0
+(special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4
+
+Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1 Plt      .  .  .15.  .  .1
+Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2 Gun      .14.  .  .13.  .2
+Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3 Tac      .  .12.a3.  .11.3
+         .  .  .10. *.  .4          .  .  .10. *.  .4          .  .  .10. *.  .4
+Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5 Ar 3     .  . 9.  .  . w.5
+DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6 DV 14    . 8.a2. 7.  .  .6
+Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7 Dr 15    . 6.  .  . 5.  .7
+     OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8      OOOO. *.a1. 4.  .  .8
+MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9 MRC F OOO. 3.  .  . 2.  .9
+2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0 2d8+2+   .  . 1.  .  . X.0
+(special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4 (special)  PD 1-6x2 DC 1-4
