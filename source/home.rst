@@ -237,3 +237,7 @@ ZFS
 * https://github.com/zfsonlinux/zfs/pull/5769 ``ZFS Encryption coming soon``
 * http://jro.io/nas/
 * https://github.com/hughobrien/zfs-remote-mirror
+
+::
+
+    zpool replace tank1 /dev/disk/by-id/dm-foo-1 /dev/disk/by-id/dm-foo-2
