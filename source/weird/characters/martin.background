@@ -1,0 +1,140 @@
+Authenticating...
+Polling..
+ Textmode-only
+ Keyboard-only
+ No other connections found
+
+Logins:  341   Last:  3 hours ago
+10 unread public memos
+No unread personal memos
+
+> cases
+
+>> new
+
+Casename:  anthony
+
+>> persons 
+
+>>> an lefev
+
+4 entries found
+
+   1. Lefevbre, Andrew  Peter
+   2. Wallens,  Annie   Elizabeth
+   3. Lefevbre, Anthony Christopher
+   4. Lefevbre, Anthony Martin
+
+>>> 3
+
+Name:           Lefevbre, Anthony Christopher
+Date of Birth:  November 29, 1934
+Status:         Deceased
+
+>>> tag
+
+Tagged record:  Lefevbre, Anthony Christopher
+
+>>> more
+
+Name:           Lefevbre, Anthony Christopher
+Date of Death:  June 23, 1988
+
+>>> 4
+
+Name:           Lefevbre, Anthony Martin
+Date of Birth:  October 11, 1977
+Status:         ACTIVE
+
+>>> tag
+
+Tagged record:  Lefevbre, Anthony Martin
+
+>>> more
+
+Name:           Lefevbre, Anthony Martin
+Hired:          May 5, 1997
+Record Number:  N890JK-09948324
+
+>> memo subj:aml,body:background
+
+Found 1 entry.
+
+Using WLR34-2 encoding
+Decoding.
+
+Subject:  Mr. Lefevbre [N890JK-09948324]
+Date:     February 3, 1997
+From:     N. R. Yussef
+To:       K. Jost
+
+Karl,
+
+Here's a snippet from an old field entry I managed to scare up from
+archives.  Sorry it sounds like some high school flunky's homework but at
+least it'll help you with some of the missing background information you
+wanted.
+
+Nassir
+
+---
+
+Mr. Anthony Martin Lefevbre Jr. was born on October 11th, 1977.  His
+biological mother left him with his father soon after he was born.  She
+disappeared soon after Mr. Lefevbre's birth and has never been heard from
+again.  Mr. Lefevbre was only 10 years old when his father passed away due
+to natural causes.  His step-mother looked after him until he was old
+enough to be granted access to the money that he inherited from his late
+father.  Mr. Lefevbre now lives by himself in his large mansion.
+
+Mr. Lefevbre grew up in a rich Ottawa neighbourhood.  At a very young age,
+he discovered he had a natural afinity for manipulating people.  He
+learned very quickly how to use his gift to get what he wanted.  His
+troubled family life taught him that the only person worth looking out for
+was himself.  As a result, he has very few close friends and there are
+even fewer people priviledged enough to call him "Martin".  He soon earned
+a reputation among his classmates as a person best not to cross.  When he
+was in high school, Mr. Lefevbre ran for school president and was elected
+each year for 5 consecutive years until he graduated in June 1996.  He
+never pursued any formal, civilian post-secondary education.
+
+After he graduated, Mr. Lefevbre soon found work as an administrative
+assistant working at Ottawa City Hall.  With his talents put to use to
+further his own personal political gain, Mr. Lefevbre soon earned the
+attention of the elite in his circle of power.  After only months, he was
+offered a position as Senior In Charge Of Public Relations for Nortel.
+
+
+
+Man in White #32341
+->  32 = Canada, 34 = Ontario, 1 = position; he's the newest
+Osborn, Grant Steven
+Born: 4007.12 (May 12, 1940)
+Apparent Age: Mid 40's
+Height: 186.76 cm
+Weight: 91.87 kg
+Hair: Black (greying)
+Eyes: Brown
+Schooling: Bacholors of Arts, Psychology, University of Toronto, 1961
+Masters of Arts, Psychology, Mount Allison University, 1963
+Doctorate of Arts, Psychology, Yale University, 1965
+First recruited into New World Order: November 11, 1959
+Recruiting agent: Agent White (White, Perry) (deceased)
+Spent five years training under Agent White in Mind
+Science and Public Relations and Analysis
+
+Covert Operative #32343
+Duchaine, Robert Zachary
+Born: 7309.16
+Apparent Age: Mid 20's
+Height: 5'11"
+Weight: 170 lbs
+Hair: Brown
+Eyes: Dark Brown
+Schooling: Bachelors of Political Science, University of Minnesota, 1996
+Masters of Political Science, University of British Columbia, 1999
+First recruited into New World Order: March 5, 1997
+Recruiting Agent: Agent #32341 (Osborn, Grant Steven)
+Spent two years training under Agent #32341,
+specializing in Correspondence Science and Infiltration techniques.
+Current Status: On Assignment (CLASSIFIED)

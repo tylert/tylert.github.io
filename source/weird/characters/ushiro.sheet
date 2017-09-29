@@ -1,0 +1,33 @@
+Mantis Merchant|Chijiriki   3k2|Kuroku         |Ally           |Ambidextrous   |
+ Ushiro        |Katana      3k2|Master Spy Sgt.| Dragon Bushi  |Driven         |
+               |2 Wakizashi 2k2|2 Thug Cpl.    |Mirumoto Fukuji|Bad Reputation |
+Glory       4.6|Chainmail    +6|3 Spies        |               | Untrustworthy |
+Honour      2.4|Fine Tea Set   |7 Hida Bushi   |Nemesis        |               |
+Insight     176|Koku        127|29 Ashigaru    | Lion Bushi    |Minor Enemy    |
+Experience    1|Silver      260|Warrior        |  Matsu Mochiko| Lion Bushi    |
+Luck Points   1|Gold       20kg|               |               |  Ikoma Onegano|
+               |               |               |               |               |
+Fire         3 |Air          3 |Earth        3 |Water        2 |Void         3 |
+ Agility      3| Reflexes     3| Stamina      3| Strength     2|               |
+ Intelligence 3| Awareness    3| Willpower    3| Perception   2|               |
+               |               |               |               |               |
+Yarijutsu     3|Archery       1|  OOOOOO  -0   |               |Tea Ceremony  1|
+Kamajutsu     1|Horsemanship  1|  OOOOOO  -1   |               |               |
+Jiujitsu      1|               |  OOOOOO  -2   |               |               |
+Defense       3|               |  OOOOOO  -3   |               |               |
+Sailing       3|               |  OOOOOO  -4   |               |               |
+               |               |  OOOOOO Down  |               |               |
+               |Commerce      3|  OOOOOO Out   |               |               |
+Etiquette     3|Oratory       1|  OOOOOO Dead  |Battle        3|               |
+Law           1|Streetwise    1|               |Appraisal     3|               |
+Go            1|Poetry        2|               |Investigation 1|Athletics     3|
+
+Rank 1: Use any low weapon skill as high; Use any unskilled weapon at rank 1
+        Ignore penalties for unstable footing
+Rank 2: Spend void during full attacks and TN to be hit stays the same
+Rank 3: Roll initiative for each hand with small/medium weapons
+        Use higher if ambidextrous
+
+initiative = reflexes + d10 = 3 + d10
+TN to be hit = 5 x reflexes + armour = 21
+battle table roll: battle + water + d10 = 5 + d10

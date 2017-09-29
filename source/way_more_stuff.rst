@@ -31,6 +31,12 @@ Cloud Stuff
 * https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
 
+Bitcoin
+-------
+
+* http://jrruethe.github.io/blog/2015/04/23/bitcoin-paper-wallets/
+
+
 Random Stuff
 ------------
 
