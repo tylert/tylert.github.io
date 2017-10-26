@@ -63,6 +63,11 @@ Docker
 * http://www.aossama.com/build-debian-docker-image-from-scratch/
 * https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot/
 * https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration/
+* https://github.com/openshift-evangelists/openshift-workshops/blob/master/modules/run-as-non-root.adoc#switching-the-user
+* https://docs.openshift.org/latest/creating_images/guidelines.html#use-uid
+* http://www.projectatomic.io/docs/docker-image-author-guidance/
+* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
+* https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
 
 
 Install Stuff
