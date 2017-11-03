@@ -53,6 +53,7 @@ Or, do it manually with::
 Docker
 ------
 
+* https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
 * https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
 * http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
 * http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
@@ -364,3 +365,10 @@ Cloud Backup and Recovery
 -------------------------
 
 * http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
+
+
+Crypto
+------
+
+* https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
+* https://github.com/sustrik/crypto-for-kids
