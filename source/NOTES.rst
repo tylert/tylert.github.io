@@ -69,6 +69,9 @@ Docker
 * http://www.projectatomic.io/docs/docker-image-author-guidance/
 * https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
 * https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
+* https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
+* https://success.docker.com/article/Docker_Reference_Architecture-_Design_Considerations_and_Best_Practices_to_Modernize_Traditional_Apps_(MTA)_with_Docker_EE
+* https://wiki.apache.org/httpd/NonRootPortBinding
 
 
 Install Stuff

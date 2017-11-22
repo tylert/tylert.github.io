@@ -16,13 +16,6 @@ Python Fun
 * https://www.youtube.com/watch?v=wf-BqAjZb8M
 
 
-WSO2
-----
-
-* https://pubci.com/2016/08/07/run-wso2-esb-in-docker-in-5-minutes/
-* https://holisticsecurity.io/2016/01/11/strategy-to-create-microservices-using-wso2-and-docker/
-
-
 Cloud Stuff
 -----------
 
@@ -70,3 +63,9 @@ Keyboard Porn
 -------------
 
 * https://pimpmykeyboard.com/dsa-granite-keyset/
+
+
+Getting Things Done
+-------------------
+
+* https://blog.zenkit.com/a-beginners-guide-to-getting-things-done-3cc1a5123b98
