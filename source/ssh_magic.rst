@@ -41,3 +41,31 @@ Screen magic::
     screen -S foobar
     screen -x foobar
     ^ad
+
+
+Network
+-------
+
+Execute on hostA, reverse tunnel from port1 on hostC to port0 on hostA
+A => C::
+
+    PORT0='22'
+    PORT1='2222'
+    ssh -R *:${PORT1}:localhost:${PORT0} ${CHOST} -l ${CUSER}
+    # putty.exe -ssh -R *:${PORT1}:localhost:${PORT0} ${CHOST} -l ${CUSER}
+
+Execute on hostB, tunnel from port2 on hostB to port1 on hostC
+B -> C::
+
+    PORT2='22222'
+    ssh -L *:${PORT2}:localhost:${PORT1} ${CHOST} -l ${CUSER}
+    # putty.exe -ssh -L *:${PORT2}:localhost:${PORT1} ${CHOST} -l ${CUSER}
+
+Execute on hostB, connect to port2 on hostB via port1 on hostC to port0 on hostA
+B -> A::
+
+    ssh localhost -p ${PORT2} -l ${AUSER}
+    # putty.exe -ssh localhost -P ${PORT2} -l ${AUSER}
+
+* https://superuser.com/questions/315523/ssh-connection-between-two-behind-nat-computers-through-third-public-ip-computer?rq=1
+* https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
