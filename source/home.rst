@@ -198,12 +198,6 @@ Python
 * VirtualEnv http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
 
-RAM / ECC
----------
-
-* http://louwrentius.com/please-use-zfs-with-ecc-memory.html
-
-
 SSD / NAND flash
 ----------------
 
@@ -234,10 +228,16 @@ Time Series Storage
 ZFS
 ---
 
-* https://github.com/zfsonlinux/zfs/pull/5769 ``ZFS Encryption coming soon``
+* http://louwrentius.com/please-use-zfs-with-ecc-memory.html
 * http://jro.io/nas/
 * https://github.com/hughobrien/zfs-remote-mirror
 
 ::
 
-    zpool replace tank1 /dev/disk/by-id/dm-foo-1 /dev/disk/by-id/dm-foo-2
+    cryptsetup luksFormat /dev/disk/by-id/ata-foo2
+    cryptsetup luksOpen /dev/disk/by-id/ata-foo2 ata-foo2
+
+    # zpool import -d /dev/disk/by-id tank1
+
+    zpool offline tank1 dm-ata-foo1
+    zpool replace tank1 dm-ata-foo1 dm-ata-foo2
