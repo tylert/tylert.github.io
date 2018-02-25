@@ -282,7 +282,7 @@ Git Stuff
     cd Adir
     mkdir Bdir
     git remote add -f Bproject /path/to/Brepo
-    git merge -s ours --no-commit Bproject/master
+    git merge --allow-unrelated-histories -s ours --no-commit Bproject/master
     git read-tree --prefix=Bdir -u Bproject/master
     git commit -m "Merge B project as our subdirectory"
     git pull -s subtree Bproject master
