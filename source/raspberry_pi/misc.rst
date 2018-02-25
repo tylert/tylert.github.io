@@ -56,3 +56,16 @@ OSMC Stuff
 
     apt-get update
     apt-get install osmc-installer
+
+
+Codec Stuff
+-----------
+
+::
+
+    cd /boot
+    cp start.elf start.elf_backup && \
+        perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start.elf_backup > start.elf
+
+* https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
+* https://news.ycombinator.com/item?id=16381331
