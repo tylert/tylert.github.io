@@ -5,30 +5,57 @@ Pi First Boot
 Download Image
 --------------
 
+Most of these images are built using the code at
+https://github.com/RPi-Distro/pi-gen/.
+
 
 Raspbian Lite
 ~~~~~~~~~~~~~
 
-Fetch the latest image from
+The faster, more useful download link is
 https://downloads.raspberrypi.org/raspbian_lite/images/.
 
-If you have trouble finding that, try
-https://www.raspberrypi.org/downloads/raspbian/ instead.
+The slower, less-automated download link is
+https://www.raspberrypi.org/downloads/raspbian/.
 
 
 Raspbian
 ~~~~~~~~
 
-Fetch the latest image from https://downloads.raspberrypi.org/raspbian/images/.
+The faster, more useful download link is
+https://downloads.raspberrypi.org/raspbian/images/.
 
-If you have trouble finding that, try
-https://www.raspberrypi.org/downloads/raspbian/ instead.
+The slower, less-automated download link is
+https://www.raspberrypi.org/downloads/raspbian/.
+
+
+NOOBS Lite
+~~~~~~~~~~
+
+The faster, more useful download link is
+https://downloads.raspberrypi.org/NOOBS_lite/images/.
+
+The slower, less-automated download link is
+https://www.raspberrypi.org/downloads/noobs/.
+
+
+NOOBS
+~~~~~
+
+The faster, more useful download links is
+https://downloads.raspberrypi.org/NOOBS/images/.
+
+The slower, less-automated download link is
+https://www.raspberrypi.org/downloads/noobs/.
 
 
 OSMC
 ~~~~
 
-Fetch the latest image from https://osmc.tv/download/.
+The faster, more useful download link is
+http://ftp.fau.de/osmc/osmc/download/installers/diskimages/.
+
+The slower, less-automated download link is https://osmc.tv/download/.
 
 
 RetroPie
@@ -44,31 +71,6 @@ Ubuntu
 Fetch the latest image from https://ubuntu-pi-flavour-maker.org/download/.
 
 
-NOOBS Lite
-~~~~~~~~~~
-
-Fetch the latest image from
-https://downloads.raspberrypi.org/NOOBS_lite/images/.
-
-If you have trouble finding that, try
-https://www.raspberrypi.org/downloads/noobs/ instead.
-
-
-NOOBS
-~~~~~
-
-Fetch the latest image from https://downloads.raspberrypi.org/NOOBS/images/.
-
-If you have trouble finding that, try
-https://www.raspberrypi.org/downloads/noobs/ instead.
-
-
-Other
-~~~~~
-
-Fetch the latest image from https://www.raspberrypi.org/downloads/.
-
-
 Berryboot
 ~~~~~~~~~
 
@@ -77,6 +79,12 @@ TBD
 http://www.berryterminal.com/doku.php/berryboot
 http://sourceforge.net/projects/berryboot/files/
 http://sourceforge.net/projects/berryboot/files/os_images/
+
+
+Other
+~~~~~
+
+Fetch the latest image from https://www.raspberrypi.org/downloads/.
 
 
 Flash Image
@@ -229,3 +237,12 @@ To verify that it worked after a reboot, type::
 
     vcgencmd codec_enabled MPG2
     vcgencmd codec_enabled WVC1
+
+The less painful way of enabling the codecs::
+
+    cd /boot
+    cp start.elf start.elf.backup && \
+        perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start.elf.backup > start.elf
+
+* https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
+* https://news.ycombinator.com/item?id=16381331

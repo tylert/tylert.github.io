@@ -20,7 +20,8 @@ make sure the output file or "of" is set to the correct device location
 mentioned above;  you may omit the "status=progress" part if your version of dd
 doesn't support it or if you don't care about seeing a progress meter):
 
-zcat $(find . -name OSMC*.img.gz) | sudo dd of=/dev/mmcblk0 bs=16M \ status=progress && sync
+zcat $(find . -name OSMC*.img.gz) | sudo dd of=/dev/mmcblk0 bs=16M \
+status=progress && sync
 # ... or something like...
 zcat OSMC_TGT_rbp2_20170803.img.gz | sudo dd of=/dev/sdb bs=16M \
 && sync
@@ -39,7 +40,24 @@ the SSH service enabled.  Select your desired "Look + Feel" and choose whether
 you want to sign up for the email newsletter and then exit the setup wizard
 stuff.
 
-5.  Set up the codecs (assuming you have purchased and received these already).
+5.  Pull in local file sources.  Go to "Videos" -> "Files" -> "Add videos" ->
+"Browse".  Enter "smb://booya/somewhere/movie" for the location, hit OK to
+accept the new location and then OK to accept the default name to assign to
+this location.  "This directory contains" -> "Movies" -> OK.  "Do you want to
+refresh information for all items within this path" -> No.  Do the same thing
+again for "television".
+
+6.  Fix the default regional settings.  Go to "Settings" -> "Interface" ->
+"Regional" -> "Unit Formats" -> "Region default format" -> "USA (24h)".
+
+7.  Fix the default subtitles settings.  Go to "Settings" -> "Player" ->
+"Language" -> "Subtitles" -> "Preferred subtitle language" -> "None".
+
+8.  Install a few mundane plug-ins.  Go to "Settings" -> "Add-on browser" and
+select "Install from repository".  Go into the "Kodi Add-on repository".  Under
+"Video add-ons", install the "HDHomeRun", "HGTV" and "HGTV Canada" plug-ins.
+
+9.  Set up the codecs (assuming you have purchased and received these already).
 You will want to set up all the codec gunk so the GPU is enabled with full
 hardware-assisted video decoding.  On all my units, I printed out all the codec
 information for each individual unit on stickers mounted to the side of the
@@ -59,23 +77,3 @@ codec failed to work with this unit... go buy another one or check your notes
 again for typos;  you will need to reboot each time to confirm that the new
 value "took" properly).  Once you have finished confirming the codecs are
 enabled, move onto the next step.
-
-6.  Fix the default regional settings.  Go to "Settings" -> "Interface" ->
-"Regional" -> "Unit Formats" -> "Region default format" -> "USA (24h)".
-
-7.  Fix the default subtitles settings.  Go to "Settings" -> "Player" ->
-"Language" -> "Subtitles" -> "Preferred subtitle language" -> "None".
-
-8.  Install a few mundane plug-ins.  Go to "Settings" -> "Add-on browser" and
-select "Install from repository".  Go into the "Kodi Add-on repository".  Under
-"Video add-ons", install the "HDHomeRun", "HGTV" and "HGTV Canada" plug-ins.
-
-9.  Pull in local file sources.  Go to "Videos" -> "Files" -> "Add videos" ->
-"Browse" -> "Add network location..." -> "Protocol Windows network (SMB)" ->
-"Server booya" -> OK.  "Videos" -> "Files" -> "Add videos" -> "Browse" ->
-"smb://booya/" -> "file_pub" -> "movie" -> OK.  "This directory contains" ->
-"Movies" -> OK.  "Do you want to refresh information for all items within this
-path" -> No.  "Videos" -> "Files" -> "Add videos" -> "Browse" -> "smb://booya/"
--> "file_pub" -> "television" -> OK.  "This directory contains" -> "TV Shows"
--> OK.  "Do you want to refresh information for all items within this path" ->
-No.
