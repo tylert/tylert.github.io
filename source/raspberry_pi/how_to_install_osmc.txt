@@ -35,7 +35,7 @@ let the unit boot up fully.
 
 4.  Do the basic configuration steps.  After the units boots, the first thing
 you'll be forced to set up is the language, timezone and hostname settings and
-so on.  I usually pick "English", "America/Toronto" and "osmc" for mine.  Lease
+so on.  I usually pick "English", "America/Toronto" and "osmc" for mine.  Leave
 the SSH service enabled.  Select your desired "Look + Feel" and choose whether
 you want to sign up for the email newsletter and then exit the setup wizard
 stuff.
