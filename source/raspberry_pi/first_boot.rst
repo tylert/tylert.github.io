@@ -241,8 +241,8 @@ To verify that it worked after a reboot, type::
 The less painful way of enabling the codecs::
 
     cd /boot
-    cp start.elf start.elf.backup && \
-        perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start.elf.backup > start.elf
+    cp start_x.elf start_x.elf.backup && \
+        perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start_x.elf.backup > start_x.elf
 
 * https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
 * https://news.ycombinator.com/item?id=16381331
