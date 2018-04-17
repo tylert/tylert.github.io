@@ -53,8 +53,6 @@ Dev
 ---
 
 * https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
-* https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/
-  ``Continuous Testing``
 * https://12factor.net/
 * https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd
 * https://medium.com/production-ready/how-complex-web-systems-fail-part-1-4aaffc11e0c7
@@ -76,6 +74,8 @@ Dev
 DevOps / Deploy
 ---------------
 
+* https://www.devopsguys.com/2013/02/20/twelve-devops-anti-patterns/
+  ``Twelve DevOps Anti-Patterns``
 * https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/
   ``Continuous Testing``
 * http://web.devopstopologies.com/
