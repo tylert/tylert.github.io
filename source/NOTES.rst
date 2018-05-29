@@ -6,6 +6,7 @@ Python Stuff
 * http://locust.io/
 * https://pypi.python.org/pypi/pip2pi/0.6.8
 * https://github.com/pypiserver/pypiserver
+* http://book.pythontips.com/en/latest/
 
 
 Go Stuff
@@ -234,6 +235,11 @@ Awesome Stuff
 * http://www.1001fonts.com/
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
 * http://gohugo.io/
+* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
+* https://github.com/intenthq/anon
+* https://nodered.org/
+* https://en.wikipedia.org/wiki/FreeRTOS
+* https://aws.amazon.com/freertos/
 
 
 Git Stuff
