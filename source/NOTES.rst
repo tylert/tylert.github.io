@@ -256,7 +256,7 @@ Git Stuff
 
     # Get rid of files permanently
     for i in foo.svg bar.svg ; do
-        git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch $i" --prune-empty -f HEAD
+        git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch $i" --tag-name-filter cat --prune-empty --force -- --all --branches --tags
     done
 
 
@@ -264,6 +264,11 @@ Git Stuff
     git reflog expire --expire=now --all
     git fsck --full --unreachable
     git gc --prune=now --aggressive
+
+    rm -rf .git/refs/original/ .git/refs/remotes/ .git/*_HEAD .git/logs/
+    git reflog expire --expire-unreachable=now --all
+    git repack -q -A -d
+    git gc --aggressive --prune=now
 
     rm -rf .git/refs/original/*
     git reflog expire --all --expire-unreachable=0
