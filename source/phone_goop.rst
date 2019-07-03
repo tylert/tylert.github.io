@@ -140,6 +140,8 @@ Account Settings:
   Notifications:
     Vibrate:  On
     Blink LED:  On
+  Advanced:
+    Max folders to check with push:  25 folders
 
 
 Configure Firefox
