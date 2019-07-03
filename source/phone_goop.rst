@@ -126,6 +126,12 @@ Global Settings:
     OpenPGP app:  OpenKeychain
 Account Settings:
   Fetching mail:
+    Local folder size:  all messages
+    Sync messages from:  any time (no limit)
+    Fetch messages up to:  any size (no limit)
+    Folder poll frequency:  Every hour
+    Poll folders:  All
+    Push folders:  All
   Sending mail:
     Composition defaults:
       Use Signature:  Off
