@@ -30,28 +30,28 @@ Fixing the partition layout is done just after using the installer's partition s
 
 For setting up the partitions, the following shell commands were used::
 
-    btrfs subvol list /target
-    btrfs subvol create /target/@
-    btrfs subvol create /target/@home
-    btrfs subvol create /target/@snapshot
-    btrfs subvol list /target
-    btrfs subvol get-default /target
-    btrfs subvol set-default 257 /target
+    btrfs subvolume list /target
+    btrfs subvolume create /target/@
+    btrfs subvolume create /target/@home
+    btrfs subvolume create /target/@snapshot
+    btrfs subvolume list /target
+    btrfs subvolume get-default /target
+    btrfs subvolume set-default 257 /target
     umount /target/boot/efi
     umount /target/boot
     rm -rf /target/boot
     rm -rf /target/etc
     rm -rf /target/media
     umount /target
-    mount /dev/mapper/vg0-bwomp /target -o subvol=@
-    mkdir -p /target/boot
-    mkdir -p /target/home
-    mkdir -p /target/.snapshot
+    mount /dev/mapper/vg0-bwomp /target --options subvol=@
+    mkdir --parents /target/boot
+    mkdir --parents /target/home
+    mkdir --parents /target/.snapshot
     mount /dev/sda2 /target/boot
-    mkdir -p /target/boot/efi
+    mkdir --parents /target/boot/efi
     mount /dev/sda1 /target/boot/efi
-    mount /dev/mapper/vg0-bwomp /target/home -o subvol=@home
-    mount /dev/mapper/vg0-bwomp /target/.snapshot -o subvol=@snapshot
+    mount /dev/mapper/vg0-bwomp /target/home --options subvol=@home
+    mount /dev/mapper/vg0-bwomp /target/.snapshot --options subvol=@snapshot
 
 This will unmount the existing btrfs partition, clean up the root of the volume and create the new subvolumes.
 
