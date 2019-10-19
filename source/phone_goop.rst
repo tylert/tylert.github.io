@@ -6,7 +6,7 @@ Things to do before upgrading your phone
 1.  Go to "Settings -> About phone", tap "Build number" 7 times
 1.  Go to "Developer options" and enable "Android debugging" (ADB USB debugging)
 1.  Enable OEM unlocking in Developer options
-1.  On your computer, download the requisite LineageOS and TWRP images for your phone
+1.  On your computer, download the requisite /e/ and TWRP images for your phone
 
 
 Actually upgrading your phone
@@ -16,12 +16,12 @@ Actually upgrading your phone
 1.  Connect the phone to the computer
 1.  ``adb reboot bootloader``
 1.  ``fastboot flashing unlock``
-1.  ``fastboot flash recovery twrp-bla-bla-bla.img``
-1.  ``fastboot boot twrp-bla-bla-bla.img``
+1.  ``fastboot flash recovery bla-bla-bla-bla.img``
+1.  ``fastboot boot bla-bla-bla-bla.img``
 1.  Do some stuff in the recovery to wipe/format a bunch of things (follow the instructions for your phone)
 1.  Tell the phone to expect a sideload
-1.  ``adb sideload lineage-bla-bla-bla.zip``
-1.  Do the thing that prevents TWRP from being overwritten again
+1.  ``adb sideload bla-bla-bla-bla.zip``
+1.  Do the thing that prevents custom recovery from being overwritten again
 1.  Reboot into system
 
 
@@ -88,11 +88,12 @@ Install the following apps:
 
 * Barcode Scanner
 * FFUpdater (to automatically yank down Firefox/Fennec apk)
-* FreeOTP or FreeOTP+ (to handle TOTP stuff since KeePassDroid doesn't)
+* FreeOTP+ (to handle TOTP stuff since KeePassDroid doesn't)
 * K-9 Mail
 * KeePassDroid
 * OpenKeychain (to handle encrypted/signed emails)
 * OsmAnd+ (for navigation goodness)
+* Syncopoli (to automatically synchronize files to/from phone<->server)
 
 
 Downloading maps for Osmand
@@ -119,7 +120,7 @@ Global Settings:
     Correspondent above subject:  On
     Show contact pictures:  Off
   Interaction:
-    Return to list after delete:  Off
+    Return to list after delete:  On
   Notifications:
     Show Delete button:  Always
   Cryptography:
@@ -131,17 +132,20 @@ Account Settings:
     Folder poll frequency:  Every hour
     Poll folders:  All
     Push folders:  All
+    Advanced:
+      Max folders to check with push:  50 folders
   Sending mail:
     Composition defaults:
       Use Signature:  Off
     Message Format:  Plain Text (remove images and formatting)
   Folders:
+    Folders to display:  All
+    Move/copy destination folders:  All
+    Folders to search:  All
     Archive folder:  -NONE-
   Notifications:
     Vibrate:  On
     Blink LED:  On
-  Advanced:
-    Max folders to check with push:  25 folders
 
 
 Configure Firefox
