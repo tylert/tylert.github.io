@@ -77,3 +77,16 @@ codec failed to work with this unit... go buy another one or check your notes
 again for typos;  you will need to reboot each time to confirm that the new
 value "took" properly).  Once you have finished confirming the codecs are
 enabled, move onto the next step.
+
+# https://makingstuffwork.net/technology/watch-netflix-amazon-prime-kodi/
+# wget https://github.com/oss001/KodiStreaming/blob/master/setup.sh
+
+#!/bin/bash
+echo "Starting setup, this will only work on Kodi V18 or greater..."
+apt-get install python-pip python-crypto build-essential -y
+apt-get install python-all-dev python-setuptools python-wheel -y
+apt-get install python-crypto-dbg python-crypto-doc python-pip-whl -y
+pip install pycryptodomex
+ln -s /usr/lib/python2.7/dist-packages/Crypto /usr/lib/python2.7/dist-packages/Cryptodome
+wget https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip
+wget https://github.com/Sandmann79/xbmc/releases/download/v1.0.2/repository.sandmann79.plugins-1.0.2.zip
