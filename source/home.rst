@@ -212,6 +212,10 @@ SSH
 
 * https://wiki.mozilla.org/Security/Guidelines/OpenSSH
 
+::
+
+    ssh-keygen -t ed25519 -a 100
+
 
 SSL / TLS
 ---------

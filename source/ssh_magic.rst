@@ -9,7 +9,7 @@ Add a new user::
 Prepare ssh::
 
     mkdir --mode=0700 --parents ~/.ssh
-    ssh-keygen -t rsa -b 8192 -C "${USER}@${HOSTNAME}" -N '' -f ~/.ssh/id_rsa
+    ssh-keygen -t ed25519 -C "${USER}@${HOSTNAME}" -N '' -f ~/.ssh/id_ed25519
     ssh-copy-id ${USER}@${HOSTNAME}
 
 Prepare sshd::
@@ -26,7 +26,7 @@ Do password stuff for a user::
 Turn on (password-less) sudo access for a given user::
 
     GROUP='wheel'
-    echo "${USER} ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/${USER}
+    echo "${USER} ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/${USER}
     echo "# ${USER} ALL=(ALL) ALL" >> /etc/sudoers.d/${USER}
     echo "# %${GROUP} ALL=(ALL) ALL" >> /etc/sudoers.d/${USER}
 
