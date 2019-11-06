@@ -57,36 +57,23 @@ again for "television".
 select "Install from repository".  Go into the "Kodi Add-on repository".  Under
 "Video add-ons", install the "HDHomeRun", "HGTV" and "HGTV Canada" plug-ins.
 
-9.  Set up the codecs (assuming you have purchased and received these already).
-You will want to set up all the codec gunk so the GPU is enabled with full
-hardware-assisted video decoding.  On all my units, I printed out all the codec
-information for each individual unit on stickers mounted to the side of the
-Raspberry Pi case right next to the HDMI connector.  Go to the "My OSMC" menu,
-enter "Pi Config" and head down to the "GPU Mem & Codec" submenu.  Enter the
-exact hexadecimal strings for your unit into the MPG2 and/or WVC1 License
-fields including the "0x" prefix, e.g.:  "0xdeadb33f".  Do the "OK" thing to
-save your new settings and then reboot your Raspberry Pi.
 
-After the Raspberry Pi has done rebooting, go back in again to the "My OSMC"
-menu, enter "Pi Config" again and check the "GPU Mem & Codec" submenu again.
-Make sure you see the strings above your newly entered codec say "MPG2=enabled,
-WVC1=enabled" (or similar, if you don't have a given codec entered, do not
-expect it to say "enabled";  if you do NOT see "enabled" for a codec that you
-entered properly, then go panic and commence heavy drinking because your $2
-codec failed to work with this unit... go buy another one or check your notes
-again for typos;  you will need to reboot each time to confirm that the new
-value "took" properly).  Once you have finished confirming the codecs are
-enabled, move onto the next step.
-
+# https://github.com/oss001/KodiStreaming/blob/master/setup.sh
 # https://makingstuffwork.net/technology/watch-netflix-amazon-prime-kodi/
-# wget https://github.com/oss001/KodiStreaming/blob/master/setup.sh
+# https://raspberrytips.com/install-netflix-on-kodi/
+# https://raw.githubusercontent.com/zjoasan/netflix-install-script/master/netflix_prep_install.sh
+# https://www.hackster.io/sbcomponentsuk/netflix-and-amazon-prime-video-now-streaming-on-raspberry-pi-44f3cb
 
 #!/bin/bash
 echo "Starting setup, this will only work on Kodi V18 or greater..."
-apt-get install python-pip python-crypto build-essential -y
-apt-get install python-all-dev python-setuptools python-wheel -y
-apt-get install python-crypto-dbg python-crypto-doc python-pip-whl -y
-pip install pycryptodomex
-ln -s /usr/lib/python2.7/dist-packages/Crypto /usr/lib/python2.7/dist-packages/Cryptodome
-wget https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip
-wget https://github.com/Sandmann79/xbmc/releases/download/v1.0.2/repository.sandmann79.plugins-1.0.2.zip
+apt-get update
+apt-get install -y build-essential libnspr4 libnss3 python-crypto python-pip python-setuptools
+pip install -U pip setuptools wheel pycryptodomex==3.8.2
+# Netflix
+wget https://github.com/CastagnaIT/plugin.video.netflix/archive/master.zip
+# wget https://github.com/CastagnaIT/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip
+# Amazon Prime
+# wget https://github.com/Sandmann79/xbmc/releases/download/v1.0.2/repository.sandmann79.plugins-1.0.2.zip
+
+# Enable installation from unknown sources
+# Install the zip crap from the add-on browser
