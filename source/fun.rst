@@ -111,3 +111,63 @@ Misc
 * https://sc5.io/posts/a-private-raspberry-pi-cloud-with-arm-docker/
 * https://www.instructables.com/id/DIY-Laptop-PowerBank/
 * https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
+
+
+Kubernetes
+----------
+
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
+* https://www.katacoda.com/courses/kubernetes
+* https://kubernetes.io/docs/tutorials/kubernetes-basics/
+* https://kubernetes.io/docs/tutorials/online-training/overview/
+* https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
+* https://www.digitalocean.com/resources/kubernetes/
+
+
+AWS
+---
+
+::
+    aws ec2 describe-images \
+        --region=us-east-1 \
+        --owners=amazon \
+        --filters='Name=name,Values=Windows_Server-2016-English-Full-Base*' \
+        --query='sort_by(Images, &CreationDate)[].[Name, ImageId][-1]'
+
+
+Self-hosted Ngrok
+-----------------
+
+nginx conf::
+
+    server {
+        server_name tunnel.yourdomain;
+
+        access_log /var/log/nginx/$host;
+
+        # These three lines are new.
+        listen 443 ssl;
+        ssl_certificate /path/to/tls/cert/fullchain.pem;
+        ssl_certificate_key /path/to/tls/cert/privkey.pem;
+
+        location / {
+          proxy_pass http://localhost:3333/;
+          proxy_set_header X-Real-IP $remote_addr;
+          proxy_set_header Host $host;
+          proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto https;
+          proxy_redirect off;
+        }
+
+        error_page 502 /50x.html;
+        location = /50x.html {
+          root /usr/share/nginx/html;
+        }
+    }
+
+bash lines::
+
+    python -m http.server 8888
+    ssh -R 3333:localhost:8888 yourdomain
+
+* https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html
