@@ -49,3 +49,65 @@ Custom Cases
 
 * http://fuzzcraft.com/flightcasediy.html
 * https://www.amazon.ca/s/ref=bl_dp_s_web_3006902011?ie=UTF8&node=3006902011&field-brandtextbin=Reliable+Hardware
+
+
+2FA
+---
+
+* https://karl-voit.at/2019/03/03/oathtool-otp/
+* https://www.sendthemtomir.com/blog/cli-2-factor-authentication
+
+
+Python PDF + Contacts
+---------------------
+
+* http://eventable.github.io/vobject/
+* https://github.com/JazzCore/python-pdfkit
+* https://github.com/rst2pdf/rst2pdf/blob/master/rst2pdf/createpdf.py
+* https://rst2pdf.org/static/manual.html
+* http://www.marknagelberg.com/creating-pdf-reports-with-python-pdfkit-and-jinja2-templates/
+* http://www.devshed.com/c/a/Python/Python-for-PDF-Generation/
+
+
+Docker + Alpine Linux
+---------------------
+
+* https://www.wezm.net/technical/2019/02/alpine-linux-docker-infrastructure/
+
+
+VMware + VirtualBox
+-------------------
+
+Commands to dump IPs/MACs::
+
+    VBoxManage guestproperty enumerate foo | grep IP
+    VBoxManage guestproperty get foo '/VirtualBox/GuestInfo/Net/0/V4/IP'
+    VBoxManage showvminfo foo --machinereadable | grep macaddress
+
+    vmrun getGuestIPAddress foo.vmx
+
+
+Pine64
+------
+
+* https://www.linux.com/blog/2019/2/pine64-launch-open-source-phone-laptop-tablet-and-camera
+* https://forum.pine64.org/showthread.php?tid=7093&pid=43850#pid43850
+* https://archlinuxarm.org/platforms/armv8/rockchip/rock64
+* https://www.pine64.org/
+
+
+Misc
+----
+
+* https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup/
+* https://mosh.org/
+* https://smallstep.com/blog/everything-pki.html
+* https://code.mradford.com/post/the-ubuntu-compiz-desktop/
+* https://www.remove.bg/
+* https://blog.tjll.net/distributed-homelab-cluster/
+* https://ro14nd.de/kubernetes-on-raspberry-pi3
+* https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/
+* https://blog.alexellis.io/serverless-kubernetes-on-raspberry-pi/
+* https://sc5.io/posts/a-private-raspberry-pi-cloud-with-arm-docker/
+* https://www.instructables.com/id/DIY-Laptop-PowerBank/
+* https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
