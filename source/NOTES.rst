@@ -386,3 +386,14 @@ Crypto
 
 * https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
 * https://github.com/sustrik/crypto-for-kids
+
+
+Kanban
+------
+
+* https://github.com/greggigon/my-personal-kanban
+* http://greggigon.github.io/my-personal-kanban/
+* https://my-personal-kanban.appspot.com/
+
+::
+    cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
