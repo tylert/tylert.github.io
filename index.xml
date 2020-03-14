@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mu</title>
+    <link>http://tylert.draak.ca/</link>
+    <description>Recent content on Mu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:48:26 -0400</lastBuildDate>
+    
+	<atom:link href="http://tylert.draak.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://tylert.draak.ca/posts/test/</link>
+      <pubDate>Sat, 14 Mar 2020 15:48:26 -0400</pubDate>
+      
+      <guid>http://tylert.draak.ca/posts/test/</guid>
+      <description>Do some things here!</description>
+    </item>
+    
+  </channel>
+</rss>
