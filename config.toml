@@ -1,5 +1,0 @@
-baseURL = "http://tylert.draak.ca/"
-languageCode = "en-ca"
-title = "Mu"
-theme = "m10c"
-publishdir = "."
