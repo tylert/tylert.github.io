@@ -101,83 +101,51 @@ Fix Broken Stuff
 ----------------
 
 
-Fix Locale
-~~~~~~~~~~
-
-FIXME Do this better.
+Fix Locale/Keyboard/Timezone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ::
 
-    sudo raspi-config
-    # 'Internationalisation Options' -> 'Change Locale'
-    # Select 'en_CA.UTF-8'
-
-
-Fix Keyboard
-~~~~~~~~~~~~
-
-FIXME Do this better.
-
-::
-
-    sudo raspi-config
-    # 'Internationalisation Options' -> 'Change Keyboard Layout'
-    # Select 'English (US)'
-
-
-Fix Password
-~~~~~~~~~~~~
-
-FIXME Do this better.
-
-::
-
-    sudo raspi-config
-    # 'Change User Password'
-    # Type in new password
-
-
-Fix Timezone
-~~~~~~~~~~~~
-
-FIXME Do this better.
-
-::
-
-    sudo raspi-config
-    # 'Internationalisation Options' -> 'Change Timezone'
-    # Select 'America/Toronto'
+    sudo raspi-config nonint do_change_locale en_CA.UTF-8
+    sudo raspi-config nonint do_configure_keyboard us
+    sudo raspi-config nonint do_change_timezone America/Toronto
 
 
 Fix WiFi Country
 ~~~~~~~~~~~~~~~~
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     sudo raspi-config
     # 'Internationalisation Options' -> 'Change Wi-fi Country'
     # Select 'CA Canada'
 
 
+Fix Password
+~~~~~~~~~~~~
+
+FIXME Do this better::
+
+    sudo raspi-config
+    # 'Change User Password'
+    # Type in new password
+
+
 Fix Overscan
 ~~~~~~~~~~~~
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     # Uncomment 'disable_overscan=1' in /boot/config.txt
     sudo reboot
+
+    # sudo raspi-config nonint do_overscan 1
 
 
 Remove Boot Logo
 ~~~~~~~~~~~~~~~~
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     # Add ' logo.nologo' to the end of /boot/cmdline.txt
     sudo reboot
@@ -186,9 +154,7 @@ FIXME Do this better.
 Fix Hostname
 ~~~~~~~~~~~~
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     sudo raspi-config
     # 'Advanced Options' -> 'Hostname'
@@ -208,13 +174,20 @@ Images are always stale.  Update them with::
 Enable SSH
 ~~~~~~~~~~
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     sudo raspi-config
     # 'Advanced Options' -> 'SSH'
     # Select 'yes'
+
+
+Other
+~~~~~
+
+FIXME Do you want these too?::
+
+    sudo raspi-config nonint do_blanking 1
+    sudo raspi-config nonint do_memory_split 128
 
 
 Activate MPEG Stuff
@@ -225,9 +198,7 @@ http://www.raspberrypi.com/vc-1-license-key/.
 
 Wait up to 24 hours for an email to arrive with your keys.
 
-FIXME Do this better.
-
-::
+FIXME Do this better::
 
     # Add 'decode_MPG2=0xdeadbeef' to /boot/config.txt
     # Add 'decode_WVC1=0xdeadbeef' to /boot/config.txt
