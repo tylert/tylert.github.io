@@ -112,6 +112,8 @@ Fix Locale/Keyboard/Timezone
     sudo raspi-config nonint do_configure_keyboard us
     sudo raspi-config nonint do_change_timezone America/Toronto
 
+    sudo raspi-config nonint do_change_timezone UTC
+
 
 Fix WiFi Country
 ~~~~~~~~~~~~~~~~
@@ -119,7 +121,7 @@ Fix WiFi Country
 FIXME Do this better::
 
     sudo raspi-config
-    # 'Internationalisation Options' -> 'Change Wi-fi Country'
+    # 'Localisation Options' -> 'Change Wi-fi Country'
     # Select 'CA Canada'
 
 
@@ -219,3 +221,12 @@ The less painful way of enabling the codecs::
 
 * https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
 * https://news.ycombinator.com/item?id=16381331
+
+
+
+Get rid of stupid SSH password warning
+--------------------------------------
+
+::
+
+    sudo apt purge libpam-chksshpwd
