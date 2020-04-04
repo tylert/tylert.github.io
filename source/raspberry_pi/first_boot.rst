@@ -96,6 +96,8 @@ If you have a pesky zip file::
     sudo dd if=2016-05-27-raspbian-jessie-lite.img of=/dev/sdc bs=4M
     sudo sync
 
+    touch /dev/sdc/boot/ssh
+
 
 Fix Broken Stuff
 ----------------
