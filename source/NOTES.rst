@@ -249,6 +249,11 @@ Awesome Stuff
 * https://nodered.org/
 * https://en.wikipedia.org/wiki/FreeRTOS
 * https://aws.amazon.com/freertos/
+* https://adventurekeep.com/
+* https://github.com/fluent/fluent-bit
+* https://github.com/codahale/sneaker
+* https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
+* https://lucperkins.dev/blog/introducing-tract/
 
 
 Git Stuff
