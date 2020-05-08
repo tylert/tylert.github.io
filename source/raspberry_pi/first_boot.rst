@@ -229,4 +229,4 @@ Get rid of stupid SSH password warning
 
 ::
 
-    sudo apt purge libpam-chksshpwd
+    sudo apt-get --yes purge libpam-chksshpwd
