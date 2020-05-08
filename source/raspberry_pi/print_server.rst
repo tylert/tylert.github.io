@@ -32,9 +32,21 @@ Or, fetch it here at brother_hl-2240d_ppd_.
 
 ::
 
-    # Add 'Allow @Local' after each 'Order allow,deny' in /etc/cups/cupsd.conf
-    # Add 'Port 631' after 'Listen' lines
+    sudo cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.orig
+
     # Comment out all 'Listen' lines
+    sudo sed -i '/^Listen /s/^/# /' /etc/cups/cupsd.conf
+
+    # Add 'Port 631' before 'Listen' lines
+    if ! grep Port /etc/cups/cupsd.conf; then
+        sudo sed -i '/Listen localhost:631/i Port 631' /etc/cups/cupsd.conf
+    fi
+
+    # Add 'Allow @Local' after each 'Order allow,deny'
+    if ! grep Allow /etc/cups/cupsd.conf; then
+        sudo sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
+    fi
+
 
 
 Printer Setup
