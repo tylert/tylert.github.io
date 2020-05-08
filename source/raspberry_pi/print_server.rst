@@ -15,12 +15,12 @@ Setup
 ::
 
     sudo apt-get --yes install avahi-daemon cups python-cups
-    sudo apt-get --yes install printer-driver-hpijs
+    sudo apt-get --yes install printer-driver-brlaser
 
 ::
 
     # Add user to 'lpadmin' group
-    sudo usermod -a -G lpadmin
+    sudo usermod -a -G lpadmin ${USER}
     newgrp lpadmin
 
 ::
