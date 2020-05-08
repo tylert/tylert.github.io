@@ -14,7 +14,7 @@ Setup
 
 ::
 
-    sudo apt-get --yes install avahi-daemon cups cups-pdf python-cups
+    sudo apt-get --yes install avahi-daemon cups python-cups
     sudo apt-get --yes install printer-driver-hpijs
 
 ::
