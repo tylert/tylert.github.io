@@ -20,6 +20,8 @@ Setup
 ::
 
     # Add user to 'lpadmin' group
+    sudo usermod -a -G lpadmin
+    newgrp lpadmin
 
 ::
 
