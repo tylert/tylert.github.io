@@ -12,18 +12,18 @@ Install Raspbian Lite as per the instructions found in first_boot_.
 Setup
 -----
 
-::
+Prepare to use CUPS::
 
+    # Install necessary printer packages
     sudo apt-get --yes install avahi-daemon cups python-cups
     sudo apt-get --yes install printer-driver-brlaser
 
-::
-
-    # Add user to 'lpadmin' group
+    # Add a user to the 'lpadmin' group (and refresh list without logging out)
+    # This is needed for the web admin login for CUPS
     sudo usermod -a -G lpadmin ${USER}
     newgrp lpadmin
 
-::
+If you're using a printer that is well-supported by the "printer-driver-brlaser" package (https://packages.debian.org/bullseye/printer-driver-brlaser) you won't need to do anything here.  If not, you might need to fetch a PPD file like this::
 
     wget -c https://njh.eu/Brother-HL-2240D-hpijs-pcl5e.ppd
     mv Brother-HL-2240D-hpijs-pcl5e.ppd /usr/share/ppd/custom
@@ -32,7 +32,7 @@ Or, fetch it here at brother_hl-2240d_ppd_.
 
 .. _brother_hl-2240d_ppd: Brother-HL-2240D-hpijs-pcl5e.ppd
 
-::
+Then, fix up the CUPS config file to allow remote administration via the web interface::
 
     sudo cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.orig
 
@@ -49,10 +49,14 @@ Or, fetch it here at brother_hl-2240d_ppd_.
         sudo sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
     fi
 
+    sudo /etc/init.d/cupsd restart
+
 
 
 Printer Setup
 -------------
+
+XXX FIXME TODO Clean this part up!!!
 
 Visit https://hostname:631/admin/.
 
