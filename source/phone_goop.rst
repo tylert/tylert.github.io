@@ -1,11 +1,11 @@
 Upgrade Preparations
 --------------------
 
-#. Try to completely update your phone to the latest official Android load first.
+#. Completely update your phone to the latest official Android load first.
 #. Make sure you backup all local data on your phone, if applicable (DCIM, Ringtones, Downloads, etc.).
-#. Go to "Settings -> About phone", tap "Build number" 7 times.
-#. Go to "Developer options" and enable "Android debugging" (ADB USB debugging).
-#. Enable OEM unlocking in Developer options;  May require stupidity like `adb shell pm uninstall --user 0 com.android.phone`.
+#. Use "Settings", go to "About phone", tap "Build number" 7 times.
+#. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
+#. Use "Settings", go to "System -> Advanced -> Developer options", enable "OEM unlocking";  May require stupidity like `adb shell pm uninstall --user 0 com.android.phone`, reboot after changing this.
 #. Follow all installation instructions for your chosen Android load (e.g.:  LineageOS, /e/, etc.).
 #. Reboot into the new system when you're finished with all the installation steps.
 
@@ -13,23 +13,27 @@ Upgrade Preparations
 Factory-Fresh Setup
 -------------------
 
-#. Allow the phone to finish booting to the welcome screen, hit NEXT.
-#. Select "English (Canada)", hit NEXT.
-#. Select your timezone ("Eastern"), hit NEXT.
-#. At Wi-Fi setup, turn off "Open network notification", go back, Connect to your Wi-Fi accesspoint, hit NEXT.
-#. At "Turn on cellular data" make sure your provider is ticked, hit NEXT.
-#. Location services leave "Allow apps that have asked your permission" ticked, hit NEXT.
-#. Untick "Help improve LineageOS", hit NEXT.
-#. At "Fingerprint setup" just hit SKIP.
-#. Protect your phone hit SET UP, PIN, Secure start-up YES, punch in your PIN twice, hit NEXT.
-#. At the final screen, hit START.
+#. At the welcome screen, hit "NEXT".
+#. At "Language", select "English (Canada)", hit "NEXT".
+#. At "Date and Time", select your timezone ("Eastern Time GMT-4:00"), hit "NEXT".
+#. At "Wi-Fi", turn off "Open network notification", connect to your Wi-Fi accesspoint, hit "NEXT".
+#. At "Turn on cellular data", enable your service provider, hit "NEXT".
+#. At "Location services", tick "Allow apps that have asked your permission", hit "NEXT".
+#. At "LineageOS features", untick "Help improve LineageOS", hit "NEXT".
+#. At "Fingerprint setup", hit "SKIP".
+#. At "Protect your phone", hit "SET UP", choose PIN, enter it twice, hit "NEXT".
+#. At the final screen, hit "START".
+#. Acknowledge the "Discover Trust" notification, hit "GOT IT".
+#. Use "Settings", go to "About phone", tap "Build number" 7 times.
+#. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
 
 
 Install F-Droid and Other Apps
 ------------------------------
 
-#. Use "Browser", visit https://f-droid.org, download and install F-Droid app after allowing "Browser" to install apps from unknown sources.
-#. Use "Settings", disable "Browser" from installing apps from unknown sources again.
+#. Use "Browser", visit https://f-droid.org, download and install F-Droid app after allowing "Browser" to acces photos and media on this device and allow install unknown apps permission.
+#. Use "Files", complete the installation of "F-Droid".
+#. Use "Settings", revoke permission for "Browser" to install unknown apps.
 #. Use "Files", delete the downloaded copy of the F-Droid app.
 #. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
   * "FFUpdater"
@@ -37,9 +41,8 @@ Install F-Droid and Other Apps
   * "K-9 Mail"
   * "KeePassDX"
   * "Maps and GPS Navigation OsmAnd+"
-  * "OpenKeychain:  Easy PGP"
 #. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
-#. Use "FFUpdater", install "Firefox Browser" and allow it to install apps from unknown sources.
+#. Use "FFUpdater", hit "+", select "Firefox Browser", allow access photos and media and allow install apps from unknown sources.
 #. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.
 #. Remove all the junk from your home screen and move your icons around as desired.
 
