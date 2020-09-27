@@ -43,7 +43,7 @@ Install F-Droid and Other Apps
   * "Maps and GPS Navigation OsmAnd+"
 #. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
 #. Use "FFUpdater", hit "+", select "Firefox Browser", allow access photos and media and allow install apps from unknown sources.
-#. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.
+#. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.  Allow it to access location all the time.
 #. Remove all the junk from your home screen and move your icons around as desired.
 
 
