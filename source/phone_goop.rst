@@ -52,26 +52,38 @@ Configure Firefox
 
 ::
 
-    Set Firefox as default browser
-    Search
-      DuckDuckGo:  Default
-      Delete all other engines
-      Show search history:  Off
-    Privacy
-      Do not track ON
-      Tracking protection:  Enabled
-      Cookies:  Enabled, excluding 3rd party
-      Clear private data on exit:  Select all
-      Remember logins:  Off
-      Crash Reporter:  Off
-      Firefox Health Report:  Off
-    Notifications -> Product and feature tips OFF
+    Search:  select DuckDuckGo, delete the rest of the engines
+      Autocomplete URLs:  Off
+      Show clipboard suggestions:  Off
+      Search browsing history:  Off
+      Search bookmarks:  Off
+      Show search suggestions:  Off
+    Customize:
+      Toolbar:  Top
+      Show most visited sites:  Off
+    Logins and passwords:
+      Save logins and passwords:  Never save
+      Autofill:  Off
+    Set as default browser:  On
+    Private browsing:
+      Open links in a private tab:  On
+      Allow screenshots in private browsing:  On
+    Delete browsing data on quit:  On, select all types
+    Data collection:
+      Usage and technical data:  Off
+      Marketing data:  Off
+      Experiments:  Off
 
 
 Configure K-9 Mail
 ------------------
 
-Fill in the settings you obtained from your email admin/provider.
+Fill in the settings you obtained from your email admin/provider and configure
+
+Poll every 1 hour
+1000 messages
+
+the settings for the app as follows:
 
 ::
 
@@ -82,8 +94,8 @@ Fill in the settings you obtained from your email admin/provider.
         Show stars:  Off
         Multi-select checkboxes:  On
         Show correspondent names:  Off
-        Correspondent above subject:  On
         Show contact pictures:  Off
+        Visible message actions: Delete, Move
       Interaction:
         Return to list after delete:  On
       Notifications:
@@ -98,7 +110,7 @@ Fill in the settings you obtained from your email admin/provider.
         Poll folders:  All
         Push folders:  All
         Advanced:
-          Max folders to check with push:  50 folders
+          Max folders to check with push:  1000 folders
       Sending mail:
         Composition defaults:
           Use Signature:  Off
