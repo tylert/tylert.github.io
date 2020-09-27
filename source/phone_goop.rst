@@ -1,55 +1,113 @@
-Things to do before upgrading your phone
-----------------------------------------
+Upgrade Preparations
+--------------------
 
-1.  Try to update your phone to the latest firmware from your provider
-1.  Make sure you backup local data from your phone (photos, messages, etc.)
-1.  Go to "Settings -> About phone", tap "Build number" 7 times
-1.  Go to "Developer options" and enable "Android debugging" (ADB USB debugging)
-1.  Enable OEM unlocking in Developer options
-1.  On your computer, download the requisite /e/ and TWRP images for your phone
-
-
-Actually upgrading your phone
------------------------------
-
-1.  Install adb and fastboot
-1.  Connect the phone to the computer
-1.  ``adb reboot bootloader``
-1.  ``fastboot flashing unlock``
-1.  ``fastboot flash recovery bla-bla-bla-bla.img``
-1.  ``fastboot boot bla-bla-bla-bla.img``
-1.  Do some stuff in the recovery to wipe/format a bunch of things (follow the instructions for your phone)
-1.  Tell the phone to expect a sideload
-1.  ``adb sideload bla-bla-bla-bla.zip``
-1.  Do the thing that prevents custom recovery from being overwritten again
-1.  Reboot into system
+#. Try to completely update your phone to the latest official Android load first.
+#. Make sure you backup all local data on your phone, if applicable (DCIM, Ringtones, Downloads, etc.).
+#. Go to "Settings -> About phone", tap "Build number" 7 times.
+#. Go to "Developer options" and enable "Android debugging" (ADB USB debugging).
+#. Enable OEM unlocking in Developer options;  May require stupidity like `adb shell pm uninstall --user 0 com.android.phone`.
+#. Follow all installation instructions for your chosen Android load (e.g.:  LineageOS, /e/, etc.).
+#. Reboot into the new system when you're finished with all the installation steps.
 
 
-First-time setup
-----------------
+Factory-Fresh Setup
+-------------------
 
-1.  Allow it to encrypt everything automatically and finish booting
-1.  At the intro screen, hit NEXT
-1.  Select "English (Canada)", hit NEXT
-1.  Select your timezone, hit NEXT
-1.  Under Wi-Fi preferences, turn off "Open network notification", go back, Connect to Wi-Fi accesspoint, hit NEXT
-1.  At "Turn on cellular data" leave it unticked, hit NEXT
-1.  Location services leave "Allow apps that have asked your permission" ticked, hit NEXT
-1.  Untick "Help improve LineageOS", Tick "Enable Privacy Guard", hit NEXT
-1.  At "Fingerprint setup" just hit SKIP
-1.  Protect your phone hit SET UP, PIN, Secure start-up YES, punch in your PIN twice, hit NEXT
-1.  At the final screen, hit START
+#. Allow the phone to finish booting to the welcome screen, hit NEXT.
+#. Select "English (Canada)", hit NEXT.
+#. Select your timezone ("Eastern"), hit NEXT.
+#. At Wi-Fi setup, turn off "Open network notification", go back, Connect to your Wi-Fi accesspoint, hit NEXT.
+#. At "Turn on cellular data" make sure your provider is ticked, hit NEXT.
+#. Location services leave "Allow apps that have asked your permission" ticked, hit NEXT.
+#. Untick "Help improve LineageOS", hit NEXT.
+#. At "Fingerprint setup" just hit SKIP.
+#. Protect your phone hit SET UP, PIN, Secure start-up YES, punch in your PIN twice, hit NEXT.
+#. At the final screen, hit START.
 
 
-Enable mobile networking
-------------------------
+Install F-Droid and Other Apps
+------------------------------
 
-If you don't have any phone network access after booting, go into "Settings ->
-Security & privacy" and set your screen lock to none then reboot.  After
-rebooting, go back in and restore your screen lock protection again.
+#. Use "Browser", visit https://f-droid.org, download and install F-Droid app after allowing "Browser" to install apps from unknown sources.
+#. Use "Settings", disable "Browser" from installing apps from unknown sources again.
+#. Use "Files", delete the downloaded copy of the F-Droid app.
+#. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
+  * "FFUpdater"
+  * "Locker"
+  * "K-9 Mail"
+  * "KeePassDX"
+  * "Maps and GPS Navigation OsmAnd+"
+  * "OpenKeychain:  Easy PGP"
+#. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
+#. Use "FFUpdater", install "Firefox Browser" and allow it to install apps from unknown sources.
+#. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.
+#. Remove all the junk from your home screen and move your icons around as desired.
 
-Then go under "Network & Internet -> Mobile network -> Mobile data" and turn it
-on.
+
+Configure Firefox
+-----------------
+
+::
+
+    Set Firefox as default browser
+    Search
+      DuckDuckGo:  Default
+      Delete all other engines
+      Show search history:  Off
+    Privacy
+      Do not track ON
+      Tracking protection:  Enabled
+      Cookies:  Enabled, excluding 3rd party
+      Clear private data on exit:  Select all
+      Remember logins:  Off
+      Crash Reporter:  Off
+      Firefox Health Report:  Off
+    Notifications -> Product and feature tips OFF
+
+
+Configure K-9 Mail
+------------------
+
+Fill in the settings you obtained from your email admin/provider.
+
+::
+
+    Global Settings:
+      Display:
+        Theme:  Dark
+        Animation:  Do not use gaudy visual effects
+        Show stars:  Off
+        Multi-select checkboxes:  On
+        Show correspondent names:  Off
+        Correspondent above subject:  On
+        Show contact pictures:  Off
+      Interaction:
+        Return to list after delete:  On
+      Notifications:
+        Show Delete button:  Always
+      Cryptography:
+        OpenPGP app:  OpenKeychain
+    Account Settings:
+      Fetching mail:
+        Local folder size:  all messages
+        Fetch messages up to:  any size (no limit)
+        Folder poll frequency:  Every hour
+        Poll folders:  All
+        Push folders:  All
+        Advanced:
+          Max folders to check with push:  50 folders
+      Sending mail:
+        Composition defaults:
+          Use Signature:  Off
+        Message Format:  Plain Text (remove images and formatting)
+      Folders:
+        Folders to display:  All
+        Move/copy destination folders:  All
+        Folders to search:  All
+        Archive folder:  -NONE-
+      Notifications:
+        Vibrate:  On
+        Blink LED:  On
 
 
 Make the keyboard less annoying
@@ -68,7 +126,7 @@ Make some other customizations
 
 Set the default ringtone, notification and alarm sounds.
 
-Battery -> Battery percentage ON
+Battery -> Battery percentage "Next to the icon".
 
 System -> Date & time -> Use 24-hour format ON
 
@@ -77,91 +135,3 @@ NFC, Bluetooth.
 
 Set the warning and limit values for the mobile data usage and adjust your
 billing cycle period.
-
-
-Install F-Droid and apps
-------------------------
-
-Visit https://f-droid.org then download and install the F-Droid app.
-
-Install the following apps:
-
-* Barcode Scanner
-* FFUpdater (to automatically yank down Firefox/Fennec apk)
-* FreeOTP+ (to handle TOTP stuff since KeePassDroid doesn't)
-* K-9 Mail
-* KeePassDroid
-* OpenKeychain (to handle encrypted/signed emails)
-* OsmAnd+ (for navigation goodness)
-* Syncopoli (to automatically synchronize files to/from phone<->server)
-
-
-Downloading maps for Osmand
----------------------------
-
-The in-app download function seems to be horribly slow.  Visit
-https://download.osmand.net/list.php and fetch your desired maps.  You may then
-connect for a USB file transfer and load these .obf files directly into the
-osmand folder on your phone.
-
-
-Configure K-9 Mail
-------------------
-
-Fill in the settings you obtained from your email admin/provider.
-
-Global Settings:
-  Display:
-    Theme:  Dark
-    Animation:  Do not use gaudy visual effects
-    Show stars:  Off
-    Multi-select checkboxes:  On
-    Show correspondent names:  Off
-    Correspondent above subject:  On
-    Show contact pictures:  Off
-  Interaction:
-    Return to list after delete:  On
-  Notifications:
-    Show Delete button:  Always
-  Cryptography:
-    OpenPGP app:  OpenKeychain
-Account Settings:
-  Fetching mail:
-    Local folder size:  all messages
-    Fetch messages up to:  any size (no limit)
-    Folder poll frequency:  Every hour
-    Poll folders:  All
-    Push folders:  All
-    Advanced:
-      Max folders to check with push:  50 folders
-  Sending mail:
-    Composition defaults:
-      Use Signature:  Off
-    Message Format:  Plain Text (remove images and formatting)
-  Folders:
-    Folders to display:  All
-    Move/copy destination folders:  All
-    Folders to search:  All
-    Archive folder:  -NONE-
-  Notifications:
-    Vibrate:  On
-    Blink LED:  On
-
-
-Configure Firefox
------------------
-
-Set Firefox as default browser
-Search
-  DuckDuckGo:  Default
-  Delete all other engines
-  Show search history:  Off
-Privacy
-  Do not track ON
-  Tracking protection:  Enabled
-  Cookies:  Enabled, excluding 3rd party
-  Clear private data on exit:  Select all
-  Remember logins:  Off
-  Crash Reporter:  Off
-  Firefox Health Report:  Off
-Notifications -> Product and feature tips OFF
