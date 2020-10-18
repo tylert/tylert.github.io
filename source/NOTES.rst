@@ -12,6 +12,17 @@ Python Stuff
 * https://codingdose.info/2019/06/15/how-to-use-a-progress-bar-in-python/
 * https://github.com/niltonvolpato/python-progressbar/blob/master/examples.py
 
+::
+
+    import itertools
+
+    for perm in itertools.permutations("thing to use for anagram"):
+        print(''.join(perm))
+
+    # Examples:
+    # "setec astronomy" is an anagram for "too many secrets"
+    # "keynote shogun" is an anagram for "not enough keys"
+
 
 Go Stuff
 --------
@@ -258,6 +269,11 @@ Awesome Stuff
 * https://github.com/codahale/sneaker
 * https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
 * https://lucperkins.dev/blog/introducing-tract/
+* https://learn.hashicorp.com/tutorials/terraform/count
+* https://blog.hansenpartnership.com/creating-a-home-ipv6-network/
+* https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
+* https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
+* https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 
 
 Git Stuff
