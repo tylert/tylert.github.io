@@ -7,20 +7,17 @@ Raspberry Pi Stuff
 * https://gist.github.com/abulte/3941653
 * https://gist.github.com/sturadnidge/5630813
 * https://github.com/Wookie/rpi_image_builder
+* https://github.com/RPi-Distro/pi-gen
 * https://12dash.com
+* https://mytruemedia.com/best-kodi-addons/how-to-install-netflix-kodi-18-addon/
+* http://downloads.raspberrypi.org/
+* http://www.berryterminal.com/doku.php/berryboot
 
+
+Raspbian Stuff
+--------------
 
 ::
-
-    # On Mac OS X
-    wget https://downloads.raspberrypi.org/raspbian_lite_latest -O 2015-11-21-raspbian-jessie-lite.zip
-    shasum -a 1 2015-11-21-raspbian-jessie-lite.zip
-    # sha1sum 97888fcd9bfbbae2a359b0f1d199850852bf0104
-    unzip 2015-11-21-raspbian-jessie-lite.zip
-    diskutil unmountDisk /dev/disk2
-    sudo dd if=2015-11-21-raspbian-jessie-lite.img of=/dev/disk2 bs=4m
-
-    # On Raspbian
     sudo dpkg-reconfigure locales
     sudo raspi-config --expand-rootfs ; sudo reboot
 
