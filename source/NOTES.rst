@@ -431,3 +431,15 @@ Kanban
 
 ::
     cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
+
+
+More
+----
+
+* https://davidoha.medium.com/avoiding-bash-frustration-use-python-for-shell-scripts-44bba8ba1e9e
+* https://dzone.com/articles/creating-a-highly-available-k3s-cluster
+* https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge/
+* https://github.com/stephank/lazyssh
+* https://jamstack.org/
+* https://www.wsta.org/wp-content/uploads/2018/09/Best-Practices-for-DevOps-Advanced-Deployment-Patterns.pdf
+* https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
