@@ -12,6 +12,7 @@ Configuring EdgeRouter Properly
 * https://nelsonslog.wordpress.com/2018/06/26/ubiquiti-edgemax-edgeos-local-dns/
 * https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
 * https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
+* https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
 * https://www.edgerouterconfig.nl/reset-edgerouter-to-factroy-defaults/
 * https://mynetworktraining.com/blog/216523/reset-the-configuration-of-the-ubiquiti-edgerouter-x-to-default
 
