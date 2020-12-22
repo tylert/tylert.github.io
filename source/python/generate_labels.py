@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-import uuid
-import io
+from uuid import uuid4
+# import io
 
 import click
 from shortuuid import ShortUUID
@@ -10,6 +10,16 @@ from svglib.svglib import svg2rlg
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from reportlab.graphics import renderPDF
+
+
+def get_short_uuid(alphabet):
+    ''''''
+
+    return ShortUUID(alphabet=alphabet).encode(uuid4())
+
+
+def dump_qr_code(shortuuid, filename):
+    segno.make(shortuuid).save(filename)
 
 
 @click.command()
@@ -22,21 +32,32 @@ from reportlab.graphics import renderPDF
 def main(alphabet, thingy, whatzit):
     '''Main function'''
 
-    # Make the UUID
-    shortening = ShortUUID(alphabet=alphabet)
-    a_short_uuid = shortening.encode(uuid.uuid4())
-
-    # Make the QR code containing the UUID
-    buff = io.BytesIO()
+    # buff = io.BytesIO()
     # svg = segno.make(a_short_uuid).save(buff, kind='svg', xmldecl=False, svgns=False)
-    segno.make(a_short_uuid).save(whatzit)
 
-    # Place the QR code and the human-readable UUID in the PDF
     canv = canvas.Canvas(thingy, pagesize=letter)
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, whatzit)
     drawing = svg2rlg(whatzit)
-    renderPDF.draw(drawing, canv, 35, 730)
-    canv.drawString(70, 750, 'asset.link')
-    canv.drawString(70, 735, a_short_uuid)
+    renderPDF.draw(drawing, canv, 35, 725)
+    canv.drawString(70, 745, 'asset.link')
+    canv.drawString(70, 731, a_short_uuid)
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, whatzit)
+    drawing = svg2rlg(whatzit)
+    renderPDF.draw(drawing, canv, 35, 675)
+    canv.drawString(70, 695, 'asset.link')
+    canv.drawString(70, 681, a_short_uuid)
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, whatzit)
+    drawing = svg2rlg(whatzit)
+    renderPDF.draw(drawing, canv, 35, 625)
+    canv.drawString(70, 645, 'asset.link')
+    canv.drawString(70, 631, a_short_uuid)
+
     canv.save()
 
 
