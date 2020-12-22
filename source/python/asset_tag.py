@@ -2,9 +2,8 @@
 
 import uuid
 
-import shortuuid
 import click
-# import segno
+from shortuuid import ShortUUID
 
 
 @click.command()
@@ -17,13 +16,12 @@ import click
 def main(alphabet, decode):
     '''Main function'''
 
-    shortener = shortuuid.ShortUUID(alphabet=alphabet)
-    a_uuid = uuid.uuid4()
+    shortening = ShortUUID(alphabet=alphabet)
 
     if decode:
-        print(shortener.decode(decode))
+        print(shortening.decode(decode))
     else:
-        print(shortener.encode(a_uuid))
+        print(shortening.encode(uuid.uuid4()))
 
 
 if __name__ == '__main__':
