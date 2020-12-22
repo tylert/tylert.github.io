@@ -26,14 +26,17 @@ def dump_qr_code(shortuuid, filename):
 @click.option('--alphabet', '-a',
               default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
               help='Alphabet to use with UUID shortener (default base58)')
-@click.option('--thingy', '-t', default=None, help='Filename to write PDF into')
-@click.option('--whatzit', '-w', default=None, help='Filename to write SVG into')
+@click.option('--thingy', '-t', default=None,
+              help='Filename to write PDF into')
+@click.option('--whatzit', '-w', default=None,
+              help='Filename to write SVG into')
 @click.help_option('--help', '-h')
 def main(alphabet, thingy, whatzit):
     '''Main function'''
 
     # buff = io.BytesIO()
-    # svg = segno.make(a_short_uuid).save(buff, kind='svg', xmldecl=False, svgns=False)
+    # svg = segno.make(a_short_uuid).save(buff, kind='svg', xmldecl=False,
+    #                                     svgns=False)
 
     canv = canvas.Canvas(thingy, pagesize=letter)
 

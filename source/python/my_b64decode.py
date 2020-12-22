@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-#from base64 import b64decode
 import base64
 
 
 def b64_wtf(input_filename, output_filename):
+    ''''''
     with open(input_filename, 'r') as input_file, \
             open(output_filename, 'wb') as output_file:
         encoded = input_file.read()
