@@ -121,10 +121,7 @@ Docker
 Documentation
 -------------
 
-* http://ditaa.sourceforge.net/ ``Diagrams Through Ascii Art``
 * https://github.com/dhobsd/asciitosvg
-* http://pandoc.org/
-  ``convert files from one markup format into another, pandoc is your swiss-army knife``
 
 
 Front End / UI
@@ -178,12 +175,6 @@ Networking / TCP
 * https://blog.buoyant.io/2017/03/29/introducing-linkerd-tcp/
   ``service aware Load balancer``
 * https://docs.traefik.io/ ``HTTP reverse proxy and load balancer``
-
-
-Object Storage / S3
--------------------
-
-* https://www.minio.io/ ``distributed object storage server written in Go``
 
 
 Onboarding new staff/devs/etc.

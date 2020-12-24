@@ -32,32 +32,13 @@ Magnetometer
 * https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
-EdgeRouter X
-------------
+PiHole Raspbian
+---------------
 
-* https://kb.intermedia.net/Article/44415
-
-
-Unifi/PiHole Raspbian
----------------------
-
-* https://gist.github.com/codeniko/381e8be3b0236a602e02f0a9fac13b3d
-* https://bobmckay.com/coding-for-kids/running-ubiquiti-unifi-controller-raspberry-pi/
 * https://raspberrypi.stackexchange.com/questions/58732/remove-ssh-warning-about-default-password
 * https://github.com/pi-hole/pi-hole/#one-step-automated-install
 
 ::
-
-    # UniFi
-    sudo apt-get --yes install openjdk-8-jre-headless
-    sudo apt-get --yes install ./unifi_sysvinit_all.deb
-    sudo apt-get --yes purge libpam-chksshpwd
-
-    # UniFi alternate?
-    echo 'deb http://www.ubnt.com/downloads/unifi/debian unifi5 ubiquiti' | sudo tee -a /etc/apt/sources.list.d/ubnt.list > /dev/null
-    sudo apt-get --yes install dirmngr
-    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv C0A52C50
-    sudo apt-get --yes install unifi
 
     # PiHole
     wget -O basic-install.sh https://install.pi-hole.net

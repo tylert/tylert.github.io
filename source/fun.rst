@@ -87,15 +87,6 @@ Commands to dump IPs/MACs::
     vmrun getGuestIPAddress foo.vmx
 
 
-Pine64
-------
-
-* https://www.linux.com/blog/2019/2/pine64-launch-open-source-phone-laptop-tablet-and-camera
-* https://forum.pine64.org/showthread.php?tid=7093&pid=43850#pid43850
-* https://archlinuxarm.org/platforms/armv8/rockchip/rock64
-* https://www.pine64.org/
-
-
 Misc
 ----
 
@@ -133,41 +124,3 @@ AWS
         --owners=amazon \
         --filters='Name=name,Values=Windows_Server-2016-English-Full-Base*' \
         --query='sort_by(Images, &CreationDate)[].[Name, ImageId][-1]'
-
-
-Self-hosted Ngrok
------------------
-
-nginx conf::
-
-    server {
-        server_name tunnel.yourdomain;
-
-        access_log /var/log/nginx/$host;
-
-        # These three lines are new.
-        listen 443 ssl;
-        ssl_certificate /path/to/tls/cert/fullchain.pem;
-        ssl_certificate_key /path/to/tls/cert/privkey.pem;
-
-        location / {
-          proxy_pass http://localhost:3333/;
-          proxy_set_header X-Real-IP $remote_addr;
-          proxy_set_header Host $host;
-          proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto https;
-          proxy_redirect off;
-        }
-
-        error_page 502 /50x.html;
-        location = /50x.html {
-          root /usr/share/nginx/html;
-        }
-    }
-
-bash lines::
-
-    python -m http.server 8888
-    ssh -R 3333:localhost:8888 yourdomain
-
-* https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html

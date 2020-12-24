@@ -89,10 +89,8 @@ Getting Things Done
 Assorted Crap
 -------------
 
-* https://github.com/awesome-selfhosted/awesome-selfhosted/
 * https://layerci.com/blog/postgres-is-the-answer/
 * https://github.com/kelseyhightower/consul-on-kubernetes
-* https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard
 * https://kasvith.github.io/posts/lets-create-a-simple-lb-go/
 * https://zwischenzugs.com/2016/04/04/convert-any-server-to-a-docker-container-updated/
 * https://www.wezm.net/technical/2019/10/useful-command-line-tools/
@@ -100,5 +98,4 @@ Assorted Crap
 * https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing/
 * https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html
 * https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/
-* https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard
 * https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers/

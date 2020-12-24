@@ -144,8 +144,6 @@ Backups
 * http://www.mikerubel.org/computers/rsync_snapshots/
 * http://www.unixmen.com/install-crashplan-backup-tool-in-linux/
 * https://blog.interlinked.org/tutorials/rsync_time_machine.html
-* https://github.com/Backblaze/B2_Command_Line_Tool
-* https://www.backblaze.com/b2/cloud-storage.html
 
 
 Assorted Things-to-Read
@@ -180,12 +178,6 @@ Stuff to watch
 --------------
 
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
-
-
-Zoom Stuff
-----------
-
-* https://support.zoom.us/hc/en-us/articles/204206269-Linux-Installation
 
 
 MySQL Stuff
