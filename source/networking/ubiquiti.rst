@@ -1,13 +1,31 @@
+Rebuilding EdgeRouter
+---------------------
+
+1. Boot router with "factory defaults" (refer to "quick start guide").
+1. Login to the web UI with "ubnt:ubnt".
+1. Make sure the firmware is up-to-date.
+1. Login via SSH and install wireguard-vyatta-ubnt.
+1. Use the "Basic Setup" wizard (set LAN port address and new password).
+1. Boot router "normally" and put it into full service.
+1. Login to the web UI with new username/password.
+1. Decline to send data to Ubiquiti and do not start any wizards.
+1. Disable "UNMS Connection (beta)" and "UBNT Discovery" and click save.
+1. Set the hostname and click save.
+1. Enable "Traffic Analysis".
+1. Turn on "Smart Queue" QoS:  Policy name 'lte', WAN interface "eth0", set upload and download rates
+1. Switch to using dnsmasq for DHCP.
+1. Reboot.
+
+* https://github.com/WireGuard/wireguard-vyatta-ubnt
+
+
 Configuring EdgeRouter Properly
 -------------------------------
 
 * https://kb.intermedia.net/Article/44415
-* https://nelsonslog.wordpress.com/2018/06/26/ubiquiti-edgemax-edgeos-local-dns/
-* https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
-* https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
 * https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
-* https://www.edgerouterconfig.nl/reset-edgerouter-to-factroy-defaults/
-* https://mynetworktraining.com/blog/216523/reset-the-configuration-of-the-ubiquiti-edgerouter-x-to-default
+* https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
+* https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
 
 ::
 
@@ -15,6 +33,7 @@ Configuring EdgeRouter Properly
     set service dhcp-server use-dnsmasq enable
     commit
     save
+    exit
 
 
 Installing UniFi Controller
