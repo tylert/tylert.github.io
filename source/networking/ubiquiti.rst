@@ -16,6 +16,9 @@ Rebuilding EdgeRouter
 #. Switch to using dnsmasq for DHCP.
 #. Reboot.
 
+.. image:: disable_sharing_data.png
+.. image:: start_wizard.png
+
 * https://github.com/WireGuard/wireguard-vyatta-ubnt
 
 
