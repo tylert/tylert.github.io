@@ -1,20 +1,20 @@
 Rebuilding EdgeRouter
 ---------------------
 
-1. Boot router with "factory defaults" (refer to "quick start guide").
-1. Login to the web UI with "ubnt:ubnt".
-1. Make sure the firmware is up-to-date.
-1. Decline to send data to Ubiquiti and do not start any wizards.
-1. Disable "UNMS Connection (beta)" and "UBNT Discovery" and click save.
-1. Set the hostname and click save.
-1. Enable "Traffic Analysis".
-1. Turn on "Smart Queue" QoS:  Policy name 'lte', WAN interface "eth0", set upload and download rates
-1. Login via SSH and install wireguard-vyatta-ubnt.  STOP HERE IF PREPPING A SPARE ROUTER.
-1. Use the "Basic Setup" wizard (set LAN port address and new password).
-1. Boot router "normally" and put it into full service.
-1. Login to the web UI with new username/password.
-1. Switch to using dnsmasq for DHCP.
-1. Reboot.
+# Boot router with "factory defaults" (refer to "quick start guide").
+# Login to the web UI with "ubnt:ubnt".
+# Make sure the firmware is up-to-date.
+# Decline to send data to Ubiquiti and do not start any wizards.
+# Disable "UNMS Connection (beta)" and "UBNT Discovery" and click save.
+# Set the hostname and click save.
+# Enable "Traffic Analysis".
+# Turn on "Smart Queue" QoS:  Policy name 'lte', WAN interface "eth0", set upload and download rates
+# Login via SSH and install wireguard-vyatta-ubnt.  STOP HERE IF PREPPING A SPARE ROUTER.
+# Use the "Basic Setup" wizard (set LAN port address and new password).
+# Boot router "normally" and put it into full service.
+# Login to the web UI with new username/password.
+# Switch to using dnsmasq for DHCP.
+# Reboot.
 
 * https://github.com/WireGuard/wireguard-vyatta-ubnt
 
