@@ -56,6 +56,8 @@ Custom Cases
 
 * https://karl-voit.at/2019/03/03/oathtool-otp/
 * https://www.sendthemtomir.com/blog/cli-2-factor-authentication
+* https://blog.snapdragon.cc/2019/04/27/using-a-yubikey-to-secure-ssh-on-macos/
+* https://www.engineerbetter.com/blog/yubikey-all-the-things/
 
 
 Python PDF + Contacts

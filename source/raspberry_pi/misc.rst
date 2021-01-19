@@ -13,10 +13,18 @@ Raspberry Pi Stuff
 * http://www.berryterminal.com/doku.php/berryboot
 
 
+Desktop Tweaking
+----------------
+
+* https://www.youtube.com/watch?v=1zMu4bdKWw8
+* https://www.youtube.com/watch?v=J7IDUUL-mQ4
+
+
 Raspbian Stuff
 --------------
 
 ::
+
     sudo dpkg-reconfigure locales
     sudo raspi-config --expand-rootfs ; sudo reboot
 
@@ -39,6 +47,7 @@ OSMC Stuff
 ----------
 
 ::
+
     #!/usr/bin/env bash
 
     # http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer
