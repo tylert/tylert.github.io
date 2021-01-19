@@ -11,6 +11,10 @@ Raspberry Pi Stuff
 * https://12dash.com
 * http://downloads.raspberrypi.org/
 * http://www.berryterminal.com/doku.php/berryboot
+* https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
+* http://www.kaibader.de/homemade-minimal-raspberry-pi-raspbian-image/
+* https://www.amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t
+* https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/
 
 
 Desktop Tweaking

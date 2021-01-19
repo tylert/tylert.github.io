@@ -12,6 +12,27 @@ Dynamic DNS
 * https://medium.com/@matzhouse/dynamic-dns-with-terraform-and-route53-3fafe7c68970
 
 
+Python IP Address
+-----------------
+
+Find the size of an IPv4 address range::
+
+    import ipaddress
+
+    ip1 = int(ipaddress.IPv4Address('10.1.200.202'))
+    ip2 = int(ipaddress.IPv4Address('10.1.200.207'))
+
+    print(ip2 - ip1 + 1)
+
+
+Service Mesh
+------------
+
+* https://youtu.be/8T8t4-hQY74
+* https://www.youtube.com/watch?v=vh1YtWjfcyk
+* https://youtu.be/bEFILWrRJJ4
+
+
 VPN
 ---
 
@@ -22,6 +43,19 @@ Self-Hosted
 -----------
 
 * https://github.com/awesome-selfhosted/awesome-selfhosted/
+
+
+PiHole Raspbian
+---------------
+
+* https://raspberrypi.stackexchange.com/questions/58732/remove-ssh-warning-about-default-password
+* https://github.com/pi-hole/pi-hole/#one-step-automated-install
+
+::
+
+    # PiHole
+    wget -O basic-install.sh https://install.pi-hole.net
+    sudo bash basic-install.sh
 
 
 Ngrok Clone

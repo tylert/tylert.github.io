@@ -1,3 +1,16 @@
+LANParty Automation
+-------------------
+
+* https://github.com/kentonv/lanparty
+
+
+Magnetometer
+------------
+
+* https://github.com/keepworking/Mecha_QMC5883L
+* https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
+
+
 Python Stuff
 ------------
 
@@ -422,6 +435,7 @@ Kanban
 * https://my-personal-kanban.appspot.com/
 
 ::
+
     cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
 
 

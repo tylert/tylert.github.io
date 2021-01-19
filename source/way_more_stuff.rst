@@ -67,13 +67,6 @@ Install HipChat::
 * https://www.hipchat.com/downloads
 
 
-Raspberry Pi
-------------
-
-* http://www.kaibader.de/homemade-minimal-raspberry-pi-raspbian-image/
-* https://www.amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t
-
-
 Keyboard Porn
 -------------
 
@@ -97,5 +90,4 @@ Assorted Crap
 * https://www.infoq.com/articles/containers-hypervisors-2019/
 * https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing/
 * https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html
-* https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/
 * https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers/

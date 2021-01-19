@@ -1,9 +1,3 @@
-rpi
----
-
-* https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
-
-
 docker
 ------
 
@@ -121,6 +115,7 @@ AWS
 ---
 
 ::
+
     aws ec2 describe-images \
         --region=us-east-1 \
         --owners=amazon \
