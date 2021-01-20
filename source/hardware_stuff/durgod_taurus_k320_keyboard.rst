@@ -1,7 +1,16 @@
 Durgod Taurus K320 Non-Backlit Keyboard
----------------------------------------
+=======================================
 
-On Linux, this shows up as::
+Dissassembly Video
+------------------
+
+* https://www.youtube.com/watch?v=H-HN3f20aLI
+
+
+Stock Firmware
+--------------
+
+On Linux, this device shows up as::
 
     $ usb-devices
     ...
@@ -169,7 +178,7 @@ On Linux, this shows up as::
      75 01 95 08 81 02 95 08 81 01 15 00 25 E7 19 00
      29 E7 95 06 75 08 81 00 C0
 
-On macOS, this shows up as::
+On macOS, this device shows up as::
 
     DURGOD Taurus K320:
 
