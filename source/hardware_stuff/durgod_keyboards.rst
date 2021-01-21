@@ -32,6 +32,7 @@ K310 support hasn't been started yet.
 K320 support is just about ready to merge back into QMK.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
+* https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 
 
 
