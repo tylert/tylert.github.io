@@ -1,5 +1,12 @@
-Durgod Taurus K320 Non-Backlit Keyboard
-=======================================
+Durgod Taurus K320/K310 Non-Backlit Keyboards
+=============================================
+
+
+Product Pages
+-------------
+
+* https://www.durgod.com/page9?_l=en&product_id=47
+* https://www.durgod.com/page9?_l=en&product_id=53
 
 
 Disassembly
@@ -8,10 +15,30 @@ Disassembly
 * https://www.youtube.com/watch?v=H-HN3f20aLI
 
 
+DFU Boot
+--------
+
+Short R21 to C27 (Boot0 to VDD) and apply power.
+
+.. image:: boot0.png
+
+XXX TODO  See if the K310 can use the same DFU trick.
+
+
+QMK Firmware
+------------
+
+K310 support hasn't been started yet.
+K320 support is just about ready to merge back into QMK.
+
+* https://github.com/qmk/qmk_firmware/pull/11399
+
+
+
 Stock Firmware
 --------------
 
-On Linux, this device shows up as::
+On Linux, the K320 keyboard shows up as::
 
     $ usb-devices
     ...
@@ -186,7 +213,7 @@ On Linux, this device shows up as::
             bInterval               1
     ...
 
-On macOS, this device shows up as::
+On macOS, the K320 keyboard shows up as::
 
     DURGOD Taurus K320:
 
