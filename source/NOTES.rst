@@ -450,3 +450,37 @@ More
 * https://jamstack.org/
 * https://www.wsta.org/wp-content/uploads/2018/09/Best-Practices-for-DevOps-Advanced-Deployment-Patterns.pdf
 * https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
+
+
+Books
+-----
+
+* https://www.amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227/ref=sr_1_1?dchild=1&keywords=working+with+the+enemy&qid=1611248468&sr=8-1
+* https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
+
+
+Container Awesome
+-----------------
+
+* https://iximiuz.com/en/posts/container-networking-is-simple/
+* https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
+
+
+Vault Awesome
+-------------
+
+* https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/
+* https://austincloud.guru/2020/03/12/using-vault-with-jenkins/
+
+
+Terraform Awesome
+-----------------
+
+* https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
+* https://www.terraform.io/docs/commands/state/rm.html
+
+
+IAM
+---
+
+* https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
