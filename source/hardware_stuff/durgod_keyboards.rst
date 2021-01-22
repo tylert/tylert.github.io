@@ -9,10 +9,30 @@ Product Pages
 * https://www.durgod.com/page9?_l=en&product_id=53
 
 
+Where To Buy
+------------
+
+* https://www.aliexpress.com/item/32845509908.html?spm=a2g0o.productlist.0.0.4d8c6c1ab0jr7z&algo_pvid=b0551f21-6d17-4af2-a7f5-47d9c4db5aba&algo_expid=b0551f21-6d17-4af2-a7f5-47d9c4db5aba-0&btsid=0bb0622916113003247497560e2fdf&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+* https://www.aliexpress.com/item/32852709021.html?spm=a2g0o.productlist.0.0.9e8769bbcJn9gR&algo_pvid=e2fc67ec-4b3a-41b0-85d6-085266f92d3a&algo_expid=e2fc67ec-4b3a-41b0-85d6-085266f92d3a-0&btsid=0b0a555b16113003437397344e4d82&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+* https://kprepublic.com/products/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=4&_sid=bda219a06&_ss=r
+* https://kprepublic.com/products/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=3&_sid=bda219a06&_ss=r
+* https://www.amazon.ca/DURGOD-Mechanical-Keyboard-Switches-Interface/dp/B078H3WPHM
+* https://www.amazon.ca/Durgod-Taurus-K310-Mechanical-Keyboard/dp/B07V1SQYB8
+* https://www.durgodkeyboard.com/product/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch/
+* https://www.durgodkeyboard.com/product/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch/
+
+
 Disassembly
 -----------
 
 * https://www.youtube.com/watch?v=H-HN3f20aLI
+
+
+Weird Button Inside
+-------------------
+
+* https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
+XXX TODO  See if the K310 can use the same DFU trick.
 
 
 DFU Boot
@@ -22,14 +42,12 @@ Short R21 to C27 (Boot0 to VDD) and apply power.
 
 .. image:: boot0.png
 
-XXX TODO  See if the K310 can use the same DFU trick.
-
 
 QMK Firmware
 ------------
 
-K310 support hasn't been started yet.
-K320 support is just about ready to merge back into QMK.
+K310 porting work hasn't been started yet.
+K320 porting work is just about ready to merge back into QMK.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
@@ -38,7 +56,7 @@ K320 support is just about ready to merge back into QMK.
 Flashing New Firmware
 ---------------------
 
-After the keyboard has been put in DFU mode::
+Confirm the keyboard is in DFU mode and find out what's inside the box::
 
     $ dfu-util --list
     dfu-util 0.9
@@ -50,6 +68,9 @@ After the keyboard has been put in DFU mode::
 
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=1, name="@Option Bytes  /0x1FFFF800/01*016 e", serial="FFFFFFFEFFFF"
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=0, name="@Internal Flash  /0x08000000/064*0002Kg", serial="FFFFFFFEFFFF"
+
+Download a firmware from the keyboard to a file::
+
     $ dfu-util --upload foo.bin --alt 0 --dfuse-address 0x08000000
     dfu-util 0.9
 
@@ -72,7 +93,7 @@ After the keyboard has been put in DFU mode::
     Upload	[=========================] 100%       131072 bytes
     Upload done.
 
-Finally, upload your QMK firmware binary file to your keyboard like this::
+Upload a firmware from a file to the keyboard::
 
     $ dfu-util --download qmk_durgod_k320_default.bin --alt 0 --dfuse-address 0x08000000
     dfu-util 0.9
@@ -100,8 +121,8 @@ Finally, upload your QMK firmware binary file to your keyboard like this::
     File downloaded successfully
 
 
-USB Device Info
----------------
+Stock Firmware USB Device Info
+------------------------------
 
 On Linux, the K320 keyboard shows up as::
 
