@@ -9,6 +9,21 @@ Product Pages
 * https://www.durgod.com/page9?_l=en&product_id=53
 
 
+Reviews
+-------
+
+* https://aphnetworks.com/index.php/reviews/durgod-taurus-k320
+* https://switchandclick.com/2020/11/02/durgod-k320-review/
+* https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard/
+* https://www.rtings.com/keyboard/reviews/durgod/taurus-k320
+* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/
+* https://www.youtube.com/watch?v=17rISRgJO1o
+* https://www.youtube.com/watch?v=D_S30mEkggQ
+* https://www.youtube.com/watch?v=dSXrde3sJpc
+* https://www.youtube.com/watch?v=JDkkMzMGIm0
+
+
 Where To Buy
 ------------
 
@@ -24,6 +39,9 @@ Where To Buy
 
 Disassembly
 -----------
+
+Follow this video but use guitar picks instead of a metal screwdriver.
+You must open the keyboard once to boot the keyboard into "DFU mode" for flashing.
 
 * https://www.youtube.com/watch?v=H-HN3f20aLI
 
@@ -126,10 +144,10 @@ Upload a firmware from a file to the keyboard::
     File downloaded successfully
 
 
-Stock Firmware USB Device Info
-------------------------------
+USB Device Info
+---------------
 
-On Linux, the K320 keyboard shows up as::
+On Linux, the K320 running the stock firmware shows up as::
 
     $ usb-devices
     ...
@@ -170,7 +188,7 @@ On Linux, the K320 keyboard shows up as::
 
     $ lsusb
     ...
-    Bus 001 Device 057: ID 2f68:0082  
+    Bus 001 Device 057: ID 2f68:0082
     ...
 
     $ lsusb -v
@@ -304,7 +322,7 @@ On Linux, the K320 keyboard shows up as::
             bInterval               1
     ...
 
-On macOS, the K320 keyboard shows up as::
+On macOS, the K320 running the stock firmware shows up as::
 
     DURGOD Taurus K320:
 
@@ -314,6 +332,20 @@ On macOS, the K320 keyboard shows up as::
       Speed:	Up to 12 Mb/s
       Manufacturer:	Hoksi Technology
       Location ID:	0x14610000 / 57
+      Current Available (mA):	500
+      Current Required (mA):	500
+      Extra Operating Current (mA):	0
+
+On macOS, the K320 running the QMK firmware shows up as::
+
+    DURGOD Taurus K320 (QMK):
+
+      Product ID:	0x3200
+      Vendor ID:	0xd60d
+      Version:	0.01
+      Speed:	Up to 12 Mb/s
+      Manufacturer:	Hoksi Technology
+      Location ID:	0x14640000 / 31
       Current Available (mA):	500
       Current Required (mA):	500
       Extra Operating Current (mA):	0
