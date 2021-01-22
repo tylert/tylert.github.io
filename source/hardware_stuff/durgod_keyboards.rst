@@ -35,9 +35,73 @@ K320 support is just about ready to merge back into QMK.
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 
 
+Flashing New Firmware
+---------------------
 
-Stock Firmware
---------------
+After the keyboard has been put in DFU mode::
+
+    $ dfu-util --list
+    dfu-util 0.9
+
+    Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+    Copyright 2010-2016 Tormod Volden and Stefan Schmidt
+    This program is Free Software and has ABSOLUTELY NO WARRANTY
+    Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+    Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=1, name="@Option Bytes  /0x1FFFF800/01*016 e", serial="FFFFFFFEFFFF"
+    Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=0, name="@Internal Flash  /0x08000000/064*0002Kg", serial="FFFFFFFEFFFF"
+    $ dfu-util --upload foo.bin --alt 0 --dfuse-address 0x08000000
+    dfu-util 0.9
+
+    Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+    Copyright 2010-2016 Tormod Volden and Stefan Schmidt
+    This program is Free Software and has ABSOLUTELY NO WARRANTY
+    Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+    Opening DFU capable USB device...
+    ID 0483:df11
+    Run-time device DFU version 011a
+    Claiming USB DFU Interface...
+    Setting Alternate Setting #0 ...
+    Determining device status: state = dfuIDLE, status = 0
+    dfuIDLE, continuing
+    DFU mode device DFU version 011a
+    Device returned transfer size 2048
+    DfuSe interface name: "Internal Flash  "
+    Limiting upload to end of memory segment, 131072 bytes
+    Upload	[=========================] 100%       131072 bytes
+    Upload done.
+
+Finally, upload your QMK firmware binary file to your keyboard like this::
+
+    $ dfu-util --download qmk_durgod_k320_default.bin --alt 0 --dfuse-address 0x08000000
+    dfu-util 0.9
+
+    Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+    Copyright 2010-2016 Tormod Volden and Stefan Schmidt
+    This program is Free Software and has ABSOLUTELY NO WARRANTY
+    Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+    Match vendor ID from file: 0483
+    Match product ID from file: df11
+    Opening DFU capable USB device...
+    ID 0483:df11
+    Run-time device DFU version 011a
+    Claiming USB DFU Interface...
+    Setting Alternate Setting #0 ...
+    Determining device status: state = dfuIDLE, status = 0
+    dfuIDLE, continuing
+    DFU mode device DFU version 011a
+    Device returned transfer size 2048
+    DfuSe interface name: "Internal Flash  "
+    Downloading to address = 0x08000000, size = 22336
+    Download	[=========================] 100%        22336 bytes
+    Download done.
+    File downloaded successfully
+
+
+USB Device Info
+---------------
 
 On Linux, the K320 keyboard shows up as::
 
