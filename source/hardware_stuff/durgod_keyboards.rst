@@ -44,6 +44,7 @@ Follow this video but use guitar picks instead of a metal screwdriver.
 You must open the keyboard once to boot the keyboard into "DFU mode" for flashing.
 
 * https://www.youtube.com/watch?v=H-HN3f20aLI
+* https://duckduckgo.com/?t=ffab&q=guitar+pick+punch&iax=images&ia=images
 
 
 Weird Button Inside
@@ -69,6 +70,7 @@ K310 porting work hasn't been started yet.
 K320 porting work is just about ready to merge back into QMK.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
+* https://github.com/qmk/qmk_firmware/pull/9901
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 
 Try to help others too??
@@ -142,6 +144,8 @@ Upload a firmware from a file to the keyboard::
     Download	[=========================] 100%        22336 bytes
     Download done.
     File downloaded successfully
+
+* https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html
 
 
 USB Device Info
