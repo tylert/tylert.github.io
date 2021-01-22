@@ -32,12 +32,13 @@ Weird Button Inside
 -------------------
 
 * https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
-XXX TODO  See if the K310 can use the same DFU trick.
+* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html
 
 
 DFU Boot
 --------
 
+XXX TODO  See if the K310 can use the same DFU trick.
 Short R21 to C27 (Boot0 to VDD) and apply power.
 
 .. image:: boot0.png
@@ -51,6 +52,10 @@ K320 porting work is just about ready to merge back into QMK.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
+
+Try to help others too??
+
+* https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 
 
 Flashing New Firmware
