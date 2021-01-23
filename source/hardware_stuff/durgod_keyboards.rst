@@ -151,6 +151,10 @@ Upload a firmware from a file to the keyboard::
 USB Device Info
 ---------------
 
+
+K320 Original Firmware
+~~~~~~~~~~~~~~~~~~~~~~
+
 On Linux, the K320 running the stock firmware shows up as::
 
     # usb-devices
@@ -326,6 +330,24 @@ On Linux, the K320 running the stock firmware shows up as::
             bInterval               1
     ...
 
+On macOS, the K320 running the stock firmware shows up as::
+
+    DURGOD Taurus K320:
+
+      Product ID:	0x0082
+      Vendor ID:	0x2f68
+      Version:	1.03
+      Speed:	Up to 12 Mb/s
+      Manufacturer:	Hoksi Technology
+      Location ID:	0x14610000 / 57
+      Current Available (mA):	500
+      Current Required (mA):	500
+      Extra Operating Current (mA):	0
+
+
+K320 QMK Firmware
+~~~~~~~~~~~~~~~~~
+
 On Linux, the K320 running the QMK firmware shows up as::
 
     # usb-devices
@@ -451,6 +473,24 @@ On Linux, the K320 running the QMK firmware shows up as::
             wMaxPacketSize     0x0020  1x 32 bytes
             bInterval              10
     ...
+
+On macOS, the K320 running the QMK firmware shows up as::
+
+    DURGOD Taurus K320 (QMK):
+
+      Product ID:	0x3200
+      Vendor ID:	0xd60d
+      Version:	0.01
+      Speed:	Up to 12 Mb/s
+      Manufacturer:	Hoksi Technology
+      Location ID:	0x14640000 / 31
+      Current Available (mA):	500
+      Current Required (mA):	500
+      Extra Operating Current (mA):	0
+
+
+K310 Original Firmware
+~~~~~~~~~~~~~~~~~~~~~~
 
 On Linux, the K310 running the stock firmware shows up as::
 
@@ -627,39 +667,15 @@ On Linux, the K310 running the stock firmware shows up as::
             bInterval               1
     ...
 
-On Linux, the K310 running the QMK firmware shows up as::
+On macOS, the K310 running the stock firmware shows up as::
 
     TBD
 
-On macOS, the K320 running the stock firmware shows up as::
 
-    DURGOD Taurus K320:
+K310 QMK Firmware
+~~~~~~~~~~~~~~~~~
 
-      Product ID:	0x0082
-      Vendor ID:	0x2f68
-      Version:	1.03
-      Speed:	Up to 12 Mb/s
-      Manufacturer:	Hoksi Technology
-      Location ID:	0x14610000 / 57
-      Current Available (mA):	500
-      Current Required (mA):	500
-      Extra Operating Current (mA):	0
-
-On macOS, the K320 running the QMK firmware shows up as::
-
-    DURGOD Taurus K320 (QMK):
-
-      Product ID:	0x3200
-      Vendor ID:	0xd60d
-      Version:	0.01
-      Speed:	Up to 12 Mb/s
-      Manufacturer:	Hoksi Technology
-      Location ID:	0x14640000 / 31
-      Current Available (mA):	500
-      Current Required (mA):	500
-      Extra Operating Current (mA):	0
-
-On macOS, the K310 running the stock firmware shows up as::
+On Linux, the K310 running the QMK firmware shows up as::
 
     TBD
 
