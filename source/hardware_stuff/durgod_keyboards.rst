@@ -1,6 +1,9 @@
 Durgod Taurus K320/K310 Non-Backlit Keyboards
 =============================================
 
+Some very nice, economical mechanical keyboards with Cherry MX switches (Blue,
+Brown, Black) that can run the 100% open-source QMK keyboard firmware.
+
 
 Product Pages
 -------------
@@ -40,8 +43,11 @@ Where To Buy
 Disassembly
 -----------
 
-Follow this video but use guitar picks instead of a metal screwdriver.
-You must open the keyboard once to boot the keyboard into "DFU mode" for flashing.
+You must open the keyboard once to boot the keyboard into "DFU mode" for
+initial flashing.  Once QMK is installed on the keyboard, you may boot it into
+"DFU mode" whenever you like by holding down the "ESC" key while plugging-in
+the keyboard (at power up).  Follow this video but use guitar picks instead of
+a metal screwdriver.
 
 * https://www.youtube.com/watch?v=H-HN3f20aLI
 * https://duckduckgo.com/?t=ffab&q=guitar+pick+punch&iax=images&ia=images
@@ -58,7 +64,7 @@ DFU Boot
 --------
 
 XXX TODO  See if the K310 can use the same DFU trick.
-Short R21 to C27 (Boot0 to VDD) and apply power.
+Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
 
 .. image:: boot0.png
 
@@ -66,15 +72,12 @@ Short R21 to C27 (Boot0 to VDD) and apply power.
 QMK Firmware
 ------------
 
+K320 porting work is now complete and it is "officially-supported" by QMK now.
 K310 porting work hasn't been started yet.
-K320 porting work is just about ready to merge back into QMK.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
 * https://github.com/qmk/qmk_firmware/pull/9901
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
-
-Try to help others too??
-
 * https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 
 
