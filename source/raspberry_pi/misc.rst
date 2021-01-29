@@ -17,13 +17,6 @@ Raspberry Pi Stuff
 * https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/
 
 
-Desktop Tweaking
-----------------
-
-* https://www.youtube.com/watch?v=1zMu4bdKWw8
-* https://www.youtube.com/watch?v=J7IDUUL-mQ4
-
-
 Raspbian Stuff
 --------------
 
