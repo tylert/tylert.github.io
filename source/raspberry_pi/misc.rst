@@ -76,3 +76,12 @@ Modern Netflix
     6.  Select Netflix then click Install.
 
     7.  DAFUQ?!?  pycryptodomex missing?!?  pip not installed?!?
+
+
+OMFG OSMC/Kodi CLI!!!
+---------------------
+
+* https://forum.kodi.tv/showthread.php?tid=120248&pid=2664155#pid2664155
+* https://www.mankier.com/1/kodi-send
+* https://github.com/jose1711/kodi-ansible-role
+* https://github.com/nawar/kodi-cli
