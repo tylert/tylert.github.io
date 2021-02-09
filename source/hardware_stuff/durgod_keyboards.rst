@@ -72,7 +72,7 @@ Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
 QMK Firmware
 ------------
 
-K320 porting work is now complete and it is "officially-supported" by QMK now.
+QMK 0.11.54 or newer includes the K320.
 K310 porting work hasn't been started yet.
 
 * https://github.com/qmk/qmk_firmware/pull/11399
