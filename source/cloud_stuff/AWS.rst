@@ -13,3 +13,11 @@ EC2
 ---
 
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet.html
+* https://labs.sogeti.com/building-aws-golden-image-with-ec2-image-builder/
+
+
+VPC
+---
+
+* https://aws.amazon.com/blogs/aws/new-vpc-ingress-routing-simplifying-integration-of-third-party-appliances/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-network-traffic-inspection-using-aws-gateway-load-balancer/
