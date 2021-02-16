@@ -86,6 +86,7 @@ Commands to dump IPs/MACs::
 Misc
 ----
 
+* https://mrkaran.dev/posts/home-server-nomad/
 * https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup/
 * https://mosh.org/
 * https://smallstep.com/blog/everything-pki.html
