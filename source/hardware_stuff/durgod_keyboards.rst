@@ -84,7 +84,7 @@ K310 porting work hasn't been started yet.
 * https://github.com/qmk/qmk_configurator/pull/887  for K320 QMK configurator support
 * https://github.com/qmk/qmk_firmware/pull/11399  for K320 full-support
 * https://github.com/qmk/qmk_firmware/pull/9901  for K320 initial draft work (NOT MERGED)
-* https://github.com/qmk/qmk_firmware/issues/2179  for Apple Fn key magic? (NOT MERGED)
+* https://github.com/qmk/qmk_firmware/issues/2179  for Apple Fn key magic (NOT MERGED)
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 * https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 
