@@ -15,12 +15,12 @@ Product Pages
 Reviews
 -------
 
+* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/
 * https://aphnetworks.com/index.php/reviews/durgod-taurus-k320
 * https://switchandclick.com/2020/11/02/durgod-k320-review/
 * https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good/
 * https://www.reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard/
 * https://www.rtings.com/keyboard/reviews/durgod/taurus-k320
-* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/
 * https://www.youtube.com/watch?v=17rISRgJO1o
 * https://www.youtube.com/watch?v=D_S30mEkggQ
 * https://www.youtube.com/watch?v=dSXrde3sJpc
@@ -44,24 +44,28 @@ Disassembly
 -----------
 
 You must open the keyboard once to boot the keyboard into "DFU mode" for
-initial flashing.  Once QMK is installed on the keyboard, you may boot it into
-"DFU mode" whenever you like by holding down the "ESC" key while plugging-in
-the keyboard (at power up).  Follow this video but use guitar picks instead of
-a metal screwdriver.
+initial flashing of QMK.  Once QMK is installed on the keyboard, you may boot
+it into "DFU mode" whenever you like by holding down the "ESC" key while
+plugging-in the keyboard (at power up).
+
+Follow this video to open the keyboard but use a dozen or so guitar picks
+instead of a nasty metal screwdriver.
 
 * https://www.youtube.com/watch?v=H-HN3f20aLI
 * https://duckduckgo.com/?t=ffab&q=guitar+pick+punch&iax=images&ia=images
 
 
 Weird Button Inside
--------------------
+~~~~~~~~~~~~~~~~~~~
 
-* https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
+There is a weird button inside but nobody seems sure of what it does yet.
+
 * https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html
+* https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
 
 
-DFU Boot
---------
+Force DFU Boot
+~~~~~~~~~~~~~~
 
 XXX TODO  See if the K310 can use the same DFU trick.
 Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
@@ -75,11 +79,12 @@ QMK Firmware
 QMK 0.11.54 or newer includes the K320.
 K310 porting work hasn't been started yet.
 
-* https://github.com/qmk/qmk_configurator/pull/887  for K320 configurator support
-* https://github.com/qmk/qmk_firmware/pull/11931  for K320 updated help docs
-* https://github.com/qmk/qmk_firmware/pull/11399  for K320 support (merged)
-* https://github.com/qmk/qmk_firmware/pull/9901  for K320 draft (never merged)
-* https://github.com/qmk/qmk_firmware/issues/2179  for Apple Fn key magic?
+* https://github.com/the-via/keyboards/pull/588  for K320 VIA support
+* https://github.com/qmk/qmk_firmware/pull/11960  for K320 VIA support
+* https://github.com/qmk/qmk_configurator/pull/887  for K320 QMK configurator support
+* https://github.com/qmk/qmk_firmware/pull/11399  for K320 full-support
+* https://github.com/qmk/qmk_firmware/pull/9901  for K320 initial draft work (NOT MERGED)
+* https://github.com/qmk/qmk_firmware/issues/2179  for Apple Fn key magic? (NOT MERGED)
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 * https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 

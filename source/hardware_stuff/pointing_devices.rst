@@ -1,5 +1,5 @@
 Pointing Devices
-----------------
+================
 
 Ploopy Nano Trackball.
 
@@ -11,7 +11,7 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 * https://github.com/brickbots/aball
 
 
-Trackpoint Stuff
+Trackpoint Setup
 ----------------
 
 ::
