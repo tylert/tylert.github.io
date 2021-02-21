@@ -1,7 +1,12 @@
 Pointing Devices
 ----------------
 
-* https://www.ploopy.co/
+Ploopy Nano Trackball.
+
+Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
+
+* https://www.ploopy.co/product/nano-trackball/11
+* https://github.com/ploopyco/trackball-nano/wiki
 * https://www.reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is/
 * https://github.com/brickbots/aball
 
