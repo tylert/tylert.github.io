@@ -105,6 +105,8 @@ Confirm the keyboard is in DFU mode and find out what's inside the box::
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=1, name="@Option Bytes  /0x1FFFF800/01*016 e", serial="FFFFFFFEFFFF"
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=0, name="@Internal Flash  /0x08000000/064*0002Kg", serial="FFFFFFFEFFFF"
 
+WARNING:  If you see no "Found DFU" lines, your keyboard is not in DFU mode.
+
 Download a firmware from the keyboard to a file::
 
     $ dfu-util --upload foo.bin --alt 0 --dfuse-address 0x08000000
@@ -680,7 +682,17 @@ On Linux, the K310 running the stock firmware shows up as::
 
 On macOS, the K310 running the stock firmware shows up as::
 
-    TBD
+    DURGOD Taurus K310:
+
+      Product ID:	0x0042
+      Vendor ID:	0x2f68
+      Version:	1.04
+      Speed:	Up to 12 Mb/s
+      Manufacturer:	Hoksi Technology
+      Location ID:	0x14610000 / 10
+      Current Available (mA):	500
+      Current Required (mA):	500
+      Extra Operating Current (mA):	0
 
 
 K310 QMK Firmware
