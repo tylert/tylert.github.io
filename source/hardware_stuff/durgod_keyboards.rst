@@ -82,6 +82,10 @@ K310 porting work hasn't been started yet.
 
 * https://github.com/the-via/keyboards/pull/588  for the K320
 * https://github.com/qmk/qmk_configurator/pull/887  for the K320
+* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+k320+is%3Aopen
+* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+k320+is%3Aclosed
+* https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+k320+is%3Aopen
+* https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+k320+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen
