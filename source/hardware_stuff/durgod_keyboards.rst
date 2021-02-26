@@ -281,3 +281,17 @@ On Linux, the K310 running the QMK firmware shows up as::
 On macOS, the K310 running the QMK firmware shows up as::
 
     TBD
+
+
+Modifications
+-------------
+
+Mill-max sockets can apparently be added to just about any PCB.
+
+* https://www.reddit.com/r/MechanicalKeyboards/comments/kv65fe/first_mech_durgod_taurus_k320_tkl_with_blank/
+* https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb
+* https://www.reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good/
+* https://keyboardlube.com/products/mill-max-sockets
+* https://www.reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght/
+* https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/0305-2-15-80-47-80-10-0/2639493
+* https://www.mouser.ca/ProductDetail/mill-max/0305-2-15-80-47-80-10-0/?qs=QtQX4uD3c2Uys0ai6Tr8NQ==
