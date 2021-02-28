@@ -275,7 +275,14 @@ On Linux, the K310 running the QMK firmware shows up as::
 
     $ usb-devices
     ...
-    TBD
+    T:  Bus=01 Lev=01 Prnt=01 Port=03 Cnt=01 Dev#= 24 Spd=12  MxCh= 0
+    D:  Ver= 1.10 Cls=00(>ifc ) Sub=00 Prot=00 MxPS=64 #Cfgs=  1
+    P:  Vendor=d60d ProdID=3100 Rev=00.01
+    S:  Manufacturer=Hoksi Technology
+    S:  Product=DURGOD Taurus K310 (QMK)
+    C:  #Ifs= 2 Cfg#= 1 Atr=a0 MxPwr=500mA
+    I:  If#=0x0 Alt= 0 #EPs= 1 Cls=03(HID  ) Sub=01 Prot=01 Driver=usbhid
+    I:  If#=0x1 Alt= 0 #EPs= 1 Cls=03(HID  ) Sub=00 Prot=00 Driver=usbhid
     ...
 
 On macOS, the K310 running the QMK firmware shows up as::
