@@ -59,7 +59,8 @@ instead of a nasty metal screwdriver.
 Weird Button Inside
 ~~~~~~~~~~~~~~~~~~~
 
-There is a weird button inside but nobody seems sure of what it does yet.
+There is a weird button inside but nobody seems sure of what it does yet.  It
+joins the "D2" pin (#54) to the "VSS" pin (#63).
 
 * https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html
 * https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
@@ -68,7 +69,6 @@ There is a weird button inside but nobody seems sure of what it does yet.
 Force DFU Boot
 ~~~~~~~~~~~~~~
 
-XXX TODO  See if the K310 can use the same DFU trick.
 Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
 
 .. image:: boot0.png
@@ -78,14 +78,10 @@ QMK Firmware
 ------------
 
 QMK 0.11.54 or newer includes the K320.
-K310 porting work hasn't been started yet.
+K310 support is going to be merged soon.
 
 * https://github.com/the-via/keyboards/pull/588  for the K320
 * https://github.com/qmk/qmk_configurator/pull/887  for the K320
-* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+k320+is%3Aopen
-* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+k320+is%3Aclosed
-* https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+k320+is%3Aopen
-* https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+k320+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen
@@ -295,7 +291,7 @@ Modifications
 
 Mill-max sockets can apparently be added to just about any PCB.
 
-* https://www.reddit.com/r/MechanicalKeyboards/comments/kv65fe/first_mech_durgod_taurus_k320_tkl_with_blank/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/kv65fe/first_mech_durgod_taurus_k320_tkl_with_blank/giwkpvq/?utm_source=share&utm_medium=web2x&context=3
 * https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb
 * https://www.reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good/
 * https://keyboardlube.com/products/mill-max-sockets
