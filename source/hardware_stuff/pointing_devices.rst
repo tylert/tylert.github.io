@@ -10,6 +10,9 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 * https://github.com/ploopyco/trackball-nano/wiki
 * https://www.reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is/
 * https://github.com/brickbots/aball
+* https://github.com/MangoIV/dracuLad
+* https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md
+* https://github.com/monroewilliams/trackball
 
 
 QMK Ploopy Stuff
@@ -36,3 +39,11 @@ Trackpoint Setup
 
     # horizontal scroll
     xinput set-prop "TPPS/2 IBM TrackPoint" "Evdev Wheel Emulation Axes" 6 7 4 5
+
+
+Other/Wireless Keyboards
+------------------------
+
+* https://keebfol.io/
+* https://zmkfirmware.dev/
+* https://github.com/zmkfirmware/zmk
