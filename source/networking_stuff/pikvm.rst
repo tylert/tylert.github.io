@@ -11,10 +11,16 @@ Look under "pages" in the GitHub repo for additional documentation.
 
 ::
 
-    # How to upgrade a pikvm:  Use the local terminal and use su or ssh in,
-    # then do...
+    # Upgrade the pikvm root filesystem to latest
+    # Use the local terminal and use su or ssh in, then do...
     rw
     pacman -Syu --noconfirm
     pacman -Sc
     rm -rf /var/cache/pacman/pkg
     reboot
+
+    # Change the default web and ssh passwords
+    # Use the local terminal and use su or ssh in, then do...
+    rw
+    kvmd-htpasswd set admin
+    passwd root
