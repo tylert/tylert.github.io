@@ -40,8 +40,8 @@ Raspbian Stuff
     echo $BAZ
 
 
-OSMC Stuff
-----------
+OSMC on Debian
+--------------
 
 ::
 
@@ -61,25 +61,23 @@ OSMC Stuff
     apt-get install osmc-installer
 
 
-Modern Netflix
---------------
+LibreELEC
+---------
 
-* https://mytruemedia.com/best-kodi-addons/how-to-install-netflix-kodi-18-addon/
+The networking stuff for LibreELEC is "slightly weird".
 
-::
-
-    1.  Go to the Kodi File manager found in the Settings System menu.
-    2.  Click Add source and then None. Then, enter http://absolut-kodi.com/repo and name it absolut.
-    3.  In the Add-on browser, click Install from zip file.
-    4.  Select the absolut source then click the repository.Absolut.Kodi-1.0.5.zip within to install the repo.
-    5.  Once you notice the repo has installed, go back and click Install from Repository >> Absolut Repo >> Video addons.
-    6.  Select Netflix then click Install.
-
-    7.  DAFUQ?!?  pycryptodomex missing?!?  pip not installed?!?
+* https://wiki.archlinux.org/index.php/ConnMan
+* https://git.kernel.org/pub/scm/network/connman/connman.git
 
 
-OMFG OSMC/Kodi CLI!!!
----------------------
+Netflix
+-------
+
+* https://itnext.io/the-2021-onward-guide-to-install-netflix-on-raspberry-pi-smartphone-as-the-remote-control-2e7662ccc80
+
+
+OMFG Kodi CLI!!!
+----------------
 
 * https://forum.kodi.tv/showthread.php?tid=120248&pid=2664155#pid2664155
 * https://www.mankier.com/1/kodi-send
