@@ -18,7 +18,7 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 QMK Ploopy Stuff
 ----------------
 
-"Drag scroll" feature.
+Ploopy Nano has been merged and available in build "0.12.26".
 
 * https://github.com/qmk/qmk_firmware/pull/11994
 
