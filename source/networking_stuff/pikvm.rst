@@ -15,7 +15,7 @@ Look under "pages" in the GitHub repo for additional documentation.
     # Use the local terminal and use su or ssh in, then do...
     rw
     pacman -Syu --noconfirm
-    pacman -Sc
+    pacman -Sc --noconfirm
     rm -rf /var/cache/pacman/pkg
     reboot
 
