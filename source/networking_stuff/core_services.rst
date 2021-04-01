@@ -37,6 +37,7 @@ VPN
 ---
 
 * https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard
+* https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
 
 
 Self-Hosted

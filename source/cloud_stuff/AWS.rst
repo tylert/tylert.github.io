@@ -14,6 +14,7 @@ EC2
 
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet.html
 * https://labs.sogeti.com/building-aws-golden-image-with-ec2-image-builder/
+* https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/
 
 
 VPC
