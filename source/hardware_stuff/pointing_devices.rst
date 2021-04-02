@@ -13,6 +13,7 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 * https://github.com/MangoIV/dracuLad
 * https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md
 * https://github.com/monroewilliams/trackball
+* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 
 
 QMK Ploopy Stuff
