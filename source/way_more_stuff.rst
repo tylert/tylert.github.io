@@ -39,10 +39,14 @@ Cloud Stuff
 * https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
 
-Bitcoin
--------
+Currency Stuff
+--------------
 
 * http://jrruethe.github.io/blog/2015/04/23/bitcoin-paper-wallets/
+* https://geth.ethereum.org/docs/install-and-build/installing-geth
+* https://github.com/vkobel/ethereum-generate-wallet
+* https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/
+* https://kobl.one/blog/create-full-ethereum-keypair-and-address/
 
 
 Random Stuff
