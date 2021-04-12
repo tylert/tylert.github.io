@@ -133,7 +133,7 @@ Under Sound turn off all the other sounds and vibrations.
 Under System -> Languages & input -> Virtual keyboard -> Android Keyboard
 (AOSP) -> Preferences turn off Auto-capitalisation, Double-space full stop and
 Vibrate on keypress Then go under Text correction and turn off everything.
-Also set the Appearance & Layouts -> Theme -> Matieral Dark.
+Also set the Appearance & Layouts -> Theme -> Material Dark.
 
 
 Make some other customizations
@@ -146,7 +146,8 @@ Battery -> Battery percentage "Next to the icon".
 System -> Date & time -> Use 24-hour format ON
 
 Configure the icons that show on the status bar pull-down.  Turn off location,
-NFC, Bluetooth.
+NFC, Bluetooth.  Set bluetooth device name.  Set hostname in Developer Options
+too.
 
 Set the warning and limit values for the mobile data usage and adjust your
 billing cycle period.
