@@ -37,14 +37,20 @@ Install F-Droid and Other Apps
 #. Use "Files", delete the downloaded copy of the F-Droid app.
 #. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
   * "FFUpdater"
-  * "Locker"
   * "K-9 Mail"
   * "KeePassDX"
+  * "Locker"
   * "Maps and GPS Navigation OsmAnd+"
 #. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
 #. Use "FFUpdater", hit "+", select "Firefox Browser", allow access photos and media and allow install apps from unknown sources.
 #. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.  Allow it to access location all the time.
 #. Remove all the junk from your home screen and move your icons around as desired.
+#. (Optional) Use "F-Droid", install the following additional apps:
+  * "Barcode Scanner" for showing you the content of barcodes
+  * "DeltaChat" for chatting
+  * "Element" for chatting
+  * "OpenKeychain" for signing/encrypting/decrypting emails
+  * "Syncopoli" for auto-syncing photos
 
 
 Configure Firefox
@@ -79,10 +85,6 @@ Configure K-9 Mail
 ------------------
 
 Fill in the settings you obtained from your email admin/provider and configure
-
-Poll every 1 hour
-1000 messages
-
 the settings for the app as follows:
 
 ::
@@ -118,7 +120,6 @@ the settings for the app as follows:
       Folders:
         Folders to display:  All
         Move/copy destination folders:  All
-        Folders to search:  All
         Archive folder:  -NONE-
       Notifications:
         Vibrate:  On
