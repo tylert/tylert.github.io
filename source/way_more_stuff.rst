@@ -43,10 +43,13 @@ Currency Stuff
 --------------
 
 * http://jrruethe.github.io/blog/2015/04/23/bitcoin-paper-wallets/
-* https://geth.ethereum.org/docs/install-and-build/installing-geth
+* https://geth.ethereum.org/docs/interface/managing-your-accounts
+* https://github.com/AndreMiras/PyWallet
+* https://github.com/amis-erc20/python-eth-wallet
 * https://github.com/vkobel/ethereum-generate-wallet
-* https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/
+* https://hackernoon.com/how-to-build-a-minimalistic-ethereum-wallet-in-python-part-1-rr4j32dp
 * https://kobl.one/blog/create-full-ethereum-keypair-and-address/
+* https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/
 
 
 Random Stuff
@@ -55,26 +58,6 @@ Random Stuff
 ::
 
     sudo apt-get --yes install apt-transport-https
-
-Install HipChat::
-
-    # Add new repo
-    wget -O - https://atlassian.artifactoryonline.com/atlassian/api/gpg/key/public \
-        | sudo apt-key add -
-    sudo bash -c 'echo "deb https://atlassian.artifactoryonline.com/atlassian/hipchat-apt-client" \
-        "$(lsb_release --codename --short) main" > /etc/apt/sources.list.d/hipchat.list'
-    sudo apt-get update
-
-    # Add new package
-    sudo apt-get --yes install hipchat4 
-
-* https://www.hipchat.com/downloads
-
-
-Keyboard Porn
--------------
-
-* https://pimpmykeyboard.com/dsa-granite-keyset/
 
 
 Getting Things Done
