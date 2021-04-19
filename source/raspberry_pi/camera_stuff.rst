@@ -11,5 +11,6 @@ Camera Stuff
 * https://www.amazon.ca/gp/product/B003AXEFMI
 * http://nestboxtech.blogspot.ca/2014/10/how-to-make-your-own-raspberry-pi-trail.html
 * http://www.instructables.com/id/PiPoE-powering-a-Raspberry-Pi-over-Ethernet/
+* https://ruha.camera/
 
 850 nm near IR
