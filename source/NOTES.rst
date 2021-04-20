@@ -151,11 +151,7 @@ Backups
 -------
 
 * http://duplicity.nongnu.org/features.html
-* http://support.code42.com/CrashPlan/Latest/Configuring/Upgrading_CrashPlan_Security_To_Custom_448_Bit_Key
-* http://support.code42.com/CrashPlan/Latest/Configuring/Using_CrashPlan_On_A_Headless_Computer
-* http://www.code42.com/crashplan/download/
 * http://www.mikerubel.org/computers/rsync_snapshots/
-* http://www.unixmen.com/install-crashplan-backup-tool-in-linux/
 * https://blog.interlinked.org/tutorials/rsync_time_machine.html
 
 
