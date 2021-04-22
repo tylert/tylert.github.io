@@ -83,3 +83,9 @@ OMFG Kodi CLI!!!
 * https://www.mankier.com/1/kodi-send
 * https://github.com/jose1711/kodi-ansible-role
 * https://github.com/nawar/kodi-cli
+
+
+Hardware
+--------
+
+* https://www.dfrobot.com/product-2242.html
