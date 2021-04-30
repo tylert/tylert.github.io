@@ -112,12 +112,11 @@ Official Docker OS Images
 * https://github.com/CentOS/sig-cloud-instance-images
 
 
-Install Stuff
--------------
+System76 Stuff
+--------------
 
 ::
 
-    sudo add-apt-repository ppa:inkscape.dev/stable
     sudo apt-add-repository ppa:system76-dev/stable
 
 
@@ -225,7 +224,6 @@ Cool Products
 -------------
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
-* http://www.thingiverse.com/search/page:1?q=warhammer&sa=
 
 
 Keyboard CNC
@@ -357,21 +355,6 @@ Elasticsearch
 * http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
 
 
-ECS
----
-
-* https://www.youtube.com/watch?v=MRoPaHUttoA
-* http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
-* https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
-
-
-Continuous Delivery on EC2
---------------------------
-
-* https://youtu.be/I6ApIARoMxE
-* http://www.slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
-
-
 Cloud Hybrid
 ------------
 
@@ -395,12 +378,6 @@ SSH
 
     Or, force the option for all future outgoing connections : 
     Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section. 
-
-
-AWS STS
--------
-
-* http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
 
 
 Time-Series and Graphing Considerations
@@ -441,6 +418,7 @@ More
 * https://davidoha.medium.com/avoiding-bash-frustration-use-python-for-shell-scripts-44bba8ba1e9e
 * https://blog.jez.io/bash-debugger/
 * https://dzone.com/articles/creating-a-highly-available-k3s-cluster
+* https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/
 * https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge/
 * https://github.com/stephank/lazyssh
 * https://jamstack.org/
@@ -474,9 +452,4 @@ Terraform Awesome
 
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
 * https://www.terraform.io/docs/commands/state/rm.html
-
-
-IAM
----
-
-* https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
+* https://www.baeldung.com/ops/terraform-best-practices

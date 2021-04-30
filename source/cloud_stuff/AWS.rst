@@ -22,3 +22,49 @@ VPC
 
 * https://aws.amazon.com/blogs/aws/new-vpc-ingress-routing-simplifying-integration-of-third-party-appliances/
 * https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-network-traffic-inspection-using-aws-gateway-load-balancer/
+
+
+Exam Prep
+---------
+
+* https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/
+* https://www.aws.training/Details/eLearning?id=60697
+* https://aws.amazon.com/s3/storage-classes/
+* https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
+* https://jayendrapatil.com/tag/aws/
+* https://aws.amazon.com/premiumsupport/plans/
+* https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+* https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+* https://aws.amazon.com/snow/
+* https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/
+* https://aws.amazon.com/compliance/shared-responsibility-model/
+* https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+
+Most useful:  "Cloud Practitioner", "System Operator", "Solutions Architect".
+
+
+IAM
+---
+
+* https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
+
+
+AWS STS
+-------
+
+* http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
+
+
+Continuous Delivery on EC2
+--------------------------
+
+* https://youtu.be/I6ApIARoMxE
+* http://www.slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
+
+
+ECS
+---
+
+* https://www.youtube.com/watch?v=MRoPaHUttoA
+* http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
+* https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
