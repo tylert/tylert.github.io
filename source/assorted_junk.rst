@@ -4,14 +4,8 @@
 * http://cloudacademy.com/blog/centralized-log-management-with-aws-cloudwatch-part-3-of-3/
 * http://cloudacademy.com/blog/aws-cloudwatch-monitoring/
 * https://github.com/vulcand/vulcand
-
-
-Consul Stuff
-------------
-
-::
-
-    consul agent -dev -bind=10.80.0.22
+* https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/
+* https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 
 
 Random Other Docs
@@ -28,13 +22,10 @@ Random Other Docs
 * http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
 * http://www.barrymorrison.com/2015/Jan/02/pyall-or-a-docker-container-built-with-packer-and-ansible-with-all-python-versions/
 * https://adetante.github.io/articles/service-discovery-with-docker-2/
-* https://blog.docker.com/tag/logging/
-* https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html
 * https://docs.docker.com/engine/admin/logging/overview/
 * https://docs.docker.com/engine/userguide/eng-image/baseimages/
 * https://docs.docker.com/mac/step_four/
 * https://github.com/darcys22/haproxy
-* https://github.com/docker/distribution
 * https://github.com/giantswarm/kocho
 * https://github.com/tcnksm-sample/packer-docker
 * https://mesos.apache.org/
@@ -64,17 +55,12 @@ Other
 
 
 Dumb OS X
-=========
+---------
 
 ::
+
     export CFLAGS=-Qunused-arguments
     export CPPFLAGS=-Qunused-arguments
-
-
-Self-Hosting Stuff
-------------------
-
-* https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/
 
 
 DVD Ripping

@@ -31,8 +31,8 @@ Reviews
 Where To Buy
 ------------
 
-* https://www.aliexpress.com/item/32845509908.html?spm=a2g0o.productlist.0.0.4d8c6c1ab0jr7z&algo_pvid=b0551f21-6d17-4af2-a7f5-47d9c4db5aba&algo_expid=b0551f21-6d17-4af2-a7f5-47d9c4db5aba-0&btsid=0bb0622916113003247497560e2fdf&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-* https://www.aliexpress.com/item/32852709021.html?spm=a2g0o.productlist.0.0.9e8769bbcJn9gR&algo_pvid=e2fc67ec-4b3a-41b0-85d6-085266f92d3a&algo_expid=e2fc67ec-4b3a-41b0-85d6-085266f92d3a-0&btsid=0b0a555b16113003437397344e4d82&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+* https://www.aliexpress.com/item/32845509908.html?spm=a2g0o.productlist.0.0.4d8c6c1ab0jr7z
+* https://www.aliexpress.com/item/32852709021.html?spm=a2g0o.productlist.0.0.9e8769bbcJn9gR
 * https://kprepublic.com/products/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=4&_sid=bda219a06&_ss=r
 * https://kprepublic.com/products/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=3&_sid=bda219a06&_ss=r
 * https://www.amazon.ca/DURGOD-Mechanical-Keyboard-Switches-Interface/dp/B078H3WPHM
