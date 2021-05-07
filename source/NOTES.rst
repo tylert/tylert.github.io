@@ -424,6 +424,7 @@ More
 * https://jamstack.org/
 * https://www.wsta.org/wp-content/uploads/2018/09/Best-Practices-for-DevOps-Advanced-Deployment-Patterns.pdf
 * https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
+* https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 
 
 Books
