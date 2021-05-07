@@ -24,10 +24,10 @@ from struct import pack  # double-to-bytes magic
 from uuid import getnode  # MAC address magic
 # import ipaddress
 
-import click
 from netaddr import EUI, mac_bare  # MAC address magic
 # from netaddr import IPv6Address, IPv6Network  # IP address magic
 # import pytz
+import click
 
 
 def debug_time():

@@ -2,8 +2,8 @@
 
 import uuid
 
-import click
 from shortuuid import ShortUUID
+import click
 
 
 @click.command()

@@ -3,13 +3,13 @@
 from uuid import uuid4
 # import io
 
-import click
 from shortuuid import ShortUUID
 import segno
 from svglib.svglib import svg2rlg
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from reportlab.graphics import renderPDF
+import click
 
 
 def get_short_uuid(alphabet):
