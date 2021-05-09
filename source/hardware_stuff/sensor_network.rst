@@ -5,3 +5,4 @@ Sensor Network
 * https://arduinoinfo.mywikis.net/wiki/RS485-Modules
 * https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/
 * https://www.windmill.co.uk/rs485.html
+* https://en.wikipedia.org/wiki/RS-485
