@@ -42,7 +42,6 @@ Cloud Stuff
 Currency Stuff
 --------------
 
-* http://jrruethe.github.io/blog/2015/04/23/bitcoin-paper-wallets/
 * https://geth.ethereum.org/docs/interface/managing-your-accounts
 * https://github.com/AndreMiras/PyWallet
 * https://github.com/amis-erc20/python-eth-wallet
@@ -50,6 +49,15 @@ Currency Stuff
 * https://hackernoon.com/how-to-build-a-minimalistic-ethereum-wallet-in-python-part-1-rr4j32dp
 * https://kobl.one/blog/create-full-ethereum-keypair-and-address/
 * https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/
+* https://github.com/miguelmota/go-ethereum-hdwallet
+* https://github.com/foxnut/go-hdwallet
+* https://github.com/meherett/python-hdwallet  "hdwallet" pypi package
+* https://github.com/tiran/pysha3  "pysha3" pypi package;  dependency of "hdwallet"
+* https://github.com/XKCP/XKCP  fancy binary goop;  dependency of "pysha3"
+* https://github.com/trezor/python-mnemonic  "mnemonic" pypi package;  dependency of "hdwallet"
+* https://github.com/tlsfuzzer/python-ecdsa  "ecdsa" pypi package;  dependency of "hdwallet"
+* https://github.com/keis/base58  "base58" pypi package; dependency of "hdwallet"
+* https://github.com/pallets/click  "click" pypi package
 
 
 Random Stuff
