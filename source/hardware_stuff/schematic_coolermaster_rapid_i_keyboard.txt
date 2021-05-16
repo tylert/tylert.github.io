@@ -1,4 +1,4 @@
- Coolermaster Storm Rapid-i Keyboard Schematic
+ Coolermaster Storm Rapid-i Keyboard Schematic (ROW2COL)
 
    K0D        K0C        K0B        K0A        K09        K08        K07        K06        K05        K04        K03        K02        K01        K00
  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |

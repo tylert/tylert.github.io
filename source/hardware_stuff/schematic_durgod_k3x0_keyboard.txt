@@ -1,4 +1,4 @@
- Durgod Taurus K310/K320 (Without Backlight) Keyboard Schematic
+ Durgod Taurus K310/K320 Keyboard Schematic Without Backlight (ROW2COL)
 
    K0F        K0E        K0D        K0C        K0B        K0A        K09        K08        K07        K06        K05        K04        K03        K02        K01        K00
  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |  +----+  |
