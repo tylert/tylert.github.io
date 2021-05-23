@@ -121,7 +121,7 @@ main
 
 # For hosts, add to /etc/ssh/sshd_config on each host:
 #   HostCertificate /etc/ssh/new_host_key-cert.pub
-#   (uncomment HostKey /etc/ssh/new_host_key.pub)
+#   (uncomment HostKey /etc/ssh/new_host_key)
 # Add to ~/.ssh/known_hosts:
 #   @cert-authority * $(cat hostsca.pub)
 
