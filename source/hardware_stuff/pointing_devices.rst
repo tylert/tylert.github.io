@@ -36,6 +36,8 @@ You might need to disable some silly USB stuff to get suspend to work "properly"
     lsusb -t
     echo "auto" > /sys/bus/usb/devices/1-4/power/control
 
+* https://www.kernel.org/doc/html/v4.19/driver-api/usb/power-management.html
+
 
 Trackpoint Setup
 ----------------
