@@ -26,6 +26,16 @@ Ploopy Nano has been merged and available in build "0.12.26".
 * https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving/
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball/
 
+You might need to disable some silly USB stuff to get suspend to work "properly"::
+
+    # Force the USB bus to not immediately wake up again as you try to suspend/hibernate
+    sudo -s
+    echo XHCI > /proc/acpi/wakeup
+
+    # Find which device is Ploopy and set it to "auto" (off) during suspend/hibernate
+    lsusb -t
+    echo "auto" > /sys/bus/usb/devices/1-4/power/control
+
 
 Trackpoint Setup
 ----------------
