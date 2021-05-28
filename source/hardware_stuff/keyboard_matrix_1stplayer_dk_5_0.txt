@@ -1,4 +1,4 @@
- 1STPLAYER DK 5.0 Keyboard Schematic (COL2ROW)
+ Keyboard Matrix 1STPLAYER DK 5.0 (COL2ROW)
 
                                                           K0H        K0G        K0F        K0E        K0D        K0C        K0B        K0A        K09        K08        K07                   K05        K04        K03        K02                   K00
                                                         +----+     +----+     +----+     +----+     +----+     +----+     +----+     +-+--+     +----+     +-+--+     +----+                +----+     +----+     +----+     +----+                +----+
