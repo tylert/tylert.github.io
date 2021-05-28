@@ -1,7 +1,8 @@
 Pointing Devices
 ================
 
-Ploopy Nano Trackball.
+Ploopy Nano trackball.
+Made in Mississauga, Ontario (Canada).
 
 Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 
@@ -13,18 +14,23 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 * https://github.com/MangoIV/dracuLad
 * https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md
 * https://github.com/monroewilliams/trackball
-* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 * https://shop.beekeeb.com/product/ploopy-nano-trackball-case-resin/
+* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 
 
 QMK Ploopy Stuff
 ----------------
 
-Ploopy Nano has been merged and available in build "0.12.26".
+QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
-* https://github.com/qmk/qmk_firmware/pull/11994
+* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aopen
+* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aclosed
 * https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving/
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball/
+
+
+Power Management
+----------------
 
 You might need to disable some silly USB stuff to get suspend to work "properly"::
 
@@ -39,8 +45,8 @@ You might need to disable some silly USB stuff to get suspend to work "properly"
 * https://www.kernel.org/doc/html/v4.19/driver-api/usb/power-management.html
 
 
-Trackpoint Setup
-----------------
+Thiccpad Trackpoint Stuff
+-------------------------
 
 ::
 
@@ -55,11 +61,3 @@ Trackpoint Setup
 
     # horizontal scroll
     xinput set-prop "TPPS/2 IBM TrackPoint" "Evdev Wheel Emulation Axes" 6 7 4 5
-
-
-Other/Wireless Keyboards
-------------------------
-
-* https://keebfol.io/
-* https://zmkfirmware.dev/
-* https://github.com/zmkfirmware/zmk

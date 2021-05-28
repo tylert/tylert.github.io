@@ -69,7 +69,7 @@ joins the "D2" pin (#54) to the "VSS" pin (#63).
 Force DFU Boot
 ~~~~~~~~~~~~~~
 
-Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
+Short R21 to C27 ("BOOT0" to "VDD" pin) and apply power (plug the USB into some orifice).
 
 .. image:: boot0.png
 
@@ -77,15 +77,15 @@ Short R21 to C27 (Boot0 to VDD) and apply power (plug the keyboard in).
 QMK Firmware
 ------------
 
-QMK 0.11.54 or newer includes the K320.
-K310 support is going to be merged soon.
+QMK build "0.11.54" or newer includes the mainline-merged K320 code.
+K310 support is going to be merged "real soon now" (tm).
 
-* https://github.com/the-via/keyboards/pull/588  for the K320
 * https://github.com/qmk/qmk_configurator/pull/887  for the K320
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aclosed
+* https://github.com/the-via/keyboards/pull/588  for the K320
 * https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
 * https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 
@@ -174,3 +174,12 @@ Mill-max sockets can apparently be added to just about any PCB.
 * https://www.reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght/
 * https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/0305-2-15-80-47-80-10-0/2639493
 * https://www.mouser.ca/ProductDetail/mill-max/0305-2-15-80-47-80-10-0/?qs=QtQX4uD3c2Uys0ai6Tr8NQ==
+
+
+Wireless/Alternate Firmwares
+----------------------------
+
+* https://keebfol.io/
+* https://zmkfirmware.dev/
+* https://github.com/zmkfirmware/zmk
+* https://github.com/KMKfw/kmk_firmware
