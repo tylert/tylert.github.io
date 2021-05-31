@@ -68,3 +68,16 @@ ECS
 * https://www.youtube.com/watch?v=MRoPaHUttoA
 * http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
 * https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
+
+
+Account Setup
+-------------
+
+::
+
+    Payment Currency Preference -> Selected Currency:  CAD - Canadian Dollar
+
+    IAM User and Role Access to Billing Information
+    IAM user/role access to billing information is activated.
+
+    Enable MFA for root account and users and so on.
