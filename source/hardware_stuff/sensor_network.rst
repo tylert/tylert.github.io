@@ -6,3 +6,9 @@ Sensor Network
 * https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/
 * https://www.windmill.co.uk/rs485.html
 * https://en.wikipedia.org/wiki/RS-485
+
+
+Camera Stuff
+------------
+
+* https://www.briandorey.com/post/raspberry-pi-high-quality-camera-on-the-microscope

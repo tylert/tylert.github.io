@@ -101,6 +101,7 @@ Docker
 * https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
 * https://success.docker.com/article/Docker_Reference_Architecture-_Design_Considerations_and_Best_Practices_to_Modernize_Traditional_Apps_(MTA)_with_Docker_EE
 * https://wiki.apache.org/httpd/NonRootPortBinding
+* https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 
 
 Official Docker OS Images
@@ -180,6 +181,7 @@ Assorted Things-to-Read
 * https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
 * https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
+* https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
 
 Stuff to watch

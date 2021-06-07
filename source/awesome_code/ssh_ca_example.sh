@@ -13,12 +13,12 @@ gen_ssh_keypair() {
     local private_key_filename="${2}"
 
     if [ -z "${comment}" ]; then
-        echo "Undefined comment"
+        echo 'Undefined comment.'
         return 1
     fi
 
     if [ -z "${private_key_filename}" ]; then
-        echo "Undefined private key filename"
+        echo 'Undefined private key filename.'
         return 2
     fi
 
@@ -45,49 +45,49 @@ sign_ssh_pubkey() {
     local signing_key="${5}"
 
     if [ -z "${type}" ]; then
-        echo "Undefined type"
+        echo 'Undefined type.'
         return 1
     fi
 
     if [ -z "${identity}" ]; then
-        echo "Undefined identity"
+        echo 'Undefined identity.'
         return 2
     fi
 
     if [ -z "${principals}" ]; then
-        echo "Undefined principals"
+        echo 'Undefined principals.'
         return 3
     fi
 
     if [ -z "${key_to_sign}" ]; then
-        echo "Undefined key to sign"
+        echo 'Undefined key to sign.'
         return 4
     fi
 
     if [ -z "${signing_key}" ]; then
-        echo "Undefined signing key"
+        echo 'Undefined signing key.'
         return 5
     fi
 
-    if [ "host" == "${type}" ]; then
+    if [ 'host' == "${type}" ]; then
         ssh-keygen              \
             -I "${identity}"    \
-            -V "-5m:+403d"      \
+            -V '-5m:+403d'      \
             -h                  \
             -n "${principals}"  \
             -s "${signing_key}" \
             -z 1                \
             "${key_to_sign}"
-    elif [ "user" == "${type}" ]; then
+    elif [ 'user' == "${type}" ]; then
         ssh-keygen              \
             -I "${identity}"    \
-            -V "-5m:+403d"      \
+            -V '-5m:+403d'      \
             -n "${principals}"  \
             -s "${signing_key}" \
             -z 1                \
             "${key_to_sign}"
     else
-        echo "Undefined type"
+        echo 'Undefined type.'
     fi
 
     # -I, identity
@@ -101,17 +101,17 @@ sign_ssh_pubkey() {
 
 
 main() {
-    gen_ssh_keypair "hostca" "hostca"
-    gen_ssh_keypair "userca" "userca"
+    gen_ssh_keypair 'hostca' 'hostca'
+    gen_ssh_keypair 'userca' 'userca'
 
     for host in ${hosts}; do
         gen_ssh_keypair "root@${host}" "host_${host}"
-        sign_ssh_pubkey "host" "${host}" "${host}" "host_${host}" "hostca"
+        sign_ssh_pubkey 'host' "${host}" "${host}" "host_${host}" 'hostca'
     done
 
     for user in ${users}; do
         gen_ssh_keypair "${user}" "user_${user}"
-        sign_ssh_pubkey "user" "${user}" "${user}" "user_${user}" "userca"
+        sign_ssh_pubkey 'user' "${user}" "${user}" "user_${user}" 'userca'
     done
 }
 
