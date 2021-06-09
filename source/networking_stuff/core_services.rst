@@ -1,3 +1,9 @@
+Devices
+-------
+
+* https://mikrotik.com/product/crs305_1g_4s_in
+
+
 Private CA
 ----------
 

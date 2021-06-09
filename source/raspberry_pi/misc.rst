@@ -1,5 +1,5 @@
 Raspberry Pi Stuff
-==================
+------------------
 
 * http://bobbyromeo.com/technology/triple-boot-raspberry-pi-on-usb-raspbianretropieopenelec-part-2/
 * https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt
@@ -89,3 +89,4 @@ Hardware
 --------
 
 * https://www.dfrobot.com/product-2242.html
+* https://lincolnbinns.com/shop/internet-of-things-iot/raspberry-pi4-enclosures/raspberry-pi4-accessories/pi4-extender-board.html
