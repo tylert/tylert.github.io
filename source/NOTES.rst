@@ -79,8 +79,8 @@ Or, do it manually with::
     APT::Periodic::Unattended-Upgrade "1";
 
 
-Docker
-------
+Container Stuff
+---------------
 
 * https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
 * https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
@@ -102,6 +102,7 @@ Docker
 * https://success.docker.com/article/Docker_Reference_Architecture-_Design_Considerations_and_Best_Practices_to_Modernize_Traditional_Apps_(MTA)_with_Docker_EE
 * https://wiki.apache.org/httpd/NonRootPortBinding
 * https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
+* https://erkanerol.github.io/post/how-kubectl-exec-works/
 
 
 Official Docker OS Images
@@ -182,6 +183,8 @@ Assorted Things-to-Read
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
 * https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+* https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant/
+* https://mergeboard.com/blog/2-qemu-microvm-docker/
 
 
 Stuff to watch
