@@ -25,8 +25,12 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aopen
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aclosed
-* https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving/
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball/
+* https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving/
+* https://www.reddit.com/r/ploopy/comments/nfdmrc/ploopy_nano_for_scrolling/
+* https://www.reddit.com/r/ploopy/comments/ngltuh/toggle_functionality_of_nano_using_other_qmk/
+* https://www.reddit.com/r/ploopy/comments/nlvgkq/how_to_scroll_with_the_trackball_nano/
+* https://www.reddit.com/r/ploopy/comments/nnb9qn/hold_to_drag_scroll/
 
 
 Power Management
