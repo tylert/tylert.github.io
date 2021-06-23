@@ -1,3 +1,20 @@
+Vagrant Test VM
+---------------
+
+You might "vagrant up" something and then "vagrant ssh" into it (perhaps with
+"config.ssh.forward_agent = true" in your Vagrantfile) and you then wish to
+jump past the crappy NAT from the VM host into the VM guest to do stuff...
+
+Execute the following on the VM guest::
+
+    ssh -fN -R 2222:localhost:22 10.0.2.2 -l user_on_the_vm_host
+
+Execute the following on the VM host::
+
+    ssh -p 2222 localhost -l user_on_the_vm_guest \
+        -i .vagrant/machines/default/virtualbox/private_key
+
+
 Remote Assistance Fu
 --------------------
 
