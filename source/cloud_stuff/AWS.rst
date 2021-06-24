@@ -1,3 +1,14 @@
+CLI
+---
+
+::
+
+    aws ec2 describe-instance-type-offerings |\
+        jq .[][].InstanceType | tr -d '"' | sort | uniq
+    aws rds describe-orderable-db-instance-options --engine aurora-postgresql |\
+        jq .[][].DBInstanceClass | tr -d '"' | sort | uniq
+
+
 TGW/TF
 ------
 
