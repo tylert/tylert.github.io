@@ -3,9 +3,20 @@ CLI
 
 ::
 
+    # Get the list of available instance types
     aws ec2 describe-instance-type-offerings |\
         jq .[][].InstanceType | tr -d '"' | sort | uniq
-    aws rds describe-orderable-db-instance-options --engine aurora-postgresql |\
+
+    # Get the list of available engines
+    aws rds describe-db-engine-versions | \
+        jq .[][].Engine | sort | uniq
+
+    # Get the list of engine versions available for a given engine
+    aws rds describe-db-engine-versions --engine ENGINE |\
+        jq .[][].EngineVersion | sort | uniq
+
+    # Get the list of allowed instance types for a given engine
+    aws rds describe-orderable-db-instance-options --engine ENGINE |\
         jq .[][].DBInstanceClass | tr -d '"' | sort | uniq
 
 
