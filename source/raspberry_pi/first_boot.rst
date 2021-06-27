@@ -2,89 +2,25 @@ Pi First Boot
 =============
 
 
-Download Image
---------------
+Download Images
+---------------
 
 Most of these images are built using the code at
 https://github.com/RPi-Distro/pi-gen/.
 
-
-Raspbian Lite
-~~~~~~~~~~~~~
-
 The faster, more useful download link is
-https://downloads.raspberrypi.org/raspbian_lite/images/.
+https://downloads.raspberrypi.org/.
 
 The slower, less-automated download link is
-https://www.raspberrypi.org/downloads/raspbian/.
-
-
-Raspbian
-~~~~~~~~
-
-The faster, more useful download link is
-https://downloads.raspberrypi.org/raspbian/images/.
-
-The slower, less-automated download link is
-https://www.raspberrypi.org/downloads/raspbian/.
-
-
-NOOBS Lite
-~~~~~~~~~~
-
-The faster, more useful download link is
-https://downloads.raspberrypi.org/NOOBS_lite/images/.
-
-The slower, less-automated download link is
-https://www.raspberrypi.org/downloads/noobs/.
-
-
-NOOBS
-~~~~~
-
-The faster, more useful download links is
-https://downloads.raspberrypi.org/NOOBS/images/.
-
-The slower, less-automated download link is
-https://www.raspberrypi.org/downloads/noobs/.
-
-
-OSMC
-~~~~
-
-The faster, more useful download link is
-http://ftp.fau.de/osmc/osmc/download/installers/diskimages/.
-
-The slower, less-automated download link is https://osmc.tv/download/.
-
-
-RetroPie
-~~~~~~~~
-
-Fetch the latest image from
-http://blog.petrockblock.com/retropie/retropie-downloads/.
-
-
-Ubuntu
-~~~~~~
-
-Fetch the latest image from https://ubuntu-pi-flavour-maker.org/download/.
+https://www.raspberrypi.org/downloads/.
 
 
 Berryboot
 ~~~~~~~~~
 
-TBD
-
-http://www.berryterminal.com/doku.php/berryboot
-http://sourceforge.net/projects/berryboot/files/
-http://sourceforge.net/projects/berryboot/files/os_images/
-
-
-Other
-~~~~~
-
-Fetch the latest image from https://www.raspberrypi.org/downloads/.
+* http://www.berryterminal.com/doku.php/berryboot
+* http://sourceforge.net/projects/berryboot/files/
+* http://sourceforge.net/projects/berryboot/files/os_images/
 
 
 Flash Image
@@ -93,76 +29,43 @@ Flash Image
 If you have a pesky zip file::
 
     unzip 2016-05-27-raspbian-jessie-lite.zip
-    sudo dd if=2016-05-27-raspbian-jessie-lite.img of=/dev/sdc bs=4M
-    sudo sync
+    sudo dd if=2016-05-27-raspbian-jessie-lite.img of=/dev/sdz bs=4M
+    sync
 
-    touch /dev/sdc/boot/ssh
-
-
-Fix Broken Stuff
-----------------
+    touch /dev/sdz/boot/ssh
 
 
-Fix Locale/Keyboard/Timezone
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fix All The Broken Stuff
+------------------------
 
-::
 
+A lot of horrible defaults have been chosen for you.  You can fix them with::
+
+    # Locale Stuff
     sudo raspi-config nonint do_change_locale en_CA.UTF-8
     sudo raspi-config nonint do_configure_keyboard us
-    sudo raspi-config nonint do_change_timezone America/Toronto
+    sudo raspi-config nonint do_change_timezone UTC  # or America/Toronto
 
-    sudo raspi-config nonint do_change_timezone UTC
+    # Networking Stuff
+    sudo raspi-config nonint do_wifi_country CA
+    sudo raspi-config nonint do_hostname moopoo
+    sudo raspi-config nonint do_ssh 0
+    sudo apt-get --yes purge libpam-chksshpwd
 
+    # Display Stuff
+    sudo raspi-config nonint do_overscan 1  # or uncomment 'disable_overscan=1' in /boot/config.txt
+    sudo bash -c "sed -i 's/$/ logo.nologo/' /boot/cmdline.txt"
 
-Fix WiFi Country
-~~~~~~~~~~~~~~~~
-
-FIXME Do this better::
-
-    sudo raspi-config
-    # 'Localisation Options' -> 'Change Wi-fi Country'
-    # Select 'CA Canada'
+    # Not needed anymore?
+    sudo raspi-config nonint do_expand_rootfs
 
 
 Fix Password
 ~~~~~~~~~~~~
 
-FIXME Do this better::
+::
 
-    sudo raspi-config
-    # 'Change User Password'
-    # Type in new password
-
-
-Fix Overscan
-~~~~~~~~~~~~
-
-FIXME Do this better::
-
-    # Uncomment 'disable_overscan=1' in /boot/config.txt
-    sudo reboot
-
-    # sudo raspi-config nonint do_overscan 1
-
-
-Remove Boot Logo
-~~~~~~~~~~~~~~~~
-
-FIXME Do this better::
-
-    # Add ' logo.nologo' to the end of /boot/cmdline.txt
-    sudo reboot
-
-
-Fix Hostname
-~~~~~~~~~~~~
-
-FIXME Do this better::
-
-    sudo raspi-config
-    # 'Advanced Options' -> 'Hostname'
-    # Choose new hostname string
+    sudo raspi-config nonint do_change_pass
 
 
 Update Everything
@@ -172,30 +75,13 @@ Images are always stale.  Update them with::
 
     sudo apt-get update
     sudo apt-get --yes dist-upgrade
-    sudo reboot
+    sudo apt-get --yes autoremove
+    sudo apt-get autoclean
+    sudo apt-get clean
 
 
-Enable SSH
-~~~~~~~~~~
-
-FIXME Do this better::
-
-    sudo raspi-config
-    # 'Advanced Options' -> 'SSH'
-    # Select 'yes'
-
-
-Other
-~~~~~
-
-FIXME Do you want these too?::
-
-    sudo raspi-config nonint do_blanking 1
-    sudo raspi-config nonint do_memory_split 128
-
-
-Activate MPEG Stuff
--------------------
+Activate MPEG Stuff (DEPRECATED)
+--------------------------------
 
 Go buy license key(s) from http://www.raspberrypi.com/mpeg-2-license-key/ and
 http://www.raspberrypi.com/vc-1-license-key/.
@@ -206,7 +92,6 @@ FIXME Do this better::
 
     # Add 'decode_MPG2=0xdeadbeef' to /boot/config.txt
     # Add 'decode_WVC1=0xdeadbeef' to /boot/config.txt
-    sudo reboot
 
 To verify that it worked after a reboot, type::
 
@@ -221,12 +106,3 @@ The less painful way of enabling the codecs::
 
 * https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
 * https://news.ycombinator.com/item?id=16381331
-
-
-
-Get rid of stupid SSH password warning
---------------------------------------
-
-::
-
-    sudo apt-get --yes purge libpam-chksshpwd
