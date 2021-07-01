@@ -23,7 +23,10 @@ Prepare to use CUPS::
     sudo usermod -a -G lpadmin ${USER}
     newgrp lpadmin
 
-If you're using a printer that is well-supported by the "printer-driver-brlaser" package (https://packages.debian.org/bullseye/printer-driver-brlaser) you won't need to do anything here.  If not, you might need to fetch a PPD file like this::
+If you're using a printer that is well-supported by the
+"printer-driver-brlaser" package
+(https://packages.debian.org/bullseye/printer-driver-brlaser) you won't need to
+do anything here.  If not, you might need to fetch a PPD file like this::
 
     wget -c https://njh.eu/Brother-HL-2240D-hpijs-pcl5e.ppd
     mv Brother-HL-2240D-hpijs-pcl5e.ppd /usr/share/ppd/custom
@@ -32,7 +35,8 @@ Or, fetch it here at brother_hl-2240d_ppd_.
 
 .. _brother_hl-2240d_ppd: Brother-HL-2240D-hpijs-pcl5e.ppd
 
-Then, fix up the CUPS config file to allow remote administration via the web interface::
+Then, fix up the CUPS config file to allow remote administration via the web
+interface::
 
     sudo cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.orig
 
@@ -44,9 +48,10 @@ Then, fix up the CUPS config file to allow remote administration via the web int
         sudo sed -i '/Listen localhost:631/i Port 631' /etc/cups/cupsd.conf
     fi
 
-    # Add 'Allow @Local' after each 'Order allow,deny'
+    # Add 'Allow @Local' after each 'Order allow,deny' or 'Order deny,allow'
     if ! grep Allow /etc/cups/cupsd.conf; then
         sudo sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
+        sudo sed -i '/Order deny,allow/a Allow @Local' /etc/cups/cupsd.conf
     fi
 
     sudo /etc/init.d/cupsd restart
@@ -56,9 +61,7 @@ Then, fix up the CUPS config file to allow remote administration via the web int
 Printer Setup
 -------------
 
-XXX FIXME TODO Clean this part up!!!
-
-Visit https://hostname:631/admin/.
+Visit https://${HOSTNAME}:631/admin/.
 
 Select 'Adding Printers and Classes' and then 'Add Printer'.  Pick USB printer
 from 'Local Printers' and click 'Continue'.  Next to 'Sharing', tick the 'Share
