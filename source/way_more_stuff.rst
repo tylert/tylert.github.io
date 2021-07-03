@@ -58,6 +58,8 @@ Currency Stuff
 * https://github.com/tlsfuzzer/python-ecdsa  "ecdsa" pypi package;  dependency of "hdwallet"
 * https://github.com/keis/base58  "base58" pypi package; dependency of "hdwallet"
 * https://github.com/pallets/click  "click" pypi package
+* https://github.com/cryptoadvance/specter-diy  hardware wallet thing?
+* https://www.ethvm.com/  check values of wallets
 
 
 Random Stuff
