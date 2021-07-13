@@ -88,3 +88,17 @@ Assorted Crap
 * https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing/
 * https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html
 * https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers/
+
+
+QR Code Magic
+-------------
+
+* https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11
+* https://cweiske.de/tagebuch/wifi-config-qrcode.htm
+* https://github.com/shpaker/wifi_qrcode
+
+
+Email Hosting
+-------------
+
+* https://github.com/edmundhung/maildog
