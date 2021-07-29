@@ -12,6 +12,15 @@ Sennheiser HD 25 Headphones
 * https://www.youtube.com/watch?v=wB7Nhq5HQFA history of the HD 25 headphones
 
 
+Add-On Micmod Microphone
+------------------------
+
+* https://www.thingiverse.com/thing:3024912 "Micmod" magnetic adapter (closest?)
+* https://www.thingiverse.com/thing:4259926 "Micmod" magnetic adapter
+* https://www.thingiverse.com/thing:4363841 "Micmod" boom clip base
+* https://www.thingiverse.com/thing:4666221 "Micmod" alternative magnetic adapter
+
+
 3D-printed Headphones
 ---------------------
 
