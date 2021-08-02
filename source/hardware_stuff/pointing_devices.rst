@@ -5,6 +5,7 @@ Ploopy Nano trackball.
 Made in Mississauga, Ontario (Canada).
 
 Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
+Bearings are "MR63ZZ" and are available at places like Aliexpress.
 
 * https://www.ploopy.co/nano-trackball
 * https://www.ploopy.co/product/nano-trackball/11
@@ -18,8 +19,8 @@ Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
 * https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 
 
-QMK Ploopy Stuff
-----------------
+More QMK Ploopy Stuff
+---------------------
 
 QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
