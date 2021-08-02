@@ -2,9 +2,10 @@ Pointing Devices
 ================
 
 Ploopy Nano trackball.
-Made in Mississauga, Ontario (Canada).
+Made in Canada (Mississauga, Ontario).
+Very high quality, easy to repair and a great ordering experience.
 
-Any ball between 38.3 and 47.6 mm should work (stock kit uses 38.1 mm ball).
+Any ball between 37.6 and 38.3 mm should work (stock kit uses 38.1 mm ball).
 Bearings are "MR63ZZ" and are available at places like Aliexpress.
 
 * https://www.ploopy.co/nano-trackball
