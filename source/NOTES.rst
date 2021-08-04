@@ -460,3 +460,42 @@ Terraform Awesome
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
 * https://www.terraform.io/docs/commands/state/rm.html
 * https://www.baeldung.com/ops/terraform-best-practices
+
+
+Software Design and Documentation
+---------------------------------
+
+* http://craftinginterpreters.com/
+* https://threedots.tech/post/software-dark-ages/
+* https://www.writethedocs.org/guide/
+
+
+ECR
+---
+
+* https://aws.amazon.com/blogs/compute/authenticating-amazon-ecr-repositories-for-docker-cli-with-credential-helper/
+
+
+Networking
+----------
+
+* https://blog.ikuamike.io/posts/2021/netcat/
+
+
+Go CLI
+------
+
+* https://jogendra.dev/building-command-line-tools-in-go
+* https://coder.com/blog/building-command-line-tools-with-go
+* https://gocli.io/
+* https://github.com/thawkson/go-cli-tool
+* https://github.com/tmrts/boilr
+
+
+IPAM
+----
+
+* https://github.com/netbox-community/netbox
+* https://netbox.readthedocs.io/en/stable/
+* https://registry.terraform.io/search/providers?q=netbox
+* https://www.phillhocking.com/terraform-netbox-ipam-aws/
