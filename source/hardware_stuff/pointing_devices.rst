@@ -67,3 +67,9 @@ Thiccpad Trackpoint Stuff
 
     # horizontal scroll
     xinput set-prop "TPPS/2 IBM TrackPoint" "Evdev Wheel Emulation Axes" 6 7 4 5
+
+
+Mouseless Navigation
+--------------------
+
+* https://felipecortez.net/blog/mouseless.html

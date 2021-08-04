@@ -79,3 +79,9 @@ Background
 * https://njh.eu/printer.html
 * http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint/
 * http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=hl2240_us_eu&os=128
+
+
+OMG
+---
+
+* https://retrohacker.substack.com/p/bye-cups-printing-with-netcat
