@@ -1,3 +1,6 @@
+Design Stuff Maybe
+------------------
+
 * http://www.codeandcompost.com/post/a-safe-place-to-log,-part-01
 * https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
 * https://launchbylunch.com/posts/2014/Jan/29/aws-tips/
@@ -6,6 +9,7 @@
 * https://github.com/vulcand/vulcand
 * https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/
 * https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+* https://martinfowler.com/articles/richardsonMaturityModel.html
 
 
 Random Other Docs
