@@ -11,6 +11,13 @@ import click
 
 @click.command()
 @click.option(
+    '--language',
+    '-l',
+    help='Use this language for the generated mnemnoic.',
+    default='english',
+    required=False,
+)
+@click.option(
     '--mnemonic',
     '-m',
     help='Use this mnemnoic rather than generate a new random one.',
@@ -24,11 +31,18 @@ import click
     default=None,
     required=False,
 )
-def main(mnemonic, passphrase):
+@click.option(
+    '--subwallets',
+    '-s',
+    help='Generate this number of subwallets (default 3).',
+    default=3,
+    required=False,
+)
+def main(language, mnemonic, passphrase, subwallets):
 
     if mnemonic is None:
         # Generate english mnemonic words
-        MNEMONIC: str = generate_mnemonic(language='english', strength=256)
+        MNEMONIC: str = generate_mnemonic(language=language, strength=256)
     else:
         MNEMONIC = mnemonic
 
@@ -42,7 +56,7 @@ def main(mnemonic, passphrase):
     bip44_hdwallet: BIP44HDWallet = BIP44HDWallet(cryptocurrency=EthereumMainnet)
     # Get Ethereum BIP44HDWallet from mnemonic
     bip44_hdwallet.from_mnemonic(
-        mnemonic=MNEMONIC, language='english', passphrase=PASSPHRASE
+        mnemonic=MNEMONIC, language=language, passphrase=PASSPHRASE
     )
     # Clean default BIP44 derivation indexes/paths
     bip44_hdwallet.clean_derivation()
@@ -56,12 +70,12 @@ def main(mnemonic, passphrase):
     print()
 
     # Get Ethereum BIP44HDWallet information from address index
-    for address in range(3):
+    for address in range(subwallets):
         # Derivation from Ethereum BIP44 derivation path
         bip44_derivation: BIP44Derivation = BIP44Derivation(
             cryptocurrency=EthereumMainnet, account=0, change=False, address=address
         )
-        # Drive Ethereum BIP44HDWallet
+        # Derive Ethereum BIP44HDWallet
         bip44_hdwallet.from_path(path=bip44_derivation)
         # Print address_index, path, address and private_key
         print(
