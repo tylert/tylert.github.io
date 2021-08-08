@@ -9,6 +9,31 @@ SSH default login is:  "root" with password "root"
 
 Look under "pages" in the GitHub repo for additional documentation.
 
+
+USB-C OTG + Power Splitter
+--------------------------
+
+* https://www.tindie.com/products/8086net/usb-cpwr-splitter/
+* https://www.buyapi.ca/product/usb-c-pwr-splitter/
+
+
+ATX Control
+-----------
+
+* https://perdeas.bigcartel.com/product/pi-kvm-atx-controller
+* https://www.ebay.com/itm/Pi-KVM-ATX-Controller-board-Fully-assembled-and-tested/265214220357
+* https://www.reddit.com/r/pikvm/comments/mmiz34/custom_pcb_to_control_atx_without_breadboarding/
+
+
+Multiple Units
+--------------
+
+* https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/
+
+
+Upgrades
+--------
+
 ::
 
     # Upgrade the pikvm root filesystem to latest
