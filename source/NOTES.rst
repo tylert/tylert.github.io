@@ -1,3 +1,18 @@
+eBPF Stuff
+----------
+
+* https://github.com/iovisor/bcc
+* https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
+
+
+Secret Management Stuff
+-----------------------
+
+* https://github.com/sniptt-official/ots
+* https://github.com/onetimesecret/onetimesecret
+* https://onetimesecret.com/
+
+
 LANParty Automation
 -------------------
 
