@@ -9,6 +9,7 @@ Secret Management Stuff
 -----------------------
 
 * https://github.com/sniptt-official/ots
+* https://www.sniptt.com/ots/
 * https://github.com/onetimesecret/onetimesecret
 * https://onetimesecret.com/
 
