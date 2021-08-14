@@ -31,21 +31,33 @@ Multiple Units
 * https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/
 
 
+Initial Setup
+-------------
+
+::
+
+    # Put the main root filesystem into "writable mode"
+    rw
+
+    # Fix /etc/hostname
+
+    # Change the default web and ssh passwords
+    # Use the local terminal and use su or ssh in, then do...
+    kvmd-htpasswd set admin
+    passwd root
+
+    # Put on any scripts and things you want
+
+
 Upgrades
 --------
 
 ::
 
-    # Upgrade the pikvm root filesystem to latest
-    # Use the local terminal and use su or ssh in, then do...
+    # Put the main root filesystem into "writable mode"
     rw
+
+    # Upgrade the pikvm root filesystem to latest
     pacman -Syu --noconfirm
     pacman -Sc --noconfirm
     rm -rf /var/cache/pacman/pkg
-    reboot
-
-    # Change the default web and ssh passwords
-    # Use the local terminal and use su or ssh in, then do...
-    rw
-    kvmd-htpasswd set admin
-    passwd root
