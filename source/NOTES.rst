@@ -5,15 +5,6 @@ eBPF Stuff
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
 
 
-Secret Management Stuff
------------------------
-
-* https://github.com/sniptt-official/ots
-* https://www.sniptt.com/ots/
-* https://github.com/onetimesecret/onetimesecret
-* https://onetimesecret.com/
-
-
 LANParty Automation
 -------------------
 
@@ -231,7 +222,7 @@ MySQL Stuff
 Keepass Stuff
 -------------
 
-* http://blog.sharedmemory.fr/en/2014/04/30/keepass-file-format-explained/
+* https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45#keepass-file-format-explained
 * https://github.com/asmpro/keepasspy
 * https://github.com/fdemmer/libkeepass
 * https://github.com/jamesls/python-keepassx
@@ -239,6 +230,15 @@ Keepass Stuff
 * https://github.com/kindahl/libkeepass
 * https://github.com/phpwutz/libkeepass
 * https://keepassxc.org/
+
+
+Secret Management Stuff
+-----------------------
+
+* https://github.com/sniptt-official/ots
+* https://www.sniptt.com/ots/
+* https://github.com/onetimesecret/onetimesecret
+* https://onetimesecret.com/
 
 
 Cool Products
