@@ -79,3 +79,10 @@ The tool "update-initramfs -k all -c" is used to forcibly-regenerate initramfses
 /etc/cryptsetup-initramfs/conf-hook::
 
     CRYPTSETUP=y
+
+
+Other Links
+-----------
+
+* https://www.dwarmstrong.org/fde-debian/
+* https://cryptsetup-team.pages.debian.net/cryptsetup/encrypted-boot.html
