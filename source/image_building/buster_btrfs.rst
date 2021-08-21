@@ -86,3 +86,6 @@ Other Links
 
 * https://www.dwarmstrong.org/fde-debian/
 * https://cryptsetup-team.pages.debian.net/cryptsetup/encrypted-boot.html
+* https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=933523
+* https://linux.debian.user.narkive.com/df5EJ2ux/deb10-installer-can-t-install-grub
+* https://forums.debian.net/viewtopic.php?t=145105
