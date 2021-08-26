@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
-from typing import Optional
+
+# from typing import Optional
+from secrets import choice
 
 from hdwallet import BIP44HDWallet
 from hdwallet.cryptocurrencies import EthereumMainnet
@@ -38,19 +40,29 @@ import click
     default=3,
     required=False,
 )
-def main(language, mnemonic, passphrase, subwallets):
+@click.option(
+    '--wordlist',
+    '-w',
+    help='Use this wordlist file for the random passphrase generation.',
+    default='/tmp/eff-short.txt',
+    required=False,
+)
+def main(language, mnemonic, passphrase, subwallets, wordlist):
 
     if mnemonic is None:
         # Generate english mnemonic words
         MNEMONIC: str = generate_mnemonic(language=language, strength=256)
     else:
-        MNEMONIC = mnemonic
+        MNEMONIC: str = mnemonic
 
     if passphrase is None:
         # Secret passphrase/password for mnemonic
-        PASSPHRASE: Optional[str] = ''
+        # PASSPHRASE: Optional[str] = ''
+        with open(wordlist) as f:
+            words = [word.strip() for word in f]
+            PASSPHRASE: str = ' '.join(choice(words) for i in range(24))
     else:
-        PASSPHRASE = passphrase
+        PASSPHRASE: str = passphrase
 
     # Initialize Ethereum mainnet BIP44HDWallet
     bip44_hdwallet: BIP44HDWallet = BIP44HDWallet(cryptocurrency=EthereumMainnet)
@@ -87,6 +99,3 @@ def main(language, mnemonic, passphrase, subwallets):
 
 if __name__ == '__main__':
     main()
-
-
-# $0 --passphrase "$(pwgen-passphrase --length 24 --wordlist eff-short)"
