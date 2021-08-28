@@ -33,3 +33,36 @@ zip file that's currently executing.
 
 * https://docs.python.org/3/library/zipapp.html
 * https://stackoverflow.com/questions/5355694/python-can-executable-zip-files-include-data-files
+
+
+Python IPv4
+-----------
+
+::
+
+    >>> import ipaddress
+    >>> list(ipaddress.ip_network('163.123.192.190/29', strict=False).hosts())
+    [IPv4Address('163.123.192.185'), IPv4Address('163.123.192.186'),
+    IPv4Address('163.123.192.187'), IPv4Address('163.123.192.188'),
+    IPv4Address('163.123.192.189'), IPv4Address('163.123.192.190')]
+    >>> ipaddress.ip_network('163.123.192.190/29', strict=False).num_addresses
+    8
+    >>> len(list(ipaddress.ip_network('163.123.192.190/29', strict=False).hosts()))
+    6
+    >>> ipaddress.ip_network('163.123.192.190/29', strict=False).network_address
+    IPv4Address('163.123.192.184')
+    >>> ipaddress.ip_network('163.123.192.190/29', strict=False).broadcast_address
+    IPv4Address('163.123.192.191')
+    >>> ipaddress.ip_network('163.123.192.190/29', strict=False).netmask
+    IPv4Address('255.255.255.248')
+    >>> ipaddress.ip_network('163.123.192.190/29', strict=False).hostmask
+    IPv4Address('0.0.0.7')
+
+
+Binary Subnet Mask:	11111111.11111111.11111111.11111000
+Binary ID:	10100011011110111100000010111110
+Integer ID:	2742796478
+Hex ID:	0xa37bc0be
+in-addr.arpa:	190.192.123.163.in-addr.arpa
+IPv4 Mapped Address:	::ffff:a37b.c0be
+6to4 Prefix:	2002:a37b.c0be::/48
