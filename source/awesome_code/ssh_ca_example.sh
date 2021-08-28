@@ -22,12 +22,17 @@ gen_ssh_keypair() {
         return 2
     fi
 
-    ssh-keygen                       \
-        -C "${comment}"              \
-        -N ''                        \
-        -a 2147483647                \
-        -f "${private_key_filename}" \
-        -t ed25519
+    if [ -e "${private_key_filename}" ]; then
+        echo 'Private key already exists.'
+        return 3
+    else
+        ssh-keygen                       \
+            -C "${comment}"              \
+            -N ''                        \
+            -a 2147483647                \
+            -f "${private_key_filename}" \
+            -t ed25519
+    fi
 
     # -C, comment
     # -N, symmetric passphrase
@@ -105,13 +110,13 @@ main() {
     gen_ssh_keypair 'userca' 'userca'
 
     for host in ${hosts}; do
-        gen_ssh_keypair "root@${host}" "host_${host}"
-        sign_ssh_pubkey 'host' "${host}" "${host}" "host_${host}" 'hostca'
+        gen_ssh_keypair "root@${host}" "ssh_host_ed25519_key_${host}"
+        sign_ssh_pubkey 'host' "${host}" "${host}" "ssh_host_ed25519_key_${host}" 'hostca'
     done
 
     for user in ${users}; do
-        gen_ssh_keypair "${user}" "user_${user}"
-        sign_ssh_pubkey 'user' "${user}" "${user}" "user_${user}" 'userca'
+        gen_ssh_keypair "${user}" "id_ed25519_${user}"
+        sign_ssh_pubkey 'user' "${user}" "${user}" "id_ed25519_${user}" 'userca'
     done
 }
 
