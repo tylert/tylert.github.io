@@ -112,6 +112,9 @@ Container Stuff
 * https://erkanerol.github.io/post/how-kubectl-exec-works/
 * https://www.youtube.com/watch?v=g4PCTodIm80
 * https://www.youtube.com/watch?v=_dn4c9j7LUo
+* https://github.com/containerd/nerdctl
+* https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
+* https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
 
 
 Official Docker OS Images
@@ -194,6 +197,7 @@ Assorted Things-to-Read
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 * https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant/
 * https://mergeboard.com/blog/2-qemu-microvm-docker/
+* https://plaintextaccounting.org/
 
 
 Stuff to watch
@@ -273,6 +277,8 @@ Kobo Stuff
 ::
 
     ebook-convert dummy.html .epub
+
+* https://github.com/olup/kobowriter
 
 
 Awesome Stuff
