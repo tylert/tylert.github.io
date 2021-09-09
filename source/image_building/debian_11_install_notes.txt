@@ -65,3 +65,16 @@ Zoom
 ----
 
 Install the Zoom package and then "apt --fix-broken install" (:facepalm:).
+
+
+Bugs
+----
+
+Error in the "Software" program::
+
+    Unable to get list of updates:
+    Failed to update metadata for lvfs: checksum failure: failed to verify data, expected ababababababababababa...
+
+Remove the error in "Software" program by typing::
+
+    fwupdmgr --force refresh
