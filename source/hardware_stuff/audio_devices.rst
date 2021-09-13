@@ -12,13 +12,13 @@ Sennheiser HD 25 Headphones
 * https://www.youtube.com/watch?v=wB7Nhq5HQFA history of the HD 25 headphones
 
 
-Add-On Micmod Microphone
-------------------------
+Add-On Microphones
+------------------
 
 * https://www.thingiverse.com/thing:3024912 "Micmod" magnetic adapter (closest?)
 * https://www.thingiverse.com/thing:4259926 "Micmod" magnetic adapter
 * https://www.thingiverse.com/thing:4363841 "Micmod" boom clip base
-* https://www.thingiverse.com/thing:4666221 "Micmod" alternative magnetic adapter
+* https://www.thingiverse.com/thing:4666221 alternative magnetic adapter
 
 
 3D-printed Headphones
@@ -29,3 +29,11 @@ Add-On Micmod Microphone
 * https://homebrewheadphones.com/ really DIY
 * https://www.instructables.com/DIY-3D-Printed-Headphones/ really DIY
 * https://all3dp.com/1/3d-print-your-own-headphones/ modify existing headphones
+
+
+Microphone Mute Buttons
+-----------------------
+
+* http://hackerpublicradio.org/eps.php?id=3077
+* https://medium.com/macoclock/how-in-the-bleep-do-i-mute-my-mic-anywhere-on-macos-d2fa1185b13
+* https://www.reddit.com/r/olkb/comments/gjlgsc/anyone_managed_to_get_a_macro_to_muteunmute_the/
