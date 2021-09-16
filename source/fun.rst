@@ -110,15 +110,3 @@ Kubernetes
 * https://kubernetes.io/docs/tutorials/online-training/overview/
 * https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
 * https://www.digitalocean.com/resources/kubernetes/
-
-
-AWS
----
-
-::
-
-    aws ec2 describe-images \
-        --region=us-east-1 \
-        --owners=amazon \
-        --filters='Name=name,Values=Windows_Server-2016-English-Full-Base*' \
-        --query='sort_by(Images, &CreationDate)[].[Name, ImageId][-1]'

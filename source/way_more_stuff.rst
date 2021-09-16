@@ -19,12 +19,6 @@ Lenovo T560 BIOS
 * http://pcsupport.lenovo.com/ca/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t560/downloads/ds112311
 
 
-AWS Tips
---------
-
-* https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
-
-
 Python Fun
 ----------
 

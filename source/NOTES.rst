@@ -106,7 +106,6 @@ Container Stuff
 * https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
 * https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
 * https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
-* https://success.docker.com/article/Docker_Reference_Architecture-_Design_Considerations_and_Best_Practices_to_Modernize_Traditional_Apps_(MTA)_with_Docker_EE
 * https://wiki.apache.org/httpd/NonRootPortBinding
 * https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 * https://erkanerol.github.io/post/how-kubectl-exec-works/
@@ -172,7 +171,6 @@ Assorted Things-to-Read
 -----------------------
 
 * http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/
-* http://blogs.aws.amazon.com/security/post/Tx2MUS2R3CMGG8H/Enable-a-New-Feature-in-the-AWS-Management-Console-Cross-Account-Access
 * http://chris.beams.io/posts/git-commit/
 * http://lett.be/oauth2/
 * http://randsinrepose.com/archives/bored-people-quit/
@@ -180,12 +178,10 @@ Assorted Things-to-Read
 * http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop
 * http://www.daedtech.com/how-to-keep-your-best-programmers
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
-* https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
 * http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/
-* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
 * http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
 * http://redsquirrel.com/dave/work/a2j/patterns/SustainableMotivations.html
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
@@ -287,21 +283,18 @@ Awesome Stuff
 * http://www.1001fonts.com/
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
 * http://gohugo.io/
-* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://github.com/intenthq/anon
 * https://nodered.org/
-* https://en.wikipedia.org/wiki/FreeRTOS
-* https://aws.amazon.com/freertos/
 * https://adventurekeep.com/
 * https://github.com/fluent/fluent-bit
-* https://github.com/codahale/sneaker
-* https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
 * https://lucperkins.dev/blog/introducing-tract/
 * https://learn.hashicorp.com/tutorials/terraform/count
 * https://blog.hansenpartnership.com/creating-a-home-ipv6-network/
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
+* https://nix.dev/tutorials/building-and-running-docker-images
+* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 
 
 Git Stuff
@@ -377,20 +370,6 @@ Style Guide Stuff
 * https://google.github.io/styleguide/shell.xml
 
 
-Elasticsearch
--------------
-
-* https://youtu.be/cn7QLSPB3OA
-* http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
-
-
-Cloud Hybrid
-------------
-
-* https://youtu.be/tIDbFTIPolQ
-* http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
-
-
 Microservices
 -------------
 
@@ -414,12 +393,6 @@ Time-Series and Graphing Considerations
 
 * https://www.datadoghq.com/blog/timeseries-metric-graphs-101/
 * https://www.datadoghq.com/blog/metric-units-descriptions-metadata/
-
-
-Cloud Backup and Recovery
--------------------------
-
-* http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
 
 
 Crypto
@@ -492,12 +465,6 @@ Software Design and Documentation
 * http://craftinginterpreters.com/
 * https://threedots.tech/post/software-dark-ages/
 * https://www.writethedocs.org/guide/
-
-
-ECR
----
-
-* https://aws.amazon.com/blogs/compute/authenticating-amazon-ecr-repositories-for-docker-cli-with-credential-helper/
 
 
 Networking

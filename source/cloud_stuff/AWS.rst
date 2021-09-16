@@ -1,3 +1,22 @@
+Other
+-----
+
+* http://cloud-images.ubuntu.com/locator/ec2/
+
+::
+
+    aws --profile foo sts assume-role --role-arn \
+        arn:aws:iam::564976771545:role/dev/AdminsRole-VJV3HEFA7XQ2 \
+        --role-session-name bubba
+
+    AWS_ACCESS_KEY_ID='ASIAASDFASDFASDFASDF' \
+    AWS_SECRET_ACCESS_KEY='asdfasdfasdfasdfasdfasdf' \
+    AWS_SECURITY_TOKEN='AQoDYXdzEEwagAL++...' \
+    packer build -only=base -var version=0.0.1 -var source_ami=ami-415f6d2b \
+        -var node_source_file=./authorized_keys \
+        -var node_destination_name=authorized_keys base.json
+
+
 CLI
 ---
 
@@ -18,6 +37,14 @@ CLI
     # Get the list of allowed instance types for a given engine
     aws rds describe-orderable-db-instance-options --engine ENGINE |\
         jq .[][].DBInstanceClass | tr -d '"' | sort | uniq
+
+::
+
+    aws ec2 describe-images \
+        --region=us-east-1 \
+        --owners=amazon \
+        --filters='Name=name,Values=Windows_Server-2016-English-Full-Base*' \
+        --query='sort_by(Images, &CreationDate)[].[Name, ImageId][-1]'
 
 
 TGW/TF
@@ -69,6 +96,7 @@ IAM
 ---
 
 * https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
+* http://blogs.aws.amazon.com/security/post/Tx2MUS2R3CMGG8H/Enable-a-New-Feature-in-the-AWS-Management-Console-Cross-Account-Access
 
 
 AWS STS
@@ -92,6 +120,12 @@ ECS
 * https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 
 
+ECR
+---
+
+* https://aws.amazon.com/blogs/compute/authenticating-amazon-ecr-repositories-for-docker-cli-with-credential-helper/
+
+
 Account Setup
 -------------
 
@@ -103,3 +137,44 @@ Account Setup
     IAM user/role access to billing information is activated.
 
     Enable MFA for root account and users and so on.
+
+
+Assorted
+--------
+
+* https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
+* https://launchbylunch.com/posts/2014/Jan/29/aws-tips/
+* http://cloudacademy.com/blog/centralized-log-management-with-aws-cloudwatch-part-3-of-3/
+* http://cloudacademy.com/blog/aws-cloudwatch-monitoring/
+* https://aws.amazon.com/freertos/
+* https://en.wikipedia.org/wiki/FreeRTOS
+* https://github.com/codahale/sneaker
+* https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
+
+
+Cloud Backup and Recovery
+-------------------------
+
+* http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
+* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
+
+
+DynamoDB
+--------
+
+* http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
+
+
+Elasticsearch
+-------------
+
+* https://youtu.be/cn7QLSPB3OA
+* http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
+* https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
+
+
+Cloud Hybrid
+------------
+
+* https://youtu.be/tIDbFTIPolQ
+* http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
