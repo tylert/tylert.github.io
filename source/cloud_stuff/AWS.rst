@@ -1,8 +1,13 @@
 Other
 -----
 
+* https://instances.vantage.sh/ former ec2instances.info
 * http://cloud-images.ubuntu.com/locator/ec2/
+* https://wiki.debian.org/Cloud/AmazonEC2Image/
 * https://www.uplinklabs.net/projects/arch-linux-on-ec2/
+* https://gitlab.com/anemos-io/archlinux-ec2
+* http://mathcom.com/arch.aws.ami.html
+* https://wiki.archlinux.org/title/Arch_Linux_AMIs_for_Amazon_Web_Services
 
 ::
 
@@ -41,15 +46,37 @@ CLI
 
 ::
 
+    # Get info about an AMI in my current region (AWS profile)
+    aws ec2 describe-images \
+        --image-ids ami-abcd1234567890
+
+    # Get info about an AMI in another region
     aws ec2 describe-images \
         --region=ca-central-1 \
-        --image-ids ami-abcd1234
+        --image-ids ami-abcd1234567890
 
+    # Get just the OwnerId of an AMI
     aws ec2 describe-images \
-        --region=us-east-1 \
+        --image-ids ami-abcd1234567890 |\
+        jq -r .Images[0].OwnerId
+
+    # Amzon Linux (show only the last one)
+    aws ec2 describe-images \
         --owners=amazon \
-        --filters='Name=name,Values=Windows_Server-2016-English-Full-Base*' \
-        --query='sort_by(Images, &CreationDate)[].[Name, ImageId][-1]'
+        --filters='Name=name,Values=amzn2-ami-hvm*' \
+        --query='sort_by(Images, &CreationDate)[].[Name, ImageId, OwnerId][-1]'
+
+    # Winderz (show all of them with newest last)
+    aws ec2 describe-images \
+        --owners=amazon \
+        --filters='Name=name,Values=Windows_Server-*-English-Full-Base*' \
+        --query='sort_by(Images, &CreationDate)[].[Name, ImageId, OwnerId]'
+
+Owners:
+- amazon for AmazonLinux/Windows AMIs (from Amazon)
+- 099720109477 for Ubuntu AMIs (from Canonical)
+- 136693071363 for Debian AMIs (from Debian)
+- 093273469852 for ArchLinux AMIs (from Uplink Labs)
 
 
 TGW/TF
