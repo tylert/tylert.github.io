@@ -2,6 +2,7 @@ Other
 -----
 
 * http://cloud-images.ubuntu.com/locator/ec2/
+* https://www.uplinklabs.net/projects/arch-linux-on-ec2/
 
 ::
 
@@ -28,17 +29,21 @@ CLI
 
     # Get the list of available engines
     aws rds describe-db-engine-versions | \
-        jq .[][].Engine | sort | uniq
+        jq .[][].Engine | tr -d '"' | sort | uniq
 
     # Get the list of engine versions available for a given engine
-    aws rds describe-db-engine-versions --engine ENGINE |\
-        jq .[][].EngineVersion | sort | uniq
+    aws rds describe-db-engine-versions --engine ${ENGINE} |\
+        jq .[][].EngineVersion | tr -d '"' | sort | uniq
 
     # Get the list of allowed instance types for a given engine
-    aws rds describe-orderable-db-instance-options --engine ENGINE |\
+    aws rds describe-orderable-db-instance-options --engine ${ENGINE} |\
         jq .[][].DBInstanceClass | tr -d '"' | sort | uniq
 
 ::
+
+    aws ec2 describe-images \
+        --region=ca-central-1 \
+        --image-ids ami-abcd1234
 
     aws ec2 describe-images \
         --region=us-east-1 \
