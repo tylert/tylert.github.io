@@ -18,19 +18,6 @@ Dynamic DNS
 * https://medium.com/@matzhouse/dynamic-dns-with-terraform-and-route53-3fafe7c68970
 
 
-Python IP Address
------------------
-
-Find the size of an IPv4 address range::
-
-    import ipaddress
-
-    ip1 = int(ipaddress.IPv4Address('10.1.200.202'))
-    ip2 = int(ipaddress.IPv4Address('10.1.200.207'))
-
-    print(ip2 - ip1 + 1)
-
-
 Service Mesh
 ------------
 
@@ -101,3 +88,9 @@ bash lines::
     ssh -R 3333:localhost:8888 yourdomain
 
 * https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html
+
+
+Networking Magic
+----------------
+
+* http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets

@@ -58,6 +58,13 @@ Python IPv4
     >>> ipaddress.ip_network('163.123.192.190/29', strict=False).hostmask
     IPv4Address('0.0.0.7')
 
+::
+
+    import ipaddress
+    ip1 = int(ipaddress.IPv4Address('10.1.200.202'))
+    ip2 = int(ipaddress.IPv4Address('10.1.200.207'))
+    print(ip2 - ip1 + 1)  # how many exist between these addresses?
+
 
 Binary Subnet Mask:	11111111.11111111.11111111.11111000
 Binary ID:	10100011011110111100000010111110
