@@ -20,6 +20,18 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
 * https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 
 
+Ploopy Nano Gets Better Bearings
+--------------------------------
+
+The default bearings for the Ploopy Nano seem to get rusty with regular use.
+
+* https://github.com/gbrnt/ploopy-nano/tree/master/hardware/mechanicals-btu-mod 3D files
+* https://www.reddit.com/r/ploopy/comments/p7mkhd/new_btu_mod_for_ploopy_nano/ discussion
+* https://imgur.com/a/o2Ar9VT original designer's renders and prototype pics
+* https://i.imgur.com/PGTLar9.jpg finished print example
+* https://www.reddit.com/r/ploopy/comments/ldfcde/heres_a_3dprintable_ploopy_trackball_mod_to_use/ BTU discussions
+
+
 More QMK Ploopy Stuff
 ---------------------
 
@@ -33,6 +45,9 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 * https://www.reddit.com/r/ploopy/comments/ngltuh/toggle_functionality_of_nano_using_other_qmk/
 * https://www.reddit.com/r/ploopy/comments/nlvgkq/how_to_scroll_with_the_trackball_nano/
 * https://www.reddit.com/r/ploopy/comments/nnb9qn/hold_to_drag_scroll/
+* https://www.reddit.com/r/ploopy/comments/oqwyzs/help_drag_scroll_as_held_key_in_tap_dance/
+* https://www.reddit.com/r/ploopy/comments/ou2110/auto_hot_key_script_for_right_click_scroll_wheel/
+* https://www.reddit.com/r/ploopy/comments/pl67bn/ploopy_mini_trackball_and_ubuntu/
 
 
 Power Management
