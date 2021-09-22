@@ -295,6 +295,21 @@ Awesome Stuff
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 * https://nix.dev/tutorials/building-and-running-docker-images
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
+* https://www.alvarez.io/posts/living-like-it-s-99/
+* https://マリウス.com/ -> https://xn--gckvb8fzb.com/
+
+
+Offline Wikipedia
+-----------------
+
+* https://github.com/mrusme/uveira
+* https://github.com/spencermountain/dumpster-dive
+
+
+Football Computer
+-----------------
+
+* https://マリウス.com/linux-on-the-desktop-part-two/
 
 
 Git Stuff
