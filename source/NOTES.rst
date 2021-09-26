@@ -443,6 +443,7 @@ More
 * https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://bou.ke/blog/formulas/
+* https://news.ycombinator.com/item?id=23643096 less bloated Ansible/SaltStack?
 
 
 Books
