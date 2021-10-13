@@ -1,3 +1,15 @@
+Pacman
+------
+
+::
+
+    # -i = --info
+    pacman -Si foo  # show info about available package 'foo'
+    pacman -Ss bar  # show names of available packages with 'bar' in the name
+
+    pacman -Qi foo  # show info about installed package 'foo'
+
+
 Arch Linux AMIs
 ---------------
 

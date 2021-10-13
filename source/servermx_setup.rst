@@ -7,7 +7,7 @@ URLs:
 3.  https://afterlogic.servermx.com  (just webmail)
 4.  https://squirrel.servermx.com  (just webmail)
 
-Thunderbird Setup
+Email Client Setup
 Username:  firstname.lastname@domainname.tld
 Password:  YOUREMAILPASSWORD
 Incoming:  imap.servermx.com, SSL/TLS, port 993, normal password
@@ -16,9 +16,6 @@ Account name:  servermx
 Display name:  Firstname Lastname
 https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Contacts/personal/
 https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Calendar/personal/
-
-K-9 Setup
-Same as Thunderbird but make sure to poll every 1 hour and get 1000 messages
 
 DAVdroid Setup
 URL:  https://sogo.servermx.com/SOGo/dav/

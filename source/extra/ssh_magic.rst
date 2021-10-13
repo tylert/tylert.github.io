@@ -1,5 +1,5 @@
-Vagrant Test VM
----------------
+Local Test VM
+-------------
 
 You might "vagrant up" something and then "vagrant ssh" into it (perhaps with
 "config.ssh.forward_agent = true" in your Vagrantfile) and you then wish to
