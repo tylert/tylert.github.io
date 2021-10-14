@@ -1,6 +1,20 @@
 Pointing Devices
 ================
 
+
+Gaming Mice
+-----------
+
+Logitech G203 Lightsync gaming mouse.
+
+* https://www.logitechg.com/en-us/products/gaming-mice/g203-lightsync-rgb-gaming-mouse.910-005791.html
+* https://github.com/libratbag/piper
+* https://github.com/smasty/g203-led
+
+
+Trackballs
+----------
+
 Ploopy Nano trackball.
 Made in Canada (Mississauga, Ontario).
 Very high quality, easy to repair and a great ordering experience.
@@ -20,7 +34,7 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
 * https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
 
 
-Ploopy Nano Gets Better Bearings
+Ploopy Nano With Better Bearings
 --------------------------------
 
 The default bearings for the Ploopy Nano seem to get rusty with regular use.
