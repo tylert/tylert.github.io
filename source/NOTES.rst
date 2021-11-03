@@ -194,6 +194,7 @@ Assorted Things-to-Read
 * https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant/
 * https://mergeboard.com/blog/2-qemu-microvm-docker/
 * https://plaintextaccounting.org/
+* https://www.netmeister.org/blog/inet_aton.html
 
 
 Stuff to watch
