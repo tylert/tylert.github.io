@@ -52,6 +52,16 @@ PiHole Raspbian
     sudo bash basic-install.sh
 
 
+Bash Magic
+----------
+
+Script, know thyself::
+
+    directory="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
+
+* https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script/
+
+
 Ngrok Clone
 -----------
 
