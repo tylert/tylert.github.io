@@ -100,7 +100,7 @@ sign_ssh_pubkey() {
     # -h, create a host certificate instead of a user certificate
     # -n, principals
     # -s, signing private key
-    # -z, serial number
+    # -z, serial number (default 0), use '+' prefix to autoincrement
     # public key file to sign
 }
 
