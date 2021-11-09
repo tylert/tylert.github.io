@@ -85,3 +85,4 @@ OMG
 ---
 
 * https://retrohacker.substack.com/p/bye-cups-printing-with-netcat
+* https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html

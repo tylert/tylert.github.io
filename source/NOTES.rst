@@ -298,6 +298,7 @@ Awesome Stuff
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://www.alvarez.io/posts/living-like-it-s-99/
 * https://マリウス.com/ -> https://xn--gckvb8fzb.com/
+* https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 
 
 Offline Wikipedia
