@@ -94,7 +94,6 @@ Container Stuff
 * http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
 * http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
 * http://prakhar.me/docker-curriculum/
-* http://stable.release.core-os.net/amd64-usr/current/
 * http://stackoverflow.com/questions/18274088/how-can-i-make-my-own-base-image-for-docker
 * http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
 * http://www.aossama.com/build-debian-docker-image-from-scratch/
@@ -119,10 +118,10 @@ Container Stuff
 Official Docker OS Images
 -------------------------
 
-* https://github.com/debuerreotype/debuerreotype
-* https://github.com/debuerreotype/docker-debian-artifacts
-* https://github.com/CentOS/sig-cloud-instance-build
-* https://github.com/CentOS/sig-cloud-instance-images
+* https://github.com/debuerreotype/debuerreotype  Debian et al.
+* https://github.com/debuerreotype/docker-debian-artifacts  Debian
+* https://github.com/tianon/docker-brew-ubuntu-core  Ubuntu
+* https://github.com/alpinelinux/docker-alpine  Alpine Linux
 
 
 System76 Stuff
@@ -248,6 +247,7 @@ Cool Products
 -------------
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
+* https://mudita.com/store/mudita-pure-minimalist-phone/
 
 
 Keyboard CNC
@@ -319,6 +319,7 @@ Git Stuff
 
 * https://drewdevault.com/2020/04/06/My-weird-branchless-git-workflow.html
 * https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
+* https://github.com/newren/git-filter-repo/  replacement for git-filter-branch below
 
 ::
 
