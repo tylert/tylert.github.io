@@ -512,3 +512,10 @@ IPAM
 * https://netbox.readthedocs.io/en/stable/
 * https://registry.terraform.io/search/providers?q=netbox
 * https://www.phillhocking.com/terraform-netbox-ipam-aws/
+
+
+Your Mom
+--------
+
+* https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/
+* https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
