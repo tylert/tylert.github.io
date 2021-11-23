@@ -294,7 +294,6 @@ Awesome Stuff
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
-* https://nix.dev/tutorials/building-and-running-docker-images
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://www.alvarez.io/posts/living-like-it-s-99/
 * https://マリウス.com/ -> https://xn--gckvb8fzb.com/
@@ -464,6 +463,8 @@ Container Awesome
 
 * https://iximiuz.com/en/posts/container-networking-is-simple/
 * https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
+* https://nix.dev/tutorials/building-and-running-docker-images
+* https://ianthehenry.com/posts/how-to-learn-nix/
 
 
 Vault Awesome
