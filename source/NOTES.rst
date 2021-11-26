@@ -319,6 +319,13 @@ Git Stuff
 * https://drewdevault.com/2020/04/06/My-weird-branchless-git-workflow.html
 * https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
 * https://github.com/newren/git-filter-repo/  replacement for git-filter-branch below
+* https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html
+* https://bneijt.nl/blog/merge-a-subdirectory-of-another-repository-with-git/
+
+::
+
+    # Force an entire repo root to look like it was always under a subdirectory
+    git filter-repo --to-subdirectory-filter my-module/
 
 ::
 
