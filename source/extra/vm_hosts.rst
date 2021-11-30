@@ -12,3 +12,5 @@
 * https://github.com/timebertt/pi-cloud-init
 * https://askubuntu.com/questions/1356678/how-to-use-ssh-import-id-with-cloud-init-on-raspberry-pi-4-w-ubuntu-20-04-serve
 * https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/
+* https://github.com/CGamesPlay/infra
+* https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/
