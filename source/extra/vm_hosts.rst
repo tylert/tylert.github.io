@@ -14,3 +14,5 @@
 * https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/
 * https://github.com/CGamesPlay/infra
 * https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/
+* https://grahamc.com/blog/erase-your-darlings
+* https://github.com/rancher/k3os#quick-start
