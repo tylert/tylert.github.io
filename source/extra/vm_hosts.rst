@@ -16,3 +16,4 @@
 * https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/
 * https://grahamc.com/blog/erase-your-darlings
 * https://github.com/rancher/k3os#quick-start
+* https://blog.nootch.net/post/kubernetes-at-home-with-k3s/
