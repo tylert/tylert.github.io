@@ -4,6 +4,8 @@ Pacman
 ::
 
     # -i = --info
+    # -S = --sync
+
     pacman -Si foo  # show info about available package 'foo'
     pacman -Ss bar  # show names of available packages with 'bar' in the name
 
