@@ -446,6 +446,7 @@ More
 
 * https://davidoha.medium.com/avoiding-bash-frustration-use-python-for-shell-scripts-44bba8ba1e9e
 * https://blog.jez.io/bash-debugger/
+* https://johannes.truschnigg.info/writing/2021-12_colodebug/
 * https://dzone.com/articles/creating-a-highly-available-k3s-cluster
 * https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/
 * https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge/
