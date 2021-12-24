@@ -1,6 +1,7 @@
 Other
 -----
 
+* https://awsregion.info/
 * https://instances.vantage.sh/ former ec2instances.info
 * http://cloud-images.ubuntu.com/locator/ec2/
 * https://wiki.debian.org/Cloud/AmazonEC2Image/
@@ -11,16 +12,16 @@ Other
 
 ::
 
-    aws --profile foo sts assume-role --role-arn \
-        arn:aws:iam::564976771545:role/dev/AdminsRole-VJV3HEFA7XQ2 \
+    aws sts assume-role \
+        --role-arn arn:aws:iam::123456789012:role/dev/AdminRole \
         --role-session-name bubba
 
-    AWS_ACCESS_KEY_ID='ASIAASDFASDFASDFASDF' \
-    AWS_SECRET_ACCESS_KEY='asdfasdfasdfasdfasdfasdf' \
+    AWS_ACCESS_KEY_ID='ASIAASDFASDFASDFASDF...' \
+    AWS_SECRET_ACCESS_KEY='asdfasdfasdfasdfasdfasdf...' \
     AWS_SECURITY_TOKEN='AQoDYXdzEEwagAL++...' \
-    packer build -only=base -var version=0.0.1 -var source_ami=ami-415f6d2b \
-        -var node_source_file=./authorized_keys \
-        -var node_destination_name=authorized_keys base.json
+    packer build ...
+
+    # AWS_DEFAULT_PROFILE???
 
 
 CLI
@@ -46,11 +47,7 @@ CLI
 
 ::
 
-    # Get info about an AMI in my current region (AWS profile)
-    aws ec2 describe-images \
-        --image-ids ami-abcd1234567890
-
-    # Get info about an AMI in another region
+    # Get info about an AMI (Reminder:  AMIs live in a single region)
     aws ec2 describe-images \
         --region=ca-central-1 \
         --image-ids ami-abcd1234567890
@@ -60,23 +57,33 @@ CLI
         --image-ids ami-abcd1234567890 |\
         jq -r .Images[0].OwnerId
 
-    # Amzon Linux (show only the last one)
+    # Amzon Linux AMIs (show only the last one)
     aws ec2 describe-images \
         --owners=amazon \
         --filters='Name=name,Values=amzn2-ami-hvm*' \
         --query='sort_by(Images, &CreationDate)[].[Name, ImageId, OwnerId][-1]'
 
-    # Winderz (show all of them with newest last)
+    # Winderz AMIs (show all of them with newest last)
     aws ec2 describe-images \
         --owners=amazon \
         --filters='Name=name,Values=Windows_Server-*-English-Full-Base*' \
         --query='sort_by(Images, &CreationDate)[].[Name, ImageId, OwnerId]'
 
-Owners:
-- amazon for AmazonLinux/Windows AMIs (from Amazon)
-- 099720109477 for Ubuntu AMIs (from Canonical)
-- 136693071363 for Debian AMIs (from Debian)
-- 093273469852 for ArchLinux AMIs (from Uplink Labs)
+    # Ubuntu AMIs for ARM
+    aws ec2 describe-images \
+        --owners=099720109477 |\
+        jq '.Images[] | select(.ImageType | contains("machine"))' |\
+        jq '. | select(.VirtualizationType | contains("hvm"))' |\
+        jq '. | select(.Architecture | contains("arm"))'
+
+    # owner "amazon" for AmazonLinux/Windows AMIs from "Amazon"
+    # owner "099720109477" for Ubuntu AMIs from "Canonical"
+    # owner "136693071363" for Debian AMIs from "Debian"
+    # owner "093273469852" for ArchLinux AMIs from "Uplink Labs"
+
+::
+
+    jq '.Accounts[] | {"alias": .Alias, "acctid": .Account}' accounts.json | jq -s . > accounts_better.json
 
 
 TGW/TF
@@ -101,6 +108,7 @@ EC2
 VPC
 ---
 
+* https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-key-considerations-and-best-practices/
 * https://aws.amazon.com/blogs/aws/new-vpc-ingress-routing-simplifying-integration-of-third-party-appliances/
 * https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-network-traffic-inspection-using-aws-gateway-load-balancer/
 
@@ -197,8 +205,8 @@ DynamoDB
 * http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
 
 
-Elasticsearch
--------------
+OpenSearch
+----------
 
 * https://youtu.be/cn7QLSPB3OA
 * http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
