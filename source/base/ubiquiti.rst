@@ -16,6 +16,7 @@ Rebuilding EdgeRouter X
 #. Reboot.
 
 .. image:: disable_sharing_data.png
+.. image:: disable_unms_ubnt_services.png
 .. image:: traffic_analysys_enable.png
 .. image:: traffic_analysys_accept.png
 .. image:: qos_smart_queue.png
