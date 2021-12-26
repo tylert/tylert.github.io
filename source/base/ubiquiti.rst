@@ -16,11 +16,11 @@ Rebuilding EdgeRouter X
 #. Reboot.
 
 .. image:: disable_sharing_data.png
+.. image:: skip_wizard_start.png
 .. image:: disable_unms_ubnt_services.png
 .. image:: traffic_analysis_enable.png
 .. image:: traffic_analysis_accept.png
 .. image:: qos_smart_queue.png
-.. image:: start_wizard.png
 
 * https://github.com/WireGuard/wireguard-vyatta-ubnt
 * https://www.ui.com/download/edgemax/edgerouter-x
