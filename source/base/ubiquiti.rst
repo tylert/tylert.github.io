@@ -18,6 +18,7 @@ Rebuilding EdgeRouter X
 .. image:: disable_sharing_data.png
 .. image:: traffic_analysys_enable.png
 .. image:: traffic_analysys_accept.png
+.. image:: qos_smart_queue.png
 .. image:: start_wizard.png
 
 * https://github.com/WireGuard/wireguard-vyatta-ubnt
