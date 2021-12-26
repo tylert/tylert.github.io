@@ -1,22 +1,23 @@
-Rebuilding EdgeRouter
----------------------
+Rebuilding EdgeRouter X
+-----------------------
 
-#. Boot router with "factory defaults" (refer to "quick start guide").
+#. Boot router with "factory defaults" (refer to "quick start guide";  eth1 will DHCP and give eth0 24V).
 #. Login to the web UI with "ubnt:ubnt".
 #. Make sure the firmware is up-to-date.
-#. Decline to send data to Ubiquiti and do not start any wizards.
-#. Disable "UNMS Connection (beta)" and "UBNT Discovery" and click save.
-#. Set the hostname and click save.
+#. Decline to send data to Ubiquiti and skip starting any wizards for now.
+#. Set the hostname, disable "UNMS Connection (beta)" and "UBNT Discovery".
+#. Login via SSH and install wireguard-vyatta-ubnt.  STOP HERE IF PREPPING A SPARE ROUTER.  (See below.)
 #. Enable "Traffic Analysis".
-#. Turn on "Smart Queue" QoS:  Policy name 'lte', WAN interface "eth0", set upload and download rates
-#. Login via SSH and install wireguard-vyatta-ubnt.  STOP HERE IF PREPPING A SPARE ROUTER.
+#. Turn on QoS "Smart Queue":  Policy name 'lte', WAN Interface "eth0", Upload and Download Rates set appropriately.
 #. Use the "Basic Setup" wizard (set LAN port address and new password).
-#. Boot router "normally" and put it into full service.
-#. Login to the web UI with new username/password.
-#. Switch to using dnsmasq for DHCP.
+#. Boot router "normally" and put it into full service and log in to the web UI with the new password.
+#. Fix the DHCP range start and stop addresses.  (See below.)
+#. Switch to using dnsmasq for DHCP and DNS.  (See below.)
 #. Reboot.
 
 .. image:: disable_sharing_data.png
+.. image:: traffic_analysys_enable.png
+.. image:: traffic_analysys_accept.png
 .. image:: start_wizard.png
 
 * https://github.com/WireGuard/wireguard-vyatta-ubnt
@@ -24,8 +25,30 @@ Rebuilding EdgeRouter
 * https://www.ui.com/download/edgemax/edgeswitch
 
 
-Configuring EdgeRouter
-----------------------
+Installing Wireguard
+--------------------
+
+* https://github.com/WireGuard/wireguard-vyatta-ubnt/wiki/EdgeOS-and-Unifi-Gateway
+* https://github.com/WireGuard/wireguard-vyatta-ubnt/releases
+
+::
+
+    curl -OL https://github.com/WireGuard/wireguard-vyatta-ubnt/releases/download/1.0.20210606-3/e50-v2-v1.0.20210606-v1.0.20210914.deb
+    sudo dpkg -i e50-v2-v1.0.20210606-v1.0.20210914.deb
+    rm e50-v2-v1.0.20210606-v1.0.20210914.deb
+
+
+DHCP Server
+-----------
+
+Subnet 172.23.0.0/24
+Range start 172.23.0.51
+Range stop 172.23.0.150
+Router 172.23.0.1
+
+
+Switching DHCP and DNS to dnsmasq
+---------------------------------
 
 * https://kb.intermedia.net/Article/44415
 * https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
