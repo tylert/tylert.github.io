@@ -56,12 +56,15 @@ Switching DHCP and DNS to dnsmasq
 * https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
 * https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
 * https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
+* https://floating.io/2019/01/edgerouter-dns-forwarding-and-the-routers-hostname/
 
 ::
 
     configure
     set service dhcp-server use-dnsmasq enable
+    set service dns forwarding options no-hosts
     set service dns forwarding options cname=foo,foo1
+    set service dns forwarding options cname=bar,bar2
     commit
     save
     exit
