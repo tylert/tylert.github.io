@@ -61,6 +61,7 @@ Switching DHCP and DNS to dnsmasq
 
     configure
     set service dhcp-server use-dnsmasq enable
+    set service dns forwarding options cname=foo,foo1
     commit
     save
     exit
