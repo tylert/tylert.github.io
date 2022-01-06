@@ -81,7 +81,7 @@ sign_ssh_pubkey() {
             -h                  \
             -n "${principals}"  \
             -s "${signing_key}" \
-            -z 1                \
+            -z 0                \
             "${key_to_sign}"
     elif [ 'user' == "${type}" ]; then
         ssh-keygen              \
@@ -89,7 +89,7 @@ sign_ssh_pubkey() {
             -V '-5m:+403d'      \
             -n "${principals}"  \
             -s "${signing_key}" \
-            -z 1                \
+            -z 0                \
             "${key_to_sign}"
     else
         echo 'Undefined type.'
