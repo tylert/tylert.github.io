@@ -9,6 +9,7 @@ Other
 * https://gitlab.com/anemos-io/archlinux-ec2
 * http://mathcom.com/arch.aws.ami.html
 * https://wiki.archlinux.org/title/Arch_Linux_AMIs_for_Amazon_Web_Services
+* https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
 
 ::
 
