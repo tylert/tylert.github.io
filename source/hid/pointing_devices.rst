@@ -107,3 +107,10 @@ Mouseless Navigation
 --------------------
 
 * https://felipecortez.net/blog/mouseless.html
+
+
+USB Trickery
+------------
+
+* https://github.com/haimgel/display-switch
+* https://haim.dev/posts/2020-07-28-dual-monitor-kvm/
