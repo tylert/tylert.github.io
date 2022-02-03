@@ -1,0 +1,6 @@
+ARG FROM=alpine:edge
+FROM ${FROM}
+RUN apk add --no-cache pwgen
+ENTRYPOINT ["pwgen"]
+CMD ["-C"]
+# CMD ["-h"]
