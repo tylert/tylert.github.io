@@ -44,6 +44,15 @@ Python Stuff
     # "keynote shogun" is an anagram for "not enough keys"
 
 
+Video Conversion Awesome
+------------------------
+
+::
+
+    ffmpeg -i foo.mov -map 0 -c copy foo.mp4
+    ffmpeg -i foo.mpg -r 30 -s 960x540 smaller.mp4
+
+
 Go Stuff
 --------
 
