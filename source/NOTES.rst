@@ -51,6 +51,9 @@ Video Conversion Awesome
 
     ffmpeg -i foo.mov -map 0 -c copy foo.mp4
     ffmpeg -i foo.mpg -r 30 -s 960x540 smaller.mp4
+    # to alter length of videos, after the -i, add:  '-ss' start time, '-t' duration or '-to' end time
+    # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file for the following command...
+    ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 
 
 Go Stuff
