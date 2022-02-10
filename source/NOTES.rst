@@ -127,8 +127,8 @@ Container Stuff
 * https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
 
 
-Official Docker OS Images
--------------------------
+Official Docker Hub OS Images
+-----------------------------
 
 * https://github.com/debuerreotype/debuerreotype  Debian et al.
 * https://github.com/debuerreotype/docker-debian-artifacts  Debian
@@ -308,7 +308,6 @@ Awesome Stuff
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://www.alvarez.io/posts/living-like-it-s-99/
-* https://マリウス.com/ -> https://xn--gckvb8fzb.com/
 * https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 
 
@@ -322,7 +321,9 @@ Offline Wikipedia
 Football Computer
 -----------------
 
+* https://マリウス.com/ -> https://xn--gckvb8fzb.com/
 * https://マリウス.com/linux-on-the-desktop-part-two/
+* https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
 
 
 Git Stuff
@@ -416,18 +417,6 @@ Microservices
 * https://www.capgemini.com/blog/capping-it-off/2016/02/lego-power-how-to-build-repeatable-microservices-based-infrastructure?utm_content=buffere4cf6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
-SSH
----
-
-::
-
-    Use the undocumented option "UseRoaming=no'  on the command line: 
-    example: ssh -oUseRoaming=no pacharest@mc.pubb-it.com
-
-    Or, force the option for all future outgoing connections : 
-    Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section. 
-
-
 Time-Series and Graphing Considerations
 ---------------------------------------
 
@@ -515,6 +504,7 @@ Networking
 ----------
 
 * https://blog.ikuamike.io/posts/2021/netcat/
+* https://spiffe.io/
 
 
 Go CLI

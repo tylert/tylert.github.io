@@ -90,6 +90,18 @@ B -> A::
 * https://infosec.mozilla.org/guidelines/openssh
 
 
+Session Stuff
+-------------
+
+::
+
+    Use the undocumented option "UseRoaming=no'  on the command line:
+    example: ssh -oUseRoaming=no pacharest@mc.pubb-it.com
+
+    Or, force the option for all future outgoing connections:
+    Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section.
+
+
 VPN Magic
 ---------
 
