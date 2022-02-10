@@ -88,3 +88,19 @@ B -> A::
 * https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 * https://robotmoon.com/ssh-tunnels/
 * https://infosec.mozilla.org/guidelines/openssh
+
+
+VPN Magic
+---------
+
+* https://orth.uk/ssh-over-cloudflare/
+* https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
+* https://github.com/cloudflare/cloudflared
+
+
+WG/SSH Evil
+-----------
+
+* https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html
+* https://github.com/mikalv/anything2ed25519
+* https://fly.io/blog/our-user-mode-wireguard-year/
