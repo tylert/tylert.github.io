@@ -58,6 +58,5 @@ Upgrades
     rw
 
     # Upgrade the pikvm root filesystem to latest
-    pacman -Syu --noconfirm
-    pacman -Sc --noconfirm
+    pacman --noconfirm --refresh --sync --upgrade
     rm -rf /var/cache/pacman/pkg
