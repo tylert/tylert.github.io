@@ -59,6 +59,7 @@ Upgrades
 
     # Upgrade the pikvm root filesystem to latest
     # XXX FIXME TODO  Convert these to long options
+    #!/usr/bin/env bash
     pacman --noconfirm -Syu
     pacman --noconfirm -Sc
     rm -rf /var/cache/pacman/pkg
