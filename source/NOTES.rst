@@ -170,14 +170,6 @@ Stupid Shell Tricks
 * http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
 
 
-Backups
--------
-
-* http://duplicity.nongnu.org/features.html
-* http://www.mikerubel.org/computers/rsync_snapshots/
-* https://blog.interlinked.org/tutorials/rsync_time_machine.html
-
-
 Assorted Things-to-Read
 -----------------------
 
