@@ -62,6 +62,7 @@ Go Stuff
 * http://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
 * https://www.youtube.com/watch?v=ysgMlGHtDMo
+* Go AWK https://benhoyt.com/writings/prig/?showhn
 
 
 Apt Stuff
@@ -301,6 +302,8 @@ Awesome Stuff
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://www.alvarez.io/posts/living-like-it-s-99/
 * https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
+* https://www.sliderulemuseum.com/SR_Course.htm
+* https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 
 
 Offline Wikipedia
@@ -421,6 +424,7 @@ Crypto
 
 * https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
 * https://github.com/sustrik/crypto-for-kids
+* PAM Duress https://lwn.net/Articles/867158/
 
 
 Kanban
