@@ -43,7 +43,7 @@ A lot of horrible defaults have been chosen for you.  You can fix them with::
 
     # Networking Stuff
     sudo raspi-config nonint do_wifi_country CA
-    sudo raspi-config nonint do_hostname moopoo
+    sudo raspi-config nonint do_hostname ${NEWHOSTNAME}
     sudo raspi-config nonint do_ssh 0
     sudo apt-get --yes purge libpam-chksshpwd
 
@@ -61,6 +61,15 @@ Fix Default Password
 ::
 
     sudo raspi-config nonint do_change_pass
+
+
+Firmware Upgrades
+-----------------
+
+::
+
+    sudo rpi-eeprom-update        # check if any are available
+    sudo rpi-eeprom-update -a -d  # just blindly apply them
 
 
 Update Everything
