@@ -84,6 +84,15 @@ Images are always stale.  Update them with::
     sudo apt-get clean
 
 
+Install Go
+----------
+
+::
+
+    wget https://golang.org/dl/${TARBALL}
+    sudo tar -C /usr/local -xzf ${TARBALL}
+
+
 Assorted Links
 --------------
 
