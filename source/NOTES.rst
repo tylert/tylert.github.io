@@ -404,6 +404,7 @@ Style Guide Stuff
 * https://github.com/bahamas10/bash-style-guide
 * http://wiki.bash-hackers.org/scripting/style
 * https://google.github.io/styleguide/shell.xml
+* https://jmmv.dev/2021/08/useless-use-of-gnu.html
 
 
 Microservices
