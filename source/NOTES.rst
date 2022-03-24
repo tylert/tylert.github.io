@@ -3,6 +3,7 @@ eBPF Stuff
 
 * https://github.com/iovisor/bcc
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
+* https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 
 
 LANParty Automation
@@ -237,6 +238,7 @@ Keepass Stuff
 * https://github.com/kindahl/libkeepass
 * https://github.com/phpwutz/libkeepass
 * https://keepassxc.org/
+* https://github.com/keepassxreboot/keepassxc/pull/6799
 
 
 Secret Management Stuff
@@ -472,6 +474,8 @@ Container Awesome
 * https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
 * https://nix.dev/tutorials/building-and-running-docker-images
 * https://ianthehenry.com/posts/how-to-learn-nix/
+* https://github.com/tianon/gosu
+* https://docs.gocd.org/current/
 
 
 Vault Awesome
@@ -502,6 +506,7 @@ Networking
 
 * https://blog.ikuamike.io/posts/2021/netcat/
 * https://spiffe.io/
+* https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
 
 
 Go CLI

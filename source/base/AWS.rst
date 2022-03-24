@@ -129,6 +129,7 @@ Exam Prep
 * https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/
 * https://aws.amazon.com/compliance/shared-responsibility-model/
 * https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+* https://digitalcloud.training/aws-cheat-sheets/
 
 Most useful:  "Cloud Practitioner", "System Operator", "Solutions Architect".
 

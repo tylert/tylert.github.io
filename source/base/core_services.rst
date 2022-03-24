@@ -37,6 +37,7 @@ Self-Hosted
 -----------
 
 * https://github.com/awesome-selfhosted/awesome-selfhosted/
+* https://blog.ioces.com/matt/posts/everything-old-is-new-again/
 
 
 PiHole Raspbian
