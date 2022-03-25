@@ -122,3 +122,5 @@ SSH CA
 ------
 
 * https://smallstep.com/blog/use-ssh-certificates/
+* https://github.com/netflix/bless
+* https://github.com/uber/pam-ussh  sudo after SSH
