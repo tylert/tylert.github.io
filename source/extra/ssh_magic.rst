@@ -116,3 +116,9 @@ WG/SSH Evil
 * https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html
 * https://github.com/mikalv/anything2ed25519
 * https://fly.io/blog/our-user-mode-wireguard-year/
+
+
+SSH CA
+------
+
+* https://smallstep.com/blog/use-ssh-certificates/

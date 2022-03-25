@@ -200,6 +200,7 @@ Assorted Things-to-Read
 * https://mergeboard.com/blog/2-qemu-microvm-docker/
 * https://plaintextaccounting.org/
 * https://www.netmeister.org/blog/inet_aton.html
+* https://kellycordes.com/2009/11/02/the-fun-scale/
 
 
 Stuff to watch
