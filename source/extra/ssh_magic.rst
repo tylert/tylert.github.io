@@ -118,9 +118,26 @@ WG/SSH Evil
 * https://fly.io/blog/our-user-mode-wireguard-year/
 
 
-SSH CA
-------
+SSH CA/Agent/Sudo/SSM
+---------------------
 
-* https://smallstep.com/blog/use-ssh-certificates/
+# https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617
+# https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20
+# https://github.com/cloudtools/ssh-ca
+# https://github.com/cloudtools/ssh-cert-authority
+# https://github.com/lgxz/sshca
+# https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
+# https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority/
+# https://thinkingeek.com/2020/06/06/using-ssh-certificates/
+# https://www.lorier.net/docs/ssh-ca.html
+* http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication/
+* http://unixwiz.net/techtips/ssh-agent-forwarding.html
+* https://github.com/jbeverly/pam_ssh_agent_auth
 * https://github.com/netflix/bless
 * https://github.com/uber/pam-ussh  sudo after SSH
+* https://graystum.com/aws-ssm-do-you-really-need-ssh/  AWS SSM
+* https://hackernoon.com/ditch-your-ssh-keys-and-enable-aws-ssm-ec1c2b27350c
+* https://smallstep.com/blog/use-ssh-certificates/
+* https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault
+* https://www.sweharris.org/post/2022-02-06-ssh-certs-again/
+* https://www.toptal.com/aws/ssh-log-with-ssm
