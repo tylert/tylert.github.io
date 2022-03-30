@@ -121,15 +121,15 @@ WG/SSH Evil
 SSH CA/Agent/Sudo/SSM
 ---------------------
 
-# https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617
-# https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20
-# https://github.com/cloudtools/ssh-ca
-# https://github.com/cloudtools/ssh-cert-authority
-# https://github.com/lgxz/sshca
-# https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
-# https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority/
-# https://thinkingeek.com/2020/06/06/using-ssh-certificates/
-# https://www.lorier.net/docs/ssh-ca.html
+* https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617
+* https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20
+* https://github.com/cloudtools/ssh-ca
+* https://github.com/cloudtools/ssh-cert-authority
+* https://github.com/lgxz/sshca
+* https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
+* https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority/
+* https://thinkingeek.com/2020/06/06/using-ssh-certificates/
+* https://www.lorier.net/docs/ssh-ca.html
 * http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication/
 * http://unixwiz.net/techtips/ssh-agent-forwarding.html
 * https://github.com/jbeverly/pam_ssh_agent_auth
