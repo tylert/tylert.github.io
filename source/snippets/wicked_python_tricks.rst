@@ -35,8 +35,18 @@ zip file that's currently executing.
 * https://stackoverflow.com/questions/5355694/python-can-executable-zip-files-include-data-files
 
 
-Python IPv4
------------
+Unix Timestamps
+---------------
+
+::
+
+    >>> from datetime import datetime
+    >>> datetime.fromtimestamp(1649451192)
+    datetime.datetime(2022, 4, 8, 16, 53, 12)
+
+
+IPv4 Calculations
+-----------------
 
 ::
 
