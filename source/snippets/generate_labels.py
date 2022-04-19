@@ -36,8 +36,8 @@ def dump_qr_code(shortuuid, filename):
 @click.option(
     '--banner',
     '-b',
-    default='Evil Corp',
-    help='Banner to stamp on tags (default "Evil Corp")',
+    default='Moo Banner',
+    help='Banner to stamp on tags (default "Moo Banner")',
 )
 @click.option(
     '--pdf',
@@ -60,6 +60,8 @@ def main(alphabet, banner, pdf, svg):
     #                                     svgns=False)
 
     canv = canvas.Canvas(pdf, pagesize=letter)
+
+    # First column
 
     a_short_uuid = get_short_uuid(alphabet)
     dump_qr_code(a_short_uuid, svg)
@@ -87,6 +89,37 @@ def main(alphabet, banner, pdf, svg):
     canv.drawString(70, 640, banner)
     canv.setFont('Courier', 8)
     canv.drawString(70, 630, a_short_uuid)
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, svg)
+    drawing = svg2rlg(svg)
+    renderPDF.draw(drawing, canv, 35, 573)
+    canv.setFont('Courier', 12)
+    canv.drawString(70, 590, banner)
+    canv.setFont('Courier', 8)
+    canv.drawString(70, 580, a_short_uuid)
+
+    # Second column
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, svg)
+    drawing = svg2rlg(svg)
+    renderPDF.draw(drawing, canv, 205, 723)
+    canv.setFont('Courier', 12)
+    canv.drawString(240, 740, banner)
+    canv.setFont('Courier', 8)
+    canv.drawString(240, 730, a_short_uuid)
+
+    # Third column
+
+    a_short_uuid = get_short_uuid(alphabet)
+    dump_qr_code(a_short_uuid, svg)
+    drawing = svg2rlg(svg)
+    renderPDF.draw(drawing, canv, 375, 723)
+    canv.setFont('Courier', 12)
+    canv.drawString(410, 740, banner)
+    canv.setFont('Courier', 8)
+    canv.drawString(410, 730, a_short_uuid)
 
     canv.save()
 
