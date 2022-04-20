@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-from uuid import uuid4
+import uuid
 
 import click
-from shortuuid import ShortUUID
+import shortuuid
 
 
 @click.command()
@@ -11,25 +11,41 @@ from shortuuid import ShortUUID
     '--alphabet',
     '-a',
     default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
-    help='Alphabet to use with UUID shortener (default base58)',
+    help='Alphabet to use to decode/encode a short UUID (default base58)',
 )
 @click.option(
-    '--decode',
-    '-d',
+    '--lengthen',
+    '-l',
     default=None,
-    help='Decode this string back to a UUID',
+    help='Convert a short UUID to a long UUID',
+)
+@click.option(
+    '--shorten',
+    '-s',
+    default=None,
+    help='Convert a long UUID to a short UUID',
 )
 @click.help_option('--help', '-h')
-def main(alphabet, decode):
+def main(alphabet, lengthen, shorten):
     ''' '''
 
-    shortening = ShortUUID(alphabet=alphabet)
+    # default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+    # 122 bits of entropy for UUIDv4
 
-    if decode:
-        print(shortening.decode(decode))
+    if lengthen:
+        print(shortuuid.ShortUUID(alphabet=alphabet).decode(lengthen))
+    elif shorten:
+        print(shortuuid.ShortUUID(alphabet=alphabet).encode(uuid.UUID(shorten)))
     else:
-        print(shortening.encode(uuid4()))
+        print(shortuuid.ShortUUID(alphabet=alphabet).encode(uuid.uuid4()))
 
 
 if __name__ == '__main__':
     main()
+
+
+# https://github.com/skorokithakis/shortuuid
+# https://pypi.org/project/shortuuid/
+
+# https://github.com/anarcher/shortuuid
+# https://pkg.go.dev/github.com/anarcher/shortuuid
