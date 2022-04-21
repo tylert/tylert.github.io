@@ -6,10 +6,11 @@ eBPF Stuff
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 
 
-LANParty Automation
--------------------
+LANParty Stuff
+--------------
 
 * https://github.com/kentonv/lanparty
+* https://kilograham.github.io/rp2040-doom/
 
 
 Magnetometer
@@ -127,6 +128,8 @@ Container Stuff
 * https://github.com/containerd/nerdctl
 * https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
 * https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
+* https://github.com/k8s-at-home/charts
+* https://github.com/k8s-at-home/awesome-home-kubernetes
 
 
 Official Docker Hub OS Images
@@ -256,6 +259,7 @@ Cool Products
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
 * https://mudita.com/store/mudita-pure-minimalist-phone/
+* https://teenage.engineering/products/tx-6  pocket mixer/synth
 
 
 Keyboard CNC
@@ -307,6 +311,7 @@ Awesome Stuff
 * https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 * https://www.sliderulemuseum.com/SR_Course.htm
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
+* https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 
 
 Offline Wikipedia
