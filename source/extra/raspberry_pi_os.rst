@@ -84,6 +84,14 @@ Images are always stale.  Update them with::
     sudo apt-get clean
 
 
+Install Wireguard
+-----------------
+
+::
+
+    sudo apt-get --yes install wireguard-tools
+
+
 Install Go
 ----------
 

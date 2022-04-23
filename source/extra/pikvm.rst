@@ -47,6 +47,7 @@ Initial Setup
     passwd root
 
     # Put on any scripts and things you want
+    pacman --noconfirm --sync wireguard-tools
 
 
 Upgrades
