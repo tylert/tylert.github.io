@@ -33,6 +33,7 @@ Python Stuff
 * https://click.palletsprojects.com/en/7.x/utils/#showing-progress-bars
 * https://codingdose.info/2019/06/15/how-to-use-a-progress-bar-in-python/
 * https://github.com/niltonvolpato/python-progressbar/blob/master/examples.py
+* https://bhave.sh/micropython-docker/
 
 ::
 
