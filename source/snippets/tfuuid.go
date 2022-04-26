@@ -12,7 +12,8 @@ import (
 // https://pypi.org/project/shortuuid/
 
 func main() {
-  // base58
+	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
+	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 	id := shortuuid.NewWithAlphabet("123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz")
 	fmt.Println(id)
 }

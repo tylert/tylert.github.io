@@ -29,7 +29,8 @@ import shortuuid
 def main(alphabet, lengthen, shorten):
     ''' '''
 
-    # default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+    # default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
+    # desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
     # 122 bits of entropy for UUIDv4
 
     if lengthen:
