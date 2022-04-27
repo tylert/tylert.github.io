@@ -131,6 +131,8 @@ Container Stuff
 * https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
 * https://github.com/k8s-at-home/charts
 * https://github.com/k8s-at-home/awesome-home-kubernetes
+* https://billglover.me/2020/01/12/the-sidecar-pattern/
+* https://earthly.dev/blog/aws-lambda-docker/
 
 
 Official Docker Hub OS Images
