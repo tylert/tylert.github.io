@@ -7,3 +7,5 @@ Scrum/Agile Stuff
 * https://www.scrumalliance.org/why-scrum/scrum-elearning-series
 * https://www.youtube.com/watch?v=502ILHjX9EE  Agile Product Ownership in a Nutshell
 * https://www.youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
+* https://agilepainrelief.com/glossary/scarf-model  motivation?
+* https://agilepainrelief.com/glossary/motivation  motivation?
