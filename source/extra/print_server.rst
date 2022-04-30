@@ -8,7 +8,7 @@ Setup
 Prepare to use CUPS::
 
     # Install necessary printer packages
-    sudo apt-get --yes install avahi-daemon cups python-cups
+    sudo apt-get --yes install avahi-daemon cups
     sudo apt-get --yes install printer-driver-brlaser
 
     # Add a user to the 'lpadmin' group (and refresh list without logging out)
@@ -49,8 +49,6 @@ interface::
         sudo sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
         sudo sed -i '/Order deny,allow/a Allow @Local' /etc/cups/cupsd.conf
     fi
-
-    sudo /etc/init.d/cupsd restart
 
 
 Printer Setup
