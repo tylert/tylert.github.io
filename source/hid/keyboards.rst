@@ -101,8 +101,8 @@ Building New Firmware
     qmk compile -kb durgod/k320 -km typhon
     qmk compile -kb durgod/k310 -km chimera
 
-    mv durgod_k3x0_k320_base_typhon.bin durgod_k3x0_k320_base_typhon_${QMK_VERSION}.bin
-    mv durgod_k3x0_k310_base_chimera.bin durgod_k3x0_k310_base_chimera_${QMK_VERSION}.bin
+    mv durgod_k3x0_k320_base_typhon.bin qmk_${QMK_VERSION}_durgod_k3x0_k320_base_typhon.bin
+    mv durgod_k3x0_k310_base_chimera.bin qmk_${QMK_VERSION}_durgod_k3x0_k310_base_chimera.bin
 
 
 Flashing New Firmware
