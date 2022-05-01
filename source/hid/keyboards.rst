@@ -90,6 +90,21 @@ K310 support is going to be merged "real soon now" (tm).
 * https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
 
 
+Building New Firmware
+---------------------
+
+::
+
+    pip install qmk
+    qmk setup
+
+    qmk compile -kb durgod/k320 -km typhon
+    qmk compile -kb durgod/k310 -km chimera
+
+    mv durgod_k3x0_k320_base_typhon.bin durgod_k3x0_k320_base_typhon_${QMK_VERSION}.bin
+    mv durgod_k3x0_k310_base_chimera.bin durgod_k3x0_k310_base_chimera_${QMK_VERSION}.bin
+
+
 Flashing New Firmware
 ---------------------
 
