@@ -302,6 +302,7 @@ Awesome Stuff
 * https://github.com/intenthq/anon
 * https://nodered.org/
 * https://adventurekeep.com/
+* https://github.com/stassa/nests-and-insects  TTRPG
 * https://github.com/fluent/fluent-bit
 * https://lucperkins.dev/blog/introducing-tract/
 * https://learn.hashicorp.com/tutorials/terraform/count
@@ -317,11 +318,12 @@ Awesome Stuff
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 
 
-Offline Wikipedia
------------------
+Offline Services
+----------------
 
-* https://github.com/mrusme/uveira
-* https://github.com/spencermountain/dumpster-dive
+* https://github.com/mrusme/uveira  offline Wikipedia
+* https://github.com/spencermountain/dumpster-dive  offline Wikipedia
+* https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
 
 
 Football Computer
@@ -518,14 +520,15 @@ Networking
 * https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
 
 
-Go CLI
-------
+Go Stuff
+--------
 
 * https://jogendra.dev/building-command-line-tools-in-go
 * https://coder.com/blog/building-command-line-tools-with-go
 * https://gocli.io/
 * https://github.com/thawkson/go-cli-tool
 * https://github.com/tmrts/boilr
+* https://quii.gitbook.io/learn-go-with-tests/
 
 
 IPAM
