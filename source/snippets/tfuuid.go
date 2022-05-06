@@ -30,6 +30,21 @@ func main() {
 	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 	enc := base58Encoder{}
+
+	// Generate a new shortUUID (UUIDv4)
 	id := shortuuid.NewWithEncoder(enc)
+
+	// Shorten an existing UUID
+	// uu, _ := uuid.Parse("8966e5ee-445e-401b-a921-bf5020c516d2")
+	// id := enc.Encode(uu)
+	// Hy5v2PaRjQhVB172zb6fpD
+
+	// Lengthen an existing shortUUID
+	// id, _ := enc.Decode("Hy5v2PaRjQhVB172zb6fpD")
+	// 8966e5ee-445e-401b-a921-bf5020c516d2
+
 	fmt.Println(id)
 }
+
+// https://github.com/yeqown/go-qrcode  for generating the barcode bitmap
+// https://github.com/signintech/gopdf  for generating the PDF

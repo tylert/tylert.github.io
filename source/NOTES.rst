@@ -316,6 +316,7 @@ Awesome Stuff
 * https://www.sliderulemuseum.com/SR_Course.htm
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
+* https://github.com/mwgg/Airports  JSON database of airport codes and locations
 
 
 Offline Services
