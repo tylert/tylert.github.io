@@ -13,6 +13,9 @@ import (
 // https://github.com/skorokithakis/shortuuid
 // https://pypi.org/project/shortuuid/
 
+// https://www.terraform.io/language/functions/uuid
+// https://www.terraform.io/language/functions/uuidv5
+
 type base58Encoder struct{}
 
 func (enc base58Encoder) Encode(u uuid.UUID) string {
