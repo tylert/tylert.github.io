@@ -48,5 +48,5 @@ if __name__ == '__main__':
 # https://github.com/skorokithakis/shortuuid
 # https://pypi.org/project/shortuuid/
 
-# https://github.com/anarcher/shortuuid
-# https://pkg.go.dev/github.com/anarcher/shortuuid
+# https://github.com/lithammer/shortuuid
+# https://pkg.go.dev/github.com/lithammer/shortuuid
