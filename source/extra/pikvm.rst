@@ -46,9 +46,6 @@ Initial Setup
     kvmd-htpasswd set admin
     passwd root
 
-    # Put on any scripts and things you want
-    pacman --noconfirm --sync wireguard-tools
-
 
 Upgrades
 --------
@@ -64,3 +61,13 @@ Upgrades
     pacman --noconfirm -Syu
     pacman --noconfirm -Sc
     rm -rf /var/cache/pacman/pkg
+
+
+Firmware and Extras
+-------------------
+
+::
+
+    pacman --noconfirm --sync rpi-eeprom
+
+    pacman --noconfirm --sync wireguard-tools
