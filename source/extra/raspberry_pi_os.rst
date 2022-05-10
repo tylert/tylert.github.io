@@ -51,25 +51,13 @@ A lot of horrible defaults have been chosen for you.  You can fix them with::
     sudo raspi-config nonint do_overscan 1  # or uncomment 'disable_overscan=1' in /boot/config.txt
     sudo bash -c "sed -i 's/$/ logo.nologo/' /boot/cmdline.txt"
 
-    # Not needed anymore?
-    sudo raspi-config nonint do_expand_rootfs
-
 
 Fix Default Password
 --------------------
 
 ::
 
-    sudo raspi-config nonint do_change_pass
-
-
-Firmware Upgrades
------------------
-
-::
-
-    sudo rpi-eeprom-update        # check if any are available
-    sudo rpi-eeprom-update -a -d  # just blindly apply them
+    passwd pi
 
 
 Update Everything
@@ -90,6 +78,15 @@ Install Wireguard
 ::
 
     sudo apt-get --yes install wireguard-tools
+
+
+Firmware Upgrades
+-----------------
+
+::
+
+    sudo rpi-eeprom-update        # check if any are available
+    sudo rpi-eeprom-update -a -d  # just blindly apply them
 
 
 Install Go
