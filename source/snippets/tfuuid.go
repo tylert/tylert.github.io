@@ -7,15 +7,6 @@ import (
 	"github.com/lithammer/shortuuid"
 )
 
-// https://github.com/lithammer/shortuuid
-// https://pkg.go.dev/github.com/lithammer/shortuuid
-
-// https://github.com/skorokithakis/shortuuid
-// https://pypi.org/project/shortuuid/
-
-// https://www.terraform.io/language/functions/uuid
-// https://www.terraform.io/language/functions/uuidv5
-
 type base58Encoder struct{}
 
 func (enc base58Encoder) Encode(u uuid.UUID) string {
@@ -46,5 +37,14 @@ func main() {
 	fmt.Println(id)
 }
 
-// https://github.com/yeqown/go-qrcode  for generating the barcode bitmap
-// https://github.com/signintech/gopdf  for generating the PDF
+// https://registry.terraform.io/providers/hashicorp/external/latest/docs/data-sources/data_source
+// https://github.com/lithammer/shortuuid  go implementation
+// https://pkg.go.dev/github.com/lithammer/shortuuid  go implementation
+// https://github.com/skorokithakis/shortuuid  python implementation that is compatible
+// https://pypi.org/project/shortuuid/  python implementation that is compatible
+// https://github.com/yeqown/go-qrcode  generating a barcode bitmap
+// https://github.com/signintech/gopdf  generating a PDF
+// https://github.com/mkyc/go-terraform  making this stuff more Terraform-friendly
+// https://github.com/gruntwork-io/terratest  making this stuff more Terraform-friendly
+// https://www.terraform.io/language/functions/uuid  inspiration for how this might get used
+// https://www.terraform.io/language/functions/uuidv5  inspiration for how this might get used
