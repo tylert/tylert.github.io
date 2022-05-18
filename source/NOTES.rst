@@ -350,6 +350,11 @@ Git Stuff
     # Force an entire repo root to look like it was always under a subdirectory
     git filter-repo --to-subdirectory-filter my-module/
 
+Fetch a single file::
+
+    git archive --remote=ssh://git@blablabla/blablabla.git \
+        master awesomefile | tar -xO awesomefile > awesomefile
+
 ::
 
     # Snip out just a single directory
