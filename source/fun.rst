@@ -1,5 +1,5 @@
-docker
-------
+Containers
+----------
 
 * https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html
 * https://github.com/hobby-kube/guide
@@ -10,7 +10,7 @@ docker
     docker rmi $(docker images --filter "dangling=true" --quiet)
 
 
-linux
+Linux
 -----
 
 * http://blog.alexellis.io/boot-linuxkit-in-10-mins/
@@ -18,7 +18,7 @@ linux
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu/
 
 
-style
+Style
 -----
 
 * https://github.com/mvdan/sh
@@ -32,7 +32,7 @@ cloud-init
 * http://cloudinit.readthedocs.io/en/latest/topics/modules.html
 
 
-python
+Python
 ------
 
 * http://sedimental.org/the_packaging_gradient.html
@@ -54,8 +54,8 @@ Custom Cases
 * https://www.engineerbetter.com/blog/yubikey-all-the-things/
 
 
-Python PDF + Contacts
----------------------
+PDF + Contacts
+--------------
 
 * http://eventable.github.io/vobject/
 * https://github.com/JazzCore/python-pdfkit
@@ -63,6 +63,11 @@ Python PDF + Contacts
 * https://rst2pdf.org/static/manual.html
 * http://www.marknagelberg.com/creating-pdf-reports-with-python-pdfkit-and-jinja2-templates/
 * http://www.devshed.com/c/a/Python/Python-for-PDF-Generation/
+
+::
+
+    # Password-protect a PDF
+    pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
 
 
 Docker + Alpine Linux
