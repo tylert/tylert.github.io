@@ -30,26 +30,26 @@ def dump_qr_code(shortuuid, filename):
 @click.option(
     '--alphabet',
     '-a',
-    default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
     help='Alphabet to use with UUID shortener (default base58)',
+    default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
 )
 @click.option(
     '--banner',
     '-b',
-    default='Moo Banner',
     help='Banner to stamp on tags (default "Moo Banner")',
+    default='Moo Banner',
 )
 @click.option(
     '--pdf',
     '-p',
-    default='moo.pdf',
     help='Filename of output PDF (default "moo.pdf")',
+    default='moo.pdf',
 )
 @click.option(
     '--svg',
     '-s',
-    default='moo.svg',
     help='Filename of output SVG (default "moo.svg")',
+    default='moo.svg',
 )
 @click.help_option('--help', '-h')
 def main(alphabet, banner, pdf, svg):

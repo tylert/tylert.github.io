@@ -10,32 +10,32 @@ import shortuuid
 @click.option(
     '--alphabet',
     '-a',
-    default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
     help='Alphabet to use to decode/encode a short UUID (default base58)',
+    default='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
 )
 @click.option(
     '--decode',
     '-d',
-    default=None,
     help='Convert (decode) a short UUID to a long UUID',
+    default=None,
 )
 @click.option(
     '--encode',
     '-e',
-    default=None,
     help='Convert (encode) a long UUID to a short UUID',
+    default=None,
 )
 @click.option(
     '--name',
     '-n',
-    default=None,
     help='Generate a UUIDv5 using a specified name instead of a UUIDv4',
+    default=None,
 )
 @click.option(
     '--namespace',
     '-s',
-    default='DNS',
     help='Namespace to use for the UUIDv5 name (default "DNS")',
+    default='DNS',
 )
 @click.help_option('--help', '-h')
 def main(alphabet, decode, encode, name, namespace):

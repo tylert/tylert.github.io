@@ -21,32 +21,32 @@ def dump_qr_code(thing, filename):
 @click.option(
     '--passwd',
     '-p',
-    default=None,
     help='Password to encode in the barcode',
+    default=None,
 )
 @click.option(
     '--output_pdf',
     '-o',
-    default='wifi.pdf',
     help='Filename of output PDF (default "wifi.pdf")',
+    default='wifi.pdf',
 )
 @click.option(
     '--ssid',
     '-s',
-    default=None,
     help='SSID to encode in the barcode',
+    default=None,
 )
 @click.option(
     '--temp_svg',
     '-t',
-    default='wifi.svg',
     help='Filename of output SVG (default "wifi.svg")',
+    default='wifi.svg',
 )
 @click.option(
     '--wifi_type',
     '-w',
-    default='WPA',
     help='Type to encode in the barcode',
+    default='WPA',
 )
 @click.help_option('--help', '-h')
 def main(passwd, output_pdf, ssid, temp_svg, wifi_type):

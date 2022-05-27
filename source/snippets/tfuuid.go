@@ -22,19 +22,20 @@ func main() {
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 	enc := base58Encoder{}
 
-	// Generate a new shortUUID (UUIDv4)
+	// Generate a new short UUIDv4
 	id := shortuuid.NewWithEncoder(enc)
 
-	// Shorten an existing UUID
+	// Encode (shorten) an existing UUID
 	// uu, _ := uuid.Parse("8966e5ee-445e-401b-a921-bf5020c516d2")
 	// id := enc.Encode(uu)
 	// Hy5v2PaRjQhVB172zb6fpD
 
-	// Lengthen an existing shortUUID
+	// Decode (lengthen) an existing shortUUID
 	// id, _ := enc.Decode("Hy5v2PaRjQhVB172zb6fpD")
 	// 8966e5ee-445e-401b-a921-bf5020c516d2
 
 	// Generate a UUIDv5
+	// name := []byte("python.org")
 	// uu := uuid.NewSHA1(uuid.NameSpaceDNS, []byte(name))
 	// uu := uuid.NewSHA1(uuid.NameSpaceOID, []byte(name))
 	// uu := uuid.NewSHA1(uuid.NameSpaceURL, []byte(name))

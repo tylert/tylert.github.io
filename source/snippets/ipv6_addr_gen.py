@@ -171,18 +171,36 @@ def get_rfc4291_eui64_suffix(
 
 @click.command()
 @click.option(
-    '--local', '-l', is_flag=True, default=True, help='Set bit 6 of RFC-4291 EUI-64'
+    '--local',
+    '-l',
+    help='Set bit 6 of RFC-4291 EUI-64',
+    default=True,
+    is_flag=True,
 )
-@click.option('--mac_serial', '-m', default='', help='MAC serial number')
+@click.option(
+    '--mac_serial',
+    '-m',
+    help='MAC serial number',
+    default='',
+)
 @click.option(
     '--ntp_time',
     '-n',
-    default='',
     help='NTP timestamp string (e.g.: "3781380740.248752")',
+    default='',
 )
-@click.option('--random_mac', '-r', is_flag=True, default=False, help='Random MAC')
 @click.option(
-    '--random_seed', '-s', default=None, help='Seed randomness with a fixed value'
+    '--random_mac',
+    '-r',
+    help='Random MAC',
+    default=False,
+    is_flag=True,
+)
+@click.option(
+    '--random_seed',
+    '-s',
+    help='Seed randomness with a fixed value',
+    default=None,
 )
 @click.help_option('--help', '-h')
 # @click.version_option(None, '--version', '-v')
