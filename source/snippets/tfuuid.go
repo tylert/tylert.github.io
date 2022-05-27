@@ -34,6 +34,13 @@ func main() {
 	// id, _ := enc.Decode("Hy5v2PaRjQhVB172zb6fpD")
 	// 8966e5ee-445e-401b-a921-bf5020c516d2
 
+	// Generate a UUIDv5
+	// uu := uuid.NewSHA1(uuid.NameSpaceDNS, []byte(name))
+	// uu := uuid.NewSHA1(uuid.NameSpaceOID, []byte(name))
+	// uu := uuid.NewSHA1(uuid.NameSpaceURL, []byte(name))
+	// uu := uuid.NewSHA1(uuid.NameSpaceX500, []byte(name))
+	// id := enc.Encode(uu)
+
 	fmt.Println(id)
 }
 

@@ -20,9 +20,9 @@ if __name__ == '__main__':
         index += 1
 
 
-#import mimetypes
-#    if part.get_content_maintype() == 'image':
-#        filename = part.get_filename()
-#        if not filename:
-#            ext = mimetypes.guess_extension(part.get_content_type())
-#            filename = 'image-%02d%s' % (i, ext or '.tiff')
+# import mimetypes
+#     if part.get_content_maintype() == 'image':
+#         filename = part.get_filename()
+#         if not filename:
+#             ext = mimetypes.guess_extension(part.get_content_type())
+#             filename = 'image-%02d%s' % (i, ext or '.tiff')

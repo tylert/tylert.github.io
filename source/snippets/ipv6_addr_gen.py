@@ -22,9 +22,11 @@ from hashlib import sha1  # hash magic
 from random import randint, seed  # random magic
 from struct import pack  # double-to-bytes magic
 from uuid import getnode  # MAC address magic
+
 # import ipaddress
 
 from netaddr import EUI, mac_bare  # MAC address magic
+
 # from netaddr import IPv6Address, IPv6Network  # IP address magic
 # import pytz
 import click
@@ -45,17 +47,18 @@ def debug_time():
 
 def get_ntp_time(ntp_time=''):
     '''Generate a 64-bit NTP time structure from "now" (in UTC) or a given
-       timestamp'''
+    timestamp'''
 
     if ntp_time == '':
         ntp = (datetime.utcnow() - datetime(1900, 1, 1)).total_seconds()
     else:
         # NTP Epoch is 1900-01-01, Unix Epoch is 1970-01-01
         # The difference between them is 2208988800 seconds
-        ntp = (datetime.utcfromtimestamp(float(ntp_time) -
-                                         2208988800) - datetime(1900, 1,
-                                                                1)).total_seconds()
-    if ntp > 2**32-1:
+        ntp = (
+            datetime.utcfromtimestamp(float(ntp_time) - 2208988800)
+            - datetime(1900, 1, 1)
+        ).total_seconds()
+    if ntp > 2**32 - 1:
         # We ran out of NTP epoch time
         raise OverflowError('The POSIX world has ended!!!')
 
@@ -72,8 +75,9 @@ def get_mac_serial(mac_serial='', random_mac=False, random_seed=None):
         if random_seed is not None:
             seed(random_seed)
         # Generate a totally-random MAC (registered OUIs be damned!!!)
-        mac = EUI(bytearray([randint(0, 255)
-                             for i in range(6)]).hex(), dialect=mac_bare)
+        mac = EUI(
+            bytearray([randint(0, 255) for i in range(6)]).hex(), dialect=mac_bare
+        )
     elif mac_serial == '':
         # Try to determine the current host's MAC
         mac = EUI(getnode(), dialect=mac_bare)
@@ -85,52 +89,70 @@ def get_mac_serial(mac_serial='', random_mac=False, random_seed=None):
     return bytearray.fromhex(str(mac)).hex()
 
 
-def get_global_id(mac_serial='', ntp_time='', random_mac=False,
-                  random_seed=None):
+def get_global_id(mac_serial='', ntp_time='', random_mac=False, random_seed=None):
     '''Grab last 40 bits of the SHA1 digest of NTP + MAC bytes for the Global
-       ID'''
+    ID'''
 
     ntp = bytearray.fromhex(get_ntp_time(ntp_time=ntp_time))
 
-    mac = bytearray.fromhex(get_mac_serial(mac_serial=mac_serial,
-                                           random_mac=random_mac,
-                                           random_seed=random_seed))
+    mac = bytearray.fromhex(
+        get_mac_serial(
+            mac_serial=mac_serial, random_mac=random_mac, random_seed=random_seed
+        )
+    )
 
     # Last 5 bytes
     return bytearray(sha1(b''.join([ntp, mac])).digest())[-5:].hex()
 
 
-def get_rfc4193_network_prefix(mac_serial='', ntp_time='', random_mac=False,
-                               random_seed=None):
+def get_rfc4193_network_prefix(
+    mac_serial='', ntp_time='', random_mac=False, random_seed=None
+):
     '''Provide a RFC-4193-compliant private IPv6 address range'''
 
-    gid = bytearray.fromhex(get_global_id(mac_serial=mac_serial,
-                                          ntp_time=ntp_time,
-                                          random_mac=random_mac,
-                                          random_seed=random_seed))
+    gid = bytearray.fromhex(
+        get_global_id(
+            mac_serial=mac_serial,
+            ntp_time=ntp_time,
+            random_mac=random_mac,
+            random_seed=random_seed,
+        )
+    )
 
     if random_seed is not None:
         seed(random_seed)
 
     # 8 bytes long
-    return bytearray(b''.join([bytearray([int(0xfd)]), gid,
-                               bytearray([randint(0, 255) for i in range(2)])])).hex()
+    return bytearray(
+        b''.join(
+            [
+                bytearray([int(0xFD)]),
+                gid,
+                bytearray([randint(0, 255) for i in range(2)]),
+            ]
+        )
+    ).hex()
 
 
-def get_rfc4291_eui64_suffix(local=True, mac_serial='', random_mac=False,
-                             random_seed=None):
+def get_rfc4291_eui64_suffix(
+    local=True, mac_serial='', random_mac=False, random_seed=None
+):
     '''Follow RFC-4291 to convert 48-bit IEEE 802 MAC identifier to 64-bit IEEE
-       EUI-64'''
+    EUI-64'''
 
     # First 3 bytes
-    mac_start = bytearray.fromhex(get_mac_serial(mac_serial=mac_serial,
-                                                 random_mac=random_mac,
-                                                 random_seed=random_seed))[0:3]
+    mac_start = bytearray.fromhex(
+        get_mac_serial(
+            mac_serial=mac_serial, random_mac=random_mac, random_seed=random_seed
+        )
+    )[0:3]
 
     # Last 3 bytes
-    mac_end = bytearray.fromhex(get_mac_serial(mac_serial=mac_serial,
-                                               random_mac=random_mac,
-                                               random_seed=random_seed))[3:]
+    mac_end = bytearray.fromhex(
+        get_mac_serial(
+            mac_serial=mac_serial, random_mac=random_mac, random_seed=random_seed
+        )
+    )[3:]
 
     # XXX FIXME TODO Might have to reverse the logic of the local flag!!!
 
@@ -142,20 +164,26 @@ def get_rfc4291_eui64_suffix(local=True, mac_serial='', random_mac=False,
 
     # Stuff 0xFF, 0xFE in the middle
     # 8 bytes long
-    return bytearray(b''.join([mac_start, bytearray([int(0xff), int(0xfe)]),
-                               mac_end])).hex()
+    return bytearray(
+        b''.join([mac_start, bytearray([int(0xFF), int(0xFE)]), mac_end])
+    ).hex()
 
 
 @click.command()
-@click.option('--local', '-l', is_flag=True, default=True,
-              help='Set bit 6 of RFC-4291 EUI-64')
+@click.option(
+    '--local', '-l', is_flag=True, default=True, help='Set bit 6 of RFC-4291 EUI-64'
+)
 @click.option('--mac_serial', '-m', default='', help='MAC serial number')
-@click.option('--ntp_time', '-n', default='',
-              help='NTP timestamp string (e.g.: "3781380740.248752")')
-@click.option('--random_mac', '-r', is_flag=True, default=False,
-              help='Random MAC')
-@click.option('--random_seed', '-s', default=None,
-              help='Seed randomness with a fixed value')
+@click.option(
+    '--ntp_time',
+    '-n',
+    default='',
+    help='NTP timestamp string (e.g.: "3781380740.248752")',
+)
+@click.option('--random_mac', '-r', is_flag=True, default=False, help='Random MAC')
+@click.option(
+    '--random_seed', '-s', default=None, help='Seed randomness with a fixed value'
+)
 @click.help_option('--help', '-h')
 # @click.version_option(None, '--version', '-v')
 def main(local, mac_serial, ntp_time, random_mac, random_seed):
@@ -164,14 +192,23 @@ def main(local, mac_serial, ntp_time, random_mac, random_seed):
     # XXX FIXME TODO Spit these out in IPv6 notation rather than a list of
     #                bytes!!!
 
-    print(get_rfc4193_network_prefix(mac_serial=mac_serial,
-                                     ntp_time=ntp_time,
-                                     random_mac=random_mac,
-                                     random_seed=random_seed))
+    print(
+        get_rfc4193_network_prefix(
+            mac_serial=mac_serial,
+            ntp_time=ntp_time,
+            random_mac=random_mac,
+            random_seed=random_seed,
+        )
+    )
 
-    print(get_rfc4291_eui64_suffix(local=local, mac_serial=mac_serial,
-                                   random_mac=random_mac,
-                                   random_seed=random_seed))
+    print(
+        get_rfc4291_eui64_suffix(
+            local=local,
+            mac_serial=mac_serial,
+            random_mac=random_mac,
+            random_seed=random_seed,
+        )
+    )
 
 
 if __name__ == '__main__':

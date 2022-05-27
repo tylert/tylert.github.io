@@ -5,8 +5,9 @@ import base64
 
 def b64_wtf(input_filename, output_filename):
     ''''''
-    with open(input_filename, 'r') as input_file, \
-            open(output_filename, 'wb') as output_file:
+    with open(input_filename, 'r') as input_file, open(
+        output_filename, 'wb'
+    ) as output_file:
         encoded = input_file.read()
         data = base64.b64_decode(encoded)
         output_file.write(data)
