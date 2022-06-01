@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	// "os"
+
 	"github.com/btcsuite/btcutil/base58"
 	"github.com/google/uuid"
 	"github.com/lithammer/shortuuid"
@@ -20,18 +22,26 @@ func (enc base58Encoder) Decode(s string) (uuid.UUID, error) {
 func main() {
 	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
-	enc := base58Encoder{}
 
 	// Generate a new short UUIDv4
+	enc := base58Encoder{}
 	id := shortuuid.NewWithEncoder(enc)
 
 	// Encode (shorten) an existing UUID
-	// uu, _ := uuid.Parse("8966e5ee-445e-401b-a921-bf5020c516d2")
+	// uu, err := uuid.Parse("8966e5ee-445e-401b-a921-bf5020c516d2")
+	// if err != nil {
+	//   os.Exit(1)
+	// }}
+	// enc := base58Encoder{}
 	// id := enc.Encode(uu)
 	// Hy5v2PaRjQhVB172zb6fpD
 
 	// Decode (lengthen) an existing shortUUID
-	// id, _ := enc.Decode("Hy5v2PaRjQhVB172zb6fpD")
+	// enc := base58Encoder{}
+	// id, err := enc.Decode("Hy5v2PaRjQhVB172zb6fpD")
+	// if err != nil {
+	//   os.Exit(1)
+	// }}
 	// 8966e5ee-445e-401b-a921-bf5020c516d2
 
 	// Generate a UUIDv5
@@ -40,6 +50,7 @@ func main() {
 	// uu := uuid.NewSHA1(uuid.NameSpaceOID, []byte(name))
 	// uu := uuid.NewSHA1(uuid.NameSpaceURL, []byte(name))
 	// uu := uuid.NewSHA1(uuid.NameSpaceX500, []byte(name))
+	// enc := base58Encoder{}
 	// id := enc.Encode(uu)
 
 	fmt.Println(id)
