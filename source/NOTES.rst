@@ -6,11 +6,12 @@ eBPF Stuff
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 
 
-LANParty Stuff
---------------
+Video Game Stuff
+----------------
 
 * https://github.com/kentonv/lanparty
 * https://kilograham.github.io/rp2040-doom/
+* https://news.ycombinator.com/item?id=31590724
 
 
 Magnetometer
