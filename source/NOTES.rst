@@ -446,7 +446,7 @@ Crypto
 
 * https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
 * https://github.com/sustrik/crypto-for-kids
-* PAM Duress https://lwn.net/Articles/867158/
+* https://lwn.net/Articles/867158/  PAM duress
 
 
 Kanban
@@ -476,7 +476,7 @@ More
 * https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://bou.ke/blog/formulas/
-* https://news.ycombinator.com/item?id=23643096 less bloated Ansible/SaltStack?
+* https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 
 
 Books
@@ -489,6 +489,7 @@ Books
 Container Awesome
 -----------------
 
+* https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644
 * https://iximiuz.com/en/posts/container-networking-is-simple/
 * https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
 * https://nix.dev/tutorials/building-and-running-docker-images
@@ -526,6 +527,7 @@ Networking
 * https://blog.ikuamike.io/posts/2021/netcat/
 * https://spiffe.io/
 * https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
+* https://sive.rs/com  build a database of domains to make it easier to pick new ones to register
 
 
 Go Stuff
