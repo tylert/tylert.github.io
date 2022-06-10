@@ -12,12 +12,12 @@ import (
 
 type base58Encoder struct{}
 
-func (enc base58Encoder) Encode(uu uuid.UUID) string {
-	return base58.Encode(uu[:])
+func (enc base58Encoder) Encode(lluu uuid.UUID) string {
+	return base58.Encode(lluu[:])
 }
 
-func (enc base58Encoder) Decode(str string) (uuid.UUID, error) {
-	return uuid.FromBytes(base58.Decode(str))
+func (enc base58Encoder) Decode(shuu string) (uuid.UUID, error) {
+	return uuid.FromBytes(base58.Decode(shuu))
 }
 
 func genv3(name string, space string) (uuid.UUID, error) {
@@ -36,8 +36,8 @@ func genv3(name string, space string) (uuid.UUID, error) {
 }
 
 func genv4() (uuid.UUID, error) {
-	uu, err := uuid.NewRandom()
-	return uu, err
+	lluu, err := uuid.NewRandom()
+	return lluu, err
 }
 
 func genv5(name string, space string) (uuid.UUID, error) {
@@ -60,22 +60,20 @@ func main() {
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 
 	enc := base58Encoder{}
-	// uu, err := genv3("python.org", "DNS")
-	uu, err := genv4()
-	// uu, err := genv5("python.org", "DNS")
-
-	// uu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
-	// uu, err := enc.Decode("SMqCfPLDiH5aTTgLmGR4np")
+	// lluu, err := genv3("python.org", "DNS")
+	// lluu, err := genv4()
+	// lluu, err := genv5("python.org", "DNS")
+	// lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
+	lluu, err := enc.Decode("SMqCfPLDiH5aTTgLmGR4np")
 
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)
 	}
-	id := enc.Encode(uu)
-	fmt.Println(id)
+	shuu := enc.Encode(lluu)
+	fmt.Println(shuu)
+	fmt.Println(lluu)
 }
 
-// https://github.com/skorokithakis/shortuuid  python implementation that is compatible
-// https://pypi.org/project/shortuuid/  python implementation that is compatible
 // https://github.com/yeqown/go-qrcode  generating a barcode bitmap
 // https://github.com/signintech/gopdf  generating a PDF
