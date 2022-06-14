@@ -55,6 +55,9 @@ func genv5(name string, space string) (uuid.UUID, error) {
 	}
 }
 
+// https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html
+// ^^ UUIDv6, UUIDv7, UUIDv8
+
 func main() {
 	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
