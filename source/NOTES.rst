@@ -134,6 +134,8 @@ Container Stuff
 * https://github.com/k8s-at-home/awesome-home-kubernetes
 * https://billglover.me/2020/01/12/the-sidecar-pattern/
 * https://earthly.dev/blog/aws-lambda-docker/
+* https://github.com/cloudposse/charts/tree/master/incubator/monochart  monochart
+* https://github.com/itscontained/charts/tree/master/itscontained/raw  rawchart
 
 
 Official Docker Hub OS Images
