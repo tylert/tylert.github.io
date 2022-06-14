@@ -20,7 +20,7 @@ func (enc base58Encoder) Decode(shuu string) (uuid.UUID, error) {
 	return uuid.FromBytes(base58.Decode(shuu))
 }
 
-func genv3(name string, space string) (uuid.UUID, error) {
+func Genv3(name string, space string) (uuid.UUID, error) {
 	switch space {
 	case "DNS":
 		return uuid.NewMD5(uuid.NameSpaceDNS, []byte(name)), nil
@@ -35,12 +35,12 @@ func genv3(name string, space string) (uuid.UUID, error) {
 	}
 }
 
-func genv4() (uuid.UUID, error) {
+func Genv4() (uuid.UUID, error) {
 	lluu, err := uuid.NewRandom()
 	return lluu, err
 }
 
-func genv5(name string, space string) (uuid.UUID, error) {
+func Genv5(name string, space string) (uuid.UUID, error) {
 	switch space {
 	case "DNS":
 		return uuid.NewSHA1(uuid.NameSpaceDNS, []byte(name)), nil
@@ -56,16 +56,16 @@ func genv5(name string, space string) (uuid.UUID, error) {
 }
 
 // https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html
-// ^^ UUIDv6, UUIDv7, UUIDv8
+// ^^ Genv6, Genv7, Genv8
 
 func main() {
 	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 
 	enc := base58Encoder{}
-	// lluu, err := genv3("python.org", "DNS")
-	// lluu, err := genv4()
-	// lluu, err := genv5("python.org", "DNS")
+	// lluu, err := Genv3("python.org", "DNS")
+	// lluu, err := Genv4()
+	// lluu, err := Genv5("python.org", "DNS")
 	// lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
 	lluu, err := enc.Decode("SMqCfPLDiH5aTTgLmGR4np")
 
