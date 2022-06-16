@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/google/uuid"
 	// "github.com/nicksnyder/basen"
 )
@@ -62,11 +62,11 @@ func main() {
 	// default alphabet '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base57)
 	// desired alphabet '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz' (base58)
 
-	enc := base58Encoder{}
 	// lluu, err := Genv3("python.org", "DNS")
 	// lluu, err := Genv4()
 	// lluu, err := Genv5("python.org", "DNS")
 	// lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
+	enc := base58Encoder{}
 	lluu, err := enc.Decode("SMqCfPLDiH5aTTgLmGR4np")
 
 	if err != nil {
