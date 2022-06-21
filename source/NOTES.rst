@@ -66,7 +66,8 @@ Go Stuff
 * http://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
 * https://www.youtube.com/watch?v=ysgMlGHtDMo
-* Go AWK https://benhoyt.com/writings/prig/?showhn
+* https://benhoyt.com/writings/prig/?showhn  Go AWK
+* https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
 
 
 Apt Stuff
