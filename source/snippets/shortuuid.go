@@ -15,24 +15,24 @@ import (
 
 // func Genv2(domain string, id uint32) (uuid.UUID, error) {
 //   switch domain {
-//   case "person":
+//   case "Person":
 //     return uuid.NewDCESecurity(uuid.Person, id)
-//   case "group":
+//   case "Group":
 //     return uuid.NewDCESecurity(uuid.Group, id)
-//   case "org":
+//   case "Org":
 //     return uuid.NewDCESecurity(uuid.Org, id)
 //   }
 // }
 
 func Genv3(name string, space string) (uuid.UUID, error) {
 	switch space {
-	case "dns":
+	case "Dns":
 		return uuid.NewMD5(uuid.NameSpaceDNS, []byte(name)), nil
-	case "oid":
+	case "Oid":
 		return uuid.NewMD5(uuid.NameSpaceOID, []byte(name)), nil
-	case "url":
+	case "Url":
 		return uuid.NewMD5(uuid.NameSpaceURL, []byte(name)), nil
-	case "x500":
+	case "X500":
 		return uuid.NewMD5(uuid.NameSpaceX500, []byte(name)), nil
 	default:
 		return uuid.Nil, errors.New("Invalid namespace")
@@ -50,13 +50,13 @@ func Genv4() (uuid.UUID, error) {
 
 func Genv5(name string, space string) (uuid.UUID, error) {
 	switch space {
-	case "dns":
+	case "Dns":
 		return uuid.NewSHA1(uuid.NameSpaceDNS, []byte(name)), nil
-	case "oid":
+	case "Oid":
 		return uuid.NewSHA1(uuid.NameSpaceOID, []byte(name)), nil
-	case "url":
+	case "Url":
 		return uuid.NewSHA1(uuid.NameSpaceURL, []byte(name)), nil
-	case "x500":
+	case "X500":
 		return uuid.NewSHA1(uuid.NameSpaceX500, []byte(name)), nil
 	default:
 		return uuid.Nil, errors.New("Invalid namespace")
@@ -84,10 +84,10 @@ func main() {
 	// base64    '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/'
 	// base64url '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_'
 
-	// lluu, err := Genv3("python.org", "url")
-	// lluu, err := Genv4()
-	// lluu, err := Genv5("python.org", "dns")
-	lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
+	// lluu, err := Genv3("python.org", "Url")
+	lluu, err := Genv4()
+	// lluu, err := Genv5("python.org", "Dns")
+	// lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
 
 	enc := base58Encoder{}
 	// lluu, err := enc.Decode("SMqCfPLDiH5aTTgLmGR4np")
