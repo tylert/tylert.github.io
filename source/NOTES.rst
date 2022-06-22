@@ -1,11 +1,3 @@
-eBPF Stuff
-----------
-
-* https://github.com/iovisor/bcc
-* https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
-* https://www.seekret.io/blog/ebpf-nuances-on-minikube/
-
-
 Video Game Stuff
 ----------------
 
@@ -21,33 +13,6 @@ Magnetometer
 * https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
-Python Stuff
-------------
-
-* http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
-* http://flask-restful.readthedocs.org/en/0.3.5/quickstart.html#a-minimal-api
-* http://locust.io/
-* https://pypi.python.org/pypi/pip2pi/0.6.8
-* https://github.com/pypiserver/pypiserver
-* http://book.pythontips.com/en/latest/
-* http://qpleple.com/add-progress-bars-to-your-python-loops/
-* https://click.palletsprojects.com/en/7.x/utils/#showing-progress-bars
-* https://codingdose.info/2019/06/15/how-to-use-a-progress-bar-in-python/
-* https://github.com/niltonvolpato/python-progressbar/blob/master/examples.py
-* https://bhave.sh/micropython-docker/
-
-::
-
-    import itertools
-
-    for perm in itertools.permutations("thing to use for anagram"):
-        print(''.join(perm))
-
-    # Examples:
-    # "setec astronomy" is an anagram for "too many secrets"
-    # "keynote shogun" is an anagram for "not enough keys"
-
-
 Video Conversion Awesome
 ------------------------
 
@@ -58,16 +23,6 @@ Video Conversion Awesome
     # to alter length of videos, after the -i, add:  '-ss' start time, '-t' duration or '-to' end time
     # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file for the following command...
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
-
-
-Go Stuff
---------
-
-* http://howistart.org/posts/go/1
-* https://www.youtube.com/watch?v=oyTgx6S87XY
-* https://www.youtube.com/watch?v=ysgMlGHtDMo
-* https://benhoyt.com/writings/prig/?showhn  Go AWK
-* https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
 
 
 Apt Stuff
@@ -103,40 +58,15 @@ Or, do it manually with::
     APT::Periodic::Update-Package-Lists "1";
     APT::Periodic::Unattended-Upgrade "1";
 
+Add other architectures::
 
-Container Stuff
----------------
+    sudo dpkg --add-architecture i386
+    sudo apt-get update
+    sudo apt-get install libc6:i386 libstdc++6:i386
 
-* https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
-* https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
-* http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
-* http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
-* http://prakhar.me/docker-curriculum/
-* http://stackoverflow.com/questions/18274088/how-can-i-make-my-own-base-image-for-docker
-* http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
-* http://www.aossama.com/build-debian-docker-image-from-scratch/
-* https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot/
-* https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration/
-* https://github.com/openshift-evangelists/openshift-workshops/blob/master/modules/run-as-non-root.adoc#switching-the-user
-* https://docs.openshift.org/latest/creating_images/guidelines.html#use-uid
-* http://www.projectatomic.io/docs/docker-image-author-guidance/
-* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
-* https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
-* https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
-* https://wiki.apache.org/httpd/NonRootPortBinding
-* https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
-* https://erkanerol.github.io/post/how-kubectl-exec-works/
-* https://www.youtube.com/watch?v=g4PCTodIm80
-* https://www.youtube.com/watch?v=_dn4c9j7LUo
-* https://github.com/containerd/nerdctl
-* https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
-* https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
-* https://github.com/k8s-at-home/charts
-* https://github.com/k8s-at-home/awesome-home-kubernetes
-* https://billglover.me/2020/01/12/the-sidecar-pattern/
-* https://earthly.dev/blog/aws-lambda-docker/
-* https://github.com/cloudposse/charts/tree/master/incubator/monochart  monochart
-* https://github.com/itscontained/charts/tree/master/itscontained/raw  rawchart
+System76 stuff::
+
+    sudo apt-add-repository ppa:system76-dev/stable
 
 
 Official Docker Hub OS Images
@@ -146,24 +76,6 @@ Official Docker Hub OS Images
 * https://github.com/debuerreotype/docker-debian-artifacts  Debian
 * https://github.com/tianon/docker-brew-ubuntu-core  Ubuntu
 * https://github.com/alpinelinux/docker-alpine  Alpine Linux
-
-
-System76 Stuff
---------------
-
-::
-
-    sudo apt-add-repository ppa:system76-dev/stable
-
-
-Android Stuff
--------------
-
-::
-
-    sudo dpkg --add-architecture i386
-    sudo apt-get update 
-    sudo apt-get install libc6:i386 libstdc++6:i386
 
 
 LDAP/Kerberos
@@ -180,6 +92,7 @@ Stupid Shell Tricks
 
 * http://www.theunixschool.com/2012/10/how-to-find-duplicate-records-of-file.html
 * http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
+* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 
 
 Assorted Things-to-Read
@@ -266,8 +179,8 @@ Cool Products
 -------------
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
-* https://mudita.com/store/mudita-pure-minimalist-phone/
 * https://teenage.engineering/products/tx-6  pocket mixer/synth
+* https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence?
 
 
 Keyboard CNC
@@ -315,7 +228,6 @@ Awesome Stuff
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
-* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://www.alvarez.io/posts/living-like-it-s-99/
 * https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 * https://www.sliderulemuseum.com/SR_Course.htm
@@ -489,9 +401,44 @@ Books
 * https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
 
 
-Container Awesome
------------------
+Container Stuff
+---------------
 
+* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
+* https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
+* https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
+* http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
+* http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
+* http://prakhar.me/docker-curriculum/
+* http://stackoverflow.com/questions/18274088/how-can-i-make-my-own-base-image-for-docker
+* http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
+* http://www.aossama.com/build-debian-docker-image-from-scratch/
+* https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot/
+* https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration/
+* https://github.com/openshift-evangelists/openshift-workshops/blob/master/modules/run-as-non-root.adoc#switching-the-user
+* https://docs.openshift.org/latest/creating_images/guidelines.html#use-uid
+* http://www.projectatomic.io/docs/docker-image-author-guidance/
+* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
+* https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
+* https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
+* https://wiki.apache.org/httpd/NonRootPortBinding
+* https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
+* https://erkanerol.github.io/post/how-kubectl-exec-works/
+* https://www.youtube.com/watch?v=g4PCTodIm80
+* https://www.youtube.com/watch?v=_dn4c9j7LUo
+* https://github.com/containerd/nerdctl
+* https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
+* https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
+* https://github.com/k8s-at-home/charts
+* https://github.com/k8s-at-home/awesome-home-kubernetes
+* https://billglover.me/2020/01/12/the-sidecar-pattern/
+* https://github.com/ramitsurana/awesome-kubernetes
+* https://ramitsurana.github.io/awesome-kubernetes
+* https://github.com/run-x/awesome-kubernetes
+* https://awesome-kubernetes.com/
+* https://earthly.dev/blog/aws-lambda-docker/
+* https://github.com/cloudposse/charts/tree/master/incubator/monochart  monochart
+* https://github.com/itscontained/charts/tree/master/itscontained/raw  rawchart
 * https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644
 * https://iximiuz.com/en/posts/container-networking-is-simple/
 * https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
@@ -499,6 +446,8 @@ Container Awesome
 * https://ianthehenry.com/posts/how-to-learn-nix/
 * https://github.com/tianon/gosu
 * https://docs.gocd.org/current/
+* https://github.com/routernetes/routernetes  dedicated router with k8s???
+* https://k8s.voltaicforge.com/  PXE boot bare metal + install Talos, Sidero, K8s
 
 
 Vault Awesome
@@ -531,17 +480,27 @@ Networking
 * https://spiffe.io/
 * https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
 * https://sive.rs/com  build a database of domains to make it easier to pick new ones to register
+* https://github.com/iovisor/bcc
+* https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
+* https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 
 
 Go Stuff
 --------
 
+* http://howistart.org/posts/go/1
+* https://www.youtube.com/watch?v=oyTgx6S87XY
+* https://www.youtube.com/watch?v=ysgMlGHtDMo
+* https://benhoyt.com/writings/prig/?showhn  Go AWK
+* https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
 * https://jogendra.dev/building-command-line-tools-in-go
 * https://coder.com/blog/building-command-line-tools-with-go
 * https://gocli.io/
 * https://github.com/thawkson/go-cli-tool
 * https://github.com/tmrts/boilr
 * https://quii.gitbook.io/learn-go-with-tests/
+* https://github.com/jltorresm/otpgo  TOTP
+* https://github.com/pquerna/otp  TOTP
 
 
 IPAM

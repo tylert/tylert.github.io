@@ -38,6 +38,8 @@ Self-Hosted
 
 * https://github.com/awesome-selfhosted/awesome-selfhosted/
 * https://blog.ioces.com/matt/posts/everything-old-is-new-again/
+* https://github.com/librespeed/speedtest  self-hosted speed tests?
+* https://github.com/librespeed/speedtest-go  self-hosted speed tests?
 
 
 PiHole Raspbian

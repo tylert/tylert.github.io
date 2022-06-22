@@ -1,3 +1,30 @@
+Python Stuff
+------------
+
+* http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+* http://flask-restful.readthedocs.org/en/0.3.5/quickstart.html#a-minimal-api
+* http://locust.io/
+* https://pypi.python.org/pypi/pip2pi/0.6.8
+* https://github.com/pypiserver/pypiserver
+* http://book.pythontips.com/en/latest/
+* http://qpleple.com/add-progress-bars-to-your-python-loops/
+* https://click.palletsprojects.com/en/7.x/utils/#showing-progress-bars
+* https://codingdose.info/2019/06/15/how-to-use-a-progress-bar-in-python/
+* https://github.com/niltonvolpato/python-progressbar/blob/master/examples.py
+* https://bhave.sh/micropython-docker/
+
+::
+
+    import itertools
+
+    for perm in itertools.permutations("thing to use for anagram"):
+        print(''.join(perm))
+
+    # Examples:
+    # "setec astronomy" is an anagram for "too many secrets"
+    # "keynote shogun" is an anagram for "not enough keys"
+
+
 HDWallet Zipapp
 ---------------
 
