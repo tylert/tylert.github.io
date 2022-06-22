@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	// "log"
 	"os"
 
 	"github.com/btcsuite/btcd/btcutil/base58"
@@ -10,15 +11,28 @@ import (
 	// "github.com/nicksnyder/basen"
 )
 
+// func Genv1() (uuid.UUID, error) {
+
+// func Genv2(domain string, id uint32) (uuid.UUID, error) {
+//   switch domain {
+//   case "person":
+//     return uuid.NewDCESecurity(uuid.Person, id)
+//   case "group":
+//     return uuid.NewDCESecurity(uuid.Group, id)
+//   case "org":
+//     return uuid.NewDCESecurity(uuid.Org, id)
+//   }
+// }
+
 func Genv3(name string, space string) (uuid.UUID, error) {
 	switch space {
-	case "DNS":
+	case "dns":
 		return uuid.NewMD5(uuid.NameSpaceDNS, []byte(name)), nil
-	case "OID":
+	case "oid":
 		return uuid.NewMD5(uuid.NameSpaceOID, []byte(name)), nil
-	case "URL":
+	case "url":
 		return uuid.NewMD5(uuid.NameSpaceURL, []byte(name)), nil
-	case "X500":
+	case "x500":
 		return uuid.NewMD5(uuid.NameSpaceX500, []byte(name)), nil
 	default:
 		return uuid.Nil, errors.New("Invalid namespace")
@@ -26,24 +40,32 @@ func Genv3(name string, space string) (uuid.UUID, error) {
 }
 
 func Genv4() (uuid.UUID, error) {
+	// speed up batch operations at the cost of a bit more danger???
+	// uuid.EnableRandPool()
+	// uuid.DisableRandPool()
+
 	lluu, err := uuid.NewRandom()
 	return lluu, err
 }
 
 func Genv5(name string, space string) (uuid.UUID, error) {
 	switch space {
-	case "DNS":
+	case "dns":
 		return uuid.NewSHA1(uuid.NameSpaceDNS, []byte(name)), nil
-	case "OID":
+	case "oid":
 		return uuid.NewSHA1(uuid.NameSpaceOID, []byte(name)), nil
-	case "URL":
+	case "url":
 		return uuid.NewSHA1(uuid.NameSpaceURL, []byte(name)), nil
-	case "X500":
+	case "x500":
 		return uuid.NewSHA1(uuid.NameSpaceX500, []byte(name)), nil
 	default:
 		return uuid.Nil, errors.New("Invalid namespace")
 	}
 }
+
+// func Genv6() (uuid.UUID, error) {
+// func Genv7() (uuid.UUID, error) {
+// func Genv8() (uuid.UUID, error) {
 
 type base58Encoder struct{}
 
@@ -62,9 +84,9 @@ func main() {
 	// base64    '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/'
 	// base64url '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_'
 
-	// lluu, err := Genv3("python.org", "DNS")
+	// lluu, err := Genv3("python.org", "url")
 	// lluu, err := Genv4()
-	// lluu, err := Genv5("python.org", "DNS")
+	// lluu, err := Genv5("python.org", "dns")
 	lluu, err := uuid.Parse("cd5d0bff-2444-5d26-ab53-4f7db1cb733d")
 
 	enc := base58Encoder{}
@@ -79,6 +101,8 @@ func main() {
 	fmt.Println(lluu)
 	fmt.Println(shuu)
 }
+
+// https://stackoverflow.com/questions/41996761/golang-number-base-conversion/48362821#48362821
 
 // https://github.com/yeqown/go-qrcode  generating a barcode bitmap
 // https://github.com/signintech/gopdf  generating a PDF
