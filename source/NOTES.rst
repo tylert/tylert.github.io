@@ -87,12 +87,13 @@ LDAP/Kerberos
 * https://wiki.debian.org/LDAP/Kerberos
 
 
-Stupid Shell Tricks
--------------------
+Cool Shell Tricks
+-----------------
 
 * http://www.theunixschool.com/2012/10/how-to-find-duplicate-records-of-file.html
 * http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
+* https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 
 
 Assorted Things-to-Read
