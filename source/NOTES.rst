@@ -270,8 +270,23 @@ Git Stuff
 
 Fetch a single file::
 
-    git archive --remote=ssh://git@blablabla/blablabla.git \
-        master awesomefile | tar -xO awesomefile > awesomefile
+    git archive \
+        --format=tar \
+        --output=foo.tar.gz \
+        --remote=ssh://git@blablabla/blablabla.git ${BRANCH} \
+        things_to_archive
+
+    git archive \
+        --format=tar \
+        --output=foo.tar.gz \
+        --remote=${LOCAL_REPO} ${BRANCH} \
+        things_to_archive
+
+    git archive \
+        --format=tar \
+        --output=foo.tar.gz \
+        --remote=foo master \
+        "**/requirements*" "requirements*"
 
 ::
 
