@@ -156,15 +156,18 @@ MySQL Stuff
 Keepass Stuff
 -------------
 
-* https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45#keepass-file-format-explained
+* https://keepassxc.org/
+* https://github.com/keepassxreboot/keepassxc/issues/8036  might get fixed in 2.7.2
+* https://github.com/keepassxreboot/keepassxc/issues/4555#issuecomment-610626477  merge dbs in GUI
+* https://github.com/keepassxreboot/keepassxc/issues/2937#issuecomment-538592022  merge dbs in TUI
+* https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options  allow screenshots
 * https://github.com/asmpro/keepasspy
 * https://github.com/fdemmer/libkeepass
 * https://github.com/jamesls/python-keepassx
 * https://github.com/keepassx/keepassx
 * https://github.com/kindahl/libkeepass
 * https://github.com/phpwutz/libkeepass
-* https://keepassxc.org/
-* https://github.com/keepassxreboot/keepassxc/pull/6799
+* https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45#keepass-file-format-explained
 
 
 Secret Management Stuff
