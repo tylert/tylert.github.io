@@ -26,8 +26,13 @@ Prepare to use CUPS::
     # Install the prerequisites for the printer driver
     pacman --noconfirm --sync git
 
+    gpg --keyserver keys.gnupg.net --recv-keys 6AD860EED4598027
     git clone https://aur.archlinux.org/brother-hll2300d.git
+    git clone https://aur.archlinux.org/brlaser.git
     pushd brother-hll2300d
+    makepkg -si
+    popd
+    pushd brlaser
     makepkg -si
     popd
 
