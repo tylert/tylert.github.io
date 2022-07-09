@@ -60,7 +60,7 @@ Upgrades
     #!/usr/bin/env bash
     pacman --noconfirm -Syu
     pacman --noconfirm -Sc
-    rm -rf /var/cache/pacman/pkg
+    rm -rf /var/cache/pacman/pkg/*
 
 
 Firmware and Extras
