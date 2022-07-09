@@ -47,6 +47,17 @@ Initial Setup
     passwd root
 
 
+Firmware and Extras
+-------------------
+
+::
+
+    pacman --noconfirm --sync wireguard-tools
+
+    pacman --noconfirm --sync rpi-eeprom
+    rpi-eeprom-update -a -d
+
+
 Upgrades
 --------
 
@@ -55,19 +66,5 @@ Upgrades
     # Put the main root filesystem into "writable mode"
     rw
 
-    # Upgrade the pikvm root filesystem to latest
-    # XXX FIXME TODO  Convert these to long options
-    #!/usr/bin/env bash
-    pacman --noconfirm -Syu
-    pacman --noconfirm -Sc
-    rm -rf /var/cache/pacman/pkg/*
-
-
-Firmware and Extras
--------------------
-
-::
-
-    pacman --noconfirm --sync rpi-eeprom
-
-    pacman --noconfirm --sync wireguard-tools
+    # OMFG, GitHub!!!
+    wget --no-check-certificate https://raw.githubusercontent.com/tylert/dotfiles/master/bin/upgrade_everything.sh
