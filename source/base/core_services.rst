@@ -112,7 +112,12 @@ Networking Magic
 Crypto Magic
 ------------
 
-ED509 Keys::
+::
 
+    # RSA
+    openssl genpkey -algorithm rsa -pkeyopt rsa_keygen_bits:8192 -out priv
+    openssl pkey -pubout -in priv -out pub
+
+    # ED-209
     openssl genpkey -algorithm ed25519 -out priv
     openssl pkey -pubout -in priv -out pub
