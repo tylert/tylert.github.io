@@ -156,6 +156,10 @@ MySQL Stuff
 Keepass Stuff
 -------------
 
+macOS::
+
+    open -a KeePassXC --args --allow-screencapture
+
 * https://keepassxc.org/
 * https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options  allow screenshots
 * https://github.com/keepassxreboot/keepassxc/issues/4555#issuecomment-610626477  merge dbs in GUI
