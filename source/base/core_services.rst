@@ -114,6 +114,9 @@ Crypto Magic
 
 ::
 
+    # If working on slightly-wacky Unix-like operating systems
+    alias openssl=$(brew --prefix openssl@1.1)/bin/openssl
+
     # RSA
     openssl genpkey -algorithm rsa -pkeyopt rsa_keygen_bits:8192 -out priv
     openssl pkey -pubout -in priv -out pub
