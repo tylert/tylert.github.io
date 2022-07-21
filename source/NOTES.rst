@@ -24,6 +24,8 @@ Video Conversion Awesome
     # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file for the following command...
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 
+* https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+
 
 Apt Stuff
 ---------
@@ -224,7 +226,6 @@ Awesome Stuff
 
 * http://www.1001fonts.com/
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
-* http://gohugo.io/
 * https://github.com/intenthq/anon
 * https://nodered.org/
 * https://adventurekeep.com/
@@ -242,6 +243,7 @@ Awesome Stuff
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
+* https://github.com/codecrafters-io/build-your-own-x
 
 
 Offline Services
