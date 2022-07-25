@@ -92,3 +92,61 @@ Deprecated instructions???::
     # edit stuff
     git commit --all --amend --no-edit
     git rebase --continue
+
+
+Workflow Stuff
+--------------
+
+* http://rogerdudler.github.io/git-guide/
+* http://www.catb.org/~esr/faqs/smart-questions.html
+* https://12factor.net/
+* https://baatz.io/2015/how-many-git-repos/
+* https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
+* https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/
+* https://blog.carbonfive.com/always-squash-and-rebase-your-git-commits/
+* https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/
+* https://blog.sulami.xyz/posts/cleaning-up-git-history/
+* https://cbea.ms/git-commit/
+* https://cerfacs.fr/coop/coop-cactus-model
+* https://coderwall.com/p/7aymfa/please-oh-please-use-git-pull-rebase
+* https://davidwalsh.name/squash-commits-git
+* https://docs.cloudposse.com/
+* https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/april/alm-rangers-a-treasure-hunt-through-alm-readiness
+* https://docs.microsoft.com/en-us/azure/architecture/patterns/sthttps://12factor.net/rangler
+* https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern
+* https://gitbetter.substack.com/p/how-to-squash-git-commits
+* https://github.com/arxanas/git-branchless
+* https://github.com/erlang/otp/wiki/writing-good-commit-messages
+* https://github.com/naltun/ugit
+* https://gitolite.com/git-pull--rebase
+* https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
+* https://leoneperdigao.medium.com/pull-request-best-practices-fa20f7daeb3c
+* https://leosiddle.com/posts/2020/07/git-config-pull-rebase-autostash/
+* https://lethain.com/trunk-and-branches/
+* https://lukemerrett.com/different-merge-types-in-git/
+* https://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit
+* https://martinfowler.com/articles/ship-show-ask.html
+* https://martinfowler.com/bliki/BranchByAbstraction.html
+* https://martinfowler.com/bliki/StranglerFigApplication.html
+* https://mechanicalrock.github.io/2019/07/01/continuous-deployment-the-first-step-on-the-road-to-recovery.html
+* https://mechanicalrock.github.io/2020/05/04/strangler-pattern.html
+* https://mechanicalrock.github.io/2020/10/06/manual-gates-git-flow-in-a-wig.html
+* https://medium.com/better-programming/why-and-how-to-squash-git-commits-b508b3b0dba
+* https://mtlynch.io/code-review-love/
+* https://ourmachinery.com/post/step-by-step-programming-incrementally/
+* https://paulhammant.com/2013/04/05/what-is-trunk-based-development/
+* https://semver.org/
+* https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
+* https://stokoe.me/summary-hammock-driven-development/
+* https://trunkbaseddevelopment.com/#scaled-trunk-based-development
+* https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
+* https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+* https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+* https://www.cmcrossroads.com/article/pros-and-cons-four-kinds-code-reviews
+* https://www.endoflineblog.com/gitflow-considered-harmful
+* https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+* https://www.gitops.tech/
+* https://www.leshenko.net/p/ugit/
+* https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/
+* https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/#toc-use-feature-toggles
+* https://xkcd.com/1296/
