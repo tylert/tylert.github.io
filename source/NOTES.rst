@@ -244,6 +244,7 @@ Awesome Stuff
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
+* https://github.com/hackergrrl/art-of-readme
 
 
 Offline Services
