@@ -128,6 +128,7 @@ Assorted Things-to-Read
 * https://www.netmeister.org/blog/inet_aton.html
 * https://kellycordes.com/2009/11/02/the-fun-scale/
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
+* https://sambleckley.com/writing/church-of-interruption.html
 
 
 Stuff to watch
