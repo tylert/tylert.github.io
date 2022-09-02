@@ -70,6 +70,13 @@ PDF + Contacts
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
 
 
+Sneakernet
+----------
+
+* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet/
+* https://www.complete.org/nncp/
+
+
 Docker + Alpine Linux
 ---------------------
 
@@ -92,7 +99,6 @@ Misc
 ----
 
 * https://mrkaran.dev/posts/home-server-nomad/
-* https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup/
 * https://mosh.org/
 * https://smallstep.com/blog/everything-pki.html
 * https://code.mradford.com/post/the-ubuntu-compiz-desktop/
