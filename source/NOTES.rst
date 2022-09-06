@@ -380,6 +380,7 @@ Container Stuff
 * https://docs.gocd.org/current/
 * https://github.com/routernetes/routernetes  dedicated router with k8s???
 * https://k8s.voltaicforge.com/  PXE boot bare metal + install Talos, Sidero, K8s
+* https://driftingin.space/posts/complexity-kubernetes
 
 
 Vault Awesome
