@@ -141,3 +141,6 @@ SSH CA/Agent/Sudo/SSM
 * https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault
 * https://www.sweharris.org/post/2022-02-06-ssh-certs-again/
 * https://www.toptal.com/aws/ssh-log-with-ssm
+* https://news.ycombinator.com/item?id=32660773  SSH CA discussion/poll
+* https://smallstep.com/blog/diy-single-sign-on-for-ssh/
+* https://keepassxc.org/docs/#faq-ssh-agent-how  combine with other magic!!!
