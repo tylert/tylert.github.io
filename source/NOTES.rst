@@ -416,6 +416,7 @@ Networking
 * https://github.com/iovisor/bcc
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube/
+* https://wicg.github.io/ua-client-hints/  User-agent info about GOOS, GOARCH???
 
 
 Go Stuff
