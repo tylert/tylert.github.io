@@ -3,6 +3,8 @@ Containers
 
 * https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html
 * https://github.com/hobby-kube/guide
+* https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/
+* https://grahamc.com/blog/nix-and-layered-docker-images
 
 ::
 

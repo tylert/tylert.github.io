@@ -2,6 +2,7 @@ Devices
 -------
 
 * https://mikrotik.com/product/crs305_1g_4s_in
+* https://lengrand.fr/complete-setup-epaper/
 
 
 Private CA
@@ -42,6 +43,7 @@ Self-Hosted
 * https://github.com/librespeed/speedtest-go  self-hosted speed tests?
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8/  hosting static sites
+* https://github.com/meienberger/runtipi
 
 
 PiHole Raspbian

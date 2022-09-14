@@ -144,3 +144,4 @@ SSH CA/Agent/Sudo/SSM
 * https://news.ycombinator.com/item?id=32660773  SSH CA discussion/poll
 * https://smallstep.com/blog/diy-single-sign-on-for-ssh/
 * https://keepassxc.org/docs/#faq-ssh-agent-how  combine with other magic!!!
+* https://calebhearth.com/sign-git-with-ssh  sign git commits with SSH
