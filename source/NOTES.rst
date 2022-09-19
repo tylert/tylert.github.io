@@ -438,6 +438,8 @@ Go Stuff
 * https://go.dev/ref/mod
 * https://roberto.selbach.ca/go-proxies/
 * https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
+* https://awesome-go.com/
+* https://github.com/felixge/fgtrace  Go tracing
 
 
 IPAM

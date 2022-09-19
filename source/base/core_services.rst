@@ -5,10 +5,11 @@ Devices
 * https://lengrand.fr/complete-setup-epaper/
 
 
-Private CA
-----------
+CA, U2F, FIDO
+-------------
 
 * https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
+* https://github.com/bulwarkid/virtual-fido
 
 
 Dynamic DNS
@@ -44,6 +45,7 @@ Self-Hosted
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8/  hosting static sites
 * https://github.com/meienberger/runtipi
+* https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/
 
 
 PiHole Raspbian
