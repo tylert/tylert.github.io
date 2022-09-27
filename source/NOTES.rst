@@ -356,7 +356,7 @@ Container Stuff
 * https://wiki.apache.org/httpd/NonRootPortBinding
 * https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 * https://erkanerol.github.io/post/how-kubectl-exec-works/
-* https://www.youtube.com/watch?v=g4PCTodIm80
+* https://www.youtube.com/watch?v=g4PCTodIm80  Why I use Rancher (2021) - Fleet awesomeness
 * https://www.youtube.com/watch?v=_dn4c9j7LUo
 * https://github.com/containerd/nerdctl
 * https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
