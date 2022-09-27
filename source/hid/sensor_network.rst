@@ -20,3 +20,9 @@ Light Switches
 --------------
 
 * https://www.jamesridgway.co.uk/making-traditional-light-switches-smart/
+
+
+Weather Station Stuff
+---------------------
+
+* https://www.instructables.com/DIY-Weather-Station-With-ESP32/
