@@ -1,5 +1,35 @@
-Rebuilding EdgeRouter X
------------------------
+OpenWRT
+=======
+
+
+EdgeRouter X
+------------
+
+* http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html
+* http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html
+* https://www.reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x/
+* https://www.reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage/
+* https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
+* https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
+
+
+DHCP Server
+-----------
+
+::
+
+    Router 172.23.0.1
+    Subnet 172.23.0.0/24
+    Range start 172.23.0.51
+    Range stop 172.23.0.150
+
+
+Stock Ubiquiti Firmware
+=======================
+
+
+Factory Reset EdgeRouter X
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Boot router with "factory defaults" (refer to "quick start guide";  eth1 will DHCP and give eth0 24V).
 #. Login to the web UI with "ubnt:ubnt".
@@ -22,16 +52,12 @@ Rebuilding EdgeRouter X
 .. image:: traffic_analysis_accept.png
 .. image:: qos_smart_queue.png
 
-* https://github.com/WireGuard/wireguard-vyatta-ubnt
 * https://www.ui.com/download/edgemax/edgerouter-x
 * https://www.ui.com/download/edgemax/edgeswitch
 
 
 Installing Wireguard
---------------------
-
-* https://github.com/WireGuard/wireguard-vyatta-ubnt/wiki/EdgeOS-and-Unifi-Gateway
-* https://github.com/WireGuard/wireguard-vyatta-ubnt/releases
+~~~~~~~~~~~~~~~~~~~~
 
 ::
 
@@ -39,24 +65,13 @@ Installing Wireguard
     sudo dpkg -i e50-v2-v1.0.20210606-v1.0.20210914.deb
     rm e50-v2-v1.0.20210606-v1.0.20210914.deb
 
-
-DHCP Server
------------
-
-Subnet 172.23.0.0/24
-Range start 172.23.0.51
-Range stop 172.23.0.150
-Router 172.23.0.1
+* https://github.com/WireGuard/wireguard-vyatta-ubnt
+* https://github.com/WireGuard/wireguard-vyatta-ubnt/releases
+* https://github.com/WireGuard/wireguard-vyatta-ubnt/wiki/EdgeOS-and-Unifi-Gateway
 
 
-Switching DHCP and DNS to dnsmasq
----------------------------------
-
-* https://kb.intermedia.net/Article/44415
-* https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
-* https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
-* https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
-* https://floating.io/2019/01/edgerouter-dns-forwarding-and-the-routers-hostname/
+Switching To Dnsmasq
+~~~~~~~~~~~~~~~~~~~~
 
 ::
 
@@ -69,16 +84,15 @@ Switching DHCP and DNS to dnsmasq
     save
     exit
 
+* https://kb.intermedia.net/Article/44415
+* https://ragingtiger.github.io/2018/04/29/ubq-erx-router-setup/
+* https://help.ui.com/hc/en-us/articles/115002673188-EdgeRouter-DHCP-Server-using-Dnsmasq
+* https://loganmarchione.com/2016/08/edgerouter-lite-dnsmasq-setup/
+* https://floating.io/2019/01/edgerouter-dns-forwarding-and-the-routers-hostname/
+
 
 Installing UniFi Controller
----------------------------
-
-* https://github.com/linuxserver/docker-unifi-controller
-* https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/
-* https://www.linuxserver.io/2016/02/13/manage-a-unifi-ap-via-the-ubiquiti-controller-running-in-docker/
-* https://help.ubnt.com/hc/en-us/articles/220066768-UniFi-How-to-Install-Update-via-APT-on-Debian-or-Ubuntu
-* https://bobmckay.com/coding-for-kids/running-ubiquiti-unifi-controller-raspberry-pi/
-* https://gist.github.com/codeniko/381e8be3b0236a602e02f0a9fac13b3d
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ::
 
@@ -104,3 +118,10 @@ Installing UniFi Controller
     # N: Repository 'https://dl.ubnt.com/unifi/debian stable InRelease' changed its 'Codename' value from 'unifi-5.13' to 'unifi-6.0'
     # ... fix it with the following:
     sudo apt-get update --allow-releaseinfo-change
+
+* https://github.com/linuxserver/docker-unifi-controller
+* https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/
+* https://www.linuxserver.io/2016/02/13/manage-a-unifi-ap-via-the-ubiquiti-controller-running-in-docker/
+* https://help.ubnt.com/hc/en-us/articles/220066768-UniFi-How-to-Install-Update-via-APT-on-Debian-or-Ubuntu
+* https://bobmckay.com/coding-for-kids/running-ubiquiti-unifi-controller-raspberry-pi/
+* https://gist.github.com/codeniko/381e8be3b0236a602e02f0a9fac13b3d
