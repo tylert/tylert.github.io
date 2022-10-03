@@ -263,6 +263,7 @@ Football Computer
 * https://マリウス.com/ -> https://xn--gckvb8fzb.com/
 * https://マリウス.com/linux-on-the-desktop-part-two/
 * https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
+* https://www.ikejima.org/projects/2022091-egg-laptop.html
 
 
 Style Guide Stuff
@@ -440,6 +441,7 @@ Go Stuff
 * https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
 * https://awesome-go.com/
 * https://github.com/felixge/fgtrace  Go tracing
+* https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
 
 
 IPAM
