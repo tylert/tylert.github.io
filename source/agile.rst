@@ -9,3 +9,13 @@ Scrum/Agile Stuff
 * https://www.youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
+
+
+Key Meetings
+------------
+
+* https://agilepainrelief.com/glossary/daily-scrum
+* https://agilepainrelief.com/glossary/sprint-planning
+* https://agilepainrelief.com/glossary/sprint-review
+* https://agilepainrelief.com/glossary/sprint-retrospective
+* https://agilepainrelief.com/glossary/product-backlog-refinement
