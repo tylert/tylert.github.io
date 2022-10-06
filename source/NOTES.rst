@@ -264,6 +264,7 @@ Football Computer
 * https://マリウス.com/linux-on-the-desktop-part-two/
 * https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
 * https://www.ikejima.org/projects/2022091-egg-laptop.html
+* https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
 
 
 Style Guide Stuff

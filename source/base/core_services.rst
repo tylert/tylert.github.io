@@ -46,6 +46,7 @@ Self-Hosted
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8/  hosting static sites
 * https://github.com/meienberger/runtipi
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/
+* https://news.ycombinator.com/item?id=33095823
 
 
 PiHole Raspbian
