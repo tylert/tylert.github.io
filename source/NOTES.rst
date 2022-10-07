@@ -443,6 +443,10 @@ Go Stuff
 * https://awesome-go.com/
 * https://github.com/felixge/fgtrace  Go tracing
 * https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
+* https://gist.github.com/fsmv/02c636d4da58106f113049ee45a62f50  go run???
+* https://www.arp242.net/flags-config-go.html  config stuff
+* https://github.com/arp242/sconfig
+* https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 
 
 IPAM
