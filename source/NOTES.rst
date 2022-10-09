@@ -469,7 +469,8 @@ Your Mom
 Ham Stuff
 ---------
 
-* https://github.com/flwyd/adif-multitool
+* https://github.com/flwyd/adif-multitool  convert ADIF to/from CSV
+* https://github.com/k0swe/adi2cbr  convert ADIF to Cabrillo
 * https://github.com/oIdq/qsls  convert ADIF to PDF
 * https://github.com/Matir/adifparser
 * https://github.com/tzneal/ham-go
