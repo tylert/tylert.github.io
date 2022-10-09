@@ -476,6 +476,7 @@ Ham Stuff
 * https://github.com/tzneal/ham-go
 * https://pypi.org/project/adif-io/
 * https://github.com/xaratustrah/dolphinlog  Python SQLite logger with ADIF 3.x.x export
+* https://github.com/sq8kfh/hamutils  another Python library for dealing with logs
 * https://github.com/timseed/adif_to_csv
 * https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
 * https://github.com/davepacheco/rust-adif
