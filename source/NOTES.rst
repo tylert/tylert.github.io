@@ -464,3 +464,19 @@ Your Mom
 * https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/
 * https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
 * https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
+
+
+Ham Stuff
+---------
+
+* https://github.com/flwyd/adif-multitool
+* https://github.com/oIdq/qsls  convert ADIF to PDF
+* https://github.com/Matir/adifparser
+* https://github.com/tzneal/ham-go
+* https://pypi.org/project/adif-io/
+* https://github.com/xaratustrah/dolphinlog  Python SQLite logger with ADIF 3.x.x export
+* https://github.com/timseed/adif_to_csv
+* https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
+* https://github.com/davepacheco/rust-adif
+* http://www.adif.org/
+* https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)
