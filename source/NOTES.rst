@@ -104,37 +104,19 @@ Assorted Things-to-Read
 * http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/
 * http://chris.beams.io/posts/git-commit/
 * http://lett.be/oauth2/
-* http://randsinrepose.com/archives/bored-people-quit/
-* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
 * http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop
-* http://www.daedtech.com/how-to-keep-your-best-programmers
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-* https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
-* http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
-* http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/
-* http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
-* http://redsquirrel.com/dave/work/a2j/patterns/SustainableMotivations.html
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
 * http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/
 * https://github.com/mitchellh/packer/pull/2962
-* https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
-* https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
-* https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-* https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant/
 * https://mergeboard.com/blog/2-qemu-microvm-docker/
 * https://plaintextaccounting.org/
 * https://www.netmeister.org/blog/inet_aton.html
 * https://kellycordes.com/2009/11/02/the-fun-scale/
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
 * https://sambleckley.com/writing/church-of-interruption.html
-
-
-Stuff to watch
---------------
-
-* https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 
 
 MySQL Stuff
@@ -245,7 +227,6 @@ Awesome Stuff
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
-* https://github.com/hackergrrl/art-of-readme
 * https://www.netmeister.org/blog/ops-lessons.html
 
 
@@ -265,16 +246,6 @@ Football Computer
 * https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
 * https://www.ikejima.org/projects/2022091-egg-laptop.html
 * https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
-
-
-Style Guide Stuff
------------------
-
-* bashate (former bash8)
-* https://github.com/bahamas10/bash-style-guide
-* http://wiki.bash-hackers.org/scripting/style
-* https://google.github.io/styleguide/shell.xml
-* https://jmmv.dev/2021/08/useless-use-of-gnu.html
 
 
 Microservices
@@ -298,18 +269,6 @@ Crypto
 * https://lwn.net/Articles/867158/  PAM duress
 
 
-Kanban
-------
-
-* https://github.com/greggigon/my-personal-kanban
-* http://greggigon.github.io/my-personal-kanban/
-* https://my-personal-kanban.appspot.com/
-
-::
-
-    cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
-
-
 More
 ----
 
@@ -326,13 +285,6 @@ More
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
-
-
-Books
------
-
-* https://www.amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227/ref=sr_1_1?dchild=1&keywords=working+with+the+enemy&qid=1611248468&sr=8-1
-* https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
 
 
 Container Stuff
@@ -418,7 +370,7 @@ Networking
 * https://github.com/iovisor/bcc
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube/
-* https://wicg.github.io/ua-client-hints/  User-agent info about GOOS, GOARCH???
+* https://wicg.github.io/ua-client-hints/  User-agent info including stuff like GOOS, GOARCH???
 
 
 Go Stuff
@@ -441,12 +393,15 @@ Go Stuff
 * https://roberto.selbach.ca/go-proxies/
 * https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
 * https://awesome-go.com/
+* https://www.awesomego.net/
 * https://github.com/felixge/fgtrace  Go tracing
+* https://github.com/nikolaydubina/go-recipes
 * https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
 * https://gist.github.com/fsmv/02c636d4da58106f113049ee45a62f50  go run???
 * https://www.arp242.net/flags-config-go.html  config stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
+* https://paseto.io/  JWT/JOSE stuff
 
 
 IPAM
