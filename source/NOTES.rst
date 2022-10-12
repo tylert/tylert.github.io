@@ -402,6 +402,10 @@ Go Stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io/  JWT/JOSE stuff
+* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
+* https://github.com/djhworld/go-lambda-invoke/blob/master/toupperlambda.go
+* https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
+* https://github.com/blmayer/awslambdarpc
 
 
 IPAM
