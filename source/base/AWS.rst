@@ -220,3 +220,28 @@ Cloud Hybrid
 
 * https://youtu.be/tIDbFTIPolQ
 * http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
+
+
+IPAM
+----
+
+* https://github.com/netbox-community/netbox
+* https://netbox.readthedocs.io/en/stable/
+* https://registry.terraform.io/search/providers?q=netbox
+* https://www.phillhocking.com/terraform-netbox-ipam-aws/
+
+
+Lambda
+------
+
+* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
+* https://github.com/djhworld/go-lambda-invoke
+* https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
+* https://github.com/blmayer/awslambdarpc
+* https://stackoverflow.com/questions/70925966/can-we-run-an-aws-lambda-locally-without-deployment
+* https://dev.bitolog.com/run-aws-lambda-locally/
+* https://github.com/raisebook/run-go-lambda
+* https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html
+* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
+* https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
+* https://github.com/blmayer/awslambdarpc

@@ -33,6 +33,14 @@ Kanban Offline
     cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
 
 
+Software Design and Documentation
+---------------------------------
+
+* http://craftinginterpreters.com/
+* https://threedots.tech/post/software-dark-ages/
+* https://www.writethedocs.org/guide/
+
+
 Development
 -----------
 

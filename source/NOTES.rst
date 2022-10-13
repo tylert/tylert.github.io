@@ -352,14 +352,6 @@ Terraform Awesome
 * https://www.baeldung.com/ops/terraform-best-practices
 
 
-Software Design and Documentation
----------------------------------
-
-* http://craftinginterpreters.com/
-* https://threedots.tech/post/software-dark-ages/
-* https://www.writethedocs.org/guide/
-
-
 Networking
 ----------
 
@@ -384,7 +376,6 @@ Go Stuff
 * https://jogendra.dev/building-command-line-tools-in-go
 * https://coder.com/blog/building-command-line-tools-with-go
 * https://gocli.io/
-* https://github.com/thawkson/go-cli-tool
 * https://github.com/tmrts/boilr
 * https://quii.gitbook.io/learn-go-with-tests/
 * https://github.com/jltorresm/otpgo  TOTP
@@ -402,19 +393,6 @@ Go Stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io/  JWT/JOSE stuff
-* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
-* https://github.com/djhworld/go-lambda-invoke/blob/master/toupperlambda.go
-* https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
-* https://github.com/blmayer/awslambdarpc
-
-
-IPAM
-----
-
-* https://github.com/netbox-community/netbox
-* https://netbox.readthedocs.io/en/stable/
-* https://registry.terraform.io/search/providers?q=netbox
-* https://www.phillhocking.com/terraform-netbox-ipam-aws/
 
 
 Your Mom
