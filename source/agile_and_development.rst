@@ -33,6 +33,23 @@ Kanban Offline
     cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
 
 
+Supply Chain Magic
+------------------
+
+* https://www.youtube.com/watch?v=JC-xCXcyNXI
+* https://slsa.dev/
+* https://github.com/gomods/athens
+* https://gomods.io/
+* https://dev.to/johanlejdung/a-mini-guide-go-modules-and-private-repositories-4c7o
+* https://go.dev/ref/mod#private-module-privacy
+* https://go.dev/ref/mod
+* https://proxy.golang.org/
+* https://roberto.selbach.ca/go-proxies/
+* https://github.com/spdx/tools-golang
+* https://spdx.dev/
+* https://github.com/opensbom-generator/spdx-sbom-generator
+
+
 Software Design and Documentation
 ---------------------------------
 
