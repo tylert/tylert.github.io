@@ -368,6 +368,7 @@ Networking
 Go Stuff
 --------
 
+* https://opensource.com/article/22/4/go-build-options
 * http://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
 * https://www.youtube.com/watch?v=ysgMlGHtDMo
