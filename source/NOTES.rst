@@ -368,6 +368,12 @@ Networking
 Go Stuff
 --------
 
+::
+
+    go version -m foo  # show the build info packed inside the binary
+
+    go tool list dist  # show the supported OS/ARCH combos
+
 * https://opensource.com/article/22/4/go-build-options
 * http://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
