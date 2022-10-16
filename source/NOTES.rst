@@ -426,3 +426,7 @@ Ham Stuff
 * https://github.com/davepacheco/rust-adif
 * http://www.adif.org/
 * https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)
+* https://github.com/BrucePerens/rigcontrol
+* https://github.com/phase4ground/ribbit
+* https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
+* https://github.com/phase4ground/opv-cxx-demod
