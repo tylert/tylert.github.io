@@ -13,8 +13,8 @@ Magnetometer
 * https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
-Video Conversion Awesome
-------------------------
+Video/Camera Awesome
+--------------------
 
 ::
 
@@ -25,6 +25,7 @@ Video Conversion Awesome
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+* https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 
 
 Apt Stuff
@@ -335,6 +336,10 @@ Container Stuff
 * https://github.com/routernetes/routernetes  dedicated router with k8s???
 * https://k8s.voltaicforge.com/  PXE boot bare metal + install Talos, Sidero, K8s
 * https://driftingin.space/posts/complexity-kubernetes
+* https://github.com/containers/skopeo/blob/main/docs/skopeo-standalone-sign.1.md#notes
+* https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai
+* https://blog.ttulka.com/building-container-images-without-dockerfile/
+* https://iximiuz.com/en/posts/container-learning-path/
 
 
 Vault Awesome
@@ -400,6 +405,7 @@ Go Stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io/  JWT/JOSE stuff
+* https://drstearns.github.io/tutorials/gojson/
 
 
 Your Mom
