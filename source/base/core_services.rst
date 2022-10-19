@@ -3,13 +3,16 @@ Devices
 
 * https://mikrotik.com/product/crs305_1g_4s_in
 * https://lengrand.fr/complete-setup-epaper/
+* https://github.com/mecparts/PicoWiFiModem  Raspberry Pi Pico W acting as a modem for retro devices
+* https://github.com/mecparts/RetroWiFiModem  Same as above but for ESP8266 (ESP32 too?)
 
 
-CA, U2F, FIDO
--------------
+TOTP, CA, U2F, FIDO
+-------------------
 
 * https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
 * https://github.com/bulwarkid/virtual-fido
+* https://github.com/susam/mintotp
 
 
 Dynamic DNS

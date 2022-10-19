@@ -97,6 +97,7 @@ Cool Shell Tricks
 * http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
+* https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
 
 
 Assorted Things-to-Read
@@ -436,3 +437,4 @@ Ham Stuff
 * https://github.com/phase4ground/ribbit
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
 * https://github.com/phase4ground/opv-cxx-demod
+* https://github.com/eleccoder/raspi-pico-aprs-tnc
