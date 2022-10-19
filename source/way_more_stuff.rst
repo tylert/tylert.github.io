@@ -13,12 +13,6 @@ Terraform Stuff
 * https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d
 
 
-Lenovo T560 BIOS
-----------------
-
-* http://pcsupport.lenovo.com/ca/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t560/downloads/ds112311
-
-
 Python Fun
 ----------
 

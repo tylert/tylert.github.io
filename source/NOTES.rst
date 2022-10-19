@@ -26,6 +26,7 @@ Video/Camera Awesome
 
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
+* https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 
 
 Apt Stuff
@@ -119,6 +120,7 @@ Assorted Things-to-Read
 * https://kellycordes.com/2009/11/02/the-fun-scale/
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
 * https://sambleckley.com/writing/church-of-interruption.html
+* https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 
 
 MySQL Stuff
@@ -206,6 +208,15 @@ Kobo Stuff
 * https://github.com/olup/kobowriter
 
 
+RPG Stuff
+---------
+
+* https://adventurekeep.com/
+* https://github.com/stassa/nests-and-insects  TTRPG
+* https://gitlab.com/wargames_tex/wargame_tex
+* https://gitlab.com/wargames_tex/bfm_tex
+
+
 Awesome Stuff
 -------------
 
@@ -213,19 +224,15 @@ Awesome Stuff
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
 * https://github.com/intenthq/anon
 * https://nodered.org/
-* https://adventurekeep.com/
-* https://github.com/stassa/nests-and-insects  TTRPG
 * https://github.com/fluent/fluent-bit
 * https://lucperkins.dev/blog/introducing-tract/
 * https://learn.hashicorp.com/tutorials/terraform/count
 * https://blog.hansenpartnership.com/creating-a-home-ipv6-network/
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
-* https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 * https://www.alvarez.io/posts/living-like-it-s-99/
 * https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 * https://www.sliderulemuseum.com/SR_Course.htm
-* https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
@@ -438,3 +445,4 @@ Ham Stuff
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
 * https://github.com/phase4ground/opv-cxx-demod
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
+* https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
