@@ -98,6 +98,12 @@ Development
 * http://www.catb.org/~esr/faqs/smart-questions.html
 
 
+Mentorship Stuff
+----------------
+
+* https://1x.engineer/
+
+
 Style Guide Stuff
 -----------------
 
@@ -111,7 +117,7 @@ Style Guide Stuff
 Books
 -----
 
-* https://www.amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227/ref=sr_1_1?dchild=1&keywords=working+with+the+enemy&qid=1611248468&sr=8-1
+* https://www.amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227
 * https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
 
 
