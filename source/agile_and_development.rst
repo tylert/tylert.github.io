@@ -144,3 +144,10 @@ Git Stuff
 * https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
 * https://lethain.com/trunk-and-branches/
+
+
+Process Stuff
+-------------
+
+* https://www.rubick.com/process-gates-of-hell/
+* https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops/
