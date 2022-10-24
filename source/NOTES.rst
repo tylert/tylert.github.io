@@ -73,13 +73,25 @@ System76 stuff::
     sudo apt-add-repository ppa:system76-dev/stable
 
 
-Official Docker Hub OS Images
------------------------------
+Official OS Images
+------------------
 
 * https://github.com/debuerreotype/debuerreotype  Debian et al.
 * https://github.com/debuerreotype/docker-debian-artifacts  Debian
 * https://github.com/tianon/docker-brew-ubuntu-core  Ubuntu
 * https://github.com/alpinelinux/docker-alpine  Alpine Linux
+* https://partner-images.canonical.com/oci/  Ubuntu root fs tarballs for containers "FROM scratch"
+* https://cloud-images.ubuntu.com/  OVA, VDI, IMG, etc.
+* https://cloud-images.ubuntu.com/locator/  AMIs, etc.
+* https://hub.docker.com/_/debian/  Voldemorthub Debian
+* https://hub.docker.com/_/ubuntu/  Voldemorthub Ubuntu
+* https://hub.docker.com/_/alpine/  Voldemorthub Alpine
+
+Typical OS container image "Dockerfile"::
+
+    FROM scratch
+    ADD ${DISTRO}-${ARCH}-rootfs.tar.gz
+    CMD ["bash"]
 
 
 LDAP/Kerberos
