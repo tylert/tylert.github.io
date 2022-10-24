@@ -157,3 +157,9 @@ Process Stuff
 
 * https://www.rubick.com/process-gates-of-hell/
 * https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops/
+
+
+Python Stuff
+------------
+
+* https://martinheinz.dev/blog/83  one-liners for FTP servers, xonsh, etc.
