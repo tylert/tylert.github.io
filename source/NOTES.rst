@@ -133,6 +133,7 @@ Assorted Things-to-Read
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
 * https://sambleckley.com/writing/church-of-interruption.html
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
+* https://blog.jim-nielsen.com/2022/what-work-looks-like/
 
 
 MySQL Stuff
@@ -425,6 +426,7 @@ Go Stuff
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io/  JWT/JOSE stuff
 * https://drstearns.github.io/tutorials/gojson/
+* https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/sample-apps/blank-go/function/main.go
 
 
 Your Mom

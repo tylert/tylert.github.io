@@ -24,6 +24,7 @@ Style
 -----
 
 * https://github.com/mvdan/sh
+* https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md
 
 
 cloud-init
@@ -77,6 +78,8 @@ Sneakernet
 
 * https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet/
 * https://www.complete.org/nncp/
+* https://www.dyne.org/software/tomb/
+* there's a GNU project for this stuff too hidden somewhere amongst the links above
 
 
 Docker + Alpine Linux
