@@ -388,6 +388,8 @@ Networking
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 * https://wicg.github.io/ua-client-hints/  User-agent info including stuff like GOOS, GOARCH???
+* https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant/
+* https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
 
 
 Go Stuff
