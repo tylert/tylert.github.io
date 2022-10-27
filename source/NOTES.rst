@@ -397,9 +397,15 @@ Go Stuff
 
 ::
 
-    go version -m foo  # show the build info packed inside the binary
+    go tool list dist            # show supported OS/ARCH combos
+    go build                     # compile everything
+    go version -m foo            # show build info packed into the binary
+    go clean                     # clean up everything
 
-    go tool list dist  # show the supported OS/ARCH combos
+    go get -u all ; go mod tidy  # upgrade all dependencies to latest
+    go mod vendor                # vendor (copy) all dependencies locally
+    go vet                       # do some linting/checking
+    go fmt *.go                  # style the code
 
 * https://opensource.com/article/22/4/go-build-options
 * http://howistart.org/posts/go/1
