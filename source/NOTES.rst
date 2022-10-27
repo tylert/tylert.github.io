@@ -429,6 +429,10 @@ Go Stuff
 * https://paseto.io/  JWT/JOSE stuff
 * https://drstearns.github.io/tutorials/gojson/
 * https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/sample-apps/blank-go/function/main.go
+* https://tailscale.com/blog/netaddr-new-ip-type-for-go/  IP stuff
+* https://stackoverflow.com/questions/19882961/go-golang-check-ip-address-in-range  IP stuff
+* https://pkg.go.dev/net/netip  IP stuff
+* https://pkg.go.dev/net  IP stuff
 
 
 Your Mom
