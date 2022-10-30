@@ -13,8 +13,8 @@ Magnetometer
 * https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
-Video/Camera Awesome
---------------------
+Video/Audio/Camera Awesome
+--------------------------
 
 ::
 
@@ -23,6 +23,9 @@ Video/Camera Awesome
     # to alter length of videos, after the -i, add:  '-ss' start time, '-t' duration or '-to' end time
     # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file for the following command...
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
+
+    cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
+    flac foo.wav
 
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
