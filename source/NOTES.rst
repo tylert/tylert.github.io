@@ -114,6 +114,8 @@ Cool Shell Tricks
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
+* https://0x46.net/thoughts/2019/02/01/dotfile-madness/
+* https://sharats.me/posts/shell-script-best-practices/
 
 
 Assorted Things-to-Read
@@ -137,6 +139,7 @@ Assorted Things-to-Read
 * https://sambleckley.com/writing/church-of-interruption.html
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 * https://blog.jim-nielsen.com/2022/what-work-looks-like/
+* https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
 
 
 MySQL Stuff
