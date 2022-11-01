@@ -16,6 +16,12 @@ Doorbell/Camera Stuff
 * https://buzzert.net/posts/2021-05-09-doorbell
 
 
+Garage Door Stuff
+-----------------
+
+* https://github.com/geerlingguy/pico-w-garage-door-sensor
+
+
 Light Switches
 --------------
 
