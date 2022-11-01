@@ -198,3 +198,17 @@ Wireless/Alternate Firmwares
 * https://zmkfirmware.dev/
 * https://github.com/zmkfirmware/zmk
 * https://github.com/KMKfw/kmk_firmware
+
+
+Nifty Adapters
+--------------
+
+* https://yaowei.dev/posts/usb-to-usb-converter/
+* https://geekhack.org/index.php?topic=80421.0
+
+
+Rubber Ducks
+------------
+
+* https://github.com/coder12341/pico-ducky
+* https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky/

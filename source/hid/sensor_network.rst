@@ -32,3 +32,9 @@ Weather Station Stuff
 ---------------------
 
 * https://www.instructables.com/DIY-Weather-Station-With-ESP32/
+
+
+Pi Pico
+-------
+
+* https://forums.raspberrypi.com/viewtopic.php?p=2015975#p2015975  BLE on Pico

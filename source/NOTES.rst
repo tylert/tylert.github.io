@@ -481,3 +481,4 @@ Ham Stuff
 * https://github.com/phase4ground/opv-cxx-demod
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
+* https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
