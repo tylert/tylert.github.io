@@ -195,7 +195,8 @@ Cool Products
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
 * https://teenage.engineering/products/tx-6  pocket mixer/synth
-* https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence?
+* https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence???
+* https://novamostra.com/2022/10/23/byopm/  Pi Zero pocket password manager???
 
 
 Keyboard CNC
