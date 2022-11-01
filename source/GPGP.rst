@@ -1,5 +1,5 @@
-GNU Privacy Guard Magic
------------------------
+GPG/PGP Magic
+-------------
 
 * https://musigma.blog/2021/05/09/gpg-ssh-ed25519.html  SSH and GPG with the same private key???
 * https://www.digitalneanderthal.com/post/gpg/  better/paper backups???
@@ -12,15 +12,13 @@ GNU Privacy Guard Magic
 
 ::
 
+    # Use a recent version!!!
     $ gpg --version
     gpg (GnuPG) 2.3.8
     ...
 
-    # Might need this on macOS
+    # Might need this on macOS???
     $ export GPG_TTY=$(tty)
-
-    # Creating a new set of thingies using the defaults
-    $ gpg --full-generate-key (sign/cert key 1y + encr sub-key)
 
     # Do the key gen thing less interactively and with a better setup???
     $ gpg --quick-gen-key 'Bubba Smith (Wangdoodle) <bubba.smith@example.com>' \
@@ -45,7 +43,7 @@ GNU Privacy Guard Magic
     ...
     > save
 
-    # Trust things after importing it???
+    # Trust things after importing them from backups???
     $ gpg --edit-key ${KEY_ID}
     > trust
     > 5

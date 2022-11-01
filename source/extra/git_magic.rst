@@ -7,6 +7,7 @@ Git Stuff
 * https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html
 * https://bneijt.nl/blog/merge-a-subdirectory-of-another-repository-with-git/
 * https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733
+* https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-and-the-easy-way
 
 Use the new tooling for rewriting history::
 
