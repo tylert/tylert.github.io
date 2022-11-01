@@ -263,6 +263,9 @@ Offline Services
 * https://github.com/mrusme/uveira  offline Wikipedia
 * https://github.com/spencermountain/dumpster-dive  offline Wikipedia
 * https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
+* https://github.com/kkdai/youtube
+* https://github.com/marethyu/gotube
+* https://github.com/iawia002/lux
 
 
 Football Computer
