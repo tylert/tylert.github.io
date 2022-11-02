@@ -36,6 +36,7 @@ GPG/PGP Magic
     $ gpg -K --with-keygrip --keyid-format long
     $ ls .gnupg/private-keys-v1.d/
     $ echo "keyid-format long" >> ~/.gnupg/gpg.conf
+    $ echo "with-keygrip" >> ~/.gnupg/gpg.conf
 
     # Change the expiry on things???
     $ gpg --edit-key ${KEY_ID}
