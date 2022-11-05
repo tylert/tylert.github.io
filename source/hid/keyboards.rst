@@ -212,3 +212,27 @@ Rubber Ducks
 
 * https://github.com/coder12341/pico-ducky
 * https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky/
+
+
+The Uni
+=======
+
+Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
+
+* https://www.openstenoproject.org/
+* https://stenokeyboards.com/products/the-uni-v4
+* https://stenokeyboards.com/products/20-gram-springs
+* https://docs.stenokeyboards.com/
+* https://docs.stenokeyboards.com/customize/spring-swap.html
+* https://docs.stenokeyboards.com/customize/firmware.html
+
+::
+
+    pip install qmk
+    qmk setup
+
+    qmk compile -kb the_uni/rp_2040 -km default
+    qmk compile -kb the_uni/rp_2040 -km qwerty
+
+    mv uni_default.u2f qmk_${QMK_VERSION}_uni_default.u2f
+    mv uni_qwerty.u2f qmk_${QMK_VERSION}_uni_qwerty.u2f
