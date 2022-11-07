@@ -9,6 +9,7 @@ GPG/PGP Magic
 * https://www.g-loaded.eu/2010/11/01/change-expiration-date-gpg-key/
 * https://www.gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html
 * https://latacora.micro.blog/2019/07/16/the-pgp-problem.html  the worst parts about GPG/PGP!!!
+* https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/
 
 ::
 
