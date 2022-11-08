@@ -114,7 +114,6 @@ Cool Shell Tricks
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
-* https://0x46.net/thoughts/2019/02/01/dotfile-madness/
 * https://sharats.me/posts/shell-script-best-practices/
 
 
@@ -137,6 +136,7 @@ Assorted Things-to-Read
 * https://kellycordes.com/2009/11/02/the-fun-scale/
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
 * https://sambleckley.com/writing/church-of-interruption.html
+* http://www.structuredprocrastination.com/index.php
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 * https://blog.jim-nielsen.com/2022/what-work-looks-like/
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
@@ -250,7 +250,6 @@ Awesome Stuff
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 * https://www.alvarez.io/posts/living-like-it-s-99/
-* https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
 * https://www.sliderulemuseum.com/SR_Course.htm
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
