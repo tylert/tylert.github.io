@@ -482,3 +482,4 @@ Ham Stuff
 * https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
 * https://github.com/BrucePerens/rigcontrol
 * https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
+* https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#  IMS 100 self-study course
