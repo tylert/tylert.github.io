@@ -474,10 +474,11 @@ Ham Stuff
 * https://github.com/davepacheco/rust-adif
 * http://www.adif.org/
 * https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)
-* https://github.com/BrucePerens/rigcontrol
 * https://github.com/phase4ground/ribbit
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
 * https://github.com/phase4ground/opv-cxx-demod
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
+* https://github.com/BrucePerens/rigcontrol
+* https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
