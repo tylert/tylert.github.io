@@ -18,12 +18,12 @@ GPG/PGP Magic
     gpg (GnuPG) 2.3.8
     ...
 
-    # Might need this on macOS???
+    # Definitely need this on macOS!!!
     $ export GPG_TTY=$(tty)
 
     # Do the key gen thing less interactively and with a better setup???
     $ gpg --quick-gen-key 'Bubba Smith (Wangdoodle) <bubba.smith@example.com>' \
-        ed25519 cert 5y
+        ed25519 cert 10y
     $ gpg --quick-add-key ${KEY_ID} ed25519 auth 1y
     $ gpg --quick-add-key ${KEY_ID} ed25519 sign 1y
     $ gpg --quick-add-key ${KEY_ID} cv25519 encr 1y
@@ -36,6 +36,7 @@ GPG/PGP Magic
     $ gpg -k --with-keygrip --keyid-format long
     $ gpg -K --with-keygrip --keyid-format long
     $ ls .gnupg/private-keys-v1.d/
+    ...
     $ echo "keyid-format long" >> ~/.gnupg/gpg.conf
     $ echo "with-keygrip" >> ~/.gnupg/gpg.conf
 
@@ -51,14 +52,6 @@ GPG/PGP Magic
     > 5
     > save
 
-    # Export stuff for safe-keeping???
-    $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foop.gpg.priv.asc
-    $ umask 0022 ; gpg --armor --export ${KEY_ID} > foop.gpg.pub.asc
-    $ if [ $(stat -c %s foop.gpg.pub.asc) -eq 0 ]; then rm foop.gpg.pub.asc ; fi
-    $ if [ $(stat -c %s foop.gpg.priv.asc) -eq 0 ]; then rm foop.gpg.priv.asc ; fi
-    $ gpg --armor --export-secret-subkeys ${SUBKEY_ID}\!
-    # ...
-
     # SSH key magic??? (the "auth" subkey and definitely not the cv25519 one)
     $ for i in $(gpg -k | grep ub | grep -v ring | cut -d '/' -f2 | cut -d ' ' -f1); do
         gpg --export-ssh-key $i\!; done
@@ -72,6 +65,14 @@ Backups
 * https://github.com/dmshaw/paperkey/
 
 ::
+
+    # Export stuff for safe-keeping???
+    $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foop.gpg.priv.asc
+    $ umask 0022 ; gpg --armor --export ${KEY_ID} > foop.gpg.pub.asc
+    $ if [ $(stat -c %s foop.gpg.pub.asc) -eq 0 ]; then rm foop.gpg.pub.asc ; fi
+    $ if [ $(stat -c %s foop.gpg.priv.asc) -eq 0 ]; then rm foop.gpg.priv.asc ; fi
+    $ gpg --armor --export-secret-subkeys ${SUBKEY_ID}\!
+    # ...
 
     $ gpg --export foo | gpgsplit
     $ ls -1 000*
