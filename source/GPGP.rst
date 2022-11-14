@@ -62,3 +62,38 @@ GPG/PGP Magic
     # SSH key magic??? (the "auth" subkey and definitely not the cv25519 one)
     $ for i in $(gpg -k | grep ub | grep -v ring | cut -d '/' -f2 | cut -d ' ' -f1); do
         gpg --export-ssh-key $i\!; done
+
+
+Backups
+-------
+
+* https://wiki.archlinux.org/title/Paperkey
+* https://www.jabberwocky.com/software/paperkey/
+* https://github.com/dmshaw/paperkey/
+
+::
+
+    $ gpg --export foo | gpgsplit
+    $ ls -1 000*
+    000001-006.public_key
+    000002-013.user_id
+    000003-002.sig
+    000004-014.public_subkey
+    000005-002.sig
+    000006-014.public_subkey
+    000007-002.sig
+    000008-014.public_subkey
+    000009-002.sig
+    $ rm 000*
+    $ gpg --export-secret-key | gpgsplit
+    $ ls -1 000*
+    000001-005.secret_key
+    000002-013.user_id
+    000003-002.sig
+    000004-007.secret_subkey
+    000005-002.sig
+    000006-007.secret_subkey
+    000007-002.sig
+    000008-007.secret_subkey
+    000009-002.sig
+    $ rm 000*
