@@ -483,3 +483,8 @@ Ham Stuff
 * https://github.com/BrucePerens/rigcontrol
 * https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
 * https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#  IMS 100 self-study course
+* https://www.onallbands.com/simple-filters-from-transmission-line-stubs/  coax stub filters
+* http://www.k1ttt.net/technote/k2trstub.html  coax stub filters
+* https://www.n1nc.org/Filters/  ugly filter project
+* https://groups.io/g/TXBPF/message/3034  W3NQN-compatible filters with a more reasonable price tag
+* https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
