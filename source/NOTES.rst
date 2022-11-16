@@ -480,7 +480,7 @@ Ham Stuff
 * https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
 * https://github.com/davepacheco/rust-adif
 * http://www.adif.org/
-* https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)
+* `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
 * https://github.com/phase4ground/ribbit
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
 * https://github.com/phase4ground/opv-cxx-demod
@@ -489,7 +489,7 @@ Ham Stuff
 * https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
 * https://github.com/BrucePerens/rigcontrol
 * https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
-* https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#  IMS 100 self-study course
+* `https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#`  IMS 100 self-study course
 * https://www.onallbands.com/simple-filters-from-transmission-line-stubs/  coax stub filters
 * http://www.k1ttt.net/technote/k2trstub.html  coax stub filters
 * https://www.n1nc.org/Filters/  ugly filter project
