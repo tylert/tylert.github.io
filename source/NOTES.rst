@@ -271,8 +271,8 @@ Offline Services
 Football Computer
 -----------------
 
-* https://マリウス.com/ -> https://xn--gckvb8fzb.com/
-* https://マリウス.com/linux-on-the-desktop-part-two/
+* `https://マリウス.com/` -> https://xn--gckvb8fzb.com/
+* `https://マリウス.com/linux-on-the-desktop-part-two/`
 * https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
 * https://www.ikejima.org/projects/2022091-egg-laptop.html
 * https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
