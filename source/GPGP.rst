@@ -98,3 +98,17 @@ Backups
     000008-007.secret_subkey
     000009-002.sig
     $ rm 000*
+
+
+Commit Signing
+--------------
+
+* https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work
+* https://help.gitkraken.com/gitkraken-client/commit-signing-with-gpg/
+* https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html
+
+
+Key Discovery
+-------------
+
+* https://gist.github.com/kafene/0a6e259996862d35845784e6e5dbfc79

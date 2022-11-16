@@ -315,11 +315,17 @@ More
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
+* https://pyinfra.com/  another replacement for Ansible?
 
 
 Container Stuff
 ---------------
 
+* https://containers.gitbook.io/build-containers-the-hard-way/#walk-through-pulling-an-image-with-bash
+* https://github.com/google/go-containerregistry#tools
+* https://github.com/ko-build/ko#ko-easy-go-containers
+* https://github.com/containers/skopeo
+* https://github.com/jpetazzo/registrish
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
 * https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
 * https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
@@ -448,6 +454,7 @@ Go Stuff
 * https://stackoverflow.com/questions/19882961/go-golang-check-ip-address-in-range  IP stuff
 * https://pkg.go.dev/net/netip  IP stuff
 * https://pkg.go.dev/net  IP stuff
+* https://hmarr.com/blog/go-allocation-hunting/
 
 
 Your Mom
