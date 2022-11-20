@@ -496,3 +496,4 @@ Ham Stuff
 * https://www.n1nc.org/Filters/  ugly filter project
 * https://groups.io/g/TXBPF/message/3034  W3NQN-compatible filters with a more reasonable price tag
 * https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
+* https://www.youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
