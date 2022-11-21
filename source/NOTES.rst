@@ -376,6 +376,7 @@ Container Stuff
 * https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai
 * https://blog.ttulka.com/building-container-images-without-dockerfile/
 * https://iximiuz.com/en/posts/container-learning-path/
+* https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
 
 
 Vault Awesome
