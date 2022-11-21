@@ -235,6 +235,7 @@ RPG Stuff
 * https://github.com/stassa/nests-and-insects  TTRPG
 * https://gitlab.com/wargames_tex/wargame_tex
 * https://gitlab.com/wargames_tex/bfm_tex
+* http://www.ericharshbarger.org/dice/go_first_dice.html
 
 
 Awesome Stuff
