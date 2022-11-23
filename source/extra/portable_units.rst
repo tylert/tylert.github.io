@@ -12,6 +12,12 @@ Might be close enough already::
 
 * https://www.avshop.ca/cases-amp-racks-rack-cases/prox-t-4rss-4u-rack-case-19in-deep  Markham, ON
 * https://www.proxdirect.com/products/view/4U-Space-Amp-Rack-Mount-ATA-Style-Flight-Case-19-In-Depth-T-4RSS
+
+
+Custom Cases
+------------
+
+* https://en.wikipedia.org/wiki/Road_case
 * https://productioncase.com/  Carp, ON custom road/flight case builder and Nanuk case distributor
 * https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
 * https://www.diyroadcasesstore.com/  other "Reliable Hardware" parts (not on Amazon.ca)???
@@ -20,6 +26,8 @@ Might be close enough already::
 * https://virtuseis.com/wp-content/uploads/2020/08/aws-snowball-vs-ms-azure.png
 * https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 * https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
+* https://www.amazon.ca/s/ref=bl_dp_s_web_3006902011?ie=UTF8&node=3006902011&field-brandtextbin=Reliable+Hardware
+* http://fuzzcraft.com/flightcasediy.html
 
 
 Smaller Cases
@@ -28,3 +36,12 @@ Smaller Cases
 * https://i.redd.it/4qbgefdj4tb51.jpg
 * https://nanukcases.ca/collections/medium-cases/products/nanuk-920  fits a TKL keyboard
 * https://nanukcases.ca/collections/medium-cases/products/nanuk-923  might be easier to find top plates???
+
+
+Sneakernet
+----------
+
+* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet/
+* https://www.complete.org/nncp/
+* https://www.dyne.org/software/tomb/
+* there's a GNU project for this stuff too hidden somewhere amongst the links above

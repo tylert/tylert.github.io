@@ -41,13 +41,6 @@ Python
 * http://sedimental.org/the_packaging_gradient.html
 
 
-Custom Cases
-------------
-
-* http://fuzzcraft.com/flightcasediy.html
-* https://www.amazon.ca/s/ref=bl_dp_s_web_3006902011?ie=UTF8&node=3006902011&field-brandtextbin=Reliable+Hardware
-
-
 2FA
 ---
 
@@ -71,15 +64,6 @@ PDF + Contacts
 
     # Password-protect a PDF
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
-
-
-Sneakernet
-----------
-
-* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet/
-* https://www.complete.org/nncp/
-* https://www.dyne.org/software/tomb/
-* there's a GNU project for this stuff too hidden somewhere amongst the links above
 
 
 Docker + Alpine Linux
