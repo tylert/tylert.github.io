@@ -30,6 +30,17 @@ Custom Cases
 * http://fuzzcraft.com/flightcasediy.html
 
 
+HDPE Puckboard Sheets
+---------------------
+
+Seems it might be just over CAD $100 for a 8-foot x 4-foot sheet of "puckboard" (3 may be needed for 8 cases).
+
+* https://soundbarriers.ca/recreation-centre-applications/puckboard/  Mississauga, ON
+* https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board/  Blenheim, ON
+* https://plasticworld.ca/product-category/plastic-sheets/hdpe/  Toronto, ON
+* https://supplykings.ca/shop/ols/products/hdpe-puck-board/v/PB-125-48-BK  Calgary, AB
+
+
 Smaller Cases
 -------------
 
