@@ -259,27 +259,6 @@ Awesome Stuff
 * https://www.netmeister.org/blog/ops-lessons.html
 
 
-Offline Services
-----------------
-
-* https://github.com/mrusme/uveira  offline Wikipedia
-* https://github.com/spencermountain/dumpster-dive  offline Wikipedia
-* https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
-* https://github.com/kkdai/youtube
-* https://github.com/marethyu/gotube
-* https://github.com/iawia002/lux
-
-
-Football Computer
------------------
-
-* `https://マリウス.com/` -> https://xn--gckvb8fzb.com/
-* `https://マリウス.com/linux-on-the-desktop-part-two/`
-* https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
-* https://www.ikejima.org/projects/2022091-egg-laptop.html
-* https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
-
-
 Microservices
 -------------
 
