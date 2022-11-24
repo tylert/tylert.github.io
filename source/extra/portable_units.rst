@@ -18,18 +18,8 @@ Custom Cases
 ------------
 
 * https://productioncase.com/  Carp, ON custom road/flight case builder and Nanuk case distributor
-* https://ctovision.com/wp-content/uploads/snowball-rack.jpg
-* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
-* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
-* https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
-* https://virtuseis.com/wp-content/uploads/2020/08/aws-snowball-vs-ms-azure.png
 * http://fuzzcraft.com/flightcasediy.html
 * https://en.wikipedia.org/wiki/Road_case
-
-.. image:: https://ctovision.com/wp-content/uploads/snowball-rack.jpg
-.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
-.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
-.. image:: https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 
 
 Black Case Hardware
@@ -71,6 +61,20 @@ Seems it might be just over CAD $100 for a 8-foot x 4-foot sheet of "puckboard" 
 * https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board/  Blenheim, ON
 * https://plasticworld.ca/product-category/plastic-sheets/hdpe/  Toronto, ON
 * https://supplykings.ca/shop/ols/products/hdpe-puck-board/v/PB-125-48-BK  Calgary, AB
+
+
+Examples
+--------
+
+.. image:: https://ctovision.com/wp-content/uploads/snowball-rack.jpg
+.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
+.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
+.. image:: https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
+
+* https://ctovision.com/wp-content/uploads/snowball-rack.jpg
+* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
+* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
+* https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 
 
 Smaller Cases
