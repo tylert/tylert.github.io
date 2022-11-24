@@ -68,8 +68,6 @@ Examples
 
 .. image:: https://ctovision.com/wp-content/uploads/snowball-rack.jpg
 .. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
-.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
-.. image:: https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 
 * https://ctovision.com/wp-content/uploads/snowball-rack.jpg
 * https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
