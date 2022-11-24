@@ -17,36 +17,55 @@ Might be close enough already::
 Custom Cases
 ------------
 
-* https://en.wikipedia.org/wiki/Road_case
 * https://productioncase.com/  Carp, ON custom road/flight case builder and Nanuk case distributor
-* https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
-* https://www.amazon.ca/s?k=reliable+hardware
-* http://fuzzcraft.com/flightcasediy.html
-* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
 * https://ctovision.com/wp-content/uploads/snowball-rack.jpg
-* https://virtuseis.com/wp-content/uploads/2020/08/aws-snowball-vs-ms-azure.png
-* https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
+* https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
 * https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
+* https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
+* https://virtuseis.com/wp-content/uploads/2020/08/aws-snowball-vs-ms-azure.png
+* http://fuzzcraft.com/flightcasediy.html
+* https://en.wikipedia.org/wiki/Road_case
+
+.. image:: https://ctovision.com/wp-content/uploads/snowball-rack.jpg
+.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
+.. image:: https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
+.. image:: https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 
 
-Case Hardware
--------------
-
-Apparently, DIYroadcasesstore.com won't sell to Canadian customers so you'll have to go through other resellers.
+Black Case Hardware
+-------------------
 
 * https://www.penn-elcom.com/  possible reseller in Windsor, ON
-* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles
-* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners?
-* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners?
-* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  small latches
-* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  medium handles
-* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  large corners
+* https://www.pennelcomonline.com/us/Penn-Elcom-Mini-Recessed-Butterfly-Latch-L904914K/m-8551.aspx  black small latches
+* https://www.pennelcomonline.com/us/Penn-Elcom-Medium-Recessed-Handle-H7151K/m-7703.aspx  black medium handles
+* https://www.pennelcomonline.com/us/Penn-Elcom-Cabinet-Corner-Black-C1818K/m-8736.aspx  black large corners
+* https://www.pennelcomonline.com/us/Penn-Elcom-8x4-Plywood-Panel---Thickness-6mm-14-M870006/m-8779.aspx  panels
+* https://www.pennelcomonline.com/us/Penn-Elcom-Black-Lift-Off-Hinge-57mm-wide-P0625K/m-8508.aspx  black lift-off hinges
+* https://www.amazon.ca/s?k=reliable+hardware
+* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  black medium handles
+* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  black large corners
+* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  black large corners
+* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  black small latches
+* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  black medium handles
+* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  black large corners
+* https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
+
+::
+
+    # 8 cases worth of latches, handles, corners, panels, tax in CAD (full price)
+    # XXX FIXME What's regular price for 6mm 0.25inch 8footx4foot plywood???
+    ((17.13*8*2)+(9.45*8*2)+(2.17*8*8)+(112.97*4))*1.13
+    1148.1252
+
+    # 8 cases worth of latches, handles, corners, panels, tax in CAD (sale price)
+    ((13.27*8*2)+(7.32*8*2)+(1.67*8*8)+(112.97*4))*1.13
+    1003.6660
 
 
 HDPE Puckboard Sheets
 ---------------------
 
-Seems it might be just over CAD $100 for a 8-foot x 4-foot sheet of "puckboard" (3 may be needed for 8 cases).
+Seems it might be just over CAD $100 for a 8-foot x 4-foot sheet of "puckboard" (3 or 4 may be needed for 8 cases).
 
 * https://soundbarriers.ca/recreation-centre-applications/puckboard/  Mississauga, ON
 * https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board/  Blenheim, ON
