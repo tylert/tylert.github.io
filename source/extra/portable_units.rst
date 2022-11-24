@@ -20,14 +20,27 @@ Custom Cases
 * https://en.wikipedia.org/wiki/Road_case
 * https://productioncase.com/  Carp, ON custom road/flight case builder and Nanuk case distributor
 * https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
-* https://www.diyroadcasesstore.com/  other "Reliable Hardware" parts (not on Amazon.ca)???
+* https://www.amazon.ca/s?k=reliable+hardware
+* http://fuzzcraft.com/flightcasediy.html
 * https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2020/07/27/Novetta-Readying-multiple-Snowball-Edge-devices.png
 * https://ctovision.com/wp-content/uploads/snowball-rack.jpg
 * https://virtuseis.com/wp-content/uploads/2020/08/aws-snowball-vs-ms-azure.png
 * https://40ujpa2tq6oi3ky5sc2d4o2f-wpengine.netdna-ssl.com/wp-content/uploads/testing-amazon-snowball.jpg
 * https://d2908q01vomqb2.cloudfront.net/7b52009b64fd0a2a49e6d8a939753077792b0554/2018/11/26/2018-snowball-edge-1024x768.jpg
-* https://www.amazon.ca/s/ref=bl_dp_s_web_3006902011?ie=UTF8&node=3006902011&field-brandtextbin=Reliable+Hardware
-* http://fuzzcraft.com/flightcasediy.html
+
+
+Case Hardware
+-------------
+
+Apparently, DIYroadcasesstore.com won't sell to Canadian customers so you'll have to go through other resellers.
+
+* https://www.penn-elcom.com/  possible reseller in Windsor, ON
+* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles
+* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners?
+* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners?
+* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  small latches
+* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  medium handles
+* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  large corners
 
 
 HDPE Puckboard Sheets
