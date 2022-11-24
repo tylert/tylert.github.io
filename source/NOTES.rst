@@ -115,6 +115,7 @@ Cool Shell Tricks
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
 * https://sharats.me/posts/shell-script-best-practices/
+* https://github.com/jlevy/the-art-of-command-line
 
 
 Assorted Things-to-Read
