@@ -232,7 +232,5 @@ Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
     qmk setup
 
     qmk compile -kb the_uni/rp_2040 -km default
-    qmk compile -kb the_uni/rp_2040 -km qwerty
 
     mv uni_default.u2f qmk_${QMK_VERSION}_uni_default.u2f
-    mv uni_qwerty.u2f qmk_${QMK_VERSION}_uni_qwerty.u2f

@@ -40,6 +40,15 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
 * https://www.theverge.com/22958439/trackball-diy-building-ploopy
 * https://github.com/jfedor2/rp2040-pmw3360
 
+::
+
+    pip install qmk
+    qmk setup
+
+    qmk compile -kb ploopyco/trackball_nano -km default
+
+    mv foo.hex qmk_${QMK_VERSION}_foo.hex
+
 
 Ploopy Nano With Better Bearings
 --------------------------------
