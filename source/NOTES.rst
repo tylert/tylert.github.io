@@ -441,6 +441,7 @@ Go Stuff
 * https://pkg.go.dev/net/netip  IP stuff
 * https://pkg.go.dev/net  IP stuff
 * https://hmarr.com/blog/go-allocation-hunting/
+* https://otterize.com/blog/golang-contexts-and-blocking-functions
 
 
 Your Mom
