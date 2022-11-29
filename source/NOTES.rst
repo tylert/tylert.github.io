@@ -117,6 +117,7 @@ Cool Shell Tricks
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
 * https://sharats.me/posts/shell-script-best-practices/
 * https://github.com/jlevy/the-art-of-command-line
+* https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
 
 
 Assorted Things-to-Read
