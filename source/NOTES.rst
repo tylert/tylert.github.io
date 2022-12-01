@@ -118,6 +118,7 @@ Cool Shell Tricks
 * https://sharats.me/posts/shell-script-best-practices/
 * https://github.com/jlevy/the-art-of-command-line
 * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
+* https://thevaluable.dev/vim-advanced/
 
 
 Assorted Things-to-Read
