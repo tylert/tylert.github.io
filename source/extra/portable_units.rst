@@ -1,7 +1,7 @@
-Bigger Cases
-------------
+Ready-Made Cases
+----------------
 
-Might be close enough already::
+Not an ideal size but gives a rough idea for cost-comparison::
 
     PROX T-4RSS 4U case
     CAD $290
