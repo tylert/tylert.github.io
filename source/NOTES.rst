@@ -262,6 +262,7 @@ Awesome Stuff
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.netmeister.org/blog/ops-lessons.html
+* https://roadmap.sh/devops
 
 
 Microservices
