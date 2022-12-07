@@ -42,14 +42,10 @@ Black Case Hardware
 
 ::
 
-    # 8 cases worth of latches, handles, corners, panels, tax in CAD (full price)
+    # 12 cases worth of latches, handles, corners, panels, tax in CAD (full price)
     # XXX FIXME What's regular price for 6mm 0.25inch 8footx4foot plywood???
-    ((17.13*8*2)+(9.45*8*2)+(2.17*8*8)+(112.97*4))*1.13
-    1148.1252
-
-    # 8 cases worth of latches, handles, corners, panels, tax in CAD (sale price)
-    ((13.27*8*2)+(7.32*8*2)+(1.67*8*8)+(112.97*4))*1.13
-    1003.6660
+    ((17.13*12*2)+(9.45*12*2)+(2.17*12*8)+(112.97*4))*1.13
+    1466.8756
 
 
 HDPE Puckboard Sheets
