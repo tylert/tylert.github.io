@@ -31,6 +31,7 @@ Video/Audio/Camera Awesome
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://img.ly/blog/ultimate-guide-to-ffmpeg/
+* https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
 
 
 Apt Stuff
