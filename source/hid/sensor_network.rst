@@ -1,3 +1,13 @@
+Fan Controller
+--------------
+
+* https://digiblur.com/2021/07/08/itead-sonoff-ifan04-l-they-listened/
+* https://www.amazon.ca/iFAN04-L-Ceiling-Controller-Assistant-Required/dp/B09C21LX9R
+* https://templates.blakadder.com/sonoff_iFan04-L.html
+* https://sonoff.tech/product-document/diy-smart-switches-doc/ifan04-l-doc/
+* https://sonoff.tech/product/diy-smart-switches/ifan04-l/
+
+
 Thermostat Stuff
 ----------------
 
