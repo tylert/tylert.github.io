@@ -493,8 +493,7 @@ Ribbit
 This might actually be awesome if they ever post the source code and put the app up on F-Droid.org (and make some more non-Android versions too).
 The current closed-source app is called "Rattlegram" on The Poodle Grey Store.
 
-* https://www.ribbitradio.org/
-* https://github.com/phase4ground/ribbit
-* https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new
-* https://www.youtube.com/watch?v=_jN4IVccIEw
-* https://v5.airtableusercontent.com/v1/11/11/1668794400000/6sDrAFg7-zNKvN_FnH3rtw/BUzil7TlOFPZSubYa5zM41Ytyj8bQnEkr1sSbq4mYK65qAQJJQlCN3yQvQ0Jhr6OFaa4dVu-Ye56DpOJ492iy19RQ7Gkhvq5HFXyIqWptqO5gJl2-cuAdeJnCn6HLIoydEJ-9PIYqBoPBZEySsPabQ/hJmlMJvkJHg8oWLIEQniL6asIYhRsbQmfbhJhpCoQ-Q
+* https://www.ribbitradio.org/  official site
+* https://github.com/phase4ground/ribbit  possible location for source code... eventually???
+* https://www.youtube.com/watch?v=_jN4IVccIEw  initial presentation video
+* https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new  presentation slides (PDF)
