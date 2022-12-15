@@ -32,6 +32,7 @@ Video/Audio/Camera Awesome
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://img.ly/blog/ultimate-guide-to-ffmpeg/
 * https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
+* https://joshuabird.com/blog/post/3d-printed-film-video-camera
 
 
 Apt Stuff
