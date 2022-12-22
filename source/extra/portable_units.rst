@@ -26,19 +26,23 @@ Black Case Hardware
 -------------------
 
 * https://www.penn-elcom.com/  possible reseller in Windsor, ON
-* https://www.pennelcomonline.com/us/Penn-Elcom-Mini-Recessed-Butterfly-Latch-L904914K/m-8551.aspx  black small latches
-* https://www.pennelcomonline.com/us/Penn-Elcom-Medium-Recessed-Handle-H7151K/m-7703.aspx  black medium handles
-* https://www.pennelcomonline.com/us/Penn-Elcom-Cabinet-Corner-Black-C1818K/m-8736.aspx  black large corners
-* https://www.pennelcomonline.com/us/Penn-Elcom-8x4-Plywood-Panel---Thickness-6mm-14-M870006/m-8779.aspx  panels
-* https://www.pennelcomonline.com/us/Penn-Elcom-Black-Lift-Off-Hinge-57mm-wide-P0625K/m-8508.aspx  black lift-off hinges
+* https://www.pennelcomonline.com/us/Penn-Elcom-Mini-Recessed-Butterfly-Latch-L904914K/m-8551.aspx  small latches, black (L904/914K)
+* https://www.pennelcomonline.com/us/Penn-Elcom-Medium-Recessed-Handle-H7151K/m-7703.aspx  medium handles, black (H7151K)
+* https://www.pennelcomonline.com/us/Penn-Elcom-Pack-of-4-x-Large-Black-Steel-Ball-Corners-C1340K-PE4/m-10084.aspx  large corners, black (C1340K)
+* https://www.pennelcomonline.com/us/Penn-Elcom-Large-Ball-Corner-C1340Z/m-8810.aspx  large corners, zinc (C1340Z)
+* https://www.pennelcomonline.com/us/Penn-Elcom-Black-Lift-Off-Hinge-57mm-wide-P0625K/m-8508.aspx  lift-off hinges, black
 * https://www.amazon.ca/s?k=reliable+hardware
-* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  black medium handles
-* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  black large corners
-* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  black large corners
-* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  black small latches
-* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  black medium handles
-* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  black large corners
+* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles, black
+* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners, black
+* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners, black
+* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  small latches, black
+* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  medium handles, black
+* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  large corners, black
 * https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
+
+.. image:: https://www.pennelcomonline.com/Images/Models/Full/8551-1.Jpg
+.. image:: https://www.pennelcomonline.com/Images/Models/Full/7703-1.Jpg
+.. image:: https://www.pennelcomonline.com/Images/Models/Full/8810-1.Jpg
 
 ::
 
