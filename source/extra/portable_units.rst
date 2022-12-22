@@ -99,6 +99,9 @@ Decentralized Infrastructure Stuff
 * https://github.com/kkdai/youtube
 * https://github.com/marethyu/gotube
 * https://github.com/iawia002/lux
+* https://github.com/mprimi/nasefa
+* https://nats.io/
+* https://github.com/nats-io
 
 
 NNCP

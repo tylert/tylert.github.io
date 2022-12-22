@@ -196,6 +196,8 @@ Secret Management Stuff
 * https://www.sniptt.com/ots/
 * https://github.com/onetimesecret/onetimesecret
 * https://onetimesecret.com/
+* https://mprimi.github.io/portable-secret/
+* https://github.com/mprimi/portable-secret
 
 
 Cool Products
