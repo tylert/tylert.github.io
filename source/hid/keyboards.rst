@@ -205,6 +205,7 @@ Nifty Adapters
 
 * https://yaowei.dev/posts/usb-to-usb-converter/
 * https://geekhack.org/index.php?topic=80421.0
+* https://trzsz.github.io/
 
 
 Rubber Ducks
@@ -225,6 +226,7 @@ Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
 * https://docs.stenokeyboards.com/
 * https://docs.stenokeyboards.com/customize/spring-swap.html
 * https://docs.stenokeyboards.com/customize/firmware.html
+* https://www.artofchording.com/
 
 ::
 
