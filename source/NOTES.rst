@@ -187,6 +187,8 @@ macOS::
 * https://github.com/kindahl/libkeepass
 * https://github.com/phpwutz/libkeepass
 * https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45#keepass-file-format-explained
+* https://github.com/keepassxreboot/keepassxc/issues/8506
+* https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options
 
 
 Secret Management Stuff
@@ -198,6 +200,7 @@ Secret Management Stuff
 * https://onetimesecret.com/
 * https://mprimi.github.io/portable-secret/
 * https://github.com/mprimi/portable-secret
+* https://www.franzoni.eu/password-requirements-myths-madness/
 
 
 Cool Products
@@ -245,6 +248,7 @@ RPG Stuff
 * https://gitlab.com/wargames_tex/wargame_tex
 * https://gitlab.com/wargames_tex/bfm_tex
 * http://www.ericharshbarger.org/dice/go_first_dice.html
+* https://elleosiliwood.itch.io/the-missing-locksmith
 
 
 Awesome Stuff
@@ -367,6 +371,7 @@ Container Stuff
 * https://blog.ttulka.com/building-container-images-without-dockerfile/
 * https://iximiuz.com/en/posts/container-learning-path/
 * https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
+* https://determinate.systems/posts/nix-to-kubernetes
 
 
 Vault Awesome
