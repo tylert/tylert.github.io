@@ -2,6 +2,7 @@ PiKVM Stuff
 -----------
 
 * https://pikvm.org/
+* https://docs.pikvm.org/
 * https://github.com/pikvm/pikvm
 
 Web default login is:  "admin" with password "admin"
@@ -25,9 +26,26 @@ ATX Control
 * https://www.reddit.com/r/pikvm/comments/mmiz34/custom_pcb_to_control_atx_without_breadboarding/
 
 
-Multiple Units
---------------
+OLED Display
+------------
 
+* https://github.com/pikvm/pikvm/issues/797
+* https://www.reddit.com/r/pikvm/comments/nfit5b/enabling_i2c_for_pioled/
+* https://www.amazon.ca/WayinTop-Display-SSD1306-3-3V-5V-Raspberry/dp/B085NHM5TC  128x32, 0.91-inch, 1.49x0.47-inch
+* https://www.amazon.ca/Elisona-0-96-Serial-Display-Module-Arduino/dp/B074FTQSNH  128x64, 0.96-inch
+
+::
+
+    # Add "i2c-dev" into /etc/modules-load.d/kvmd-extra.conf
+    # Add "dtparam=i2c_arm=on" into /boot/config.txt
+
+    systemctl enable --now kvmd-oled kvmd-oled-reboot kvmd-oled-shutdown
+
+
+Multiplexed Units
+-----------------
+
+* https://docs.pikvm.org/multiport/
 * https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/
 
 
