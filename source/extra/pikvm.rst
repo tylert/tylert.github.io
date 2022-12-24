@@ -39,7 +39,15 @@ Initial Setup
     # Put the main root filesystem into "writable mode"
     rw
 
-    # Fix /etc/hostname
+    # Correct the timezone
+    timedatectl show
+    timedatectl list-timezones
+    timedatectl set-timezone UTC
+
+    # Fix /etc/hostname manually or use the following...
+    hostnamectl set-hostname pantaloons
+    hostname pantaloons
+    # Fix host in /etc/kvmd/meta.yaml too for the webUI
 
     # Change the default web and ssh passwords
     # Use the local terminal and use su or ssh in, then do...
