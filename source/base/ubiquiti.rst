@@ -14,14 +14,6 @@ EdgeRouter X
 * https://openwrt.org/docs/techref/hardware/switch
 
 
-UniFi Accesspoints
-------------------
-
-* https://blog.christophersmart.com/2021/10/02/flashing-openwrt-onto-ubiquiti-unifi-ap-ac/
-* https://openwrt.org/toh/ubiquiti/unifiac
-* https://openwrt.org/toh/ubiquiti/unifi_ap
-
-
 DHCP Server
 -----------
 
