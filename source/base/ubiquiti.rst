@@ -11,6 +11,7 @@ EdgeRouter X
 * https://www.reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage/
 * https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
+* https://openwrt.org/docs/techref/hardware/switch
 
 
 DHCP Server
