@@ -143,6 +143,7 @@ Assorted Things-to-Read
 * https://kellycordes.com/2009/11/02/the-fun-scale/
 * https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
 * https://sambleckley.com/writing/church-of-interruption.html
+* https://tynan.com/letstalk/
 * https://www.neelnanda.io/blog/43-making-friends
 * http://www.structuredprocrastination.com/index.php
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
@@ -480,6 +481,7 @@ Ham Stuff
 * http://www.adif.org/
 * `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
+* https://github.com/skuep/AIOC  cheaper APRS?
 * https://github.com/phase4ground/opv-cxx-demod
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
