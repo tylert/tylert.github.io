@@ -44,6 +44,13 @@ Weather Station Stuff
 * https://www.instructables.com/DIY-Weather-Station-With-ESP32/
 
 
+Magnetometer
+------------
+
+* https://github.com/keepworking/Mecha_QMC5883L
+* https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
+
+
 Pi Pico
 -------
 

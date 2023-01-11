@@ -1,16 +1,51 @@
+Tmux With Terminal Stuff
+------------------------
+
+::
+
+    # tmux
+    PFX = ctrl + b
+
+    PFX + ?       # show shortcuts
+    PFX + :       # enter command mode
+
+    PFX + %       # split pane vertically
+    PFX + "       # split pane horizontally
+    PFX + { or }  # move pane left or right
+    PFX + q       # show pane numbers
+    PFX + !       # convert pane to window
+    PFX + space   # cycle through pane layouts
+
+    PFX + c       # create new window
+    PFX + p or n  # previous or next window
+    PFX + 0 to 9  # select window 0 to 9
+    PFX + ,       # rename window
+
+    PFX + s       # show sessions
+    PFX + d       # detach from session
+    PFX + ( or )  # previous or next session
+    PFX + $       # rename session
+
+    # terminal
+    gnome-terminal --tab  # open new tab in current terminal
+
+    ctrl + pgup or pgdn  # select previous or next tab
+
+    shift + ctrl + c or v             # tmux pass-through copy or paste
+    shift + left/middle/right-button  # tmux pass-through left/middle/right-button
+    # etc., etc., etc...
+
+* https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
+* https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
+* https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
+
+
 Video Game Stuff
 ----------------
 
 * https://github.com/kentonv/lanparty
 * https://kilograham.github.io/rp2040-doom/
 * https://news.ycombinator.com/item?id=31590724
-
-
-Magnetometer
-------------
-
-* https://github.com/keepworking/Mecha_QMC5883L
-* https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
 Video/Audio/Camera Awesome
@@ -27,6 +62,7 @@ Video/Audio/Camera Awesome
     cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
     flac foo.wav
 
+* https://mifi.github.io/lossless-cut/
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
