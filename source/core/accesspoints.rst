@@ -35,6 +35,18 @@ Full OpenWRT installation instructions from recent vintage stock firmware::
 
     # Finally upload the new, patched firmware via the stock web UI
 
+UART Ramblings::
+
+    On the underside of the board, there's a unpopulated R225 resistor that was
+    able to connect to to get 115200 baud 8n1 UART output. I need to bridge solder
+    it, but it at least works by holding a jumper wire against it.
+
+    Also got my v3. For reference, the J3 header is >[ TX | RX | GND | 3.3V ]. To
+    use TX and RX, you have to bridge (or put in a tiny resistor) on R225 and R237.
+    Make sure not to bridge R230 next to R237, or you'll connect RX to ground. R225
+    is inside the can on the bottom side of the PCB. Carefully lift the can lid to
+    access it.
+
 
 Ubiquiti EdgeRouter X
 ---------------------
