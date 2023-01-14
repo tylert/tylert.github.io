@@ -1,5 +1,5 @@
-TP-Link EAP245(US) v3
----------------------
+TP-Link EAP245 US v3
+--------------------
 
 * https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111
 * https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97
