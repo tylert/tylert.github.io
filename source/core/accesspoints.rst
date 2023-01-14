@@ -26,9 +26,7 @@ Full OpenWRT installation instructions from recent vintage stock firmware::
     # Enable SSH access for management using the stock web UI
 
     # Then SSH into the stock firmware and disable the wonky signature checking
-    ssh booya@192.168.0.254 \
-        -oKexAlgorithms=+diffie-hellman-group1-sha1 \
-        -oHostKeyAlgorithms=+ssh-dss
+    ssh -oHostKeyAlgorithms=+ssh-rsa booya@192.168.0.254
 
     # On the stock firmware accesspoint, run the following command via SSH
     cliclientd stopcs
@@ -83,7 +81,5 @@ Ubiquiti EdgeRouter X
 
     # Upgrade from the older OpenWRT factory image to the newest OpenWRT
     scp -O openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin root@192.168.1.1:/tmp
-    ssh root@192.168.1.1 \
-        -oKexAlgorithms=+diffie-hellman-group1-sha1 \
-        -oHostKeyAlgorithms=+ssh-rsa
+    ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1
     sysupgrade -F -n /tmp/openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin
