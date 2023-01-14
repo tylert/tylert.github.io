@@ -58,3 +58,32 @@ Ubiquiti EdgeRouter X
 * https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
+
+::
+
+    # Prepare your machine to talk to the stock UI and OpenWRT
+    # Use eth0 if still on stock firmware and eth1 if on OpenWRT
+    ip addr add 192.168.1.99/24 broadcast + dev enp0s25
+
+    # Backup any flash partitions you think you might need
+    ssh ubnt@192.168.1.1
+    sudo su
+    mount -o remount,size=240M tmpfs /tmp
+    cat /proc/mtd > /tmp/proc_mtd.txt
+    dd if=/dev/mtd2ro of=/tmp/dev_mtd2.img
+    dd if=/dev/mtd3ro of=/tmp/dev_mtd3.img
+    dd if=/dev/mtd4ro of=/tmp/dev_mtd4.img
+    dd if=/dev/mtd5ro of=/tmp/dev_mtd5.img
+    dd if=/dev/mtd6ro of=/tmp/dev_mtd6.img
+
+    # Get an interim factory image onto the unit and flash it
+    scp openwrt-ramips-mt7621-ubnt-erx-initramfs-factory.tar ubnt@192.168.1.1:/tmp
+    ssh ubnt@192.168.1.1
+    add system image /tmp/openwrt-ramips-mt7621-ubnt-erx-initramfs-factory.tar
+
+    # Upgrade from the older OpenWRT factory image to the newest OpenWRT
+    scp -O openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin root@192.168.1.1:/tmp
+    ssh root@192.168.1.1 \
+        -oKexAlgorithms=+diffie-hellman-group1-sha1 \
+        -oHostKeyAlgorithms=+ssh-rsa
+    sysupgrade -F -n /tmp/openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin
