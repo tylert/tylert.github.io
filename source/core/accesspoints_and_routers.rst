@@ -49,6 +49,49 @@ UART Ramblings::
     access it.
 
 
+Basic Accesspoint Setup
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Configuration thingies::
+
+    # Main configuration
+    System -> System                     :  Set hostname
+    System -> Administration             :  Set password
+    Network -> Interfaces                :  Interfaces -> LAN -> Edit button
+        DHCP Server -> General Setup     :  Ignore interface checked (disable DHCP)
+        DHCP Server -> Advanced Settings :  Dynamic DHCP unchecked
+        DHCP Server -> IPv6 Settings     :  RA-Service disabled
+                                            DHCPv6-Service disabled
+                                            NDP-Proxy disabled
+    Network -> Wireless                  :  SSID(s) -> Edit button(s)
+                                            Enable button, Set ESSID, set encryption
+        Advanced Settings                :  Country Code
+
+    # These might be obviated if using DHCP rather than a static IP
+    Network -> Interfaces                :  Interfaces -> LAN -> Edit button
+        General Settings                 :  IPv4 address, IPv4 gateway (IP of router)
+        Advanced Settings                :  Use custom DNS servers (IP of router)
+
+Add stuff to /etc/rc.local (System -> Startup -> Local Startup)::
+
+    for i in dnsmasq firewall odhcpd; do
+        if /etc/init.d/"$i" enabled; then
+            /etc/init.d/"$i" disable
+            /etc/init.d/"$i" stop
+        fi
+    done
+
+.. image:: all_hostname.png
+.. image:: all_password.png
+.. image:: wap_interfaces_main.png
+.. image:: wap_interfaces_general.png
+.. image:: wap_interfaces_advanced.png
+.. image:: wap_dhcp_general.png
+.. image:: wap_dhcp_advanced.png
+.. image:: wap_dhcp_ipv6.png
+.. image:: wap_startup.png
+
+
 Ubiquiti EdgeRouter X
 ---------------------
 
@@ -87,3 +130,8 @@ Ubiquiti EdgeRouter X
     scp -O openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin root@192.168.1.1:/tmp
     ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1
     sysupgrade -F -n /tmp/openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin
+
+.. image:: all_hostname.png
+.. image:: all_password.png
+.. image:: router_interfaces_main.png
+.. image:: router_interfaces_general.png
