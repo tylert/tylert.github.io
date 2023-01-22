@@ -1,12 +1,15 @@
 TP-Link EAP245 US v3
 --------------------
 
-* https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111
+* https://www.amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1
+* https://lowtek.ca/roo/2022/openwrt-dumb-access-point/
+* https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111  non-US firmware fix
 * https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97
 * https://gist.githubusercontent.com/svanheule/9f82e156a3601d4a726639eb7400ec97/raw/10673b16c5d697e5f6bf8b8292ee6bccf0adfe67/patch-safeloader.py
 * https://openwrt.org/toh/tp-link/eap245_v3
 * https://openwrt.org/docs/guide-user/network/wifi/dumbap  postprandial setup
 * https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10  serial UART info
+* https://www.aliexpress.com/item/1005002605013057.html?spm=a2g0o.detail.1000014.1.449211e2prYkfP  DC-DC step-up passive PoE
 
 Full OpenWRT installation instructions from recent vintage stock firmware::
 
@@ -49,6 +52,7 @@ UART Ramblings::
 Ubiquiti EdgeRouter X
 ---------------------
 
+* https://www.amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W
 * http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html
 * http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html
 * https://www.reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x/
