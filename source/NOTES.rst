@@ -62,6 +62,7 @@ Video/Audio/Camera Awesome
     cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
     flac foo.wav
 
+* https://frigate.video/
 * https://mifi.github.io/lossless-cut/
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
@@ -516,7 +517,8 @@ Ham Stuff
 * https://github.com/davepacheco/rust-adif
 * http://www.adif.org/
 * `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
-* https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard
+* https://youtu.be/nkUR31fj9Xw  OHIS Open Headset Interconnect Standard
+* https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard  OHIS
 * https://github.com/skuep/AIOC  cheaper APRS?
 * https://github.com/phase4ground/opv-cxx-demod
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
@@ -540,6 +542,7 @@ This might actually be awesome if they ever post the source code and put the app
 The current closed-source app is called "Rattlegram" on The Poodle Grey Store.
 
 * https://www.ribbitradio.org/  official site
+* https://github.com/aicodix/rattlegram  holy frickin' moley!!! source code!!!
 * https://github.com/phase4ground/ribbit  possible location for source code... eventually???
 * https://www.youtube.com/watch?v=_jN4IVccIEw  initial presentation video
 * https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new  presentation slides (PDF)

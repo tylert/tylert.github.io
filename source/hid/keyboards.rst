@@ -213,6 +213,7 @@ Rubber Ducks
 
 * https://github.com/coder12341/pico-ducky
 * https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky/
+* https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01  Pico BLE???
 
 
 The Uni
