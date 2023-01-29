@@ -61,10 +61,10 @@ Configuration thingies::
         DHCP Server -> General Setup     :  Ignore interface checked (disable DHCP)
         DHCP Server -> Advanced Settings :  Dynamic DHCP unchecked
         DHCP Server -> IPv6 Settings     :  RA-Service disabled
-                                            DHCPv6-Service disabled
-                                            NDP-Proxy disabled
+                                         :  DHCPv6-Service disabled
+                                         :  NDP-Proxy disabled
     Network -> Wireless                  :  SSID(s) -> Edit button(s)
-                                            Enable button, Set ESSID, set encryption
+                                         :  Enable button, Set ESSID, set encryption
         Advanced Settings                :  Country Code
 
     # These might be obviated if using DHCP rather than a static IP
@@ -104,7 +104,7 @@ Ubiquiti EdgeRouter X
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
 
-::
+Steps for replacement of stock firmware::
 
     # Prepare your machine to talk to the stock UI and OpenWRT
     # Use eth0 if still on stock firmware and eth1 if on OpenWRT
@@ -135,3 +135,14 @@ Ubiquiti EdgeRouter X
 .. image:: all_password.png
 .. image:: router_interfaces_main.png
 .. image:: router_interfaces_general.png
+.. image:: sqm_basic_settings.png
+.. image:: sqm_queue_discipline.png
+
+QoS setup::
+
+    # Install "sqm-scripts"
+
+    Network -> SQM QoS -> Basic Settings :  Download and upload speeds (in kbit/s)
+                                         :    [15000 kbit/s download speed]
+                                         :    [1500 kbit/s upload speed]
+                                         :  Enable this SQM interface checked
