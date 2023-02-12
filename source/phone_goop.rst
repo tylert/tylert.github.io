@@ -89,7 +89,7 @@ the settings for the app as follows:
 
 ::
 
-    Global Settings:
+    General Settings:
       Display:
         Theme:  Dark
         Animation:  Do not use gaudy visual effects
@@ -122,8 +122,8 @@ the settings for the app as follows:
         Move/copy destination folders:  All
         Archive folder:  -NONE-
       Notifications:
-        Vibrate:  On
-        Blink LED:  On
+        Vibration:  Enabled, Vibration pattern = Default
+        Notification light:  Account colour
 
 
 Make the keyboard less annoying
