@@ -36,9 +36,10 @@ Install F-Droid and Other Apps
 #. Use "Settings", revoke permission for "Browser" to install unknown apps.
 #. Use "Files", delete the downloaded copy of the F-Droid app.
 #. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
-  * "FFUpdater"
-  * "K-9 Mail"
-  * "KeePassDX"
+  * "FFUpdater" Firefox downloader
+  * "K-9 Mail" email client
+  * "KeePassDX" password manager
+  * "Libera" document reader thingy
   * "Locker"
   * "Maps and GPS Navigation OsmAnd+"
 #. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
@@ -51,6 +52,7 @@ Install F-Droid and Other Apps
   * "Element" for chatting
   * "OpenKeychain" for signing/encrypting/decrypting emails
   * "Syncopoli" for auto-syncing photos
+  * "WireGuard" for pushing photos
 
 
 Configure Firefox
