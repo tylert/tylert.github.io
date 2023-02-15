@@ -115,6 +115,16 @@ Style Guide Stuff
 * https://jmmv.dev/2021/08/useless-use-of-gnu.html
 
 
+Diagrams-as-Code Stuff
+----------------------
+
+* https://kroki.io  other tools like "nwdiag", "rackdiag", "svgbob", etc.
+* https://blockdiag.com
+* https://diagrams.mingrammer.com  Python code to generate diagrams
+* https://d2lang.com
+* https://github.com/stathissideris/ditaa  bloated Java thing (that works)
+
+
 Books
 -----
 
