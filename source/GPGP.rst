@@ -112,3 +112,21 @@ Key Discovery
 -------------
 
 * https://gist.github.com/kafene/0a6e259996862d35845784e6e5dbfc79
+
+
+Other ED25519 Stuff
+-------------------
+
+You must have LibreSSL 3.7.x+ (or any old OpenSSL 1.1+???) to use ED25519!
+
+::
+
+    openssl genpkey -algorithm ed25519 > priv
+    openssl pkey -in priv -out pub -pubout
+
+* https://slsa.dev/provenance/v0.2  needs in-toto
+* https://github.com/in-toto/in-toto  in-toto-keygen (pip install in-toto pynacl;  see below for why)
+* https://stackoverflow.com/questions/72981536/sign-a-text-with-pynacl-ed25519-importing-a-private-key
+* https://github.com/in-toto/in-toto-golang  not quite ready for prime-time yet!!!
+* https://github.com/mikalv/anything2ed25519
+* https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html
