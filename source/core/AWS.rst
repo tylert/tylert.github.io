@@ -130,6 +130,7 @@ Exam Prep
 * https://aws.amazon.com/compliance/shared-responsibility-model/
 * https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 * https://digitalcloud.training/aws-cheat-sheets/
+* https://dev.to/aws-builders/which-aws-certification-exam-should-i-sit-hah
 
 Most useful:  "Cloud Practitioner", "System Operator", "Solutions Architect".
 
