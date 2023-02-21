@@ -62,9 +62,6 @@ Development
 -----------
 
 * https://docs.cloudposse.com/  best practices
-* http://randsinrepose.com/archives/bored-people-quit/
-* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
-* http://www.daedtech.com/how-to-keep-your-best-programmers
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/
@@ -103,6 +100,11 @@ Mentorship Stuff
 ----------------
 
 * https://1x.engineer/
+* https://lethain.com/eng-strategies/
+* https://mcfunley.com/choose-boring-technology
+* http://randsinrepose.com/archives/bored-people-quit/
+* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
+* http://www.daedtech.com/how-to-keep-your-best-programmers
 
 
 Style Guide Stuff
