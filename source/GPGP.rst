@@ -60,6 +60,7 @@ GPG/PGP Magic
 Backups
 -------
 
+* https://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys/
 * https://wiki.archlinux.org/title/Paperkey
 * https://www.jabberwocky.com/software/paperkey/
 * https://github.com/dmshaw/paperkey/
