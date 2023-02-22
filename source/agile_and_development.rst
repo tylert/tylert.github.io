@@ -9,6 +9,7 @@ Scrum/Agile Stuff
 * https://www.youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
+* https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
 
 
 Key Meetings
