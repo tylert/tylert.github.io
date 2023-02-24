@@ -51,6 +51,7 @@ Self-Hosted
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
+* https://github.com/mjl-/mox  email?
 
 
 PiHole Raspbian
