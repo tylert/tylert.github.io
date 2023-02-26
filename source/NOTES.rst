@@ -62,6 +62,8 @@ Video/Audio/Camera Awesome
     cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
     flac foo.wav
 
+    ffmpeg -i foo.webm -c copy foo.mp4
+
 * https://frigate.video/
 * https://mifi.github.io/lossless-cut/
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
