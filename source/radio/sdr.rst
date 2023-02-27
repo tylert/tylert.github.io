@@ -5,6 +5,14 @@ SDR
 * https://github.com/mhassell/gqrx_scan
 * https://github.com/gasparka/spectrogram
 * https://github.com/qualitymanifest/timestampSDR
+* https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone/
+* https://github.com/n7nix/deviation  FM deviation flowgraph
+
+
+SSB
+---
+
+* https://www.n6qw.com/PSSST_20.html  copper-clad 7-transistor SSB rig
 
 
 GRCon And Others
