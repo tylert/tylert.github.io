@@ -52,6 +52,7 @@ Self-Hosted
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
 * https://github.com/mjl-/mox  email?
+* https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/
 
 
 PiHole Raspbian
