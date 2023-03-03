@@ -64,6 +64,48 @@ Video/Audio/Camera Awesome
 
     ffmpeg -i foo.webm -c copy foo.mp4
 
+HandBrake settings for DVDs::
+
+    Summary:
+        Format:  MPEG-4 (avformat)
+        Web Optimized:  disabled
+        Align A/V Start:  enabled
+        iPod 5G Support:  disabled
+        Passthru Common Metadata:  enabled
+    Dimensions:
+        Cropping:  None
+        Resolution Limit:  720p HD
+        Anamorphic:  Automatic
+        Optimal Size:  enabled
+        Allow Upscaling:  disabled
+    Filters:
+        Detelecine:  Off
+        Interlace Detection:  Default
+        Deinterlace:  Decomb
+        Deinterlace Preset:  Default
+        Deblock Filter:  Off
+        Denoise Filter:  Off
+        Chroma Smooth Filter:  Off
+        Sharpen Filter:  Off
+        Grayscale:  disabled
+        Colorspace:  Off
+    Video:
+        Video Encoder:  H.264 (x264)
+        Framerate:  30
+        Constant Framerate:  selected
+        RF:  19
+        Constant Quality:  selected
+        Tune:  None
+        Fast Decode:  disabled
+        Profile:  hight
+        Level:  3.1
+    Audio:
+        Bitrate:  English (AC3) (5.1 ch) 448 kpbs (48 kHz) -> AAC (avcodec) Stereo 160 kbps
+        Gain:  7 dB
+        DRC:  4.0
+    Subtitles:
+        Foreign Audio Scan -> Burned Into Video (Forced Subtitles Only)
+
 * https://frigate.video/
 * https://mifi.github.io/lossless-cut/
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
