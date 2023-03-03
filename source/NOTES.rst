@@ -382,6 +382,7 @@ Container Stuff
 * https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 * https://erkanerol.github.io/post/how-kubectl-exec-works/
 * https://www.youtube.com/watch?v=g4PCTodIm80  Why I use Rancher (2021) - Fleet awesomeness
+* https://www.hashicorp.com/resources/hashinetes-combining-kubernetes-hashicorp-kelsey-hightower  Hashinetes
 * https://www.youtube.com/watch?v=_dn4c9j7LUo
 * https://github.com/containerd/nerdctl
 * https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
@@ -412,6 +413,15 @@ Container Stuff
 * https://iximiuz.com/en/posts/container-learning-path/
 * https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
 * https://determinate.systems/posts/nix-to-kubernetes
+
+
+Load-Balancing
+--------------
+
+* https://metallb.org/
+* https://fabiolb.net/  uses HashiCorp Consul
+* https://www.loxilb.io/  uses eBPF
+* https://ebpf.io/
 
 
 Vault Awesome
