@@ -38,6 +38,7 @@ Tmux With Terminal Stuff
 * https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
 * https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
 * https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
+* https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/
 
 
 Video Game Stuff
