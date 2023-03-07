@@ -231,6 +231,9 @@ Assorted Things-to-Read
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 * https://blog.jim-nielsen.com/2022/what-work-looks-like/
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
+* http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/
+* https://imgur.com/a/iJD8f  Tales of IT (humour)
+* https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
 
 
 MySQL Stuff
@@ -339,6 +342,7 @@ Awesome Stuff
 
 * http://www.1001fonts.com/
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
+* https://github.com/ncrawforth/VT2040  portable serial terminal based on Pico
 * https://github.com/intenthq/anon
 * https://nodered.org/
 * https://github.com/fluent/fluent-bit
@@ -399,6 +403,7 @@ More
 Container Stuff
 ---------------
 
+* https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/
 * https://containers.gitbook.io/build-containers-the-hard-way/#walk-through-pulling-an-image-with-bash
 * https://github.com/google/go-containerregistry#tools
 * https://github.com/ko-build/ko#ko-easy-go-containers

@@ -2,6 +2,12 @@ Pointing Devices
 ================
 
 
+Mouse Jiggler
+-------------
+
+* https://github.com/argilo/pico-jiggler
+
+
 Gaming Mice
 -----------
 
@@ -112,6 +118,8 @@ Thiccpad Trackpoint Stuff
 
     # horizontal scroll
     xinput set-prop "TPPS/2 IBM TrackPoint" "Evdev Wheel Emulation Axes" 6 7 4 5
+
+* https://github.com/moduloindustries/thinkeys
 
 
 Mouseless Navigation
