@@ -154,3 +154,50 @@ too.
 
 Set the warning and limit values for the mobile data usage and adjust your
 billing cycle period.
+
+
+Evict Obstinate System Apps
+---------------------------
+
+::
+
+    # adb shell
+    # pm list packages -3  # only show 3rd-party apps (non-system)
+    # pm list packages -d  # only show disabled apps
+    # pm list packages -e  # only show enabled apps
+    # pm list packages -s  # only show system apps
+
+    packages='
+    com.android.chrome
+    com.coloros.childrenspace
+    com.coloros.weather.service
+    com.google.android.apps.googleassistant
+    com.google.android.apps.magazines
+    com.google.android.apps.maps
+    com.google.android.apps.nbu.files
+    com.google.android.apps.photos
+    com.google.android.apps.podcasts
+    com.google.android.apps.restore
+    com.google.android.apps.tachyon
+    com.google.android.apps.walletnfcrel
+    com.google.android.apps.youtube.music
+    com.google.android.calendar
+    com.google.android.feedback
+    com.google.android.gm
+    com.google.android.googlequicksearchbox
+    com.google.android.videos
+    com.google.android.youtube
+    com.google.ar.lens
+    com.netflix.mediaclient
+    com.netflix.partner.activation
+    com.oneplus.membership
+    com.oneplus.store
+    com.oplus.customize.coreapp
+    com.oplus.games
+    com.oplus.omoji
+    net.oneplus.forums
+    net.oneplus.weather
+    '
+    for package in ${packages}; do
+        pm uninstall --user 0 ${package}
+    done
