@@ -93,19 +93,13 @@ the settings for the app as follows:
 
     General Settings:
       Display:
-        Theme:  Dark
-        Animation:  Do not use gaudy visual effects
+        Animation:  Disable Use gaudy visual effects
         Show stars:  Off
-        Multi-select checkboxes:  On
         Show correspondent names:  Off
         Show contact pictures:  Off
         Visible message actions: Delete, Move
       Interaction:
         Return to list after delete:  On
-      Notifications:
-        Show Delete button:  Always
-      Cryptography:
-        OpenPGP app:  OpenKeychain
     Account Settings:
       Fetching mail:
         Local folder size:  all messages
@@ -123,8 +117,12 @@ the settings for the app as follows:
         Folders to display:  All
         Move/copy destination folders:  All
         Archive folder:  -NONE-
+        Drafts folder:  Drafts
+        Sent folder:  Sent
+        Spam folder:  Junk
+        Trash folder:  Trash
       Notifications:
-        Vibration:  Enabled, Vibration pattern = Default
+        Vibration:  Enabled, Vibration pattern = Default, Pattern 1, Repeat vibration 2
         Notification light:  Account colour
 
 
