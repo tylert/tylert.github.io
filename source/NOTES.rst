@@ -35,6 +35,12 @@ Tmux With Terminal Stuff
     shift + left/middle/right-button  # tmux pass-through left/middle/right-button
     # etc., etc., etc...
 
+Record terminal commands to an SVG animation::
+
+    pip install termtosvg  # termtosvg is currently abandonware
+    echo "PS1='\$ '" > ugh.sh
+    termtosvg login.svg --screen-geometry 80x10 --command 'bash --rcfile ugh.sh'
+
 * https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
 * https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
 * https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
