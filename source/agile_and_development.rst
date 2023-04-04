@@ -101,6 +101,7 @@ Mentorship Stuff
 ----------------
 
 * https://1x.engineer/
+* https://taylor.town/-10x
 * https://lethain.com/eng-strategies/
 * https://mcfunley.com/choose-boring-technology
 * http://randsinrepose.com/archives/bored-people-quit/

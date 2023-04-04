@@ -1,7 +1,3 @@
-things that look useful that we need to investigate
-===================================================
-
-
 API development
 ---------------
 
