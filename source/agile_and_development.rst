@@ -95,6 +95,7 @@ Development
 * https://semver.org/
 * http://www.catb.org/~esr/faqs/smart-questions.html
 * https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
+* https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 
 
 Mentorship Stuff
