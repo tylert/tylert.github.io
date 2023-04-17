@@ -47,8 +47,8 @@ Record terminal commands to an SVG animation::
 * https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/
 
 
-Video Game Stuff
-----------------
+Game Stuff
+----------
 
 * https://github.com/kentonv/lanparty
 * https://kilograham.github.io/rp2040-doom/
@@ -346,6 +346,7 @@ RPG Stuff
 * https://gitlab.com/wargames_tex/bfm_tex
 * http://www.ericharshbarger.org/dice/go_first_dice.html
 * https://elleosiliwood.itch.io/the-missing-locksmith
+* https://perchance.org/dnd-draconic-names
 
 
 Awesome Stuff
@@ -473,6 +474,7 @@ Container Stuff
 * https://iximiuz.com/en/posts/container-learning-path/
 * https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
 * https://determinate.systems/posts/nix-to-kubernetes
+* https://httptoolkit.com/blog/docker-image-registry-facade/
 
 
 Load-Balancing
