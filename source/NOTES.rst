@@ -369,6 +369,7 @@ Awesome Stuff
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
+* https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
 
 
 Microservices
