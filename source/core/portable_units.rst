@@ -106,6 +106,7 @@ Decentralized Infrastructure Stuff
 * https://github.com/mprimi/nasefa
 * https://nats.io/
 * https://github.com/nats-io
+* https://dgross.ca/blog/linux-home-server-auto-sleep/  tiny server wakes bigger server
 
 
 NNCP
