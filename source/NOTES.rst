@@ -575,6 +575,7 @@ Your Mom
 * https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
+* http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
 
 
 Ham Stuff
