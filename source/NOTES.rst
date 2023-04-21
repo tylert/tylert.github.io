@@ -484,6 +484,7 @@ Load-Balancing
 * https://fabiolb.net/  uses HashiCorp Consul
 * https://www.loxilb.io/  uses eBPF
 * https://ebpf.io/
+* https://samwho.dev/load-balancing/  visualization of different load-balancing strategies
 
 
 Vault Awesome
