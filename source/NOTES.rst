@@ -475,6 +475,7 @@ Container Stuff
 * https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
 * https://determinate.systems/posts/nix-to-kubernetes
 * https://httptoolkit.com/blog/docker-image-registry-facade/
+* https://github.com/kubernetes/git-sync
 
 
 Load-Balancing
@@ -500,6 +501,11 @@ Terraform Awesome
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
 * https://www.terraform.io/docs/commands/state/rm.html
 * https://www.baeldung.com/ops/terraform-best-practices
+* https://www.terraform-best-practices.com/
+* https://bit.ly/terraform-youtube  GH antonbabenko
+* https://github.com/antonbabenko
+* https://serverless.tf/
+* https://github.com/terralist/terralist  private module registry
 
 
 Networking
@@ -566,6 +572,8 @@ Go Stuff
 * https://pkg.go.dev/net  IP stuff
 * https://hmarr.com/blog/go-allocation-hunting/
 * https://otterize.com/blog/golang-contexts-and-blocking-functions
+* https://ish-ar.io/tutorial-go-git/
+* https://github.com/go-git/go-git
 
 
 Your Mom

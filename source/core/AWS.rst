@@ -226,6 +226,8 @@ Cloud Hybrid
 IPAM
 ----
 
+Nowadays, you'd just use AWS IPAM instead of rolling your own.
+
 * https://github.com/netbox-community/netbox
 * https://netbox.readthedocs.io/en/stable/
 * https://registry.terraform.io/search/providers?q=netbox
@@ -246,3 +248,5 @@ Lambda
 * https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
 * https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
 * https://github.com/blmayer/awslambdarpc
+* https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions/
+* https://github.com/aws/aws-lambda-runtime-interface-emulator
