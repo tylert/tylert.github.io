@@ -307,6 +307,7 @@ Cool Products
 * https://teenage.engineering/products/tx-6  pocket mixer/synth
 * https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence???
 * https://novamostra.com/2022/10/23/byopm/  Pi Zero pocket password manager???
+* https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
 
 
 Keyboard CNC
