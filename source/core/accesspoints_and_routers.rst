@@ -11,6 +11,9 @@ TP-Link EAP245 US v3
 * https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10  serial UART info
 * https://www.aliexpress.com/item/1005002605013057.html?spm=a2g0o.detail.1000014.1.449211e2prYkfP  DC-DC step-up passive PoE
 * https://firmware-selector.openwrt.org/?version=22.03.4&target=ath79%2Fgeneric&id=tplink_eap245-v3
+* https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods
+* https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11
+* https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption
 
 Full OpenWRT installation instructions from recent vintage stock firmware::
 
@@ -48,6 +51,13 @@ UART Ramblings::
     Make sure not to bridge R230 next to R237, or you'll connect RX to ground. R225
     is inside the can on the bottom side of the PCB. Carefully lift the can lid to
     access it.
+
+::
+
+    qrencode "WIFI:S:${WIFI_SSID};T:WPA;P:${WIFI_PASSWD};H:false;" -o wifi.png
+
+    # H = hidden (true, false, blank)
+    # T = type (WEP, WPA, blank)
 
 
 Basic Accesspoint Setup
