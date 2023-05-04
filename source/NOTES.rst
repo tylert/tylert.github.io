@@ -245,6 +245,7 @@ Assorted Things-to-Read
 * http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
+* https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 
 
 MySQL Stuff
@@ -356,6 +357,7 @@ Awesome Stuff
 * http://www.1001fonts.com/
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
 * https://github.com/ncrawforth/VT2040  portable serial terminal based on Pico
+* https://github.com/vha3/Hunter-Adams-RP2040-Demos  Ethernet and VGA for Pico
 * https://github.com/intenthq/anon
 * https://nodered.org/
 * https://github.com/fluent/fluent-bit
@@ -586,6 +588,7 @@ Your Mom
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
 * http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
+* https://lwn.net/Articles/925870/  TOTP
 
 
 Ham Stuff
