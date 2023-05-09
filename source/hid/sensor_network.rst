@@ -32,6 +32,12 @@ Garage Door Stuff
 * https://github.com/geerlingguy/pico-w-garage-door-sensor
 
 
+Level Stuff
+-----------
+
+* https://adonno.com/salt-level-sensor/
+
+
 Light Switches
 --------------
 
@@ -55,3 +61,6 @@ Pi Pico
 -------
 
 * https://forums.raspberrypi.com/viewtopic.php?p=2015975#p2015975  BLE on Pico
+* https://electrocredible.com/raspberry-pi-pico-serial-uart-micropython/
+* https://arduino-pico.readthedocs.io/
+* https://github.com/Noltari/pico-uart-bridge
