@@ -72,6 +72,12 @@ Docker + Alpine Linux
 * https://www.wezm.net/technical/2019/02/alpine-linux-docker-infrastructure/
 
 
+NixOS
+-----
+
+* https://nathan-kim.org/writing/nixos-post-mortem
+
+
 VMware + VirtualBox
 -------------------
 

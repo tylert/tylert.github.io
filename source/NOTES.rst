@@ -524,6 +524,8 @@ Networking
 * https://wicg.github.io/ua-client-hints/  User-agent info including stuff like GOOS, GOARCH???
 * https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant/
 * https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
+* https://blog.sigma-star.at/post/2023/05/sandbox-netns  using namespaces to isolate processes
+* https://github.com/lizrice/ebpf-beginners  eBPF learning awesome
 
 
 Go Stuff
