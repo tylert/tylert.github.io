@@ -125,6 +125,7 @@ HandBrake settings for DVDs::
 * https://img.ly/blog/ultimate-guide-to-ffmpeg/
 * https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
+* https://www.diy-thermocam.net  IR imagery with nearly, all open-source stuff (Teensy--)
 
 
 Apt Stuff
@@ -526,6 +527,7 @@ Networking
 * https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
 * https://blog.sigma-star.at/post/2023/05/sandbox-netns  using namespaces to isolate processes
 * https://github.com/lizrice/ebpf-beginners  eBPF learning awesome
+* https://drgn.readthedocs.io/  Linux kernel debugger with Python niceities
 
 
 Go Stuff

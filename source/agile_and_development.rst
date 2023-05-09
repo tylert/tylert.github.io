@@ -1,5 +1,5 @@
-Scrum/Agile Stuff
------------------
+Scrum/Agile/Kanban Stuff
+------------------------
 
 * https://agilepainrelief.com/what-is-scrum-in-a-nutshell
 * https://agilepainrelief.com/the-story-of-a-sprint
@@ -10,6 +10,7 @@ Scrum/Agile Stuff
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
 * https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
+* https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html
 
 
 Key Meetings
