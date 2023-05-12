@@ -376,6 +376,7 @@ Awesome Stuff
 * https://www.netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
 * https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
+* https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/
 
 
 Microservices
