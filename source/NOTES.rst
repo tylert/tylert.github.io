@@ -247,6 +247,7 @@ Assorted Things-to-Read
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
+* https://www.onedayyoullfindyourself.com
 
 
 MySQL Stuff
