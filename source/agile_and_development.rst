@@ -181,3 +181,5 @@ Python Stuff
 ------------
 
 * https://martinheinz.dev/blog/83  one-liners for FTP servers, xonsh, etc.
+* https://alex-moss.medium.com/creating-an-up-to-date-python-distroless-container-image-e3da728d7a80
+* https://github.com/alexdmoss/distroless-python
