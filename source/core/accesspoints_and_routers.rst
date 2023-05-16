@@ -54,7 +54,11 @@ UART Ramblings::
 
 ::
 
-    qrencode "WIFI:S:${WIFI_SSID};T:WPA;P:${WIFI_PASSWD};H:false;" -o wifi.png
+    qrencode "WIFI:S:${WIFI_SSID};T:WPA;P:${WIFI_PASSWD};H:false;" \
+        -o wifi_qrcode.png
+    magick -font 'DejaVu-Sans-Bold' -pointsize 36 \
+        label:"WIFI:S:${WIFI_SSID};T:WPA;P:${WIFI_PASSWD};H:false;" \
+        wifi_text.png
 
     # H = hidden (true, false, blank)
     # T = type (WEP, WPA, blank)
