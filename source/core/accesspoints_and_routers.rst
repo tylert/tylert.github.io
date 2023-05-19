@@ -10,10 +10,10 @@ TP-Link EAP245 US v3
 * https://openwrt.org/docs/guide-user/network/wifi/dumbap  postprandial setup
 * https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10  serial UART info
 * https://www.aliexpress.com/item/1005002605013057.html?spm=a2g0o.detail.1000014.1.449211e2prYkfP  DC-DC step-up passive PoE
-* https://firmware-selector.openwrt.org/?version=22.03.4&target=ath79%2Fgeneric&id=tplink_eap245-v3
 * https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods
 * https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11
 * https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption
+* https://firmware-selector.openwrt.org/?version=22.03.5&target=ath79%2Fgeneric&id=tplink_eap245-v3
 
 Full OpenWRT installation instructions from recent vintage stock firmware::
 
@@ -118,7 +118,7 @@ Ubiquiti EdgeRouter X
 * https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
-* https://firmware-selector.openwrt.org/?version=22.03.4&target=ramips%2Fmt7621&id=ubnt_edgerouter-x
+* https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x
 
 Steps for replacement of stock firmware::
 
