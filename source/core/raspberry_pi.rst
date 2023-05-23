@@ -142,6 +142,12 @@ Hardware
 * https://lincolnbinns.com/shop/internet-of-things-iot/raspberry-pi4-enclosures/raspberry-pi4-accessories/pi4-extender-board.html
 
 
+UEFI
+----
+
+* https://github.com/pftf/RPi4  boot arm64 ISO images just like you can on amd64!!!
+
+
 Encrypted Root
 --------------
 
