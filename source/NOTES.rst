@@ -312,6 +312,7 @@ Cool Products
 * https://novamostra.com/2022/10/23/byopm/  Pi Zero pocket password manager???
 * https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
 * https://beepberry.sqfmi.com/
+* https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
 
 
 Keyboard CNC
