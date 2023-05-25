@@ -184,3 +184,58 @@ Python Stuff
 * https://alex-moss.medium.com/creating-an-up-to-date-python-distroless-container-image-e3da728d7a80
 * https://github.com/alexdmoss/distroless-python
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
+
+
+Go Stuff
+--------
+
+::
+
+    go tool list dist            # show supported OS/ARCH combos
+    go build                     # compile everything
+    go version -m foo            # show build info packed into the binary
+    go clean                     # clean up everything
+
+    go get -u all ; go mod tidy  # upgrade all dependencies to latest
+    go mod vendor                # vendor (copy) all dependencies locally
+    go vet                       # do some linting/checking
+    go fmt *.go                  # style the code
+
+* https://opensource.com/article/22/4/go-build-options
+* http://howistart.org/posts/go/1
+* https://www.youtube.com/watch?v=oyTgx6S87XY
+* https://www.youtube.com/watch?v=ysgMlGHtDMo
+* https://benhoyt.com/writings/prig/?showhn  Go AWK
+* https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
+* https://jogendra.dev/building-command-line-tools-in-go
+* https://coder.com/blog/building-command-line-tools-with-go
+* https://gocli.io/
+* https://github.com/tmrts/boilr
+* https://quii.gitbook.io/learn-go-with-tests/
+* https://github.com/jltorresm/otpgo  TOTP
+* https://github.com/pquerna/otp  TOTP
+* https://go.dev/ref/mod
+* https://roberto.selbach.ca/go-proxies/
+* https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
+* https://awesome-go.com/
+* https://www.awesomego.net/
+* https://github.com/felixge/fgtrace  Go tracing
+* https://github.com/nikolaydubina/go-recipes
+* https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
+* https://gist.github.com/fsmv/02c636d4da58106f113049ee45a62f50  go run???
+* https://www.arp242.net/flags-config-go.html  config stuff
+* https://github.com/arp242/sconfig
+* https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
+* https://paseto.io/  JWT/JOSE stuff
+* https://drstearns.github.io/tutorials/gojson/
+* https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/sample-apps/blank-go/function/main.go
+* https://tailscale.com/blog/netaddr-new-ip-type-for-go/  IP stuff
+* https://stackoverflow.com/questions/19882961/go-golang-check-ip-address-in-range  IP stuff
+* https://pkg.go.dev/net/netip  IP stuff
+* https://pkg.go.dev/net  IP stuff
+* https://hmarr.com/blog/go-allocation-hunting/
+* https://otterize.com/blog/golang-contexts-and-blocking-functions
+* https://ish-ar.io/tutorial-go-git/
+* https://github.com/go-git/go-git
+* https://boyter.org/posts/how-to-start-go-project-2023/
+* https://mholt.github.io/json-to-go/
