@@ -177,9 +177,16 @@ Process Stuff
 * https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops/
 
 
+Unix/Linux/Shell Stuff
+----------------------
+
+* https://fasterthanli.me/articles/a-terminal-case-of-linux  deep Rust/C and ancient nix voodoo
+
+
 Python Stuff
 ------------
 
+* https://leblancfg.com/level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour.html#level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour
 * https://martinheinz.dev/blog/83  one-liners for FTP servers, xonsh, etc.
 * https://alex-moss.medium.com/creating-an-up-to-date-python-distroless-container-image-e3da728d7a80
 * https://github.com/alexdmoss/distroless-python

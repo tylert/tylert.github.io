@@ -250,3 +250,9 @@ Lambda
 * https://github.com/blmayer/awslambdarpc
 * https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions/
 * https://github.com/aws/aws-lambda-runtime-interface-emulator
+
+
+S3
+--
+
+* https://github.com/presslabs/z3  ZFS send to S3?
