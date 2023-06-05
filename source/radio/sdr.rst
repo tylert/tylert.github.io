@@ -27,3 +27,9 @@ GRCon And Others
 * https://www.youtube.com/watch?v=kVY3E3e--_I&t=11713s  ARDC
 * https://www.youtube.com/watch?v=MHkz7jNynOg
 * https://www.youtube.com/watch?v=kVY3E3e--_I  TAPR DCC
+
+
+GPS
+---
+
+* https://ciechanow.ski/gps/  how GPS works
