@@ -379,6 +379,7 @@ Awesome Stuff
 * https://roadmap.sh/devops
 * https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
 * https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/
+* https://www.cloudskillsboost.google/paths/118  generative AI learning path
 
 
 Microservices
@@ -419,6 +420,19 @@ More
 * https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com/  another replacement for Ansible?
+* https://dvc.org/doc/use-cases/data-registry  version control for data?
+* https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
+
+
+SQLite
+------
+
+* https://www.sqlite.org/json1.html
+* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database/
+* https://simonwillison.net/2021/Feb/21/cross-database-queries/  sqlite looking across databases
+* https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
+* https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
+* https://stackoverflow.com/questions/9410011/multiple-files-for-a-single-sqlite-database
 
 
 Container Stuff
@@ -532,6 +546,7 @@ Networking
 * https://blog.sigma-star.at/post/2023/05/sandbox-netns  using namespaces to isolate processes
 * https://github.com/lizrice/ebpf-beginners  eBPF learning awesome
 * https://drgn.readthedocs.io/  Linux kernel debugger with Python niceities
+* https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
 
 
 Your Mom

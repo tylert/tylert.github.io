@@ -54,6 +54,7 @@ Self-Hosted
 * https://github.com/mjl-/mox  email?
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
+* https://github.com/PhirePhly/micromirrors  mirroring things
 
 
 PiHole Raspbian
