@@ -4,6 +4,8 @@ PiKVM Stuff
 * https://pikvm.org/
 * https://docs.pikvm.org/
 * https://github.com/pikvm/pikvm
+* https://github.com/pikvm/kvmd/tree/master/hid
+* https://www.blicube.com/blikvm-pcie/
 
 Web default login is:  "admin" with password "admin"
 SSH default login is:  "root" with password "root"
@@ -46,7 +48,9 @@ Multiplexed Units
 -----------------
 
 * https://docs.pikvm.org/multiport/
+* https://docs.pikvm.org/wiring_examples/
 * https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/
+* https://blog.ktz.me/use-1-pikvm-instance-to-control-4-systems/
 
 
 Initial Setup
@@ -92,5 +96,4 @@ Upgrades
     # Put the main root filesystem into "writable mode"
     rw
 
-    # OMFG, GitHub!!!
-    wget --no-check-certificate https://raw.githubusercontent.com/tylert/dotfiles/master/bin/upgrade_everything.sh
+    wget https://raw.githubusercontent.com/tylert/dotfiles/master/bin/upgrade_everything.sh

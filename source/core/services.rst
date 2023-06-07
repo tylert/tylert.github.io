@@ -55,6 +55,7 @@ Self-Hosted
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
 * https://github.com/PhirePhly/micromirrors  mirroring things
+* https://blog.randombits.host/monitoring-self-hosted-services/  Grafana, Prometheus, Loki, etc.
 
 
 PiHole Raspbian

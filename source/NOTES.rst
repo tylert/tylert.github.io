@@ -422,6 +422,7 @@ More
 * https://pyinfra.com/  another replacement for Ansible?
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
+* https://github.com/debauchee/barrier  open replacement for Synergy
 
 
 SQLite
