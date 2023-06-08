@@ -313,6 +313,7 @@ Cool Products
 * https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
 * https://beepberry.sqfmi.com/
 * https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
+* https://dynomight.net/better-DIY-air-purifier.html
 
 
 Keyboard CNC
