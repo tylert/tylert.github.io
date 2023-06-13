@@ -382,6 +382,7 @@ Awesome Stuff
 * https://github.com/esimov/triangle  make bitmaps look all triangley
 * https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/
 * https://www.cloudskillsboost.google/paths/118  generative AI learning path
+* https://stable-diffusion-art.com/qr-code/  artwork which incorporates a QR code into the image
 
 
 Microservices

@@ -30,6 +30,7 @@ Garage Door Stuff
 -----------------
 
 * https://github.com/geerlingguy/pico-w-garage-door-sensor
+* https://www.hackster.io/news/open-and-close-your-garage-door-with-raspberry-pi-81347881a4cb
 
 
 Level Stuff
