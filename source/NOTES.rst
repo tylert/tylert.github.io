@@ -20,6 +20,8 @@ Tmux With Terminal Stuff
     PFX + p or n  # previous or next window
     PFX + 0 to 9  # select window 0 to 9
     PFX + ,       # rename window
+    PFX + &       # close current window
+    PFX + :swap-window -t -1  # move current window left one
 
     PFX + s       # show sessions
     PFX + d       # detach from session
