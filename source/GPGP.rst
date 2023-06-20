@@ -131,3 +131,20 @@ You must have LibreSSL 3.7.x+ (or any old OpenSSL 1.1+???) to use ED25519!
 * https://github.com/in-toto/in-toto-golang  not quite ready for prime-time yet!!!
 * https://github.com/mikalv/anything2ed25519
 * https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html
+
+
+Key Servers
+-----------
+
+* https://keys.openpgp.org/
+* https://keys.openpgp.org/about/api
+* https://keys.openpgp.org/search?q=0x3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C
+* https://keys.openpgp.org/vks/v1/by-fingerprint/3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C
+
+
+Golang
+------
+
+* https://github.com/golang/go/issues/44226  deprecated library!!!
+* https://github.com/ProtonMail/gopenpgp  possible replacement library
+* https://pkg.go.dev/github.com/ProtonMail/gopenpgp/v2  docs for possible replacement library
