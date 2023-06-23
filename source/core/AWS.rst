@@ -3,6 +3,7 @@ Other
 
 * https://awsregion.info/
 * https://instances.vantage.sh/ former ec2instances.info
+* http://aws.typepad.com/aws/atom.xml  RSS feed of AWS news posts
 * http://cloud-images.ubuntu.com/locator/ec2/
 * https://wiki.debian.org/Cloud/AmazonEC2Image/
 * https://www.uplinklabs.net/projects/arch-linux-on-ec2/
