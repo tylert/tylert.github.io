@@ -75,7 +75,7 @@ Video/Audio/Camera Awesome
 
 Just fix the title of the video file::
 
-    ffmpeg -i input.whatever -copy -map 0 -metadata title='Something else' output.whatever
+    ffmpeg -i input.whatever -c copy -map 0 -metadata title='Something else' output.whatever
 
 HandBrake settings for DVDs::
 
