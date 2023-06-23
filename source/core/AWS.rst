@@ -2,6 +2,7 @@ Other
 -----
 
 * https://awsregion.info/
+* https://ec2instances.github.io/  kinda replacement for ec2instances.info
 * https://instances.vantage.sh/ former ec2instances.info
 * http://aws.typepad.com/aws/atom.xml  RSS feed of AWS news posts
 * http://cloud-images.ubuntu.com/locator/ec2/
