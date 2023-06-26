@@ -570,6 +570,7 @@ Your Mom
 Ham Stuff
 ---------
 
+* https://github.com/ftl/cabrillo  read/write Cabrillo using Golang
 * https://github.com/flwyd/adif-multitool  convert ADIF to/from CSV
 * https://github.com/k0swe/adi2cbr  convert ADIF to Cabrillo
 * https://github.com/oIdq/qsls  convert ADIF to PDF
