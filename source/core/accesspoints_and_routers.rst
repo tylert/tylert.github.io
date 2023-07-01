@@ -89,6 +89,20 @@ Configuration thingies::
         General Settings                 :  IPv4 address, IPv4 gateway (IP of router)
         Advanced Settings                :  Use custom DNS servers (IP of router)
 
+::
+
+    # /etc/config/dhcp
+    uci del dhcp.lan.ra
+    uci del dhcp.lan.ra_slaac
+    uci del dhcp.lan.ra_flags
+    uci del dhcp.lan.dhcpv6
+    uci set dhcp.lan.ignore='1'
+    uci set dhcp.lan.dynamicdhcp='0'
+    # /etc/config/network
+    uci set network.lan.ipaddr='${IP_OF_AP}'
+    uci add_list network.lan.dns='${IP_OF_RTR}'
+
+
 Add stuff to /etc/rc.local (System -> Startup -> Local Startup)::
 
     for i in dnsmasq firewall odhcpd; do
