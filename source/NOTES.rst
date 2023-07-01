@@ -1,6 +1,11 @@
 Tmux With Terminal Stuff
 ------------------------
 
+* https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/
+* https://man.openbsd.org/tmux
+* https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf
+* https://www.ditig.com/256-colors-cheat-sheet
+
 ::
 
     # tmux
