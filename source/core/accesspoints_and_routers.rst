@@ -100,6 +100,7 @@ Configuration thingies::
     uci set dhcp.lan.dynamicdhcp='0'
     # /etc/config/network
     uci set network.lan.ipaddr='${IP_OF_AP}'
+    uci set network.lan.gateway='${IP_OF_RTR}'
     uci add_list network.lan.dns='${IP_OF_RTR}'
 
 
@@ -177,4 +178,5 @@ QoS setup::
     Network -> SQM QoS -> Basic Settings :  Download and upload speeds (in kbit/s)
                                          :    [15000 kbit/s download speed]
                                          :    [1500 kbit/s upload speed]
-                                         :  Enable this SQM interface checked
+                                         :  Enable this SQM instance checked
+                                         :  Interface name (eth0 => wan, wan6)
