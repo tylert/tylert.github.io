@@ -173,7 +173,7 @@ Steps for replacement of stock firmware::
 
 QoS setup::
 
-    # Install "sqm-scripts"
+    # Install "luci-app-sqm"
 
     Network -> SQM QoS -> Basic Settings :  Download and upload speeds (in kbit/s)
                                          :    [15000 kbit/s download speed]
