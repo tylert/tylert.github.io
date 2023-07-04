@@ -321,6 +321,8 @@ Cool Products
 * https://beepberry.sqfmi.com/
 * https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
 * https://dynomight.net/better-DIY-air-purifier.html
+* https://cast.otter.jetzt  open-source streaming audio gizmos
+* https://github.com/Ottercast/OtterCastAudioV2  open-source streaming audio gizmos
 
 
 Keyboard CNC

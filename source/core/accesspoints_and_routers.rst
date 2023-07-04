@@ -180,3 +180,9 @@ QoS setup::
                                          :    [1500 kbit/s upload speed]
                                          :  Enable this SQM instance checked
                                          :  Interface name (eth0 => wan, wan6)
+
+
+Other
+-----
+
+* https://github.com/benjojo/dumb-net-poller
