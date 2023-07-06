@@ -353,6 +353,19 @@ Kobo Stuff
 * https://github.com/olup/kobowriter
 
 
+Publishing Fun
+--------------
+
+* https://pagedjs.org/made-with-paged.js.html
+* https://gitlab.coko.foundation/pagedjs/pagedjs
+* https://gitlab.coko.foundation/pagedjs/pagedjs-cli
+* https://gitlab.coko.foundation/pagedjs/hugo-pagedjs-plugin
+* https://github.com/fisodd/hugo-restructured  sexy ReStructuredText markup theme for Hugo
+* https://hugo-restructured-demo.netlify.app/post/using-rest/  example of stuff you can do with hugo-restructured
+* https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
+* https://pandoc.org/
+
+
 RPG Stuff
 ---------
 
@@ -420,6 +433,7 @@ More
 
 * https://davidoha.medium.com/avoiding-bash-frustration-use-python-for-shell-scripts-44bba8ba1e9e
 * https://blog.jez.io/bash-debugger/
+* https://news.ycombinator.com/item?id=36605869  binary payloads at the end of bash scripts
 * https://johannes.truschnigg.info/writing/2021-12_colodebug/
 * https://dzone.com/articles/creating-a-highly-available-k3s-cluster
 * https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/
