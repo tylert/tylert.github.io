@@ -182,6 +182,7 @@ Unix/Linux/Shell Stuff
 ----------------------
 
 * https://fasterthanli.me/articles/a-terminal-case-of-linux  deep Rust/C and ancient nix voodoo
+* https://redsymbol.net/articles/bash-exit-traps/
 
 
 Python Stuff
@@ -247,3 +248,7 @@ Go Stuff
 * https://github.com/go-git/go-git
 * https://boyter.org/posts/how-to-start-go-project-2023/
 * https://mholt.github.io/json-to-go/
+* https://github.com/yngwiewang/carrier  like ansible ad-hoc but in golang
+* https://github.com/bramvdbogaerde/go-scp
+* https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/
+* https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/
