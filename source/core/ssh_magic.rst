@@ -101,6 +101,8 @@ Session Stuff
     Or, force the option for all future outgoing connections:
     Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section.
 
+* https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing
+
 
 VPN Magic
 ---------
