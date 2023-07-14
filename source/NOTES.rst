@@ -525,6 +525,8 @@ Container Stuff
 * https://determinate.systems/posts/nix-to-kubernetes
 * https://httptoolkit.com/blog/docker-image-registry-facade/
 * https://github.com/kubernetes/git-sync
+* https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
+* https://docs.docker.com/language/golang/build-images/
 
 
 Load-Balancing

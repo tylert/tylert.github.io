@@ -62,6 +62,13 @@ Self-Hosted
 * http://tilde.club  Unix/Linux playground
 
 
+Logging and Metrics
+-------------------
+
+* https://matduggan.com/were-all-doing-metrics-wrong/
+* https://kubernetes.io/docs/concepts/cluster-administration/logging/#cluster-level-logging-architectures
+
+
 Winderz
 -------
 
