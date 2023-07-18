@@ -41,6 +41,8 @@ VPN
 Self-Hosted
 -----------
 
+* https://stalw.art  single Rust binary/container for email server stuff
+* https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
 * https://github.com/awesome-selfhosted/awesome-selfhosted/
 * https://blog.ioces.com/matt/posts/everything-old-is-new-again/
 * https://github.com/librespeed/speedtest  self-hosted speed tests?
