@@ -96,10 +96,10 @@ Building New Firmware
 ::
 
     pip install qmk
-    qmk setup
 
-    qmk compile -kb durgod/k320 -km typhon
-    qmk compile -kb durgod/k310 -km chimera
+    qmk setup
+    qmk compile -kb durgod/k310/base -km typhon  # somebody broke k320:typhon keymaps
+    qmk compile -kb durgod/k310/base -km chimera
 
     mv durgod_k3x0_k320_base_typhon.bin qmk_${QMK_VERSION}_durgod_k3x0_k320_base_typhon.bin
     mv durgod_k3x0_k310_base_chimera.bin qmk_${QMK_VERSION}_durgod_k3x0_k310_base_chimera.bin
@@ -232,8 +232,8 @@ Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
 ::
 
     pip install qmk
-    qmk setup
 
-    qmk compile -kb the_uni/rp_2040 -km default
+    qmk setup
+    qmk compile -kb stenokeyboards/the_uni/rp_2040 -km default
 
     mv uni_default.u2f qmk_${QMK_VERSION}_uni_default.u2f
