@@ -153,3 +153,40 @@ Encrypted Root
 
 * https://gist.github.com/gea0/4fc2be0cb7a74d0e7cc4322aed710d38
 * https://wiki.polaire.nl/doku.php?id=archlinux-raspberry-encrypted
+
+
+Kiosk
+-----
+
+* http://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard/
+
+Do all the usual stuff with raspi-config first.
+
+Install packages needed for chromium::
+
+    sudo apt-get install chromium ttf-mscorefonts-installer
+
+Make sure the mouse cursor hides itself when it isn't being used::
+
+    sudo apt-get install unclutter
+
+To make chromium automatically start at boot time, add the following line to
+/home/pi/.config/lxsession/LXDE-pi/autostart::
+
+    chromium --kiosk http://bla.bla.bla --incognito
+
+It might also be helpful to add a symlink to it in the user's home directory
+to make it easier to find with::
+
+    ln -s /home/pi/.config/lxsession/LXDE-pi/autostart /home/pi
+
+To disable the screensaver, uncomment or add the following lines to
+/etc/lightdm/lightdm.conf::
+
+    [SeatDefaults]
+    xserver-command=X -s 0 -dpms
+
+To cut down on the boot chatter, add the following to the end of the line in
+/boot/cmdline.txt::
+
+    logo.nologo loglevel=3
