@@ -110,6 +110,9 @@ VPN Magic
 * https://orth.uk/ssh-over-cloudflare/
 * https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
 * https://github.com/cloudflare/cloudflared
+* https://github.com/gravitational/teleport
+* https://github.com/moul/awesome-ssh
+* https://github.com/moul/sshportal
 
 
 WG/SSH Evil
