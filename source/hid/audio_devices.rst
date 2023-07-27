@@ -8,7 +8,8 @@ Sennheiser HD 25 Headphones
 * https://www.thingiverse.com/thing:995632  cable holder
 * https://www.thingiverse.com/thing:1255436  detachable cable adapter
 * https://www.reddit.com/r/headphones/comments/4060mp/i_have_finalized_my_hd_25_detachable_cable_mod/  detachable cable adapter
-* http://imgur.com/a/5ICzN  detachable cable adapter
+* https://i.imgur.com/jwhD5me.png
+* https://i.imgur.com/xGCDm6p.jpg
 * https://www.youtube.com/watch?v=wB7Nhq5HQFA  history of the HD 25 headphones
 
 
@@ -19,6 +20,7 @@ Add-On Microphones
 * https://www.thingiverse.com/thing:4259926  "Micmod" magnetic adapter
 * https://www.thingiverse.com/thing:4363841  "Micmod" boom clip base
 * https://www.thingiverse.com/thing:4666221  alternative magnetic adapter
+* https://antlionaudio.com/collections/microphones/products/modmic-usb  the latest versions have an ugly wart in the wire that you can't easily remove
 
 
 3D-printed Headphones
