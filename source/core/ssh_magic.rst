@@ -121,8 +121,8 @@ WG/SSH Evil
 * https://fly.io/blog/our-user-mode-wireguard-year/
 
 
-SSH CA/Agent/Sudo/SSM
----------------------
+SSH CA/Agent/Sudo/Signing
+-------------------------
 
 * https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617
 * https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20
@@ -148,3 +148,6 @@ SSH CA/Agent/Sudo/SSM
 * https://smallstep.com/blog/diy-single-sign-on-for-ssh/
 * https://keepassxc.org/docs/#faq-ssh-agent-how  combine with other magic!!!
 * https://calebhearth.com/sign-git-with-ssh  sign git commits with SSH
+* https://www.agwa.name/blog/post/ssh_signatures
+* https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated
+* https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication
