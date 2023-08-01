@@ -67,16 +67,20 @@ Video/Audio/Camera Awesome
 
 ::
 
+    # Convert files to/from other formats
     ffmpeg -i foo.mov -map 0 -c copy foo.mp4
-    ffmpeg -i foo.mpg -r 30 -s 960x540 smaller.mp4
+    ffmpeg -i foo.webm -c copy foo.mp4
+
+    # Downsample videos and/or chop off/out sections based on time
     # to alter length of videos, after the -i, add:  '-ss' start time, '-t' duration or '-to' end time
-    # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file for the following command...
+    ffmpeg -i foo.mpg -r 30 -s 960x540 smaller.mp4
+
+    # Concatenate files end-to-end
+    # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file and then run
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 
     cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
     flac foo.wav
-
-    ffmpeg -i foo.webm -c copy foo.mp4
 
 Just fix the title of the video file::
 
@@ -124,12 +128,15 @@ HandBrake settings for DVDs::
     Subtitles:
         Foreign Audio Scan -> Burned Into Video (Forced Subtitles Only)
 
+* https://trac.ffmpeg.org/wiki/Capture/Desktop
+* https://img.ly/blog/ultimate-guide-to-ffmpeg/
+* https://www.mifi.no/losslesscut/
+* https://github.com/mifi/lossless-cut
+* https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video/
-* https://mifi.github.io/lossless-cut/
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
-* https://img.ly/blog/ultimate-guide-to-ffmpeg/
 * https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
 * https://www.diy-thermocam.net  IR imagery with nearly, all open-source stuff (Teensy--)
