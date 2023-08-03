@@ -147,7 +147,9 @@ SSH CA/Agent/Sudo/Signing
 * https://news.ycombinator.com/item?id=32660773  SSH CA discussion/poll
 * https://smallstep.com/blog/diy-single-sign-on-for-ssh/
 * https://keepassxc.org/docs/#faq-ssh-agent-how  combine with other magic!!!
+* https://www.agwa.name/blog/post/ssh_signatures  ssh signatures and signature verification
+* https://imzye.com/DevSecOps/signature-with-ssh-keys/  ssh signatures and signature verification
 * https://calebhearth.com/sign-git-with-ssh  sign git commits with SSH
-* https://www.agwa.name/blog/post/ssh_signatures
+* https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/  git commit signing
 * https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated
 * https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication
