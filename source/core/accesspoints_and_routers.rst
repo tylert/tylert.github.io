@@ -185,4 +185,5 @@ QoS setup::
 Other
 -----
 
+* https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt/
 * https://github.com/benjojo/dumb-net-poller
