@@ -176,8 +176,8 @@ QoS setup::
     # Install "luci-app-sqm"
 
     Network -> SQM QoS -> Basic Settings :  Download and upload speeds (in kbit/s)
-                                         :    [15000 kbit/s download speed]
-                                         :    [1500 kbit/s upload speed]
+                                         :    [30000 kbit/s download speed]
+                                         :    [3000 kbit/s upload speed]
                                          :  Enable this SQM instance checked
                                          :  Interface name (eth0 => wan, wan6)
 
