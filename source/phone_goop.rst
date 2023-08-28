@@ -184,8 +184,10 @@ Evict Obstinate System Apps
     com.google.android.gm
     com.google.android.googlequicksearchbox
     com.google.android.videos
+    com.google.android.wellbeing
     com.google.android.youtube
     com.google.ar.lens
+    com.heytap.accessory
     com.netflix.mediaclient
     com.netflix.partner.activation
     com.oneplus.membership
@@ -193,6 +195,7 @@ Evict Obstinate System Apps
     com.oplus.customize.coreapp
     com.oplus.games
     com.oplus.omoji
+    com.qti.qcc
     net.oneplus.forums
     net.oneplus.weather
     '
