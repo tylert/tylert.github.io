@@ -88,6 +88,7 @@ Just fix the title of the video file::
 
 HandBrake settings for DVDs::
 
+    # Start with settings 'Official -> General -> HQ 1080p30 Surround'
     Summary:
         Format:  MPEG-4 (avformat)
         Web Optimized:  disabled
@@ -95,11 +96,16 @@ HandBrake settings for DVDs::
         iPod 5G Support:  disabled
         Passthru Common Metadata:  enabled
     Dimensions:
-        Cropping:  None
+        Flipping Horizontal:  disabled
+        Rotation:  Off
+        Cropping:  Conservative or None depending on the disc
         Resolution Limit:  720p HD
         Anamorphic:  Automatic
         Optimal Size:  enabled
         Allow Upscaling:  disabled
+        Borders Fill:  None
+        Color:  Black
+        Final Dimensions Automatic:  enabled
     Filters:
         Detelecine:  Off
         Interlace Detection:  Default
@@ -114,13 +120,14 @@ HandBrake settings for DVDs::
     Video:
         Video Encoder:  H.264 (x264)
         Framerate:  30
-        Constant Framerate:  selected
         RF:  19
         Constant Quality:  selected
+        Constant Framerate:  selected
+        Preset:  slow
         Tune:  None
         Fast Decode:  disabled
-        Profile:  hight
-        Level:  3.1
+        Profile:  high
+        Level:  4.0
     Audio:
         Bitrate:  English (AC3) (5.1 ch) 448 kpbs (48 kHz) -> AAC (avcodec) Stereo 160 kbps
         Gain:  7 dB
