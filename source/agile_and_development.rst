@@ -258,3 +258,4 @@ Rust Stuff
 ----------
 
 * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+* https://words.filippo.io/rustgo/  calling Rust from Go
