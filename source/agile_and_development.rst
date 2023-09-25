@@ -252,6 +252,7 @@ Go Stuff
 * https://github.com/bramvdbogaerde/go-scp
 * https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/
 * https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/
+* http://golang50shad.es  common Go mistakes for beginners
 
 
 Rust Stuff
