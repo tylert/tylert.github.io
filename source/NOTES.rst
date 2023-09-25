@@ -479,6 +479,7 @@ SQLite
 Container Stuff
 ---------------
 
+* https://iximiuz.com/en/posts/container-networking-is-simple/
 * https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/
 * https://containers.gitbook.io/build-containers-the-hard-way/#walk-through-pulling-an-image-with-bash
 * https://github.com/google/go-containerregistry#tools
