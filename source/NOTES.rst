@@ -375,15 +375,15 @@ Publishing Fun
 * https://gitlab.coko.foundation/pagedjs/pagedjs-cli
 * https://gitlab.coko.foundation/pagedjs/hugo-pagedjs-plugin
 * https://github.com/fisodd/hugo-restructured  sexy ReStructuredText markup theme for Hugo
-* https://hugo-restructured-demo.netlify.app/post/using-rest/  example of stuff you can do with hugo-restructured
+* https://hugo-restructured-demo.netlify.app/post/using-rest  example of stuff you can do with hugo-restructured
 * https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
-* https://pandoc.org/
+* https://pandoc.org
 
 
 RPG Stuff
 ---------
 
-* https://adventurekeep.com/
+* https://adventurekeep.com
 * https://github.com/stassa/nests-and-insects  TTRPG
 * https://gitlab.com/wargames_tex/wargame_tex
 * https://gitlab.com/wargames_tex/bfm_tex
@@ -395,19 +395,19 @@ RPG Stuff
 Awesome Stuff
 -------------
 
-* http://www.1001fonts.com/
-* http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal/
+* http://www.1001fonts.com
+* http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal
 * https://github.com/ncrawforth/VT2040  portable serial terminal based on Pico
 * https://github.com/vha3/Hunter-Adams-RP2040-Demos  Ethernet and VGA for Pico
 * https://github.com/intenthq/anon
-* https://nodered.org/
+* https://nodered.org
 * https://github.com/fluent/fluent-bit
-* https://lucperkins.dev/blog/introducing-tract/
+* https://lucperkins.dev/blog/introducing-tract
 * https://learn.hashicorp.com/tutorials/terraform/count
-* https://blog.hansenpartnership.com/creating-a-home-ipv6-network/
-* https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/
+* https://blog.hansenpartnership.com/creating-a-home-ipv6-network
+* https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
-* https://www.alvarez.io/posts/living-like-it-s-99/
+* https://www.alvarez.io/posts/living-like-it-s-99
 * https://www.sliderulemuseum.com/SR_Course.htm
 * https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
@@ -416,9 +416,11 @@ Awesome Stuff
 * https://roadmap.sh/devops
 * https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
 * https://github.com/esimov/triangle  make bitmaps look all triangley
-* https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/
+* https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
 * https://www.cloudskillsboost.google/paths/118  generative AI learning path
-* https://stable-diffusion-art.com/qr-code/  artwork which incorporates a QR code into the image
+* https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
+* https://jamesbvaughan.com/southwest-wifi  probing flight info from in-flight wifi without wasting your money
+* https://github.com/NalinPlad/OuterFlightTracker  probing flight info from in-flight wifi without wasting your money
 
 
 Microservices
@@ -430,8 +432,8 @@ Microservices
 Time-Series and Graphing Considerations
 ---------------------------------------
 
-* https://www.datadoghq.com/blog/timeseries-metric-graphs-101/
-* https://www.datadoghq.com/blog/metric-units-descriptions-metadata/
+* https://www.datadoghq.com/blog/timeseries-metric-graphs-101
+* https://www.datadoghq.com/blog/metric-units-descriptions-metadata
 
 
 Crypto
@@ -439,25 +441,25 @@ Crypto
 
 * https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
 * https://github.com/sustrik/crypto-for-kids
-* https://lwn.net/Articles/867158/  PAM duress
+* https://lwn.net/Articles/867158  PAM duress
 
 
 More
 ----
 
 * https://davidoha.medium.com/avoiding-bash-frustration-use-python-for-shell-scripts-44bba8ba1e9e
-* https://blog.jez.io/bash-debugger/
+* https://blog.jez.io/bash-debugger
 * https://news.ycombinator.com/item?id=36605869  binary payloads at the end of bash scripts
-* https://johannes.truschnigg.info/writing/2021-12_colodebug/
+* https://johannes.truschnigg.info/writing/2021-12_colodebug
 * https://dzone.com/articles/creating-a-highly-available-k3s-cluster
 * https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/
-* https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge/
+* https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge
 * https://github.com/stephank/lazyssh
-* https://jamstack.org/
+* https://jamstack.org
 * https://www.wsta.org/wp-content/uploads/2018/09/Best-Practices-for-DevOps-Advanced-Deployment-Patterns.pdf
 * https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html
-* https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
-* https://bou.ke/blog/formulas/
+* https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser
+* https://bou.ke/blog/formulas
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com/  another replacement for Ansible?
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
