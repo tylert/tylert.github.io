@@ -236,6 +236,11 @@ Cool Shell Tricks
 * https://keepachangelog.com/en  old-school changelogs
 * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
 * https://thevaluable.dev/vim-advanced/
+* https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
+
+::
+
+    git ls-files -z | while IFS= read -rd '' f; do if file --mime-encoding "$f" | grep -qv binary; then tail -c1 < "$f" | read -r _ || echo >> "$f"; fi; done
 
 
 Assorted Things-to-Read
