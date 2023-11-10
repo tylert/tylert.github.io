@@ -606,6 +606,13 @@ Your Mom
 * https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/
 * https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
 * https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
+* https://keepassxc.org
+* https://keepassxc.org/docs
+* https://keepassxc.org/docs/KeePassXC_GettingStarted.html
+* https://keepassxc.org/docs/KeePassXC_UserGuide.html
+* https://en.wikipedia.org/wiki/Diceware
+* https://diceware.dmuth.org
+* https://www.eff.org/dice
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
 * http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
