@@ -78,7 +78,7 @@ QMK Firmware
 ------------
 
 QMK build "0.11.54" or newer includes the mainline-merged K320 code.
-K310 support is going to be merged "real soon now" (tm).
+QMK build "0.13.39" or newer includes the mainline-merged K310 code.
 
 * https://github.com/qmk/qmk_configurator/pull/887  for the K320
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen
@@ -175,6 +175,12 @@ Upload a firmware from a file to the keyboard::
     File downloaded successfully
 
 * https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html
+
+
+A Jump To Conclusions Key
+-------------------------
+
+* https://github.com/qmk/qmk_firmware/commit/47f55f417b9ecd2199b0b253e6dfb6881f9a8746
 
 
 Modifications
