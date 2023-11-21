@@ -60,6 +60,7 @@ Game Stuff
 * https://github.com/kentonv/lanparty
 * https://kilograham.github.io/rp2040-doom/
 * https://news.ycombinator.com/item?id=31590724
+* https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 
 
 Video/Audio/Camera Awesome
@@ -397,6 +398,16 @@ RPG Stuff
 * https://perchance.org/dnd-draconic-names
 
 
+Art Stuff
+---------
+
+* https://github.com/Acly/krita-ai-diffusion  Krita plugin for inpaint/outpaint within images!!!
+* https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
+* https://www.cloudskillsboost.google/paths/118  generative AI learning path
+* https://github.com/esimov/triangle  make bitmaps look all triangley
+* https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
+
+
 Awesome Stuff
 -------------
 
@@ -419,13 +430,10 @@ Awesome Stuff
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
-* https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
-* https://github.com/esimov/triangle  make bitmaps look all triangley
 * https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
-* https://www.cloudskillsboost.google/paths/118  generative AI learning path
-* https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
 * https://jamesbvaughan.com/southwest-wifi  probing flight info from in-flight wifi without wasting your money
 * https://github.com/NalinPlad/OuterFlightTracker  probing flight info from in-flight wifi without wasting your money
+* http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
 
 
 Microservices
@@ -600,8 +608,8 @@ Networking
 * https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
 
 
-Your Mom
---------
+Family IT Support Calls
+-----------------------
 
 * https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/
 * https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
@@ -615,8 +623,7 @@ Your Mom
 * https://www.eff.org/dice
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
-* http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
-* https://lwn.net/Articles/925870/  TOTP
+* https://lwn.net/Articles/925870  TOTP
 
 
 Ham Stuff
@@ -658,7 +665,7 @@ Ham Stuff
 Ribbit
 ------
 
-This might actually be awesome if they ever post the source code and put the app up on F-Droid.org (and make some more non-Android versions too).
+This might actually be awesome if they ever put the app up on F-Droid.org (and make some more non-Android versions too).
 The current closed-source app is called "Rattlegram" on The Poodle Grey Store.
 
 * https://www.ribbitradio.org/  official site
