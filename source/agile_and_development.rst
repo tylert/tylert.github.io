@@ -140,6 +140,12 @@ Books
 * https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
 
 
+CI/CD Stuff
+-----------
+
+* https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code
+
+
 Git Stuff
 ---------
 
