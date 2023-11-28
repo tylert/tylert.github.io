@@ -27,8 +27,8 @@ Kanban Offline
 --------------
 
 * https://github.com/greggigon/my-personal-kanban
-* http://greggigon.github.io/my-personal-kanban/
-* https://my-personal-kanban.appspot.com/
+* http://greggigon.github.io/my-personal-kanban
+* https://my-personal-kanban.appspot.com
 
 ::
 
@@ -39,76 +39,77 @@ Supply Chain Magic
 ------------------
 
 * https://www.youtube.com/watch?v=JC-xCXcyNXI
-* https://slsa.dev/
+* https://slsa.dev
 * https://github.com/gomods/athens
 * https://gomods.io/
 * https://dev.to/johanlejdung/a-mini-guide-go-modules-and-private-repositories-4c7o
 * https://go.dev/ref/mod#private-module-privacy
 * https://go.dev/ref/mod
-* https://proxy.golang.org/
-* https://roberto.selbach.ca/go-proxies/
+* https://proxy.golang.org
+* https://roberto.selbach.ca/go-proxies
 * https://github.com/spdx/tools-golang
-* https://spdx.dev/
+* https://spdx.dev
 * https://github.com/opensbom-generator/spdx-sbom-generator
 
 
 Software Design and Documentation
 ---------------------------------
 
-* http://craftinginterpreters.com/
-* https://threedots.tech/post/software-dark-ages/
-* https://www.writethedocs.org/guide/
+* http://craftinginterpreters.com
+* https://threedots.tech/post/software-dark-ages
+* https://www.writethedocs.org/guide
 
 
 Development
 -----------
 
-* https://docs.cloudposse.com/  best practices
+* https://docs.cloudposse.com  best practices
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
-* http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/
+* http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston
 * http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
 * http://redsquirrel.com/dave/work/a2j/patterns/SustainableMotivations.html
 * https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
 * https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-* https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant/
-* https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+* https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant
+* https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
 * https://github.com/hackergrrl/art-of-readme
 * https://blog.mechanicalrock.io/2020/10/06/manual-gates-git-flow-in-a-wig.html
 * https://blog.mechanicalrock.io/2019/07/01/continuous-deployment-the-first-step-on-the-road-to-recovery.html
 * https://blog.mechanicalrock.io/2020/05/04/strangler-pattern.html
 * https://www.endoflineblog.com/gitflow-considered-harmful
 * https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
-* https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
+* https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful
 * https://martinfowler.com/bliki/BranchByAbstraction.html
 * https://martinfowler.com/bliki/StranglerFigApplication.html
 * https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/#toc-use-feature-toggles
 * https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern
 * https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig
-* https://mtlynch.io/code-review-love/
+* https://mtlynch.io/code-review-love
 * https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/april/alm-rangers-a-treasure-hunt-through-alm-readiness
 * https://martinfowler.com/articles/ship-show-ask.html
 * https://www.cmcrossroads.com/article/pros-and-cons-four-kinds-code-reviews
 * https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
-* https://12factor.net/
-* https://stokoe.me/summary-hammock-driven-development/
-* https://semver.org/
+* https://12factor.net
+* https://stokoe.me/summary-hammock-driven-development
+* https://semver.org
 * http://www.catb.org/~esr/faqs/smart-questions.html
 * https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
+* https://changelog.com/posts/things-we-always-remind-ourselves-while-coding
 
 
 Mentorship Stuff
 ----------------
 
-* https://1x.engineer/
+* https://1x.engineer
 * https://taylor.town/-10x
-* https://lethain.com/eng-strategies/
+* https://lethain.com/eng-strategies
 * https://mcfunley.com/choose-boring-technology
-* http://randsinrepose.com/archives/bored-people-quit/
-* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
+* http://randsinrepose.com/archives/bored-people-quit
+* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
 * http://www.daedtech.com/how-to-keep-your-best-programmers
 
 
@@ -142,12 +143,12 @@ Books
 Git Stuff
 ---------
 
-* https://leosiddle.com/posts/2020/07/git-config-pull-rebase-autostash/
+* https://leosiddle.com/posts/2020/07/git-config-pull-rebase-autostash
 * https://gitolite.com/git-pull--rebase
 * https://coderwall.com/p/7aymfa/please-oh-please-use-git-pull-rebase
-* https://lukemerrett.com/different-merge-types-in-git/
-* https://xkcd.com/1296/  git commit messages
-* https://cbea.ms/git-commit/
+* https://lukemerrett.com/different-merge-types-in-git
+* https://xkcd.com/1296  git commit messages
+* https://cbea.ms/git-commit
 * https://leoneperdigao.medium.com/pull-request-best-practices-fa20f7daeb3c
 * https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
 * https://trunkbaseddevelopment.com/#scaled-trunk-based-development
@@ -155,34 +156,34 @@ Git Stuff
 * https://makandracards.com/makandra/527-squashing-several-git-commits-into-a-single-commit
 * https://gitbetter.substack.com/p/how-to-squash-git-commits
 * https://davidwalsh.name/squash-commits-git
-* https://blog.carbonfive.com/always-squash-and-rebase-your-git-commits/
+* https://blog.carbonfive.com/always-squash-and-rebase-your-git-commits
 * https://betterprogramming.pub/why-and-how-to-squash-git-commits-b508b3b0dba
 * https://github.com/erlang/otp/wiki/writing-good-commit-messages
-* https://paulhammant.com/2013/04/05/what-is-trunk-based-development/
+* https://paulhammant.com/2013/04/05/what-is-trunk-based-development
 * https://www.gitops.tech/
-* https://baatz.io/2015/how-many-git-repos/
+* https://baatz.io/2015/how-many-git-repos
 * https://cerfacs.fr/coop/coop-cactus-model
-* https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/
-* https://blog.sulami.xyz/posts/cleaning-up-git-history/
-* http://rogerdudler.github.io/git-guide/
+* https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy
+* https://blog.sulami.xyz/posts/cleaning-up-git-history
+* http://rogerdudler.github.io/git-guide
 * https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
-* https://lethain.com/trunk-and-branches/
+* https://lethain.com/trunk-and-branches
 * https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
 
 
 Process Stuff
 -------------
 
-* https://www.rubick.com/process-gates-of-hell/
-* https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops/
+* https://www.rubick.com/process-gates-of-hell
+* https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops
 
 
 Unix/Linux/Shell Stuff
 ----------------------
 
 * https://fasterthanli.me/articles/a-terminal-case-of-linux  deep Rust/C and ancient nix voodoo
-* https://redsymbol.net/articles/bash-exit-traps/
+* https://redsymbol.net/articles/bash-exit-traps
 
 
 Python Stuff
@@ -218,16 +219,16 @@ Go Stuff
 * https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
 * https://jogendra.dev/building-command-line-tools-in-go
 * https://coder.com/blog/building-command-line-tools-with-go
-* https://gocli.io/
+* https://gocli.io
 * https://github.com/tmrts/boilr
-* https://quii.gitbook.io/learn-go-with-tests/
+* https://quii.gitbook.io/learn-go-with-tests
 * https://github.com/jltorresm/otpgo  TOTP
 * https://github.com/pquerna/otp  TOTP
 * https://go.dev/ref/mod
-* https://roberto.selbach.ca/go-proxies/
+* https://roberto.selbach.ca/go-proxies
 * https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
-* https://awesome-go.com/
-* https://www.awesomego.net/
+* https://awesome-go.com
+* https://www.awesomego.net
 * https://github.com/felixge/fgtrace  Go tracing
 * https://github.com/nikolaydubina/go-recipes
 * https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
@@ -236,23 +237,25 @@ Go Stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io/  JWT/JOSE stuff
-* https://drstearns.github.io/tutorials/gojson/
+* https://drstearns.github.io/tutorials/gojson
 * https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/sample-apps/blank-go/function/main.go
-* https://tailscale.com/blog/netaddr-new-ip-type-for-go/  IP stuff
+* https://tailscale.com/blog/netaddr-new-ip-type-for-go  IP stuff
 * https://stackoverflow.com/questions/19882961/go-golang-check-ip-address-in-range  IP stuff
 * https://pkg.go.dev/net/netip  IP stuff
 * https://pkg.go.dev/net  IP stuff
-* https://hmarr.com/blog/go-allocation-hunting/
+* https://hmarr.com/blog/go-allocation-hunting
 * https://otterize.com/blog/golang-contexts-and-blocking-functions
-* https://ish-ar.io/tutorial-go-git/
+* https://ish-ar.io/tutorial-go-git
 * https://github.com/go-git/go-git
-* https://boyter.org/posts/how-to-start-go-project-2023/
-* https://mholt.github.io/json-to-go/
+* https://boyter.org/posts/how-to-start-go-project-2023
+* https://mholt.github.io/json-to-go
 * https://github.com/yngwiewang/carrier  like ansible ad-hoc but in golang
 * https://github.com/bramvdbogaerde/go-scp
-* https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/
-* https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/
+* https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go
+* https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code
 * http://golang50shad.es  common Go mistakes for beginners
+* https://threedots.tech/post/making-games-in-go
+* https://ebitengine.org  2d library
 
 
 Rust Stuff
