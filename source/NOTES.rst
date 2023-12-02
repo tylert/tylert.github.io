@@ -406,6 +406,7 @@ Art Stuff
 * https://www.cloudskillsboost.google/paths/118  generative AI learning path
 * https://github.com/esimov/triangle  make bitmaps look all triangley
 * https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
+* https://simonwillison.net/2023/Nov/29/llamafile
 
 
 Awesome Stuff
@@ -489,6 +490,8 @@ SQLite
 * https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
 * https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
 * https://stackoverflow.com/questions/9410011/multiple-files-for-a-single-sqlite-database
+* https://github.com/orbitinghail/sqlsync
+* https://sqlsync.dev/posts/stop-building-databases
 
 
 Container Stuff
