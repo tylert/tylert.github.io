@@ -262,6 +262,7 @@ Go Stuff
 * http://golang50shad.es  common Go mistakes for beginners
 * https://threedots.tech/post/making-games-in-go
 * https://ebitengine.org  2d library
+* https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc  some Go tricks
 
 
 Rust Stuff
