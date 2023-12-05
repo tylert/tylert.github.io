@@ -485,7 +485,7 @@ SQLite
 ------
 
 * https://www.sqlite.org/json1.html
-* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database/
+* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
 * https://simonwillison.net/2021/Feb/21/cross-database-queries/  sqlite looking across databases
 * https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
 * https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
@@ -497,86 +497,86 @@ SQLite
 Container Stuff
 ---------------
 
-* https://iximiuz.com/en/posts/container-networking-is-simple/
-* https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/
+* https://iximiuz.com/en/posts/container-networking-is-simple
+* https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok
 * https://containers.gitbook.io/build-containers-the-hard-way/#walk-through-pulling-an-image-with-bash
 * https://github.com/google/go-containerregistry#tools
 * https://github.com/ko-build/ko#ko-easy-go-containers
 * https://github.com/containers/skopeo
 * https://github.com/jpetazzo/registrish
-* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
-* https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
+* https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format
+* https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace
 * https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
 * http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
-* http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container/
-* http://prakhar.me/docker-curriculum/
+* http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container
+* http://prakhar.me/docker-curriculum
 * http://stackoverflow.com/questions/18274088/how-can-i-make-my-own-base-image-for-docker
 * http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
-* http://www.aossama.com/build-debian-docker-image-from-scratch/
-* https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot/
-* https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration/
+* http://www.aossama.com/build-debian-docker-image-from-scratch
+* https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot
+* https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration
 * https://github.com/openshift-evangelists/openshift-workshops/blob/master/modules/run-as-non-root.adoc#switching-the-user
 * https://docs.openshift.org/latest/creating_images/guidelines.html#use-uid
-* http://www.projectatomic.io/docs/docker-image-author-guidance/
-* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
+* http://www.projectatomic.io/docs/docker-image-author-guidance
+* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers
 * https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
-* https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
+* https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images
 * https://wiki.apache.org/httpd/NonRootPortBinding
 * https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
-* https://erkanerol.github.io/post/how-kubectl-exec-works/
+* https://erkanerol.github.io/post/how-kubectl-exec-works
 * https://www.youtube.com/watch?v=g4PCTodIm80  Why I use Rancher (2021) - Fleet awesomeness
 * https://www.hashicorp.com/resources/hashinetes-combining-kubernetes-hashicorp-kelsey-hightower  Hashinetes
 * https://www.youtube.com/watch?v=_dn4c9j7LUo
 * https://github.com/containerd/nerdctl
-* https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
+* https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman
 * https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
 * https://github.com/k8s-at-home/charts
 * https://github.com/k8s-at-home/awesome-home-kubernetes
-* https://billglover.me/2020/01/12/the-sidecar-pattern/
+* https://billglover.me/2020/01/12/the-sidecar-pattern
 * https://github.com/ramitsurana/awesome-kubernetes
 * https://ramitsurana.github.io/awesome-kubernetes
 * https://github.com/run-x/awesome-kubernetes
-* https://awesome-kubernetes.com/
-* https://earthly.dev/blog/aws-lambda-docker/
+* https://awesome-kubernetes.com
+* https://earthly.dev/blog/aws-lambda-docker
 * https://github.com/cloudposse/charts/tree/master/incubator/monochart  monochart
 * https://github.com/itscontained/charts/tree/master/itscontained/raw  rawchart
 * https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644
-* https://iximiuz.com/en/posts/container-networking-is-simple/
+* https://iximiuz.com/en/posts/container-networking-is-simple
 * https://www.youtube.com/watch?v=k58WnbKmjdA&feature=emb_logo
 * https://nix.dev/tutorials/building-and-running-docker-images
-* https://ianthehenry.com/posts/how-to-learn-nix/
+* https://ianthehenry.com/posts/how-to-learn-nix
 * https://github.com/tianon/gosu
-* https://docs.gocd.org/current/
+* https://docs.gocd.org/current
 * https://github.com/routernetes/routernetes  dedicated router with k8s???
 * https://k8s.voltaicforge.com/  PXE boot bare metal + install Talos, Sidero, K8s
 * https://driftingin.space/posts/complexity-kubernetes
 * https://github.com/containers/skopeo/blob/main/docs/skopeo-standalone-sign.1.md#notes
 * https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai
-* https://blog.ttulka.com/building-container-images-without-dockerfile/
-* https://iximiuz.com/en/posts/container-learning-path/
-* https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/
+* https://blog.ttulka.com/building-container-images-without-dockerfile
+* https://iximiuz.com/en/posts/container-learning-path
+* https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it
 * https://determinate.systems/posts/nix-to-kubernetes
-* https://httptoolkit.com/blog/docker-image-registry-facade/
+* https://httptoolkit.com/blog/docker-image-registry-facade
 * https://github.com/kubernetes/git-sync
 * https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
-* https://docs.docker.com/language/golang/build-images/
+* https://docs.docker.com/language/golang/build-images
 
 
 Load-Balancing
 --------------
 
-* https://metallb.org/
-* https://fabiolb.net/  uses HashiCorp Consul
-* https://www.loxilb.io/  uses eBPF
-* https://ebpf.io/
-* https://samwho.dev/load-balancing/  visualization of different load-balancing strategies
+* https://metallb.org
+* https://fabiolb.net  uses HashiCorp Consul
+* https://www.loxilb.io  uses eBPF
+* https://ebpf.io
+* https://samwho.dev/load-balancing  visualization of different load-balancing strategies
 
 
 Vault Awesome
 -------------
 
-* https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/
-* https://austincloud.guru/2020/03/12/using-vault-with-jenkins/
+* https://sreeninet.wordpress.com/2016/10/01/vault-use-cases
+* https://austincloud.guru/2020/03/12/using-vault-with-jenkins
 
 
 Terraform Awesome
@@ -585,37 +585,38 @@ Terraform Awesome
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
 * https://www.terraform.io/docs/commands/state/rm.html
 * https://www.baeldung.com/ops/terraform-best-practices
-* https://www.terraform-best-practices.com/
+* https://www.terraform-best-practices.com
 * https://bit.ly/terraform-youtube  GH antonbabenko
 * https://github.com/antonbabenko
-* https://serverless.tf/
+* https://serverless.tf
 * https://github.com/terralist/terralist  private module registry
 
 
 Networking
 ----------
 
-* https://blog.ikuamike.io/posts/2021/netcat/
-* https://spiffe.io/
-* https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
+* https://blog.ikuamike.io/posts/2021/netcat
+* https://spiffe.io
+* https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark
 * https://sive.rs/com  build a database of domains to make it easier to pick new ones to register
 * https://github.com/iovisor/bcc
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
-* https://www.seekret.io/blog/ebpf-nuances-on-minikube/
-* https://wicg.github.io/ua-client-hints/  User-agent info including stuff like GOOS, GOARCH???
+* https://www.seekret.io/blog/ebpf-nuances-on-minikube
+* https://wicg.github.io/ua-client-hints  User-agent info including stuff like GOOS, GOARCH???
 * https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant/
 * https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
 * https://blog.sigma-star.at/post/2023/05/sandbox-netns  using namespaces to isolate processes
 * https://github.com/lizrice/ebpf-beginners  eBPF learning awesome
-* https://drgn.readthedocs.io/  Linux kernel debugger with Python niceities
+* https://drgn.readthedocs.io  Linux kernel debugger with Python niceities
 * https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
+* https://ebpf.io/what-is-ebpf
 
 
 Family IT Support Calls
 -----------------------
 
-* https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/
-* https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
+* https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1
+* https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2
 * https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
 * https://keepassxc.org
 * https://keepassxc.org/docs
@@ -625,7 +626,7 @@ Family IT Support Calls
 * https://diceware.dmuth.org
 * https://www.eff.org/dice
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
-* https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing/
+* https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://lwn.net/Articles/925870  TOTP
 
 
@@ -639,7 +640,7 @@ Ham Stuff
 * https://github.com/oIdq/qsls  convert ADIF to PDF
 * https://github.com/Matir/adifparser
 * https://github.com/tzneal/ham-go
-* https://pypi.org/project/adif-io/
+* https://pypi.org/project/adif-io
 * https://github.com/xaratustrah/dolphinlog  Python SQLite logger with ADIF 3.x.x export
 * https://github.com/sq8kfh/hamutils  another Python library for dealing with logs
 * https://github.com/timseed/adif_to_csv
@@ -657,9 +658,9 @@ Ham Stuff
 * https://github.com/BrucePerens/rigcontrol
 * https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
 * `https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#`  IMS 100 self-study course
-* https://www.onallbands.com/simple-filters-from-transmission-line-stubs/  coax stub filters
+* https://www.onallbands.com/simple-filters-from-transmission-line-stubs  coax stub filters
 * http://www.k1ttt.net/technote/k2trstub.html  coax stub filters
-* https://www.n1nc.org/Filters/  ugly filter project
+* https://www.n1nc.org/Filters  ugly filter project
 * https://groups.io/g/TXBPF/message/3034  W3NQN-compatible filters with a more reasonable price tag
 * https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
 * https://www.youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
@@ -671,7 +672,7 @@ Ribbit
 This might actually be awesome if they ever put the app up on F-Droid.org (and make some more non-Android versions too).
 The current closed-source app is called "Rattlegram" on The Poodle Grey Store.
 
-* https://www.ribbitradio.org/  official site
+* https://www.ribbitradio.org  official site
 * https://github.com/aicodix/rattlegram  holy frickin' moley!!! source code!!!
 * https://github.com/phase4ground/ribbit  possible location for source code... eventually???
 * https://www.youtube.com/watch?v=_jN4IVccIEw  initial presentation video

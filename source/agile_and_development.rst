@@ -65,6 +65,7 @@ Development
 
 * https://docs.cloudposse.com  best practices
 * http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
+* https://blog.stulta.dev/posts/stupid_tools
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston
 * http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
@@ -93,12 +94,19 @@ Development
 * https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
 * https://12factor.net
 * https://stokoe.me/summary-hammock-driven-development
-* https://semver.org
 * http://www.catb.org/~esr/faqs/smart-questions.html
 * https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
 * https://changelog.com/posts/things-we-always-remind-ourselves-while-coding
+
+
+Versioning
+----------
+
+* https://semver.org
+* https://pragver.github.io
+* https://github.com/seveibar/pragmaticversioning
 
 
 Mentorship Stuff
@@ -166,7 +174,7 @@ Git Stuff
 * https://betterprogramming.pub/why-and-how-to-squash-git-commits-b508b3b0dba
 * https://github.com/erlang/otp/wiki/writing-good-commit-messages
 * https://paulhammant.com/2013/04/05/what-is-trunk-based-development
-* https://www.gitops.tech/
+* https://www.gitops.tech
 * https://baatz.io/2015/how-many-git-repos
 * https://cerfacs.fr/coop/coop-cactus-model
 * https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy
@@ -242,7 +250,7 @@ Go Stuff
 * https://www.arp242.net/flags-config-go.html  config stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
-* https://paseto.io/  JWT/JOSE stuff
+* https://paseto.io  JWT/JOSE stuff
 * https://drstearns.github.io/tutorials/gojson
 * https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/sample-apps/blank-go/function/main.go
 * https://tailscale.com/blog/netaddr-new-ip-type-for-go  IP stuff
@@ -269,4 +277,5 @@ Rust Stuff
 ----------
 
 * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-* https://words.filippo.io/rustgo/  calling Rust from Go
+* https://words.filippo.io/rustgo  calling Rust from Go
+* https://aya-rs.dev  eBPF
