@@ -62,14 +62,15 @@ Initial Setup
     rw
 
     # Correct the timezone
-    timedatectl show
-    timedatectl list-timezones
-    timedatectl set-timezone UTC
+    # timedatectl show
+    # timedatectl list-timezones
+    # timedatectl set-timezone UTC
 
     # Fix /etc/hostname manually or use the following...
     hostnamectl set-hostname pantaloons
     hostname pantaloons
     # Fix host in /etc/kvmd/meta.yaml too for the webUI
+    # Replace localhost.localdomain with new hostname
 
     # Change the default web and ssh passwords
     # Use the local terminal and use su or ssh in, then do...
@@ -84,7 +85,7 @@ Firmware and Extras
 
     pacman --noconfirm --sync wireguard-tools
 
-    pacman --noconfirm --sync rpi-eeprom
+    pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
     rpi-eeprom-update -a -d
 
 
