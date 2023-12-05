@@ -188,14 +188,15 @@ Account Setup
 Assorted
 --------
 
-* https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/
-* https://launchbylunch.com/posts/2014/Jan/29/aws-tips/
-* http://cloudacademy.com/blog/centralized-log-management-with-aws-cloudwatch-part-3-of-3/
-* http://cloudacademy.com/blog/aws-cloudwatch-monitoring/
+* https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started
+* https://launchbylunch.com/posts/2014/Jan/29/aws-tips
+* http://cloudacademy.com/blog/centralized-log-management-with-aws-cloudwatch-part-3-of-3
+* http://cloudacademy.com/blog/aws-cloudwatch-monitoring
 * https://aws.amazon.com/freertos/
 * https://en.wikipedia.org/wiki/FreeRTOS
 * https://github.com/codahale/sneaker
 * https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
+* https://aws.amazon.com/blogs/architecture/migrate-resources-between-aws-accounts
 
 
 Cloud Backup and Recovery
