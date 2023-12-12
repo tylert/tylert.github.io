@@ -1,7 +1,7 @@
 Tmux With Terminal Stuff
 ------------------------
 
-* https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/
+* https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar
 * https://man.openbsd.org/tmux
 * https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf
 * https://www.ditig.com/256-colors-cheat-sheet
@@ -51,14 +51,14 @@ Record terminal commands to an SVG animation::
 * https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
 * https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
 * https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
-* https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/
+* https://aj.codes/posts/be-careful-using-tmux-and-environment-variables
 
 
 Game Stuff
 ----------
 
 * https://github.com/kentonv/lanparty
-* https://kilograham.github.io/rp2040-doom/
+* https://kilograham.github.io/rp2040-doom
 * https://news.ycombinator.com/item?id=31590724
 * https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 
@@ -137,15 +137,15 @@ HandBrake settings for DVDs::
         Foreign Audio Scan -> Burned Into Video (Forced Subtitles Only)
 
 * https://trac.ffmpeg.org/wiki/Capture/Desktop
-* https://img.ly/blog/ultimate-guide-to-ffmpeg/
-* https://www.mifi.no/losslesscut/
+* https://img.ly/blog/ultimate-guide-to-ffmpeg
+* https://www.mifi.no/losslesscut
 * https://github.com/mifi/lossless-cut
 * https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video/
-* https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+* https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
-* https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
+* https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
 * https://www.diy-thermocam.net  IR imagery with nearly, all open-source stuff (Teensy--)
 
@@ -155,8 +155,8 @@ Apt Stuff
 
 * http://www.boehmi.net/index.php/blog/14-how-to-setup-an-apt-cacher-ng-server-in-ubuntu
 * https://help.ubuntu.com/community/Apt-Cacher-Server
-* https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings?highlight=%28\bCategoryInternet\b%29
-* http://docs.docker.com/examples/apt-cacher-ng/
+* `https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings?highlight=%28\bCategoryInternet\b%29`
+* http://docs.docker.com/examples/apt-cacher-ng
 
 (on apt-cacher-ng server)::
 
@@ -201,12 +201,14 @@ Official OS Images
 * https://github.com/debuerreotype/docker-debian-artifacts  Debian
 * https://github.com/tianon/docker-brew-ubuntu-core  Ubuntu
 * https://github.com/alpinelinux/docker-alpine  Alpine Linux
-* https://partner-images.canonical.com/oci/  Ubuntu root fs tarballs for containers "FROM scratch"
-* https://cloud-images.ubuntu.com/  OVA, VDI, IMG, etc.
-* https://cloud-images.ubuntu.com/locator/  AMIs, etc.
-* https://hub.docker.com/_/debian/  Voldemorthub Debian
-* https://hub.docker.com/_/ubuntu/  Voldemorthub Ubuntu
-* https://hub.docker.com/_/alpine/  Voldemorthub Alpine
+* https://partner-images.canonical.com/oci  Ubuntu root fs tarballs for containers "FROM scratch"
+* https://cloud-images.ubuntu.com  OVA, VDI, IMG, etc.
+* https://cloud-images.ubuntu.com/locator  AMIs, etc.
+* https://hub.docker.com/_/debian  Voldemorthub Debian
+* https://hub.docker.com/_/ubuntu  Voldemorthub Ubuntu
+* https://hub.docker.com/_/alpine  Voldemorthub Alpine
+* https://ubuntu.com/blog/craft-custom-chiselled-ubuntu-distroless
+* https://github.com/canonical/chisel
 
 Typical OS container image "Dockerfile"::
 
@@ -219,7 +221,7 @@ LDAP/Kerberos
 -------------
 
 * http://aput.net/~jheiss/krbldap/howto.html
-* http://www.roguelynn.com/words/explain-like-im-5-kerberos/
+* http://www.roguelynn.com/words/explain-like-im-5-kerberos
 * https://help.ubuntu.com/lts/serverguide/kerberos-ldap.html
 * https://wiki.debian.org/LDAP/Kerberos
 
@@ -232,11 +234,11 @@ Cool Shell Tricks
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
-* https://sharats.me/posts/shell-script-best-practices/
+* https://sharats.me/posts/shell-script-best-practices
 * https://github.com/jlevy/the-art-of-command-line
 * https://keepachangelog.com/en  old-school changelogs
 * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
-* https://thevaluable.dev/vim-advanced/
+* https://thevaluable.dev/vim-advanced
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
 
 ::
@@ -247,30 +249,30 @@ Cool Shell Tricks
 Assorted Things-to-Read
 -----------------------
 
-* http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/
-* http://chris.beams.io/posts/git-commit/
-* http://lett.be/oauth2/
+* http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1
+* http://chris.beams.io/posts/git-commit
+* http://lett.be/oauth2
 * http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop
-* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
+* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it/
+* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
 * http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/
 * https://github.com/mitchellh/packer/pull/2962
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
-* https://mergeboard.com/blog/2-qemu-microvm-docker/
-* https://plaintextaccounting.org/
+* https://mergeboard.com/blog/2-qemu-microvm-docker
+* https://plaintextaccounting.org
 * https://www.netmeister.org/blog/inet_aton.html
-* https://randsinrepose.com/archives/the-seven-levels-of-busy/
-* https://kellycordes.com/2009/11/02/the-fun-scale/
-* https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/
+* https://randsinrepose.com/archives/the-seven-levels-of-busy
+* https://kellycordes.com/2009/11/02/the-fun-scale
+* https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two
 * https://sambleckley.com/writing/church-of-interruption.html
-* https://tynan.com/letstalk/
+* https://tynan.com/letstalk
 * https://www.neelnanda.io/blog/43-making-friends
 * http://www.structuredprocrastination.com/index.php
-* https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
-* https://blog.jim-nielsen.com/2022/what-work-looks-like/
+* https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office
+* https://blog.jim-nielsen.com/2022/what-work-looks-like
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
-* http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/
+* http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
@@ -303,7 +305,7 @@ macOS::
 
     open -a KeePassXC --args --allow-screencapture
 
-* https://keepassxc.org/
+* https://keepassxc.org
 * https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options  allow screenshots
 * https://github.com/keepassxreboot/keepassxc/issues/4555#issuecomment-610626477  merge dbs in GUI
 * https://github.com/keepassxreboot/keepassxc/issues/2937#issuecomment-538592022  merge dbs in TUI
@@ -322,12 +324,14 @@ Secret Management Stuff
 -----------------------
 
 * https://github.com/sniptt-official/ots
-* https://www.sniptt.com/ots/
+* https://www.sniptt.com/ots
 * https://github.com/onetimesecret/onetimesecret
-* https://onetimesecret.com/
-* https://mprimi.github.io/portable-secret/
+* https://onetimesecret.com
+* https://mprimi.github.io/portable-secret
 * https://github.com/mprimi/portable-secret
-* https://www.franzoni.eu/password-requirements-myths-madness/
+* https://www.franzoni.eu/password-requirements-myths-madness
+* https://github.com/slok/agebox  works with SSH pub keys even
+* https://github.com/getsops/sops  kubernetes-compatible secret stuff???
 
 
 Cool Products
@@ -466,7 +470,7 @@ More
 * https://news.ycombinator.com/item?id=36605869  binary payloads at the end of bash scripts
 * https://johannes.truschnigg.info/writing/2021-12_colodebug
 * https://dzone.com/articles/creating-a-highly-available-k3s-cluster
-* https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/
+* https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform
 * https://thenewstack.io/tutorial-install-a-highly-available-k3s-cluster-at-the-edge
 * https://github.com/stephank/lazyssh
 * https://jamstack.org
@@ -486,12 +490,13 @@ SQLite
 
 * https://www.sqlite.org/json1.html
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
-* https://simonwillison.net/2021/Feb/21/cross-database-queries/  sqlite looking across databases
+* https://simonwillison.net/2021/Feb/21/cross-database-queries  sqlite looking across databases
 * https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
 * https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
 * https://stackoverflow.com/questions/9410011/multiple-files-for-a-single-sqlite-database
 * https://github.com/orbitinghail/sqlsync
 * https://sqlsync.dev/posts/stop-building-databases
+* https://github.com/maxpert/marmot  distributed sqlite
 
 
 Container Stuff
@@ -506,7 +511,7 @@ Container Stuff
 * https://github.com/jpetazzo/registrish
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format
 * https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace
-* https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers/
+* https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers
 * http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
 * http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container
 * http://prakhar.me/docker-curriculum
@@ -603,7 +608,7 @@ Networking
 * https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
 * https://www.seekret.io/blog/ebpf-nuances-on-minikube
 * https://wicg.github.io/ua-client-hints  User-agent info including stuff like GOOS, GOARCH???
-* https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant/
+* https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant
 * https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
 * https://blog.sigma-star.at/post/2023/05/sandbox-netns  using namespaces to isolate processes
 * https://github.com/lizrice/ebpf-beginners  eBPF learning awesome
