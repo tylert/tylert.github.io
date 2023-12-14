@@ -234,7 +234,6 @@ Cool Shell Tricks
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
-* https://sharats.me/posts/shell-script-best-practices
 * https://github.com/jlevy/the-art-of-command-line
 * https://keepachangelog.com/en  old-school changelogs
 * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
