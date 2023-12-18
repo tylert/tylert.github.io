@@ -29,6 +29,11 @@ If you have a pesky zip file::
     sync
 
     touch /dev/sdz/boot/ssh
+    openssl passwd -6  # append to user:hash in boot/userconf.txt
+
+* https://www.raspberrypi.com/documentation/computers/configuration.html#configuring-a-user
+* https://www.raspberrypi.com/documentation/computers/remote-access.html
+* https://www.raspberrypi.com/documentation/computers/configuration.html
 
 
 Fix All The Broken Stuff
