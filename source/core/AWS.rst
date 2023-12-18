@@ -1,14 +1,14 @@
 Other
 -----
 
-* https://awsregion.info/
-* https://ec2instances.github.io/  kinda replacement for ec2instances.info
-* https://instances.vantage.sh/ former ec2instances.info
+* https://awsregion.info
+* https://ec2instances.github.io  kinda replacement for ec2instances.info
+* https://instances.vantage.sh former ec2instances.info
 * http://aws.typepad.com/aws/atom.xml  RSS feed of AWS news posts
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html  current list of instance types
-* http://cloud-images.ubuntu.com/locator/ec2/
-* https://wiki.debian.org/Cloud/AmazonEC2Image/
-* https://www.uplinklabs.net/projects/arch-linux-on-ec2/
+* http://cloud-images.ubuntu.com/locator/ec2
+* https://wiki.debian.org/Cloud/AmazonEC2Image
+* https://www.uplinklabs.net/projects/arch-linux-on-ec2
 * https://gitlab.com/anemos-io/archlinux-ec2
 * http://mathcom.com/arch.aws.ami.html
 * https://wiki.archlinux.org/title/Arch_Linux_AMIs_for_Amazon_Web_Services
@@ -105,7 +105,7 @@ EC2
 ---
 
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet.html
-* https://labs.sogeti.com/building-aws-golden-image-with-ec2-image-builder/
+* https://labs.sogeti.com/building-aws-golden-image-with-ec2-image-builder
 * https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/
 
 
@@ -120,19 +120,19 @@ VPC
 Exam Prep
 ---------
 
-* https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/
+* https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner
 * https://www.aws.training/Details/eLearning?id=60697
-* https://aws.amazon.com/s3/storage-classes/
+* https://aws.amazon.com/s3/storage-classes
 * https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
-* https://jayendrapatil.com/tag/aws/
-* https://aws.amazon.com/premiumsupport/plans/
+* https://jayendrapatil.com/tag/aws
+* https://aws.amazon.com/premiumsupport/plans
 * https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 * https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
-* https://aws.amazon.com/snow/
-* https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/
-* https://aws.amazon.com/compliance/shared-responsibility-model/
-* https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
-* https://digitalcloud.training/aws-cheat-sheets/
+* https://aws.amazon.com/snow
+* https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs
+* https://aws.amazon.com/compliance/shared-responsibility-model
+* https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework
+* https://digitalcloud.training/aws-cheat-sheets
 * https://dev.to/aws-builders/which-aws-certification-exam-should-i-sit-hah
 
 Most useful:  "Cloud Practitioner", "System Operator", "Solutions Architect".
@@ -141,7 +141,7 @@ Most useful:  "Cloud Practitioner", "System Operator", "Solutions Architect".
 IAM
 ---
 
-* https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
+* https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli
 * http://blogs.aws.amazon.com/security/post/Tx2MUS2R3CMGG8H/Enable-a-New-Feature-in-the-AWS-Management-Console-Cross-Account-Access
 
 
@@ -192,7 +192,7 @@ Assorted
 * https://launchbylunch.com/posts/2014/Jan/29/aws-tips
 * http://cloudacademy.com/blog/centralized-log-management-with-aws-cloudwatch-part-3-of-3
 * http://cloudacademy.com/blog/aws-cloudwatch-monitoring
-* https://aws.amazon.com/freertos/
+* https://aws.amazon.com/freertos
 * https://en.wikipedia.org/wiki/FreeRTOS
 * https://github.com/codahale/sneaker
 * https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
@@ -217,7 +217,7 @@ OpenSearch
 
 * https://youtu.be/cn7QLSPB3OA
 * http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
-* https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
+* https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service
 
 
 Cloud Hybrid
@@ -233,26 +233,26 @@ IPAM
 Nowadays, you'd just use AWS IPAM instead of rolling your own.
 
 * https://github.com/netbox-community/netbox
-* https://netbox.readthedocs.io/en/stable/
+* https://netbox.readthedocs.io/en/stable
 * https://registry.terraform.io/search/providers?q=netbox
-* https://www.phillhocking.com/terraform-netbox-ipam-aws/
+* https://www.phillhocking.com/terraform-netbox-ipam-aws
 
 
 Lambda
 ------
 
-* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
+* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally
 * https://github.com/djhworld/go-lambda-invoke
 * https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
 * https://github.com/blmayer/awslambdarpc
 * https://stackoverflow.com/questions/70925966/can-we-run-an-aws-lambda-locally-without-deployment
-* https://dev.bitolog.com/run-aws-lambda-locally/
+* https://dev.bitolog.com/run-aws-lambda-locally
 * https://github.com/raisebook/run-go-lambda
 * https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html
-* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally/
+* https://djharper.dev/post/2018/01/27/running-go-aws-lambda-functions-locally
 * https://medium.com/nagoya-foundation/running-and-debugging-go-lambda-functions-locally-156893e4ed0d
 * https://github.com/blmayer/awslambdarpc
-* https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions/
+* https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions
 * https://github.com/aws/aws-lambda-runtime-interface-emulator
 
 
