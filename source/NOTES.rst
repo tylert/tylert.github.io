@@ -147,7 +147,7 @@ HandBrake settings for DVDs::
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
-* https://www.diy-thermocam.net  IR imagery with nearly, all open-source stuff (Teensy--)
+* https://www.diy-thermocam.net  IR imagery with nearly, nearly all open-source stuff (Teensy meh)
 
 
 Apt Stuff
@@ -339,9 +339,9 @@ Cool Products
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
 * https://teenage.engineering/products/tx-6  pocket mixer/synth
 * https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence???
-* https://novamostra.com/2022/10/23/byopm/  Pi Zero pocket password manager???
+* https://novamostra.com/2022/10/23/byopm  Pi Zero pocket password manager???
 * https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
-* https://beepberry.sqfmi.com/
+* https://beepberry.sqfmi.com
 * https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
 * https://dynomight.net/better-DIY-air-purifier.html
 * https://cast.otter.jetzt  open-source streaming audio gizmos
@@ -564,6 +564,7 @@ Container Stuff
 * https://github.com/kubernetes/git-sync
 * https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
 * https://docs.docker.com/language/golang/build-images
+* https://github.com/stakater/Reloader  helm helper???
 
 
 Load-Balancing
