@@ -231,7 +231,6 @@ Cool Shell Tricks
 
 * http://www.theunixschool.com/2012/10/how-to-find-duplicate-records-of-file.html
 * http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
-* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
 * https://github.com/jlevy/the-art-of-command-line
@@ -478,7 +477,7 @@ More
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser
 * https://bou.ke/blog/formulas
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
-* https://pyinfra.com/  another replacement for Ansible?
+* https://pyinfra.com  another replacement for Ansible?
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
 * https://github.com/debauchee/barrier  open replacement for Synergy
@@ -487,6 +486,8 @@ More
 SQLite
 ------
 
+* https://sqlitebrowser.org
+* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://www.sqlite.org/json1.html
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
 * https://simonwillison.net/2021/Feb/21/cross-database-queries  sqlite looking across databases
