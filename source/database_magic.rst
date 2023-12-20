@@ -2,6 +2,9 @@ SQLite
 ------
 
 * https://sqlitebrowser.org
+* https://github.com/sqlitebrowser/sqlitebrowser
+* https://sqlitestudio.pl
+* https://github.com/pawelsalawa/sqlitestudio
 * https://www.sqlite.org/json1.html
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
@@ -22,6 +25,12 @@ Clustering and Replication
 * https://maxpert.github.io/marmot
 * https://litestream.io
 * LiteFS
+* https://rqlite.io
+* https://github.com/rqlite/rqlite
+* https://www.rqlite.com
+* https://www.philipotoole.com
+* https://dqlite.io
+* https://github.com/canonical/dqlite
 
 
 Schema Stuff
