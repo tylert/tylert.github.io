@@ -33,6 +33,12 @@ Clustering and Replication
 * https://github.com/canonical/dqlite
 
 
+Indexing
+--------
+
+* https://blog.scaledcode.com/blog/analyzing-new-unique-id
+
+
 Schema Stuff
 ------------
 
