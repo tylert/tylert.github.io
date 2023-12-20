@@ -283,25 +283,6 @@ Assorted Things-to-Read
 * https://www.onedayyoullfindyourself.com
 
 
-MySQL Stuff
------------
-
-::
-
-    select concat('KILL ',id,';') from information_schema.processlist where command='Sleep';
-
-::
-
-    #!/bin/bash
-
-    echo "Killing existing xlsws_category queries"
-    for process_id in `mysql -e "show full processlist" | grep 'xlsws_category' | awk '{print $1}'`
-    do
-        echo "- process: ${process_id}"
-        mysql -e "kill ${process_id}"
-    done
-
-
 Keepass Stuff
 -------------
 

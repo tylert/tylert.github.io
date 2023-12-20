@@ -1,16 +1,9 @@
 SQLite
 ------
 
-* https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db
-* https://atlasgo.io  schema management (HCL, SQL, etc.)
-* https://atlasgo.io/integrations/terraform-provider
-* https://github.com/ariga/atlas
-* https://github.com/k3s-io/kine
-* https://github.com/maxpert/marmot
-* https://maxpert.github.io/marmot
 * https://sqlitebrowser.org
-* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://www.sqlite.org/json1.html
+* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
 * https://simonwillison.net/2021/Feb/21/cross-database-queries  sqlite looking across databases
 * https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
@@ -21,9 +14,23 @@ SQLite
 * https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages
 
 
+Clustering and Replication
+--------------------------
+
+* https://github.com/k3s-io/kine
+* https://github.com/maxpert/marmot
+* https://maxpert.github.io/marmot
+* https://litestream.io
+* LiteFS
+
+
 Schema Stuff
 ------------
 
+* https://blog.turso.tech/database-migrations-made-easy-with-atlas-df2b259862db  terraform-provider-atlas
+* https://atlasgo.io  schema management (HCL, SQL, etc.)
+* https://atlasgo.io/integrations/terraform-provider
+* https://github.com/ariga/atlas
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
 
@@ -36,3 +43,30 @@ K8s Stuff
 * https://github.com/glasskube/operator  custom operators?
 * https://glasskube.eu
 * https://austinsnerdythings.com/2021/09/01/how-to-deploy-vms-in-proxmox-with-terraform
+
+
+Other Types
+-----------
+
+* http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb  careful with MongoDB
+* http://blog.wix.engineering/2015/12/10/scaling-to-100m-mysql-is-a-better-nosql
+* https://petereliaskraft.net/blog/epoxy  atomic transactions across databases?
+
+
+MySQL Stuff
+-----------
+
+::
+
+    select concat('KILL ',id,';') from information_schema.processlist where command='Sleep';
+
+::
+
+    #!/bin/bash
+
+    echo "Killing existing xlsws_category queries"
+    for process_id in `mysql -e "show full processlist" | grep 'xlsws_category' | awk '{print $1}'`
+    do
+        echo "- process: ${process_id}"
+        mysql -e "kill ${process_id}"
+    done
