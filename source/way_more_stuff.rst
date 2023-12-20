@@ -6,9 +6,9 @@ Terraform Stuff
 * https://stackoverflow.com/questions/51496445/conditional-attributes-in-terraform
 * https://www.hashicorp.com/blog/terraform-0-12-conditional-operator-improvements#conditionally-omitted-arguments
 * https://medium.com/the-andela-way/designing-a-three-tier-architecture-in-aws-e5c24671f124
-* https://aws.amazon.com/solutions/implementations/instance-scheduler/
+* https://aws.amazon.com/solutions/implementations/instance-scheduler
 * https://duckduckgo.com/?t=ffab&q=hashiconf&iax=videos&ia=videos
-* https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources/
+* https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources
 * https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42
 * https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d
 
@@ -35,8 +35,8 @@ Currency Stuff
 * https://github.com/amis-erc20/python-eth-wallet
 * https://github.com/vkobel/ethereum-generate-wallet
 * https://hackernoon.com/how-to-build-a-minimalistic-ethereum-wallet-in-python-part-1-rr4j32dp
-* https://kobl.one/blog/create-full-ethereum-keypair-and-address/
-* https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/
+* https://kobl.one/blog/create-full-ethereum-keypair-and-address
+* https://www.arthurkoziel.com/generating-ethereum-addresses-in-python
 * https://github.com/miguelmota/go-ethereum-hdwallet
 * https://github.com/foxnut/go-hdwallet
 * https://github.com/meherett/python-hdwallet  "hdwallet" pypi package
@@ -47,7 +47,7 @@ Currency Stuff
 * https://github.com/keis/base58  "base58" pypi package; dependency of "hdwallet"
 * https://github.com/pallets/click  "click" pypi package
 * https://github.com/cryptoadvance/specter-diy  hardware wallet thing?
-* https://www.ethvm.com/  check values of wallets
+* https://www.ethvm.com  check values of wallets
 
 
 Random Stuff
@@ -67,15 +67,15 @@ Getting Things Done
 Assorted Crap
 -------------
 
-* https://layerci.com/blog/postgres-is-the-answer/
+* https://layerci.com/blog/postgres-is-the-answer
 * https://github.com/kelseyhightower/consul-on-kubernetes
-* https://kasvith.github.io/posts/lets-create-a-simple-lb-go/
-* https://zwischenzugs.com/2016/04/04/convert-any-server-to-a-docker-container-updated/
-* https://www.wezm.net/technical/2019/10/useful-command-line-tools/
-* https://www.infoq.com/articles/containers-hypervisors-2019/
-* https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing/
+* https://kasvith.github.io/posts/lets-create-a-simple-lb-go
+* https://zwischenzugs.com/2016/04/04/convert-any-server-to-a-docker-container-updated
+* https://www.wezm.net/technical/2019/10/useful-command-line-tools
+* https://www.infoq.com/articles/containers-hypervisors-2019
+* https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing
 * https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html
-* https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers/
+* https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers
 
 
 QR Code Magic

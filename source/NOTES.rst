@@ -1,3 +1,9 @@
+Inventory Management
+--------------------
+
+* https://dmd.tanna.dev  create a local database of all your software dependencies
+
+
 Tmux With Terminal Stuff
 ------------------------
 
@@ -478,25 +484,7 @@ More
 * https://bou.ke/blog/formulas
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com  another replacement for Ansible?
-* https://dvc.org/doc/use-cases/data-registry  version control for data?
-* https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
 * https://github.com/debauchee/barrier  open replacement for Synergy
-
-
-SQLite
-------
-
-* https://sqlitebrowser.org
-* https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
-* https://www.sqlite.org/json1.html
-* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
-* https://simonwillison.net/2021/Feb/21/cross-database-queries  sqlite looking across databases
-* https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
-* https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
-* https://stackoverflow.com/questions/9410011/multiple-files-for-a-single-sqlite-database
-* https://github.com/orbitinghail/sqlsync
-* https://sqlsync.dev/posts/stop-building-databases
-* https://github.com/maxpert/marmot  distributed sqlite
 
 
 Container Stuff
