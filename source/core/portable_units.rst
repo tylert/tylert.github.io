@@ -35,9 +35,9 @@ Black Case Hardware
 * https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles, black
 * https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners, black
 * https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners, black
-* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black/  small latches, black
-* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black/  medium handles, black
-* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black/  large corners, black
+* https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black  small latches, black
+* https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black  medium handles, black
+* https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black  large corners, black
 * https://qcomponents.ca/collections/duratex-coatings/Duratex  Waterloo, ON source for road/flight case paint
 
 .. image:: https://www.pennelcomonline.com/Images/Models/Full/8551-1.Jpg
@@ -60,9 +60,9 @@ HDPE Puckboard Sheets
 
 Seems it might be just over CAD $100 for a 8-foot x 4-foot sheet of "puckboard" (3 or 4 may be needed for 8 cases).
 
-* https://soundbarriers.ca/recreation-centre-applications/puckboard/  Mississauga, ON
-* https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board/  Blenheim, ON
-* https://plasticworld.ca/product-category/plastic-sheets/hdpe/  Toronto, ON
+* https://soundbarriers.ca/recreation-centre-applications/puckboard  Mississauga, ON
+* https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board  Blenheim, ON
+* https://plasticworld.ca/product-category/plastic-sheets/hdpe  Toronto, ON
 * https://supplykings.ca/shop/ols/products/hdpe-puck-board/v/PB-125-48-BK  Calgary, AB
 
 
@@ -84,9 +84,9 @@ Smaller Cases
 * https://i.redd.it/4qbgefdj4tb51.jpg
 * https://nanukcases.ca/collections/medium-cases/products/nanuk-920  fits a TKL keyboard
 * https://nanukcases.ca/collections/medium-cases/products/nanuk-923  might be easier to find top plates???
-* `https://マリウス.com/` -> https://xn--gckvb8fzb.com/
-* `https://マリウス.com/linux-on-the-desktop-part-two/`
-* https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
+* `https://マリウス.com/` -> https://xn--gckvb8fzb.com
+* `https://マリウス.com/linux-on-the-desktop-part-two`
+* https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two
 * https://www.ikejima.org/projects/2022091-egg-laptop.html
 * https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
 
@@ -94,9 +94,9 @@ Smaller Cases
 Decentralized Infrastructure Stuff
 ----------------------------------
 
-* `https://マリウス.com/infrastructure/`
+* `https://マリウス.com/infrastructure`
 * https://github.com/mrusme
-* https://www.alvarez.io/posts/two-factor-encryption/
+* https://www.alvarez.io/posts/two-factor-encryption
 * https://github.com/mrusme/uveira  offline Wikipedia
 * https://github.com/spencermountain/dumpster-dive  offline Wikipedia
 * https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
@@ -104,19 +104,20 @@ Decentralized Infrastructure Stuff
 * https://github.com/marethyu/gotube
 * https://github.com/iawia002/lux
 * https://github.com/mprimi/nasefa
-* https://nats.io/
+* https://nats.io
 * https://github.com/nats-io
-* https://dgross.ca/blog/linux-home-server-auto-sleep/  tiny server wakes bigger server
+* https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
 
 
 NNCP
 ----
 
-* https://www.complete.org/nncp/      to try to learn how to use NNCP
+* https://www.complete.org/nncp      to try to learn how to use NNCP
 * https://aur.archlinux.org/nncp.git  to learn the missing compilation step needed
-* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet/
-* https://www.complete.org/nncp/
-* https://www.dyne.org/software/tomb/
+* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
+* https://www.complete.org/nncp
+* https://www.dyne.org/software/tomb
+* https://changelog.complete.org/archives/5462-kr0l-amateur-radio-wikis-and-linux
 * there's a GNU project for this stuff too hidden somewhere amongst the links above
 
 ::
