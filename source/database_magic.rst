@@ -62,7 +62,6 @@ K8s Stuff
 * https://operatorframework.io
 * https://github.com/glasskube/operator  custom operators?
 * https://glasskube.eu
-* https://austinsnerdythings.com/2021/09/01/how-to-deploy-vms-in-proxmox-with-terraform
 
 
 Other Types
