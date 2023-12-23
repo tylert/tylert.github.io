@@ -64,6 +64,12 @@ Self-Hosted
 * http://tilde.club  Unix/Linux playground
 
 
+Authentication
+--------------
+
+* https://github.com/glauth/glauth  LDAP server in Go???
+
+
 Logging and Metrics
 -------------------
 

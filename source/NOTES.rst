@@ -535,6 +535,7 @@ Container Stuff
 * https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
 * https://docs.docker.com/language/golang/build-images
 * https://github.com/stakater/Reloader  helm helper???
+* https://github.com/tinyzimmer/k3p  air-gapped packages for k3s
 
 
 Load-Balancing
