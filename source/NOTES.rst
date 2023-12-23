@@ -585,6 +585,7 @@ Networking
 * https://drgn.readthedocs.io  Linux kernel debugger with Python niceities
 * https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
 * https://ebpf.io/what-is-ebpf
+* https://who.ldelossa.is/posts  more eBPF/TC low-level learning
 
 
 Family IT Support Calls
