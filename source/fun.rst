@@ -54,11 +54,24 @@ PDF + Contacts
 --------------
 
 * http://eventable.github.io/vobject
+* https://github.com/jszwec/csvutil
 * https://github.com/JazzCore/python-pdfkit
 * https://github.com/rst2pdf/rst2pdf/blob/master/rst2pdf/createpdf.py
 * https://rst2pdf.org/static/manual.html
 * http://www.marknagelberg.com/creating-pdf-reports-with-python-pdfkit-and-jinja2-templates
 * http://www.devshed.com/c/a/Python/Python-for-PDF-Generation
+* https://en.wikipedia.org/wiki/VCard
+* https://en.wikipedia.org/wiki/ICalendar
+* https://datatracker.ietf.org/doc/html/rfc3275  XML
+* https://datatracker.ietf.org/doc/html/rfc4627  JSON
+* https://datatracker.ietf.org/doc/html/rfc5545  iCalendar
+* https://datatracker.ietf.org/doc/html/rfc6321  xCal = XML iCalendar
+* https://datatracker.ietf.org/doc/html/rfc6350  vCard 4.0
+* https://datatracker.ietf.org/doc/html/rfc6351  xCard = XML vCard
+* https://datatracker.ietf.org/doc/html/rfc6868  vCard/iCalendar encodings
+* https://datatracker.ietf.org/doc/html/rfc7095  jCard = JSON vCard
+* https://datatracker.ietf.org/doc/html/rfc7265  jCal = JSON iCalendar
+* https://github.com/emersion/go-vcard
 
 ::
 
