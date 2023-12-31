@@ -16,6 +16,8 @@ SQLite
 * https://sqlsync.dev/posts/stop-building-databases
 * https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages
 * https://developers.cloudflare.com/d1/learning/importing-data/#converting-sqlite-database-files
+* https://sqlime.org
+* https://github.com/nalgeon/sqlime
 
 ::
 

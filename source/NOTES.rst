@@ -244,6 +244,7 @@ Cool Shell Tricks
 * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
 * https://thevaluable.dev/vim-advanced
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
+* https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
 
 ::
 
