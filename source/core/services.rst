@@ -2,7 +2,7 @@ Devices
 -------
 
 * https://mikrotik.com/product/crs305_1g_4s_in
-* https://lengrand.fr/complete-setup-epaper/
+* https://lengrand.fr/complete-setup-epaper
 * https://github.com/mecparts/PicoWiFiModem  Raspberry Pi Pico W acting as a modem for retro devices
 * https://github.com/mecparts/RetroWiFiModem  Same as above but for ESP8266 (ESP32 too?)
 
@@ -10,9 +10,35 @@ Devices
 TOTP, CA, U2F, FIDO
 -------------------
 
-* https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
+* https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey
 * https://github.com/bulwarkid/virtual-fido
 * https://github.com/susam/mintotp
+* https://www.reddit.com/r/selfhosted/comments/h02wzr/how_to_adding_totp_to_sudo
+* https://www.linuxbabe.com/ubuntu/two-factor-authentication-ssh-key-ubuntu
+* https://wiki.archlinux.org/title/Google_Authenticator
+* https://github.com/google/google-authenticator-libpam
+
+::
+
+    # Enable TOTP for each USER
+    sudo google-authenticator -s /root/.sudo_totp/${USER}/.google_authenticator
+    sudo chmod 0600 -R /root/.sudo_totp
+
+    sudo google-authenticator -s /root/.google_authenticator
+    sudo chmod 0600 -R /root/.google_authenticator
+
+/etc/pam.d/sudo::
+
+    # Use Google Auth -- Mandatory
+    auth required pam_google_authenticator.so secret=/root/.sudo_totp/${USER}/.google_authenticator user=root
+
+    # Use Google Auth -- Only if secret key exists
+    # auth required pam_google_authenticator.so secret=/root/.sudo_totp/${USER}/.google_authenticator user=root nullok
+
+/etc/pam.d/su::
+
+    # Use Google Auth -- Mandatory
+    auth required pam_google_authenticator.so secret=/root/.google_authenticator user=root
 
 
 Dynamic DNS
@@ -43,21 +69,21 @@ Self-Hosted
 
 * https://stalw.art  single Rust binary/container for email server stuff
 * https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
-* https://github.com/awesome-selfhosted/awesome-selfhosted/
-* https://blog.ioces.com/matt/posts/everything-old-is-new-again/
+* https://github.com/awesome-selfhosted/awesome-selfhosted
+* https://blog.ioces.com/matt/posts/everything-old-is-new-again
 * https://github.com/librespeed/speedtest  self-hosted speed tests?
 * https://github.com/librespeed/speedtest-go  self-hosted speed tests?
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
-* https://notes.volution.ro/v1/2022/09/notes/b08118d8/  hosting static sites
+* https://notes.volution.ro/v1/2022/09/notes/b08118d8  hosting static sites
 * https://github.com/meienberger/runtipi
-* https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/
+* https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
 * https://github.com/mjl-/mox  email?
-* https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/
+* https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
 * https://github.com/PhirePhly/micromirrors  mirroring things
-* https://blog.randombits.host/monitoring-self-hosted-services/  Grafana, Prometheus, Loki, etc.
+* https://blog.randombits.host/monitoring-self-hosted-services  Grafana, Prometheus, Loki, etc.
 * https://the-dam.org/docs/explanations/suc.html  awesome local server chat thing (5 lines of bash???)
 * https://the-dam.org  pay-for Unix/Linux playground
 * https://tildeverse.org  Unix/Linux playground awesome
@@ -73,7 +99,7 @@ Authentication
 Logging and Metrics
 -------------------
 
-* https://matduggan.com/were-all-doing-metrics-wrong/
+* https://matduggan.com/were-all-doing-metrics-wrong
 * https://kubernetes.io/docs/concepts/cluster-administration/logging/#cluster-level-logging-architectures
 
 
@@ -103,7 +129,7 @@ Script, know thyself::
 
     directory="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
 
-* https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script/
+* https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script
 
 
 Ngrok Clone
