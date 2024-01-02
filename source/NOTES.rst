@@ -2,6 +2,7 @@ Inventory Management
 --------------------
 
 * https://dmd.tanna.dev  create a local database of all your software dependencies
+* https://github.com/opensbom-generator/spdx-sbom-generator
 
 
 Tmux With Terminal Stuff
