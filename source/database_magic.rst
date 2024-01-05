@@ -46,6 +46,13 @@ Indexing
 * https://blog.scaledcode.com/blog/analyzing-new-unique-id
 
 
+Encryption
+----------
+
+* https://utelle.github.io/SQLite3MultipleCiphers
+* https://github.com/utelle/SQLite3MultipleCiphers
+
+
 Schema Stuff
 ------------
 
