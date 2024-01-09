@@ -115,6 +115,7 @@ NNCP
 * https://www.complete.org/nncp      to try to learn how to use NNCP
 * https://aur.archlinux.org/nncp.git  to learn the missing compilation step needed
 * https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
+* https://www.gibbard.me/using_git_offline
 * https://www.complete.org/nncp
 * https://www.dyne.org/software/tomb
 * https://changelog.complete.org/archives/5462-kr0l-amateur-radio-wikis-and-linux

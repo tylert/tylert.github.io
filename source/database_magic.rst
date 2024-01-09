@@ -24,6 +24,12 @@ SQLite
     sqlite3 foo.sqlite3 .dump > foo.sql
 
 
+Cloud Stuff
+-----------
+
+* https://paulbradley.dev/sqlite-efs-serverless-database  AWS serverless sqlite3???
+
+
 Clustering and Replication
 --------------------------
 
@@ -31,7 +37,8 @@ Clustering and Replication
 * https://github.com/maxpert/marmot
 * https://maxpert.github.io/marmot
 * https://litestream.io
-* LiteFS
+* https://fly.io/blog/introducing-litefs
+* https://github.com/superfly/litefs
 * https://rqlite.io
 * https://github.com/rqlite/rqlite
 * https://www.rqlite.com

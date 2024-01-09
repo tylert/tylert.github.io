@@ -88,6 +88,7 @@ Self-Hosted
 * https://the-dam.org  pay-for Unix/Linux playground
 * https://tildeverse.org  Unix/Linux playground awesome
 * http://tilde.club  Unix/Linux playground
+* https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
 
 
 Authentication

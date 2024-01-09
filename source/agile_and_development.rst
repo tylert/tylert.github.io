@@ -121,6 +121,12 @@ Mentorship Stuff
 * http://www.daedtech.com/how-to-keep-your-best-programmers
 
 
+Team Stuff
+----------
+
+* https://itrevolution.com/articles/four-team-types
+
+
 Style Guide Stuff
 -----------------
 

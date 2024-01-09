@@ -246,6 +246,7 @@ Cool Shell Tricks
 * https://thevaluable.dev/vim-advanced
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
 * https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
+* https://www.dns.toys  do horrible things using DNS
 
 ::
 
@@ -334,6 +335,8 @@ Cool Products
 * https://dynomight.net/better-DIY-air-purifier.html
 * https://cast.otter.jetzt  open-source streaming audio gizmos
 * https://github.com/Ottercast/OtterCastAudioV2  open-source streaming audio gizmos
+* https://liliputing.com/build-your-own-nas-with-this-alder-lake-n-motherboard-up-to-6-hard-drives-and-2-ssds
+* https://docs.vorondesign.com/hardware.html#voron-2
 
 
 Keyboard CNC
@@ -468,6 +471,7 @@ More
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com  another replacement for Ansible?
 * https://github.com/debauchee/barrier  open replacement for Synergy
+* https://github.com/YS-L/csvlens  like less but for CSV?
 
 
 Container Stuff
