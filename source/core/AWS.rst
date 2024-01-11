@@ -158,12 +158,13 @@ Continuous Delivery on EC2
 * http://www.slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
 
 
-ECS
----
+ECS/EKS
+-------
 
 * https://www.youtube.com/watch?v=MRoPaHUttoA
 * http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
 * https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
+* https://aws.github.io/aws-eks-best-practices
 
 
 ECR

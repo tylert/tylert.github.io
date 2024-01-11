@@ -53,6 +53,12 @@ Indexing
 * https://blog.scaledcode.com/blog/analyzing-new-unique-id
 
 
+Querying
+--------
+
+* https://github.com/YS-L/csvlens  like less but for CSV?
+
+
 Encryption
 ----------
 

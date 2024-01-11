@@ -282,6 +282,7 @@ Assorted Things-to-Read
 * http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
+* https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers  humour
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
 
@@ -471,7 +472,6 @@ More
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com  another replacement for Ansible?
 * https://github.com/debauchee/barrier  open replacement for Synergy
-* https://github.com/YS-L/csvlens  like less but for CSV?
 
 
 Container Stuff
@@ -542,6 +542,7 @@ Container Stuff
 * https://docs.docker.com/language/golang/build-images
 * https://github.com/stakater/Reloader  helm helper???
 * https://github.com/tinyzimmer/k3p  air-gapped packages for k3s
+* https://github.com/loft-sh/kiosk  multi-tenant k8s?
 
 
 Load-Balancing
