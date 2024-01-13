@@ -543,6 +543,12 @@ Container Stuff
 * https://github.com/stakater/Reloader  helm helper???
 * https://github.com/tinyzimmer/k3p  air-gapped packages for k3s
 * https://github.com/loft-sh/kiosk  multi-tenant k8s?
+* https://blog.alexellis.io/github-actions-timesharing-supercomputer
+* https://blog.alexellis.io/fixing-the-ux-for-one-time-tasks-on-kubernetes
+* https://github.com/alexellis/run-job
+* https://github.com/alexellis/actions-batch
+* https://github.com/defenseunicorns/zarf
+* https://zarf.dev
 
 
 Load-Balancing
