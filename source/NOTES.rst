@@ -216,6 +216,7 @@ Official OS Images
 * https://hub.docker.com/_/alpine  Voldemorthub Alpine
 * https://ubuntu.com/blog/craft-custom-chiselled-ubuntu-distroless
 * https://github.com/canonical/chisel
+* https://xenialinux.com  immutable Gentoo?
 
 Typical OS container image "Dockerfile"::
 
@@ -247,6 +248,7 @@ Cool Shell Tricks
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
 * https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
 * https://www.dns.toys  do horrible things using DNS
+* https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff
 
 ::
 
@@ -402,6 +404,7 @@ Art Stuff
 * https://github.com/esimov/triangle  make bitmaps look all triangley
 * https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
 * https://simonwillison.net/2023/Nov/29/llamafile
+* https://penrose.cs.cmu.edu  web diagrams from text
 
 
 Awesome Stuff
@@ -528,7 +531,7 @@ Container Stuff
 * https://github.com/tianon/gosu
 * https://docs.gocd.org/current
 * https://github.com/routernetes/routernetes  dedicated router with k8s???
-* https://k8s.voltaicforge.com/  PXE boot bare metal + install Talos, Sidero, K8s
+* https://k8s.voltaicforge.com  PXE boot bare metal + install Talos, Sidero, K8s
 * https://driftingin.space/posts/complexity-kubernetes
 * https://github.com/containers/skopeo/blob/main/docs/skopeo-standalone-sign.1.md#notes
 * https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai
@@ -659,11 +662,12 @@ Ham Stuff
 Ribbit
 ------
 
-This might actually be awesome if they ever put the app up on F-Droid.org (and make some more non-Android versions too).
-The current closed-source app is called "Rattlegram" on The Poodle Grey Store.
+This might awesome if they ever put the app up on F-Droid.org (and make some
+more non-Android versions too).  The current "walled garden" app is called
+"Rattlegram" on The Poodle Grey Store.
 
 * https://www.ribbitradio.org  official site
-* https://github.com/aicodix/rattlegram  holy frickin' moley!!! source code!!!
-* https://github.com/phase4ground/ribbit  possible location for source code... eventually???
+* https://github.com/aicodix/rattlegram  app source code
+* https://github.com/phase4ground/ribbit  possible location for source code eventually maybe???
 * https://www.youtube.com/watch?v=_jN4IVccIEw  initial presentation video
 * https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new  presentation slides (PDF)

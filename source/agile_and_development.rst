@@ -191,6 +191,7 @@ Git Stuff
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
 * https://lethain.com/trunk-and-branches
 * https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
+* https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs
 
 
 Process Stuff

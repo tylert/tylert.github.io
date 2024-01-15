@@ -24,6 +24,12 @@ SQLite
     sqlite3 foo.sqlite3 .dump > foo.sql
 
 
+WAL
+---
+
+* https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md
+
+
 Cloud Stuff
 -----------
 

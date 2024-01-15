@@ -74,6 +74,7 @@ Self-Hosted
 * https://github.com/librespeed/speedtest  self-hosted speed tests?
 * https://github.com/librespeed/speedtest-go  self-hosted speed tests?
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
+* https://blog.lopp.net/death-of-decentralized-email
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8  hosting static sites
 * https://github.com/meienberger/runtipi
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host
@@ -193,3 +194,9 @@ Crypto Magic
     # ED-209
     openssl genpkey -algorithm ed25519 -out priv
     openssl pkey -pubout -in priv -out pub
+
+
+Smart Agents
+------------
+
+* https://johnthenerd.com/blog/local-llm-assistant
