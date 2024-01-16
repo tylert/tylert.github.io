@@ -16,11 +16,11 @@ Product Pages
 Reviews
 -------
 
-* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/
+* https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard
 * https://aphnetworks.com/index.php/reviews/durgod-taurus-k320
-* https://switchandclick.com/2020/11/02/durgod-k320-review/
-* https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good/
-* https://www.reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard/
+* https://switchandclick.com/2020/11/02/durgod-k320-review
+* https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good
+* https://www.reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard
 * https://www.rtings.com/keyboard/reviews/durgod/taurus-k320
 * https://www.youtube.com/watch?v=17rISRgJO1o
 * https://www.youtube.com/watch?v=D_S30mEkggQ
@@ -37,8 +37,8 @@ Where To Buy
 * https://kprepublic.com/products/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=3&_sid=bda219a06&_ss=r
 * https://www.amazon.ca/DURGOD-Mechanical-Keyboard-Switches-Interface/dp/B078H3WPHM
 * https://www.amazon.ca/Durgod-Taurus-K310-Mechanical-Keyboard/dp/B07V1SQYB8
-* https://www.durgodkeyboard.com/product/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch/
-* https://www.durgodkeyboard.com/product/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch/
+* https://www.durgodkeyboard.com/product/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch
+* https://www.durgodkeyboard.com/product/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch
 
 
 Disassembly
@@ -63,7 +63,7 @@ There is a weird button inside but nobody seems sure of what it does yet.  It
 joins the "D2" pin (#54) to the "VSS" pin (#63).
 
 * https://www.techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html
-* https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware
 
 
 Force DFU Boot
@@ -86,8 +86,9 @@ QMK build "0.13.39" or newer includes the mainline-merged K310 code.
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen
 * https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aclosed
 * https://github.com/the-via/keyboards/pull/588  for the K320
-* https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320/
-* https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320
+* https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos
+* https://getreuer.info/posts/keyboards/index.html
 
 
 Building New Firmware
@@ -190,9 +191,9 @@ Mill-max sockets can apparently be added to just about any PCB.
 
 * https://www.reddit.com/r/MechanicalKeyboards/comments/kv65fe/first_mech_durgod_taurus_k320_tkl_with_blank/giwkpvq/?utm_source=share&utm_medium=web2x&context=3
 * https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb
-* https://www.reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good
 * https://keyboardlube.com/products/mill-max-sockets
-* https://www.reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght/
+* https://www.reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght
 * https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/0305-2-15-80-47-80-10-0/2639493
 * https://www.mouser.ca/ProductDetail/mill-max/0305-2-15-80-47-80-10-0/?qs=QtQX4uD3c2Uys0ai6Tr8NQ==
 
@@ -200,8 +201,8 @@ Mill-max sockets can apparently be added to just about any PCB.
 Wireless/Alternate Firmwares
 ----------------------------
 
-* https://keebfol.io/
-* https://zmkfirmware.dev/
+* https://keebfol.io
+* https://zmkfirmware.dev
 * https://github.com/zmkfirmware/zmk
 * https://github.com/KMKfw/kmk_firmware
 
@@ -209,16 +210,16 @@ Wireless/Alternate Firmwares
 Nifty Adapters
 --------------
 
-* https://yaowei.dev/posts/usb-to-usb-converter/
+* https://yaowei.dev/posts/usb-to-usb-converter
 * https://geekhack.org/index.php?topic=80421.0
-* https://trzsz.github.io/
+* https://trzsz.github.io
 
 
 Rubber Ducks
 ------------
 
 * https://github.com/coder12341/pico-ducky
-* https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky/
+* https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky
 * https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01  Pico BLE???
 
 
@@ -227,13 +228,13 @@ The Uni
 
 Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
 
-* https://www.openstenoproject.org/
+* https://www.openstenoproject.org
 * https://stenokeyboards.com/products/the-uni-v4
 * https://stenokeyboards.com/products/20-gram-springs
-* https://docs.stenokeyboards.com/
+* https://docs.stenokeyboards.com
 * https://docs.stenokeyboards.com/customize/spring-swap.html
 * https://docs.stenokeyboards.com/customize/firmware.html
-* https://www.artofchording.com/
+* https://www.artofchording.com
 
 ::
 

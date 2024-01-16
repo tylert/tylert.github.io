@@ -99,6 +99,8 @@ Development
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
 * https://changelog.com/posts/things-we-always-remind-ourselves-while-coding
+* https://platformengineering.org/platform-tooling
+* https://humanitec.com
 
 
 Versioning
