@@ -202,3 +202,9 @@ Evict Obstinate System Apps
     for package in ${packages}; do
         pm uninstall --user 0 ${package}
     done
+
+
+Others
+------
+
+* https://rugu.dev/en/blog/debloat-with-adb

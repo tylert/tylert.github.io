@@ -15,3 +15,9 @@ Containers
 ----------
 
 * https://oras.land
+
+
+Publishing
+----------
+
+* https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html

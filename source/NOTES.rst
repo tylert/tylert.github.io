@@ -217,6 +217,8 @@ Official OS Images
 * https://ubuntu.com/blog/craft-custom-chiselled-ubuntu-distroless
 * https://github.com/canonical/chisel
 * https://xenialinux.com  immutable Gentoo?
+* https://imil.net/blog/posts/2023/netbsd-as-a-docker-container
+* https://gitlab.com/iMil/mksmolnb  containerized NetBSD microVMs (boot in under a second)
 
 Typical OS container image "Dockerfile"::
 
@@ -249,6 +251,7 @@ Cool Shell Tricks
 * https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
 * https://www.dns.toys  do horrible things using DNS
 * https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff
+* https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html
 
 ::
 
