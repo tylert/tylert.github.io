@@ -79,6 +79,12 @@ PDF + Contacts
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
 
 
+Barcodes
+--------
+
+* https://qr.blinry.org
+
+
 Docker + Alpine Linux
 ---------------------
 
@@ -118,6 +124,7 @@ Misc
 * https://sc5.io/posts/a-private-raspberry-pi-cloud-with-arm-docker
 * https://www.instructables.com/id/DIY-Laptop-PowerBank
 * https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
+* https://www.hillelwayne.com/post/randomness  brain PRNG?
 
 
 Kubernetes

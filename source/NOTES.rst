@@ -326,6 +326,7 @@ Secret Management Stuff
 * https://www.franzoni.eu/password-requirements-myths-madness
 * https://github.com/slok/agebox  works with SSH pub keys even
 * https://github.com/getsops/sops  kubernetes-compatible secret stuff???
+* https://embrasure.dev
 
 
 Cool Products
@@ -555,6 +556,7 @@ Container Stuff
 * https://github.com/alexellis/actions-batch
 * https://github.com/defenseunicorns/zarf
 * https://zarf.dev
+* https://mirrord.dev  local container joined to remote cluster (dev loop)
 
 
 Load-Balancing
@@ -574,8 +576,8 @@ Vault Awesome
 * https://austincloud.guru/2020/03/12/using-vault-with-jenkins
 
 
-Terraform Awesome
------------------
+OpenTofu Awesome
+----------------
 
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
 * https://www.terraform.io/docs/commands/state/rm.html

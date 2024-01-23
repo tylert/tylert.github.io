@@ -294,3 +294,9 @@ Rust Stuff
 * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 * https://words.filippo.io/rustgo  calling Rust from Go
 * https://aya-rs.dev  eBPF
+
+
+C Stuff
+-------
+
+* https://flak.tedunangst.com/post/memory-leak-proof-every-C-program

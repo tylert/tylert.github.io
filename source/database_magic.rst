@@ -5,9 +5,7 @@ SQLite
 * https://github.com/sqlitebrowser/sqlitebrowser
 * https://sqlitestudio.pl
 * https://github.com/pawelsalawa/sqlitestudio
-* https://www.sqlite.org/json1.html
 * https://til.simonwillison.net/sqlite/one-line-csv-operations  SQL queries on CSV files
-* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
 * https://simonwillison.net/2021/Feb/21/cross-database-queries  sqlite looking across databases
 * https://dba.stackexchange.com/questions/25127/working-with-multiple-databases  more multi-database stuff
 * https://stackoverflow.com/questions/80801/how-can-i-merge-many-sqlite-databases  merging
@@ -22,6 +20,14 @@ SQLite
 ::
 
     sqlite3 foo.sqlite3 .dump > foo.sql
+
+
+JSON
+----
+
+* https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
+* https://www.sqlite.org/json1.html
+* https://sqlite.org/forum/forumpost/012136abd5292b8d
 
 
 WAL
