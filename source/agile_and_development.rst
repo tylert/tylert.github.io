@@ -50,6 +50,7 @@ Supply Chain Magic
 * https://github.com/spdx/tools-golang
 * https://spdx.dev
 * https://github.com/opensbom-generator/spdx-sbom-generator
+* https://avdi.codes/on-owning-software
 
 
 Software Design and Documentation
@@ -194,6 +195,7 @@ Git Stuff
 * https://lethain.com/trunk-and-branches
 * https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs
+* https://spin.atomicobject.com/git-history  why rebase
 
 
 Process Stuff

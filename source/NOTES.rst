@@ -219,6 +219,8 @@ Official OS Images
 * https://xenialinux.com  immutable Gentoo?
 * https://imil.net/blog/posts/2023/netbsd-as-a-docker-container
 * https://gitlab.com/iMil/mksmolnb  containerized NetBSD microVMs (boot in under a second)
+* https://www.talos.dev  Talos Linux (k8s OS)
+* https://github.com/siderolabs/talos  Talos Linux
 
 Typical OS container image "Dockerfile"::
 
@@ -385,6 +387,7 @@ Publishing Fun
 * https://hugo-restructured-demo.netlify.app/post/using-rest  example of stuff you can do with hugo-restructured
 * https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
 * https://pandoc.org
+* https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
 
 
 RPG Stuff

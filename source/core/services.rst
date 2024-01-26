@@ -95,7 +95,8 @@ Self-Hosted
 Authentication
 --------------
 
-* https://github.com/glauth/glauth  LDAP server in Go???
+* https://github.com/glauth/glauth  LDAP server in Go with a variety of backends
+* https://glauth.github.io  GLAuth docs
 
 
 Logging and Metrics
