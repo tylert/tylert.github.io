@@ -400,6 +400,11 @@ RPG Stuff
 * http://www.ericharshbarger.org/dice/go_first_dice.html
 * https://elleosiliwood.itch.io/the-missing-locksmith
 * https://perchance.org/dnd-draconic-names
+* http://mewo2.com/notes/terrain  OMG awesome
+* http://mewo2.com/notes/naming-language  OMG awesome
+* https://github.com/mewo2/deserts  code for 2 items above
+* https://github.com/mewo2/terrain  Jabbascript version??
+* https://github.com/mewo2/naming-language  more Jabbascript for name generation??
 
 
 Art Stuff
@@ -446,6 +451,7 @@ Microservices
 -------------
 
 * https://www.capgemini.com/blog/capping-it-off/2016/02/lego-power-how-to-build-repeatable-microservices-based-infrastructure?utm_content=buffere4cf6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* https://slack.engineering/executing-cron-scripts-reliably-at-scale  k8s queues and jobs
 
 
 Time-Series and Graphing Considerations
