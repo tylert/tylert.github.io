@@ -148,13 +148,14 @@ HandBrake settings for DVDs::
 * https://www.mifi.no/losslesscut
 * https://github.com/mifi/lossless-cut
 * https://en.wikipedia.org/wiki/LosslessCut
-* https://frigate.video/
+* https://frigate.video
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
 * https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 * https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
 * https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
 * https://www.diy-thermocam.net  IR imagery with nearly, nearly all open-source stuff (Teensy meh)
+* http://aggregate.org/DIT/CHDK  CHDK with CHDKPTP remote control
 
 
 Apt Stuff
@@ -653,7 +654,7 @@ Ham Stuff
 * https://github.com/timseed/adif_to_csv
 * https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
 * https://github.com/davepacheco/rust-adif
-* http://www.adif.org/
+* http://www.adif.org
 * `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
 * https://youtu.be/nkUR31fj9Xw  OHIS Open Headset Interconnect Standard
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard  OHIS

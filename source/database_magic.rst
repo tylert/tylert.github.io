@@ -16,6 +16,7 @@ SQLite
 * https://developers.cloudflare.com/d1/learning/importing-data/#converting-sqlite-database-files
 * https://sqlime.org
 * https://github.com/nalgeon/sqlime
+* https://github.com/dgllghr/stanchion  column-oriented tables for sqlite
 
 ::
 
@@ -28,6 +29,7 @@ JSON
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
 * https://www.sqlite.org/json1.html
 * https://sqlite.org/forum/forumpost/012136abd5292b8d
+* https://dgl.cx/2020/06/sqlite-json-support
 
 
 WAL

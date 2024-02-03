@@ -40,19 +40,17 @@ Install F-Droid and Other Apps
   * "K-9 Mail" email client
   * "KeePassDX" password manager
   * "Libera" document reader thingy
-  * "Locker"
-  * "Maps and GPS Navigation OsmAnd+"
-#. Use "Locker", toggle "Admin enabled", accept the permission request and set it to Enable after 5 attempts.
 #. Use "FFUpdater", hit "+", select "Firefox Browser", allow access photos and media and allow install apps from unknown sources.
-#. Use "OsmAnd+", download "World overview map" and "Ontario Standard map.  Allow it to access location all the time.
 #. Remove all the junk from your home screen and move your icons around as desired.
 #. (Optional) Use "F-Droid", install the following additional apps:
-  * "Barcode Scanner" for showing you the content of barcodes
-  * "DeltaChat" for chatting
-  * "Element" for chatting
-  * "OpenKeychain" for signing/encrypting/decrypting emails
   * "Syncopoli" for auto-syncing photos
   * "WireGuard" for pushing photos
+
+::
+
+    # Add repo to F-Droid
+    https://apt.izzysoft.de/fdroid/repo
+    # Then you can install stuff like "osmin"
 
 
 Configure Firefox
@@ -208,3 +206,6 @@ Others
 ------
 
 * https://rugu.dev/en/blog/debloat-with-adb
+* https://github.com/janbar/osmin
+* https://apt.izzysoft.de/fdroid  osmin app
+* http://download.openstreetmap.fr/extracts  maps for osmin
