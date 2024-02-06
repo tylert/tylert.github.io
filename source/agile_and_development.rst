@@ -308,3 +308,9 @@ C Stuff
 -------
 
 * https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
+
+
+Kubernetes Stuff
+----------------
+
+* https://www.youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
