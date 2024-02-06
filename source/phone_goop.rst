@@ -209,3 +209,6 @@ Others
 * https://github.com/janbar/osmin
 * https://apt.izzysoft.de/fdroid  osmin app
 * http://download.openstreetmap.fr/extracts  maps for osmin
+* https://opensource.com/article/20/12/android-auto-open-source
+* https://www.reddit.com/r/fossdroid/comments/fh5jcr/foss_alternative_to_connect_to_android_auto
+* https://github.com/tomasz-grobelny/AACS

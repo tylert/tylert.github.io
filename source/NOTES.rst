@@ -567,6 +567,10 @@ Container Stuff
 * https://github.com/defenseunicorns/zarf
 * https://zarf.dev
 * https://mirrord.dev  local container joined to remote cluster (dev loop)
+* https://github.com/kubernetes-csi/csi-driver-smb
+* https://olivermaerz.org/2021/11/26/deploy-a-samba-smb-fileserver-on-your-k3s-kubernetes-cluster
+* https://openfunction.dev
+* https://github.com/harvester/harvester  VMs launched from k8s?
 
 
 Load-Balancing

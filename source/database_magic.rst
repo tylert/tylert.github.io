@@ -108,6 +108,12 @@ Other Types
 * https://petereliaskraft.net/blog/epoxy  atomic transactions across databases?
 
 
+PostgreSQL
+----------
+
+* https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb  PostgreSQL is "enough"
+
+
 MySQL Stuff
 -----------
 

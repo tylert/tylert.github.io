@@ -110,6 +110,11 @@ Versioning
 * https://semver.org
 * https://pragver.github.io
 * https://github.com/seveibar/pragmaticversioning
+* https://clojureverse.org/t/stop-using-semantic-versioning-any-writings-on-this/9951
+* https://sentenz.github.io/guide/internal/convention/semantic-versioning.html  best-practices
+* https://en.wikipedia.org/wiki/Software_versioning
+* https://pragver.github.io/faq
+* https://youtu.be/GXgbV7jB_Bc  Stewardship Made Practical w/Stuart Halloway
 
 
 Mentorship Stuff
@@ -288,6 +293,7 @@ Go Stuff
 * https://github.com/goplus/c2go  C converter?
 * https://github.com/x-motemen/gore  REPL
 * https://github.com/d4l3k/go-pry  REPL?
+* https://github.com/karrick/godirwalk  dir walking?
 
 
 Rust Stuff

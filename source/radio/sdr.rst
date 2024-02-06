@@ -8,6 +8,7 @@ SDR
 * https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone
 * https://github.com/n7nix/deviation  FM deviation flowgraph
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
+* https://github.com/dl9rdz/rdz_ttgo_sonde
 
 
 SSB
