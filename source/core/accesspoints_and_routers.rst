@@ -13,6 +13,9 @@ TP-Link EAP245 US v3
 * https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods
 * https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11
 * https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption
+* https://superuser.com/questions/1752083/wifi-qr-code-format-for-wpa2-wpa3
+* https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.3.pdf#page=26
+* https://openwrt.org/docs/guide-user/network/wifi/basic#encryption_modes
 * https://firmware-selector.openwrt.org/?version=22.03.5&target=ath79%2Fgeneric&id=tplink_eap245-v3
 
 Full OpenWRT installation instructions from recent vintage stock firmware::
@@ -54,7 +57,7 @@ UART Ramblings::
 
 ::
 
-    qrencode "WIFI:S:${WIFI_SSID};T:WPA;P:${WIFI_PASSWD};H:false;" \
+    qrencode "WIFI:S:${WIFI_SSID};H:false;T:WPA;P:${WIFI_PASSWD};" \
         -o wifi_qrcode.png
     magick -font 'DejaVu-Sans' -pointsize 36 \
         label:"WiFi ${WIFI_SSID}\n${WIFI_PASSWD}" \
@@ -63,6 +66,9 @@ UART Ramblings::
         wifi_sticker.png
 
     # H = hidden (true, false, blank)
+    # P = password
+    # R = WPA2/WPA3 transition mode disable
+    # S = ssid
     # T = type (WEP, WPA, blank)
 
 
