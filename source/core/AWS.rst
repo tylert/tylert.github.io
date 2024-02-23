@@ -199,6 +199,7 @@ Assorted
 * https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
 * https://aws.amazon.com/blogs/architecture/migrate-resources-between-aws-accounts
 * https://www.bitsand.cloud/posts/slashing-data-transfer-costs
+* https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments
 
 
 Cloud Backup and Recovery
