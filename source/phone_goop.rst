@@ -2,7 +2,7 @@ Upgrade Preparations
 --------------------
 
 #. Completely update your phone to the latest official Android load first.
-#. Make sure you backup all local data on your phone, if applicable (DCIM, Ringtones, Downloads, etc.).
+#. Make sure you backup all local data on your phone, if applicable (contacts, photos, ringtones, downloads, etc.).
 #. Use "Settings", go to "About phone", tap "Build number" 7 times.
 #. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
 #. Use "Settings", go to "System -> Advanced -> Developer options", enable "OEM unlocking";  May require stupidity like `adb shell pm uninstall --user 0 com.android.phone`, reboot after changing this.
@@ -28,29 +28,31 @@ Factory-Fresh Setup
 #. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
 
 
-Install F-Droid and Other Apps
-------------------------------
+Install Other Apps
+------------------
 
-#. Use "Browser", visit https://f-droid.org, download and install F-Droid app after allowing "Browser" to acces photos and media on this device and allow install unknown apps permission.
+#. Use "Browser", visit https://f-droid.org, download and install F-Droid app after allowing "Browser" to access files and media on this device and allow install unknown apps permission.
 #. Use "Files", complete the installation of "F-Droid".
 #. Use "Settings", revoke permission for "Browser" to install unknown apps.
 #. Use "Files", delete the downloaded copy of the F-Droid app.
 #. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
   * "FFUpdater" Firefox downloader
+#. Use "FFUpdater", allow access to files and media and allow install apps from unknown sources, hit "+" to install:
+  * "Firefox Browser" web browser
   * "K-9 Mail" email client
-  * "KeePassDX" password manager
-  * "Libera" document reader thingy
-#. Use "FFUpdater", hit "+", select "Firefox Browser", allow access photos and media and allow install apps from unknown sources.
 #. Remove all the junk from your home screen and move your icons around as desired.
-#. (Optional) Use "F-Droid", install the following additional apps:
-  * "Syncopoli" for auto-syncing photos
-  * "WireGuard" for pushing photos
+#. Use "F-Droid", add repo "https://apt.izzysoft.de/fdroid/repo" and install the following additional apps:
+  * "Libera" document reader
+  * "Osmin" GPS navigator
+  * "WireGuard" VPN client
 
-::
 
-    # Add repo to F-Droid
-    https://apt.izzysoft.de/fdroid/repo
-    # Then you can install stuff like "osmin"
+Osmin
+-----
+
+* https://github.com/janbar/osmin
+* https://github.com/janbar/osmin/wiki
+* http://download.openstreetmap.fr/extracts  more-granular maps for osmin (may have trouble writing to needed location)
 
 
 Configure Firefox
@@ -148,9 +150,6 @@ Configure the icons that show on the status bar pull-down.  Turn off location,
 NFC, Bluetooth.  Set bluetooth device name.  Set hostname in Developer Options
 too.
 
-Set the warning and limit values for the mobile data usage and adjust your
-billing cycle period.
-
 
 Evict Obstinate System Apps
 ---------------------------
@@ -206,9 +205,6 @@ Others
 ------
 
 * https://rugu.dev/en/blog/debloat-with-adb
-* https://github.com/janbar/osmin
-* https://apt.izzysoft.de/fdroid  osmin app
-* http://download.openstreetmap.fr/extracts  maps for osmin
 * https://opensource.com/article/20/12/android-auto-open-source
 * https://www.reddit.com/r/fossdroid/comments/fh5jcr/foss_alternative_to_connect_to_android_auto
 * https://github.com/tomasz-grobelny/AACS
