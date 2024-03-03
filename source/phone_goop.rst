@@ -1,4 +1,4 @@
-Upgrade Preparations
+Initial Preparations
 --------------------
 
 #. Completely update your phone to the latest official Android load first.
@@ -37,6 +37,7 @@ Install Other Apps
 #. Use "Files", delete the downloaded copy of the F-Droid app.
 #. Use "F-Droid", install the following apps after allowing F-Droid to install apps from unknown sources:
   * "FFUpdater" Firefox downloader
+  * "Termux" phone unsuckifier
 #. Use "FFUpdater", allow access to files and media and allow install apps from unknown sources, hit "+" to install:
   * "Firefox Browser" web browser
   * "K-9 Mail" email client
@@ -55,8 +56,8 @@ Osmin
 * http://download.openstreetmap.fr/extracts  more-granular maps for osmin (may have trouble writing to needed location)
 
 
-Configure Firefox
------------------
+Firefox
+-------
 
 ::
 
@@ -83,8 +84,8 @@ Configure Firefox
       Experiments:  Off
 
 
-Configure K-9 Mail
-------------------
+K-9 Mail
+--------
 
 Fill in the settings you obtained from your email admin/provider and configure
 the settings for the app as follows:
