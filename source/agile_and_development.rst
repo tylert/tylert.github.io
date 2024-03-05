@@ -169,6 +169,7 @@ CI/CD Stuff
 
 * https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code
 * https://devops-pipeline.com  mazzle?
+* https://git-cliff.org  CHANGELOG stuff
 
 
 Git Stuff

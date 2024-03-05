@@ -571,6 +571,7 @@ Container Stuff
 * https://olivermaerz.org/2021/11/26/deploy-a-samba-smb-fileserver-on-your-k3s-kubernetes-cluster
 * https://openfunction.dev
 * https://github.com/harvester/harvester  VMs launched from k8s?
+* https://paulbutler.org/2024/the-haters-guide-to-kubernetes
 
 
 Load-Balancing
