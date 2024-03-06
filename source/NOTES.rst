@@ -572,6 +572,7 @@ Container Stuff
 * https://openfunction.dev
 * https://github.com/harvester/harvester  VMs launched from k8s?
 * https://paulbutler.org/2024/the-haters-guide-to-kubernetes
+* https://www.youtube.com/watch?v=6NeQa_1YXbI  "AWS Summit Ottawa 2022:  Security and compliance for container-based microservices"
 
 
 Load-Balancing
