@@ -134,5 +134,5 @@ Kubernetes
 * https://www.katacoda.com/courses/kubernetes
 * https://kubernetes.io/docs/tutorials/kubernetes-basics
 * https://kubernetes.io/docs/tutorials/online-training/overview
-* https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
+* https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
 * https://www.digitalocean.com/resources/kubernetes

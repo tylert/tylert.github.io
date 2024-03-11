@@ -5,13 +5,13 @@ Initial Webinar Register Link
 * https://events.splunk.com/splunk-4-rookies-workshop
 
 Test Link (to see if your network is "working" before the webinar)
-* http://ec2-3-250-22-170.eu-west-1.compute.amazonaws.com/
+* http://ec2-3-250-22-170.eu-west-1.compute.amazonaws.com
 
 Self-Register for Lab (during webinar)
-* https://splunk4rookies.com/8409/self_register/
+* https://splunk4rookies.com/8409/self_register
 
 Created Lab Environment (which didn't work for me during the webinar)
-* https://ec2-18-203-159-90.eu-west-1.compute.amazonaws.com/
+* https://ec2-18-203-159-90.eu-west-1.compute.amazonaws.com
 
 Default Splunk Login (username and password)
 * "admin:changeme"

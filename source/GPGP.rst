@@ -2,14 +2,14 @@ GPG/PGP Magic
 -------------
 
 * https://musigma.blog/2021/05/09/gpg-ssh-ed25519.html  SSH and GPG with the same private key???
-* https://www.digitalneanderthal.com/post/gpg/  better/paper backups???
+* https://www.digitalneanderthal.com/post/gpg  better/paper backups???
 * https://serverfault.com/questions/887769/export-private-ed25519-key-from-gnupg-for-use-in-ssh
 * https://rgoulter.com/blog/posts/programming/2022-06-10-a-visual-explanation-of-gpg-subkeys.html
-* https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key/
-* https://www.g-loaded.eu/2010/11/01/change-expiration-date-gpg-key/
+* https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key
+* https://www.g-loaded.eu/2010/11/01/change-expiration-date-gpg-key
 * https://www.gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html
 * https://latacora.micro.blog/2019/07/16/the-pgp-problem.html  the worst parts about GPG/PGP!!!
-* https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/
+* https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key
 
 ::
 
@@ -35,7 +35,7 @@ GPG/PGP Magic
     # Show extra info
     $ gpg -k --with-keygrip --keyid-format long
     $ gpg -K --with-keygrip --keyid-format long
-    $ ls .gnupg/private-keys-v1.d/
+    $ ls .gnupg/private-keys-v1.d
     ...
     $ echo "keyid-format long" >> ~/.gnupg/gpg.conf
     $ echo "with-keygrip" >> ~/.gnupg/gpg.conf
@@ -60,10 +60,10 @@ GPG/PGP Magic
 Backups
 -------
 
-* https://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys/
+* https://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys
 * https://wiki.archlinux.org/title/Paperkey
-* https://www.jabberwocky.com/software/paperkey/
-* https://github.com/dmshaw/paperkey/
+* https://www.jabberwocky.com/software/paperkey
+* https://github.com/dmshaw/paperkey
 
 ::
 
@@ -105,7 +105,7 @@ Commit Signing
 --------------
 
 * https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work
-* https://help.gitkraken.com/gitkraken-client/commit-signing-with-gpg/
+* https://help.gitkraken.com/gitkraken-client/commit-signing-with-gpg
 * https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html
 
 
@@ -136,7 +136,7 @@ You must have LibreSSL 3.7.x+ (or any old OpenSSL 1.1+???) to use ED25519!
 Key Servers
 -----------
 
-* https://keys.openpgp.org/
+* https://keys.openpgp.org
 * https://keys.openpgp.org/about/api
 * https://keys.openpgp.org/search?q=0x3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C
 * https://keys.openpgp.org/vks/v1/by-fingerprint/3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C

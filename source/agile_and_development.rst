@@ -41,7 +41,7 @@ Supply Chain Magic
 * https://www.youtube.com/watch?v=JC-xCXcyNXI
 * https://slsa.dev
 * https://github.com/gomods/athens
-* https://gomods.io/
+* https://gomods.io
 * https://dev.to/johanlejdung/a-mini-guide-go-modules-and-private-repositories-4c7o
 * https://go.dev/ref/mod#private-module-privacy
 * https://go.dev/ref/mod
@@ -66,7 +66,8 @@ Development
 -----------
 
 * https://docs.cloudposse.com  best practices
-* http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
+* https://jsimolaris.wordpress.com/2021/04/04/breakable-toys
+* https://www.azavea.com/blog/2018/10/10/engineer-onboarding-breakable-toy
 * https://blog.stulta.dev/posts/stupid_tools
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston
@@ -143,8 +144,10 @@ Style Guide Stuff
 * bashate (former bash8)
 * https://github.com/bahamas10/bash-style-guide
 * https://google.github.io/styleguide/shell.xml
+* https://styles.sh
 * https://jmmv.dev/2021/08/useless-use-of-gnu.html
 * https://sharats.me/posts/shell-script-best-practices
+* https://docs.gitlab.com/ee/development/shell_scripting_guide
 
 
 Diagrams-as-Code Stuff

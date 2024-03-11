@@ -271,7 +271,7 @@ Assorted Things-to-Read
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
-* http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/
+* http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2
 * https://github.com/mitchellh/packer/pull/2962
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
 * https://mergeboard.com/blog/2-qemu-microvm-docker
@@ -465,7 +465,7 @@ Time-Series and Graphing Considerations
 Crypto
 ------
 
-* https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages/
+* https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages
 * https://github.com/sustrik/crypto-for-kids
 * https://lwn.net/Articles/867158  PAM duress
 

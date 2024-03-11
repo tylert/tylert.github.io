@@ -17,6 +17,9 @@ SQLite
 * https://sqlime.org
 * https://github.com/nalgeon/sqlime
 * https://github.com/dgllghr/stanchion  column-oriented tables for sqlite
+* https://github.com/lovasoa/sqlpage
+* https://sql.ophir.dev
+* https://github.com/dgllghr/stanchion
 
 ::
 

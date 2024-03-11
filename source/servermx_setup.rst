@@ -14,11 +14,11 @@ Incoming:  imap.servermx.com, SSL/TLS, port 993, normal password
 Outgoing:  smtp.servermx.com, STARTTLS, port 587, normal password
 Account name:  servermx
 Display name:  Firstname Lastname
-https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Contacts/personal/
-https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Calendar/personal/
+https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Contacts/personal
+https://sogo.servermx.com/SOGo/dav/firstname.lastname%domainname%2Etld/Calendar/personal
 
 DAVdroid Setup
-URL:  https://sogo.servermx.com/SOGo/dav/
+URL:  https://sogo.servermx.com/SOGo/dav
 Username:  firstname.lastname@domainname.tld
 Password:  YOUREMAILPASSWORD
 Contacts:  Personal Address Book  (poll every 1 hour)

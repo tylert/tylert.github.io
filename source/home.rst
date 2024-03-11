@@ -33,7 +33,7 @@ CLI / Terminal
 Collaborative editing
 ---------------------
 
-* http://etherpad.org/
+* http://etherpad.org
 * https://github.com/ether/etherpad-lite
 
 
@@ -122,10 +122,10 @@ Front End / UI
 Git
 ---
 
-* https://blog.scottnonnenberg.com/better-git-configuration/
+* https://blog.scottnonnenberg.com/better-git-configuration
 * http://stackoverflow.com/questions/21277806/fatal-early-eof-fatal-index-pack-failed
   ``clone big repo``
-* https://about.gitlab.com/2014/09/29/gitlab-flow/
+* https://about.gitlab.com/2014/09/29/gitlab-flow
 * https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery#Removing-Objects
 
 
