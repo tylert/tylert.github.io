@@ -300,6 +300,7 @@ Go Stuff
 * https://github.com/x-motemen/gore  REPL
 * https://github.com/d4l3k/go-pry  REPL?
 * https://github.com/karrick/godirwalk  dir walking?
+* https://go.dev/blog/execution-traces-2024
 
 
 Rust Stuff

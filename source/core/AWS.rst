@@ -90,6 +90,14 @@ CLI
     jq '.Accounts[] | {"alias": .Alias, "acctid": .Account}' accounts.json | jq -s . > accounts_better.json
 
 
+IPv6
+----
+
+* https://awsipv6.neveragain.de  the needle never quite moves off of 88% IPv4, it seems
+* https://tty.neveragain.de  more awesome stuff
+* https://tty.neveragain.de/2021/04/26/road-to-reweb.html
+
+
 TGW/TF
 ------
 
@@ -143,6 +151,7 @@ IAM
 
 * https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli
 * http://blogs.aws.amazon.com/security/post/Tx2MUS2R3CMGG8H/Enable-a-New-Feature-in-the-AWS-Management-Console-Cross-Account-Access
+* https://matduggan.com/iam-is-the-worst
 
 
 AWS STS

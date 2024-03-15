@@ -90,6 +90,7 @@ Self-Hosted
 * https://tildeverse.org  Unix/Linux playground awesome
 * http://tilde.club  Unix/Linux playground
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
+* https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
 
 
 Authentication
