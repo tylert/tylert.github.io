@@ -43,7 +43,6 @@ Install Other Apps
   * "K-9 Mail" email client
 #. Remove all the junk from your home screen and move your icons around as desired.
 #. Use "F-Droid", add repo "https://apt.izzysoft.de/fdroid/repo" and install the following additional apps:
-  * "Libera" document reader
   * "Osmin" GPS navigator
   * "WireGuard" VPN client
 
