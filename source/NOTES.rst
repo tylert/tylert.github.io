@@ -573,6 +573,7 @@ Container Stuff
 * https://github.com/harvester/harvester  VMs launched from k8s?
 * https://paulbutler.org/2024/the-haters-guide-to-kubernetes
 * https://www.youtube.com/watch?v=6NeQa_1YXbI  "AWS Summit Ottawa 2022:  Security and compliance for container-based microservices"
+* https://github.com/mercari/tortoise  HPA/VPA for k8s?
 
 
 Load-Balancing
