@@ -419,6 +419,8 @@ Art Stuff
 * https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
 * https://simonwillison.net/2023/Nov/29/llamafile
 * https://penrose.cs.cmu.edu  web diagrams from text
+* https://voussoir.net/writing/css_for_printing
+* https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
 
 
 Awesome Stuff
@@ -490,6 +492,7 @@ More
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
 * https://pyinfra.com  another replacement for Ansible?
 * https://github.com/debauchee/barrier  open replacement for Synergy
+* https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
 
 
 Container Stuff

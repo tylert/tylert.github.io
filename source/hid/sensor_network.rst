@@ -67,8 +67,8 @@ Pi Pico/PicoW
 * https://arduino-pico.readthedocs.io
 * https://github.com/Noltari/pico-uart-bridge
 * http://antirez.com/news/143  playing audio files on a Pico without a DAC
-- https://github.com/tinygo-org/tinygo/issues/2947  plain Pico is already supported but PicoW is still pending
-- https://circuitpython.org/board/raspberry_pi_pico_w
+* https://github.com/tinygo-org/tinygo/issues/2947  plain Pico is already supported but PicoW is still pending
+* https://circuitpython.org/board/raspberry_pi_pico_w
 
 
 nRF52840
@@ -82,7 +82,8 @@ nRF52840
 * https://www.adafruit.com/product/4481  part available from Adafruit
 * https://www.pishop.ca/product/adafruit-itsybitsy-nrf52840-express-bluetooth-le  part available from PiShop.ca
 * https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4481/11497502  part available from Digikey.ca
-- https://github.com/orgs/micropython/discussions/13482  MicroPython on ItsyBitsy?
+* https://github.com/orgs/micropython/discussions/13482  MicroPython on ItsyBitsy?
+* https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
 
 
 Electronics
