@@ -2,21 +2,21 @@ Raspberry Pi OS Images
 ----------------------
 
 Most of these images are built using the code at
-https://github.com/RPi-Distro/pi-gen/ (maybe).
+https://github.com/RPi-Distro/pi-gen (maybe).
 
 The faster, more useful download link is
-https://downloads.raspberrypi.org/.
+https://downloads.raspberrypi.org.
 
 The shitty, less-automated download link is
-https://www.raspberrypi.org/downloads/.
+https://www.raspberrypi.org/downloads.
 
 
 Berryboot
 ---------
 
 * http://www.berryterminal.com/doku.php/berryboot
-* http://sourceforge.net/projects/berryboot/files/
-* http://sourceforge.net/projects/berryboot/files/os_images/
+* http://sourceforge.net/projects/berryboot/files
+* http://sourceforge.net/projects/berryboot/files/os_images
 
 
 Flash Image

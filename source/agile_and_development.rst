@@ -118,6 +118,7 @@ Versioning
 * https://en.wikipedia.org/wiki/Software_versioning
 * https://pragver.github.io/faq
 * https://youtu.be/GXgbV7jB_Bc  Stewardship Made Practical w/Stuart Halloway
+* https://keepachangelog.com/en/1.1.0
 
 
 Mentorship Stuff

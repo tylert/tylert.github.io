@@ -293,6 +293,7 @@ Assorted Things-to-Read
 * https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers  humour
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
+* https://garnix.io/blog/call-by-hash
 
 
 Keepass Stuff

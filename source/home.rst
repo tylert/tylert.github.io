@@ -1,9 +1,9 @@
 API development
 ---------------
 
-* https://insomnia.rest/ ``API development tool``
-* https://www.getpostman.com/ ``API development tool``
-* https://www.infoq.com/articles/rest-anti-patterns ``RESTful API anti-patterns``
+* https://insomnia.rest  ``API development tool``
+* https://www.getpostman.com  ``API development tool``
+* https://www.infoq.com/articles/rest-anti-patterns  ``RESTful API anti-patterns``
 
 
 Ceph
@@ -68,7 +68,7 @@ DevOps / Deploy
   ``Continuous Testing``
 * http://web.devopstopologies.com
 * https://maas.io
-* https://www.hashicorp.com/devops-defined/ ``more hashicorp tools``
+* https://www.hashicorp.com/devops-defined  ``more hashicorp tools``
 * http://ops-school.readthedocs.io/en/latest/index.html
   ``Ops School basics``
 * https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
@@ -86,7 +86,7 @@ DevOps / Deploy
   ``config management``
 * http://www.brendangregg.com/perf.html ``Linux perf``
 * https://github.com/n1trux/awesome-sysadmin ``FOSS Tools``
-* https://8ack.de/firstaidkit/ ``Response Checklists``
+* https://8ack.de/firstaidkit  ``Response Checklists``
 * https://gist.github.com/mattiaslundberg/8620837
   ``Arch linux deploy to UEFI w/ LUKS``
 * https://blog.codeship.com/immutable-deployments

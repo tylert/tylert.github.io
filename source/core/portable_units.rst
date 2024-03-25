@@ -17,7 +17,7 @@ Not an ideal size but gives a rough idea for cost-comparison::
 Custom Cases
 ------------
 
-* https://productioncase.com/  Carp, ON custom road/flight case builder and Nanuk case distributor
+* https://productioncase.com  Carp, ON custom road/flight case builder and Nanuk case distributor
 * http://fuzzcraft.com/flightcasediy.html
 * https://en.wikipedia.org/wiki/Road_case
 
@@ -25,7 +25,7 @@ Custom Cases
 Black Case Hardware
 -------------------
 
-* https://www.penn-elcom.com/  possible reseller in Windsor, ON
+* https://www.penn-elcom.com  possible reseller in Windsor, ON
 * https://www.pennelcomonline.com/us/Penn-Elcom-Mini-Recessed-Butterfly-Latch-L904914K/m-8551.aspx  small latches, black (L904/914K)
 * https://www.pennelcomonline.com/us/Penn-Elcom-Medium-Recessed-Handle-H7151K/m-7703.aspx  medium handles, black (H7151K)
 * https://www.pennelcomonline.com/us/Penn-Elcom-Pack-of-4-x-Large-Black-Steel-Ball-Corners-C1340K-PE4/m-10084.aspx  large corners, black (C1340K)

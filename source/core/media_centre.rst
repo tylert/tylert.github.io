@@ -47,7 +47,7 @@ OSMC on Debian
 Activate MPEG Stuff (DEPRECATED)
 --------------------------------
 
-Go buy license key(s) from http://www.raspberrypi.com/mpeg-2-license-key/ and
+Go buy license key(s) from http://www.raspberrypi.com/mpeg-2-license-key and
 http://www.raspberrypi.com/vc-1-license-key/.
 
 Wait up to 24 hours for an email to arrive with your keys.

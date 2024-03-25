@@ -107,19 +107,19 @@ Session Stuff
 VPN Magic
 ---------
 
-* https://orth.uk/ssh-over-cloudflare/
+* https://orth.uk/ssh-over-cloudflare
 * https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
 * https://github.com/cloudflare/cloudflared
 * https://github.com/gravitational/teleport
 * https://github.com/moul/awesome-ssh
 * https://github.com/moul/sshportal
-* https://grahamhelton.com/blog/ssh-cheatsheet/
+* https://grahamhelton.com/blog/ssh-cheatsheet
 
 
 WG/SSH Evil
 -----------
 
-* https://fly.io/blog/our-user-mode-wireguard-year/
+* https://fly.io/blog/our-user-mode-wireguard-year
 
 
 SSH CA/Agent/Sudo/Signing
@@ -130,27 +130,27 @@ SSH CA/Agent/Sudo/Signing
 * https://github.com/cloudtools/ssh-ca
 * https://github.com/cloudtools/ssh-cert-authority
 * https://github.com/lgxz/sshca
-* https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
-* https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority/
-* https://thinkingeek.com/2020/06/06/using-ssh-certificates/
+* https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca
+* https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority
+* https://thinkingeek.com/2020/06/06/using-ssh-certificates
 * https://www.lorier.net/docs/ssh-ca.html
-* http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication/
+* http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication
 * http://unixwiz.net/techtips/ssh-agent-forwarding.html
 * https://github.com/jbeverly/pam_ssh_agent_auth
 * https://github.com/netflix/bless
 * https://github.com/uber/pam-ussh  sudo after SSH
-* https://graystum.com/aws-ssm-do-you-really-need-ssh/  AWS SSM
+* https://graystum.com/aws-ssm-do-you-really-need-ssh  AWS SSM
 * https://hackernoon.com/ditch-your-ssh-keys-and-enable-aws-ssm-ec1c2b27350c
-* https://smallstep.com/blog/use-ssh-certificates/
+* https://smallstep.com/blog/use-ssh-certificates
 * https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault
-* https://www.sweharris.org/post/2022-02-06-ssh-certs-again/
+* https://www.sweharris.org/post/2022-02-06-ssh-certs-again
 * https://www.toptal.com/aws/ssh-log-with-ssm
 * https://news.ycombinator.com/item?id=32660773  SSH CA discussion/poll
-* https://smallstep.com/blog/diy-single-sign-on-for-ssh/
+* https://smallstep.com/blog/diy-single-sign-on-for-ssh
 * https://keepassxc.org/docs/#faq-ssh-agent-how  combine with other magic!!!
 * https://www.agwa.name/blog/post/ssh_signatures  ssh signatures and signature verification
-* https://imzye.com/DevSecOps/signature-with-ssh-keys/  ssh signatures and signature verification
+* https://imzye.com/DevSecOps/signature-with-ssh-keys  ssh signatures and signature verification
 * https://calebhearth.com/sign-git-with-ssh  sign git commits with SSH
-* https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/  git commit signing
+* https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures  git commit signing
 * https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated
 * https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication
