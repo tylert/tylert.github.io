@@ -76,7 +76,7 @@ nRF52840
 
 * https://blog.voltaicsystems.com/solar-powered-lora-radio-barometric-pressure-and-altimeter-tutorial  power cells with 50k charge cycles
 * https://tinygo.org/docs/concepts/low-power/#nrf-family
-* https://github.com/tinygo-org/bluetooth?tab=readme-ov-file#adafruit-bluefruit-boards
+* https://github.com/tinygo-org/bluetooth
 * https://tinygo.org/docs/reference/microcontrollers/itsybitsy-nrf52840
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/overview
 * https://www.adafruit.com/product/4481  part available from Adafruit
@@ -90,11 +90,15 @@ Electronics
 -----------
 
 * https://learn.sparkfun.com/tutorials/voltage-dividers/all
+* https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html  KiCAD getting started
+* https://forum.kicad.info/t/configure-global-symbol-footprint-library-table/20264/7  silly KiCAD problem
 
 
 Temperature Controller
 ----------------------
 
-* https://www.rancoetc.com/ranco-etc-111000-000-digital-temperature-controller
-* https://www.rancoetc.com/ranco-etc-111100-000-digital-temperature-controller0-10v-output
+* https://heatmasterss.com/products/mf-eseries  MF 5000e overview
+* https://heatmasterss.com/wp-content/uploads/2022/02/MF-Series-Owners-Manual-2018-HM-Update.pdf  MF 5000e manual
+* https://www.rancoetc.com/ranco-etc-111000-000-digital-temperature-controller  default controller
+* https://www.rancoetc.com/ranco-etc-111100-000-digital-temperature-controller0-10v-output  replacement controller
 * https://www.amazon.ca/Ranco-Product-ETC-111100-000/dp/B00EZH3BO6
