@@ -213,3 +213,5 @@ Others
 * https://tycrek.github.io/degoogle
 * https://github.com/tycrek/degoogle
 * https://anysoftkeyboard.github.io
+* https://github.com/NeoApplications/Neo-Store  F-Droid alternative?
+* https://mudkip.me/2024/02/28/Spiritual-Successor-to-the-Google-Nexus-7  tablets still suck

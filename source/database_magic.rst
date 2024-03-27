@@ -92,6 +92,7 @@ Schema Stuff
 * https://github.com/ariga/atlas
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
+* https://kaveland.no/friends-dont-let-friends-export-to-csv.html
 
 
 K8s Stuff

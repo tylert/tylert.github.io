@@ -23,12 +23,13 @@ Key Meetings
 * https://agilepainrelief.com/glossary/product-backlog-refinement
 
 
-Kanban Offline
---------------
+Kanban Stuff
+------------
 
 * https://github.com/greggigon/my-personal-kanban
 * http://greggigon.github.io/my-personal-kanban
 * https://my-personal-kanban.appspot.com
+* https://budgetkanban.com/landing  Kanban for budgets too?
 
 ::
 
@@ -302,6 +303,7 @@ Go Stuff
 * https://github.com/d4l3k/go-pry  REPL?
 * https://github.com/karrick/godirwalk  dir walking?
 * https://go.dev/blog/execution-traces-2024
+* https://remyhax.xyz/posts/golang-packet-editing
 
 
 Rust Stuff

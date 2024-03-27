@@ -683,6 +683,7 @@ Ham Stuff
 * https://groups.io/g/TXBPF/message/3034  W3NQN-compatible filters with a more reasonable price tag
 * https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
 * https://www.youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
+* https://lcamtuf.substack.com/p/radios-how-do-they-work
 
 
 Ribbit

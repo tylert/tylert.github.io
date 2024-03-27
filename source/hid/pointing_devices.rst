@@ -133,3 +133,10 @@ USB Trickery
 
 * https://github.com/haimgel/display-switch
 * https://haim.dev/posts/2020-07-28-dual-monitor-kvm
+
+
+Other
+-----
+
+* https://github.com/carlosefr/spinner-mouse  arcade spinny thing
+* https://github.com/omriharel/deej  sliders
