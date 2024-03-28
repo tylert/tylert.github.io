@@ -304,6 +304,8 @@ Go Stuff
 * https://github.com/karrick/godirwalk  dir walking?
 * https://go.dev/blog/execution-traces-2024
 * https://remyhax.xyz/posts/golang-packet-editing
+* https://www.zarl.dev/articles/enums-take-two
+* https://github.com/zarldev/goenums
 
 
 Rust Stuff
