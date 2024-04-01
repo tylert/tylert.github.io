@@ -74,6 +74,7 @@ Self-Hosted
 * https://github.com/librespeed/speedtest  self-hosted speed tests?
 * https://github.com/librespeed/speedtest-go  self-hosted speed tests?
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
+* https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
 * https://blog.lopp.net/death-of-decentralized-email
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8  hosting static sites
 * https://github.com/meienberger/runtipi
