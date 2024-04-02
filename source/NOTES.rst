@@ -684,6 +684,8 @@ Ham Stuff
 * https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
 * https://www.youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
 * https://lcamtuf.substack.com/p/radios-how-do-they-work
+* https://oe7drt.com/posts/2024/64-packet-radio-vara-mobilinkd-and-digirig-on-linux
+* https://blog.habets.se/2020/06/Amateur-packet-radio-walkthrough.html
 
 
 Ribbit
