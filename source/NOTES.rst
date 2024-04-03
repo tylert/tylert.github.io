@@ -686,6 +686,8 @@ Ham Stuff
 * https://lcamtuf.substack.com/p/radios-how-do-they-work
 * https://oe7drt.com/posts/2024/64-packet-radio-vara-mobilinkd-and-digirig-on-linux
 * https://blog.habets.se/2020/06/Amateur-packet-radio-walkthrough.html
+* https://blaines.world/projects/push-to-reboot/logs/locking-things-down  HOTP over DTMF?
+* https://gitlab.com/unixispower/push-to-reboot  HOTP over DTMF?
 
 
 Ribbit
