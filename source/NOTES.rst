@@ -87,8 +87,12 @@ Video/Audio/Camera Awesome
     # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file and then run
     ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 
+    # audio cd -> wav -> flac
     cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
-    flac foo.wav
+    flac --verify foo.wav
+
+    # Stream ripping example (try to keep metadata; needs work)
+    ffmpeg -i http://fr.ah.fm:8000/192k -map_metadata 0:s:0 ah_fm.mp3
 
 Just fix the title of the video file::
 
