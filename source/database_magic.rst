@@ -135,3 +135,5 @@ MySQL Stuff
         echo "- process: ${process_id}"
         mysql -e "kill ${process_id}"
     done
+
+* https://github.com/dolthub/go-mysql-server

@@ -10,6 +10,7 @@ Git Stuff
 * https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733
 * https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-and-the-easy-way
 * https://github.com/git-big-picture/git-big-picture  Graphviz sub-graphs of git commit history
+* https://ohmygit.org  game-like git tutorial???
 
 Use the new tooling for rewriting history::
 
