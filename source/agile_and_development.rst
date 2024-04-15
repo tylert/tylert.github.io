@@ -61,6 +61,7 @@ Software Design and Documentation
 * http://craftinginterpreters.com
 * https://threedots.tech/post/software-dark-ages
 * https://www.writethedocs.org/guide
+* https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
 
 
 Development

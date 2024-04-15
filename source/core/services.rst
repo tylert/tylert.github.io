@@ -187,6 +187,7 @@ bash lines::
 * https://github.com/pgrok/pgrok
 * https://github.com/amalshaji/portr
 * https://portr.dev
+* https://mrkaran.dev/posts/travel-tailscale
 
 
 Networking Magic

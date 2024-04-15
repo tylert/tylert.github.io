@@ -20,6 +20,7 @@ SQLite
 * https://github.com/lovasoa/sqlpage
 * https://sql.ophir.dev
 * https://github.com/dgllghr/stanchion
+* https://github.com/nalgeon/redka  Redis-compatible sqlite
 
 ::
 
