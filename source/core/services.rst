@@ -188,6 +188,7 @@ bash lines::
 * https://github.com/amalshaji/portr
 * https://portr.dev
 * https://mrkaran.dev/posts/travel-tailscale
+* https://0xda.de/blog/2024/04/can-you-grok-it
 
 
 Networking Magic
