@@ -133,6 +133,7 @@ Mentorship Stuff
 * http://randsinrepose.com/archives/bored-people-quit
 * http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
 * http://www.daedtech.com/how-to-keep-your-best-programmers
+* https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity
 
 
 Team Stuff
