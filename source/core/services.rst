@@ -64,25 +64,45 @@ VPN
 * https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
 
 
-Self-Hosted
------------
+Email
+-----
 
 * https://stalw.art  single Rust binary/container for email server stuff
 * https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
+* https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
+* https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
+* https://github.com/mjl-/mox
+* https://github.com/neilalexander/yggmail
+* https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
+
+
+Mesh
+----
+
+* https://yggdrasil-network.github.io
+* https://github.com/yggdrasil-network/yggdrasil-go
+* https://yggdrasil-openwrt.github.io
+* https://willyyangwt.cc/posts/2022/03/08/using-yggdrasil-network-virtual-mesh-ipv6-network.html
+* https://complete.org/user-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers
+* https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network
+
+
+Other
+-----
+
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://blog.ioces.com/matt/posts/everything-old-is-new-again
 * https://github.com/librespeed/speedtest  self-hosted speed tests?
 * https://github.com/librespeed/speedtest-go  self-hosted speed tests?
-* https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
-* https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
 * https://blog.lopp.net/death-of-decentralized-email
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8  hosting static sites
 * https://github.com/meienberger/runtipi
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
-* https://github.com/mjl-/mox  email?
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site
+* https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp
+* https://fossil-scm.org
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
 * https://github.com/PhirePhly/micromirrors  mirroring things
 * https://blog.randombits.host/monitoring-self-hosted-services  Grafana, Prometheus, Loki, etc.
@@ -91,7 +111,6 @@ Self-Hosted
 * https://tildeverse.org  Unix/Linux playground awesome
 * http://tilde.club  Unix/Linux playground
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
-* https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
 
 
 Authentication
@@ -195,10 +214,13 @@ Networking Magic
 ----------------
 
 * http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets
+* https://github.com/luainkernel/lunatik  LUA scripting for kernel stuff???
 
 
 Crypto Magic
 ------------
+
+* https://github.com/dehydrated-io/dehydrated  ACMEv2 shell script
 
 ::
 
