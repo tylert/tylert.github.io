@@ -635,6 +635,7 @@ Networking
 * https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
 * https://ebpf.io/what-is-ebpf
 * https://who.ldelossa.is/posts  more eBPF/TC low-level learning
+* https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync  router7, distri, gokrazy-rsync, etc.
 
 
 Family IT Support Calls
