@@ -111,6 +111,7 @@ Other
 * https://tildeverse.org  Unix/Linux playground awesome
 * http://tilde.club  Unix/Linux playground
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
+* https://github.com/thomiceli/opengist  open-source, self-hostable GitHub Gists and/or pastebin
 
 
 Authentication

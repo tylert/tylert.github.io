@@ -14,9 +14,11 @@ More Plotter Stuff
 
 * https://szymonkaliski.com/projects/diy-pen-plotter
 * https://www.thingiverse.com/search?q=plotter&page=1&type=things&sort=relevant
+* https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html
 
 
 Generative Art
 --------------
 
 * https://github.com/fogleman/ln
+* https://plotterfiles.com
