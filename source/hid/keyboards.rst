@@ -184,6 +184,12 @@ A Jump To Conclusions Key
 * https://github.com/qmk/qmk_firmware/commit/47f55f417b9ecd2199b0b253e6dfb6881f9a8746
 
 
+Mouse Jiggler
+-------------
+
+* https://www.reddit.com/r/MechanicalKeyboards/comments/10b3pk7/how_to_add_a_mousejiggler_toggle_macro_to_your
+
+
 Modifications
 -------------
 
