@@ -195,7 +195,6 @@ Modifications
 
 Mill-max sockets can apparently be added to just about any PCB.
 
-* https://www.reddit.com/r/MechanicalKeyboards/comments/kv65fe/first_mech_durgod_taurus_k320_tkl_with_blank/giwkpvq/?utm_source=share&utm_medium=web2x&context=3
 * https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb
 * https://www.reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good
 * https://keyboardlube.com/products/mill-max-sockets
