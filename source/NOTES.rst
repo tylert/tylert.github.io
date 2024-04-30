@@ -394,6 +394,7 @@ Publishing Fun
 * https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
 * https://pandoc.org
 * https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
+* https://krasjet.com/voice/pdf.tocgen  PDF Table Of Contents generation???
 
 
 RPG Stuff

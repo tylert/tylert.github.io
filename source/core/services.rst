@@ -5,6 +5,7 @@ Devices
 * https://lengrand.fr/complete-setup-epaper
 * https://github.com/mecparts/PicoWiFiModem  Raspberry Pi Pico W acting as a modem for retro devices
 * https://github.com/mecparts/RetroWiFiModem  Same as above but for ESP8266 (ESP32 too?)
+* https://codedbearder.com/posts/f3-backplane  TerraMaster F2-221 replacement daughter PCB
 
 
 TOTP, CA, U2F, FIDO
@@ -135,6 +136,7 @@ Logging and Metrics
 * https://matduggan.com/were-all-doing-metrics-wrong
 * https://kubernetes.io/docs/concepts/cluster-administration/logging/#cluster-level-logging-architectures
 * https://kener.ing  dashboard stuff???
+* https://github.com/rcoh/angle-grinder  nifty tool
 
 
 Winderz
@@ -166,6 +168,7 @@ Script, know thyself::
     directory="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
 
 * https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script
+* https://github.com/gyf304/dotenv  C tool for populating running environment variables
 
 
 Ngrok Clone

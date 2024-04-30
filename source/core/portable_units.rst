@@ -109,6 +109,14 @@ Decentralized Infrastructure Stuff
 * https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
 
 
+Communication
+-------------
+
+* https://scuttlebutt.nz
+* https://github.com/ssbc/go-ssb-room
+* https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared
+
+
 NNCP
 ----
 
