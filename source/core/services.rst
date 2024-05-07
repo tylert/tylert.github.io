@@ -220,6 +220,7 @@ Networking Magic
 * http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets
 * https://github.com/luainkernel/lunatik  LUA scripting for kernel stuff???
 * https://startyourownisp.com
+* https://j6b72.de/article/why-you-should-take-a-look-at-traefik
 
 
 Crypto Magic

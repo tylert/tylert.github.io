@@ -62,6 +62,7 @@ Software Design and Documentation
 * https://threedots.tech/post/software-dark-ages
 * https://www.writethedocs.org/guide
 * https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
+* https://www.industrialempathy.com/posts/design-docs-at-google
 
 
 Development
