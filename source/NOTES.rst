@@ -12,6 +12,7 @@ Tmux With Terminal Stuff
 * https://man.openbsd.org/tmux
 * https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf
 * https://www.ditig.com/256-colors-cheat-sheet
+* https://ianthehenry.com/posts/how-to-configure-tmux
 
 ::
 
