@@ -115,6 +115,10 @@ Communication
 * https://scuttlebutt.nz
 * https://github.com/ssbc/go-ssb-room
 * https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared
+* https://github.com/adrianpike/sneakerdrop
+* https://stackoverflow.com/questions/28639028/automatic-message-routing-on-a-sneakernet
+* https://github.com/decentralized-identity/didcomm-messaging
+* https://idp2p.github.io
 
 
 NNCP
