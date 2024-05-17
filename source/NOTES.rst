@@ -223,6 +223,7 @@ Official OS Images
 * https://ubuntu.com/blog/craft-custom-chiselled-ubuntu-distroless
 * https://github.com/canonical/chisel
 * https://xenialinux.com  immutable Gentoo?
+* https://grahamc.com/blog/erase-your-darlings  NixOS
 * https://imil.net/blog/posts/2023/netbsd-as-a-docker-container
 * https://gitlab.com/iMil/mksmolnb  containerized NetBSD microVMs (boot in under a second)
 * https://www.talos.dev  Talos Linux (k8s OS)
