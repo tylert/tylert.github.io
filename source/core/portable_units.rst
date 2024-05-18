@@ -158,5 +158,5 @@ UFW
 ::
 
     ufw enable
-    ufw allow 2005/tcp
-    ufw deny in on tun0 proto ipv6  # yggdrasil
+    ufw allow 2005/tcp                      # other thingy
+    ufw prepend deny in on tun0 proto ipv6  # yggdrasil (put it first in the rule list)
