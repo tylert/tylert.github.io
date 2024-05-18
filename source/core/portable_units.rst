@@ -107,6 +107,8 @@ Decentralized Infrastructure Stuff
 * https://nats.io
 * https://github.com/nats-io
 * https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
+* https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
+* https://github.com/nkasmanoff/pi-card  offline personal assistant?
 
 
 Communication

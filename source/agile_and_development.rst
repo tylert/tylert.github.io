@@ -63,6 +63,10 @@ Software Design and Documentation
 * https://www.writethedocs.org/guide
 * https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
 * https://www.industrialempathy.com/posts/design-docs-at-google
+* https://er4hn.info/blog/2023.07.22-good_docs_great_effort
+* https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous
+* https://developers.google.com/tech-writing
+* https://leontrolski.github.io/cmd-click-manifesto.html
 
 
 Development
@@ -136,6 +140,7 @@ Mentorship Stuff
 * http://www.daedtech.com/how-to-keep-your-best-programmers
 * https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity
 * https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity
+* https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
 
 
 Team Stuff
@@ -310,6 +315,13 @@ Go Stuff
 * https://remyhax.xyz/posts/golang-packet-editing
 * https://www.zarl.dev/articles/enums-take-two
 * https://github.com/zarldev/goenums
+* https://github.com/dop251/goja  jabbascript in Go?
+* https://github.com/hexops/gotextdiff  unified diffs with Go
+* https://github.com/mitchellh/go-ps  search for running processes using Go
+* https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122
+* https://github.com/guonaihong/coreutils/blob/master/shuf/shuf.go
+* https://blog.boot.dev/golang/range-over-ticker-in-go-with-immediate-first-tick
+* https://zenhorace.dev/blog/context-control-go
 
 
 Rust Stuff
@@ -318,6 +330,7 @@ Rust Stuff
 * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 * https://words.filippo.io/rustgo  calling Rust from Go
 * https://aya-rs.dev  eBPF
+* https://rustpython.github.io
 
 
 C Stuff

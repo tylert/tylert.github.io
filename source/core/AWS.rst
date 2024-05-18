@@ -238,6 +238,8 @@ Cloud Hybrid
 
 * https://youtu.be/tIDbFTIPolQ
 * http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
+* https://www.val.town  weird jabbascript lambda thingy?
+* https://blog.cloudflare.com/sippy-incremental-migration-s3-r2
 
 
 IPAM
@@ -267,6 +269,7 @@ Lambda
 * https://github.com/blmayer/awslambdarpc
 * https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions
 * https://github.com/aws/aws-lambda-runtime-interface-emulator
+* https://github.com/apparentorder/reweb  AWS serverless proxy
 
 
 S3

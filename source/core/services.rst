@@ -75,6 +75,7 @@ Email
 * https://github.com/mjl-/mox
 * https://github.com/neilalexander/yggmail
 * https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
+* https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email
 
 
 Mesh
@@ -221,6 +222,7 @@ Networking Magic
 * https://github.com/luainkernel/lunatik  LUA scripting for kernel stuff???
 * https://startyourownisp.com
 * https://j6b72.de/article/why-you-should-take-a-look-at-traefik
+* https://zoraxy.arozos.com/#features  reverse-proxy stuff for homelabs
 
 
 Crypto Magic

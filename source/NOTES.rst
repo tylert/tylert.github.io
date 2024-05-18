@@ -69,6 +69,7 @@ Game Stuff
 * https://kilograham.github.io/rp2040-doom
 * https://news.ycombinator.com/item?id=31590724
 * https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
+* https://bazzite.gg  immutable desktop for Steam Decks?
 
 
 Video/Audio/Camera Awesome
@@ -430,6 +431,7 @@ Art Stuff
 * https://penrose.cs.cmu.edu  web diagrams from text
 * https://voussoir.net/writing/css_for_printing
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
+* https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
 
 
 Awesome Stuff
@@ -588,6 +590,7 @@ Container Stuff
 * https://paulbutler.org/2024/the-haters-guide-to-kubernetes
 * https://www.youtube.com/watch?v=6NeQa_1YXbI  "AWS Summit Ottawa 2022:  Security and compliance for container-based microservices"
 * https://github.com/mercari/tortoise  HPA/VPA for k8s?
+* https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha
 
 
 Load-Balancing
@@ -699,6 +702,19 @@ Ham Stuff
 * https://blog.habets.se/2020/06/Amateur-packet-radio-walkthrough.html
 * https://blaines.world/projects/push-to-reboot/logs/locking-things-down  HOTP over DTMF?
 * https://gitlab.com/unixispower/push-to-reboot  HOTP over DTMF?
+* https://hackaday.com/2023/04/07/arbitrary-code-execution-over-radio
+* https://www.sota-antennas.com/efhw.php
+
+
+SDR Rig
+-------
+
+* http://www.hermeslite.com
+* https://github.com/softerhardware/Hermes-Lite2/wiki
+* https://www.makerfabs.com/hermes-lite-2.html
+* https://www.youtube.com/watch?v=QxUivqiMvb0
+* https://www.youtube.com/watch?v=ZY7_cr8SM7I
+* https://www.vk-amps.com
 
 
 Ribbit

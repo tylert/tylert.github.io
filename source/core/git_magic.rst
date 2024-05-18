@@ -166,3 +166,8 @@ Other
 -----
 
 * https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5  another protocol?
+* https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that
+* https://blog.gitbutler.com/git-tips-and-tricks
+* https://baecher.dev/stdout/reproducible-git-bundles  git backup magic
+* https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities
+* https://git-send-email.io
