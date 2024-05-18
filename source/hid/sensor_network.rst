@@ -84,6 +84,32 @@ nRF52840
 * https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4481/11497502  part available from Digikey.ca
 * https://github.com/orgs/micropython/discussions/13482  MicroPython on ItsyBitsy?
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
+* https://github.com/tinygo-org/tinygo/issues/2591  DotStar on ItsyBitsy is just a APA102 RGB LED
+* https://pkg.go.dev/tinygo.org/x/drivers/apa102
+
+Upgrade ItsyBitsy bootloader to latest::
+
+    # Get latest bootloader files starting with "itsybitsy_nrf52840" from
+    # https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases
+
+    # Put the unit in DFU mode and then flash it
+    python -m pip install adafruit-nrfutil
+    adafruit-nrfutil --verbose dfu serial --package itsybitsy_nrf52840_express_bootloader-foopdidoo.zip -p /dev/ttyACM0 -b 115200 --singlebank --touch 1200
+
+    # Prepare to use tinygo
+    pacman -S tinygo avrdude
+    tinygo flash -target=itsybitsy-nrf52840 moo.go
+
+
+Tinygo
+------
+
+* https://tinygo.org/docs/tutorials/blinky  blink red LED
+* https://github.com/tinygo-org/bluetooth/blob/release/examples/advertisement/main.go  BLE advertisements
+
+::
+
+    go mod init blinky
 
 
 Electronics
