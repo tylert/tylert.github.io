@@ -122,6 +122,9 @@ Communication
 * https://github.com/decentralized-identity/didcomm-messaging
 * https://idp2p.github.io
 * https://github.com/tio/tio
+* https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat
+* https://github.com/Aeres-u99/ncChat  hacky bash scripts
+* https://conduit.rs
 
 
 NNCP
