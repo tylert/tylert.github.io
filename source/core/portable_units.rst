@@ -121,6 +121,7 @@ Communication
 * https://stackoverflow.com/questions/28639028/automatic-message-routing-on-a-sneakernet
 * https://github.com/decentralized-identity/didcomm-messaging
 * https://idp2p.github.io
+* https://github.com/tio/tio
 
 
 NNCP

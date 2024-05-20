@@ -322,6 +322,7 @@ Go Stuff
 * https://github.com/guonaihong/coreutils/blob/master/shuf/shuf.go
 * https://blog.boot.dev/golang/range-over-ticker-in-go-with-immediate-first-tick
 * https://zenhorace.dev/blog/context-control-go
+* https://github.com/songgao/water  TUN/TAP library
 
 
 Rust Stuff
