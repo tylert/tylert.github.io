@@ -121,6 +121,7 @@ PostgreSQL
 * https://github.com/tembo-io/pgmq  AWS SQS clone for PostgreSQL
 * https://github.com/omnigres/omnigres
 * https://docs.omnigres.org
+* https://tembo.io/blog/pg-timeseries
 
 
 MySQL Stuff

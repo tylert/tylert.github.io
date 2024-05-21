@@ -340,6 +340,12 @@ C Stuff
 * https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
 
 
+WASM
+----
+
+* https://github.com/eliot-akira/waxolotl
+
+
 Kubernetes Stuff
 ----------------
 
