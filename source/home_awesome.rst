@@ -14,3 +14,5 @@ Ontario Things
 * https://www.ertyu.org/steven_nikkel/cancellsites.html
 * https://www.mensshedsontario.ca/Sheds-Activities%202/OntMensShedsList
 * https://hackberrymensshed.org
+* https://www.cps-ecp.ca
+* https://www.canboat.ca
