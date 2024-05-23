@@ -503,6 +503,8 @@ More
 * https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser
 * https://bou.ke/blog/formulas
 * https://news.ycombinator.com/item?id=23643096  less bloated Ansible/SaltStack?
+* https://purpleidea.com/projects/mgmt-config  possible replacement for Ansible (Go)
+* https://github.com/purpleidea/mgmt  possible replacement for Ansible (Go)
 * https://pyinfra.com  another replacement for Ansible?
 * https://github.com/debauchee/barrier  open replacement for Synergy
 * https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html

@@ -112,6 +112,7 @@ Development
 * https://changelog.com/posts/things-we-always-remind-ourselves-while-coding
 * https://platformengineering.org/platform-tooling
 * https://humanitec.com
+* https://aquaproj.github.io  framework for version-pinning build tools?
 
 
 Versioning
