@@ -301,6 +301,7 @@ Assorted Things-to-Read
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
 * https://garnix.io/blog/call-by-hash
+* https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
 
 
 Keepass Stuff

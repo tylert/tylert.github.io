@@ -109,6 +109,7 @@ Decentralized Infrastructure Stuff
 * https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
+* https://pimalaya.org  PIM software in Rust?
 
 
 Communication
@@ -125,6 +126,9 @@ Communication
 * https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat
 * https://github.com/Aeres-u99/ncChat  hacky bash scripts
 * https://conduit.rs
+* https://man.sr.ht/~bitfehler/m2dir
+* https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
+* https://bitfehler.srht.site/posts/2023-09-07_sorry--maildir--i-am-breaking-up-with-you.html
 
 
 NNCP
