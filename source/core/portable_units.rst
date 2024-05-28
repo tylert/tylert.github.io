@@ -110,6 +110,7 @@ Decentralized Infrastructure Stuff
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
 * https://pimalaya.org  PIM software in Rust?
+* https://astrid.tech/2024/05/28/0/ping-ff02-1  magic local networking?
 
 
 Communication
