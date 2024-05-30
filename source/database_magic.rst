@@ -122,6 +122,8 @@ PostgreSQL
 * https://github.com/omnigres/omnigres
 * https://docs.omnigres.org
 * https://tembo.io/blog/pg-timeseries
+* https://github.com/kiwicopple/serverless-postgres
+* https://www.orioledb.com
 
 
 MySQL Stuff

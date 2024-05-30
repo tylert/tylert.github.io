@@ -130,6 +130,9 @@ Communication
 * https://man.sr.ht/~bitfehler/m2dir
 * https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
 * https://bitfehler.srht.site/posts/2023-09-07_sorry--maildir--i-am-breaking-up-with-you.html
+* https://github.com/cminyard/gensio
+* https://github.com/cminyard/ser2net
+* https://www.complete.org/using-gensio-and-ser2net
 
 
 NNCP
