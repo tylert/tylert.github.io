@@ -133,6 +133,7 @@ Communication
 * https://github.com/cminyard/gensio
 * https://github.com/cminyard/ser2net
 * https://www.complete.org/using-gensio-and-ser2net
+* https://brr.fyi/posts/engineering-for-slow-internet
 
 
 NNCP
