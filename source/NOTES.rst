@@ -162,6 +162,7 @@ HandBrake settings for DVDs::
 * https://joshuabird.com/blog/post/3d-printed-film-video-camera
 * https://www.diy-thermocam.net  IR imagery with nearly, nearly all open-source stuff (Teensy meh)
 * http://aggregate.org/DIT/CHDK  CHDK with CHDKPTP remote control
+* https://github.com/Jana-Marie/ligra  open-source projector?
 
 
 Apt Stuff
@@ -458,6 +459,7 @@ Awesome Stuff
 * https://www.netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
 * https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
+* https://popovicu.com/posts/making-usb-devices
 * https://jamesbvaughan.com/southwest-wifi  probing flight info from in-flight wifi without wasting your money
 * https://github.com/NalinPlad/OuterFlightTracker  probing flight info from in-flight wifi without wasting your money
 * http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
