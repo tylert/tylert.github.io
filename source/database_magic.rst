@@ -94,6 +94,7 @@ Schema Stuff
 * https://dvc.org/doc/use-cases/data-registry  version control for data?
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
 * https://kaveland.no/friends-dont-let-friends-export-to-csv.html
+* https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys
 
 
 K8s Stuff
