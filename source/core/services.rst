@@ -114,6 +114,7 @@ Other
 * http://tilde.club  Unix/Linux playground
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
 * https://github.com/thomiceli/opengist  open-source, self-hostable GitHub Gists and/or pastebin
+* https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop
 
 
 Authentication
