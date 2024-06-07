@@ -95,6 +95,8 @@ Schema Stuff
 * https://docs.datasette.io/en/stable/getting_started.html  more data control stuff maybe?
 * https://kaveland.no/friends-dont-let-friends-export-to-csv.html
 * https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys
+* https://gobuffalo.io  CRUD magic
+* https://github.com/gobuffalo/pop  CRUD magic
 
 
 K8s Stuff

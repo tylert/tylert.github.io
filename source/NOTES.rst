@@ -263,6 +263,7 @@ Cool Shell Tricks
 * https://www.dns.toys  do horrible things using DNS
 * https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff
 * https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html
+* https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
 
 ::
 
