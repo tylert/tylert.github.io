@@ -435,6 +435,7 @@ Art Stuff
 * https://voussoir.net/writing/css_for_printing
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
 * https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
+* https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
 
 
 Awesome Stuff

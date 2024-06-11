@@ -21,6 +21,8 @@ SQLite
 * https://sql.ophir.dev
 * https://github.com/dgllghr/stanchion
 * https://github.com/nalgeon/redka  Redis-compatible sqlite
+* https://lumosql.org  pluggable backend which supports encryption?
+* https://github.com/LMDB/lmdb  might be part of the magic of LumoSQL
 
 ::
 
@@ -63,6 +65,8 @@ Clustering and Replication
 * https://www.philipotoole.com
 * https://dqlite.io
 * https://github.com/canonical/dqlite
+* https://sqlsync.dev  eventually-consistent SQLite, offline-first
+* https://github.com/orbitinghail/sqlsync
 
 
 Indexing
@@ -127,6 +131,7 @@ PostgreSQL
 * https://tembo.io/blog/pg-timeseries
 * https://github.com/kiwicopple/serverless-postgres
 * https://www.orioledb.com
+* https://github.com/zalando/spilo  HA containerized PostgreSQL cluster thingy
 
 
 MySQL Stuff

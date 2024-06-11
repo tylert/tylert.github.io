@@ -245,6 +245,18 @@ Python Stuff
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 
 
+REST API Stuff
+--------------
+
+* https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
+* https://faun.pub/building-a-rest-api-with-go-and-sqlite-part-1-97c29ed2f282
+* https://blog.logrocket.com/rest-api-golang-gin-gorm
+* https://hackernoon.com/the-anatomy-of-an-api-gateway-in-golang
+* https://ithub.com/gin-gonic/gin
+* https://gin-gonic.com/docs/quickstart
+* https://github.com/gorilla/mux
+
+
 Go Stuff
 --------
 

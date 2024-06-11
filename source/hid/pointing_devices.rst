@@ -16,6 +16,7 @@ Logitech G203 Lightsync gaming mouse.
 * https://www.logitechg.com/en-us/products/gaming-mice/g203-lightsync-rgb-gaming-mouse.910-005791.html
 * https://github.com/libratbag/piper
 * https://github.com/smasty/g203-led
+* https://github.com/carlos-menezes/libg203lightsync
 * https://www.thingiverse.com/thing:4064213  replacement G203 outer shell
 * https://www.thingiverse.com/thing:3985798  replacement G203 top shell
 * https://www.thingiverse.com/thing:4920326  replacement G203 top shell alternate
