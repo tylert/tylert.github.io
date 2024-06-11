@@ -382,6 +382,9 @@ Kobo Stuff
     INSERT INTO user VALUES('', '', '', '', '', '', '', '', '', '', '', '', '');
     .quit
 
+    -- slightly different instruction found somewhere else
+    INSERT INTO user(UserID,UserKey) VALUES('1','');
+
 ::
 
     ebook-convert dummy.html .epub
