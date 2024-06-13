@@ -722,6 +722,7 @@ SDR Rig
 * http://www.hermeslite.com
 * https://github.com/softerhardware/Hermes-Lite2/wiki
 * https://www.makerfabs.com/hermes-lite-2.html
+* https://www.youtube.com/watch?v=Z09Mr5I6trw
 * https://www.youtube.com/watch?v=QxUivqiMvb0
 * https://www.youtube.com/watch?v=ZY7_cr8SM7I
 * https://www.vk-amps.com
