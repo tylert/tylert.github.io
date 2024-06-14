@@ -257,6 +257,15 @@ REST API Stuff
 * https://github.com/gorilla/mux
 
 
+Compiled Shellish Stuff
+-----------------------
+
+* https://blog.kowalczyk.info/article/wOYk/advanced-command-execution-in-go-with-osexec.html
+* https://bitfieldconsulting.com/posts/scripting
+* https://github.com/bitfield/script
+* https://til.simonwillison.net/bash/go-script  kinda horrible hack
+
+
 Go Stuff
 --------
 
