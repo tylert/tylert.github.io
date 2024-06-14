@@ -29,6 +29,15 @@ SQLite
 
     sqlite3 foo.sqlite3 .dump > foo.sql
 
+UUID stuff::
+
+    -- help doc at https://sqlite.org/loadext.html
+    -- "raw" src file from https://sqlite.org/src/file/ext/misc/uuid.c
+    -- gcc -g -fPIC -shared uuid.c -o uuid.so
+    .load ./uuid
+    CREATE TABLE foo (id UUID PRIMARY KEY, name TEXT);
+    INSERT INTO foo VALUES (uuid(), 'udders');
+
 
 JSON
 ----
