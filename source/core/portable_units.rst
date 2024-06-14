@@ -100,7 +100,6 @@ Decentralized Infrastructure Stuff
 * https://www.alvarez.io/posts/two-factor-encryption
 * https://github.com/mrusme/uveira  offline Wikipedia
 * https://github.com/spencermountain/dumpster-dive  offline Wikipedia
-* https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
 * https://github.com/kkdai/youtube
 * https://github.com/marethyu/gotube
 * https://github.com/iawia002/lux
@@ -109,7 +108,6 @@ Decentralized Infrastructure Stuff
 * https://github.com/nats-io
 * https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
-* https://github.com/nkasmanoff/pi-card  offline personal assistant?
 * https://pimalaya.org  PIM software in Rust?
 * https://astrid.tech/2024/05/28/0/ping-ff02-1  magic local networking?
 
@@ -175,3 +173,12 @@ UFW
     ufw enable
     ufw allow 2005/tcp                      # other thingy
     ufw prepend deny in on tun0 proto ipv6  # yggdrasil (put it first in the rule list)
+
+
+Voice Assistants
+----------------
+
+* https://johnthenerd.com/blog/local-llm-assistant
+* https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
+* https://github.com/nkasmanoff/pi-card  offline personal assistant?
+* https://www.optoutproject.net/ditch-your-alexa

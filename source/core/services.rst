@@ -244,9 +244,3 @@ Crypto Magic
     # ED-209
     openssl genpkey -algorithm ed25519 -out priv
     openssl pkey -pubout -in priv -out pub
-
-
-Smart Agents
-------------
-
-* https://johnthenerd.com/blog/local-llm-assistant

@@ -116,10 +116,11 @@ VPN Magic
 * https://grahamhelton.com/blog/ssh-cheatsheet
 
 
-WG/SSH Evil
------------
+Evil
+----
 
 * https://fly.io/blog/our-user-mode-wireguard-year
+* https://mjg59.dreamwidth.org/69646.html  SSH Agent as an RPC
 
 
 SSH CA/Agent/Sudo/Signing
