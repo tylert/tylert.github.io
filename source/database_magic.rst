@@ -74,6 +74,9 @@ Indexing
 --------
 
 * https://blog.scaledcode.com/blog/analyzing-new-unique-id
+* https://github.com/asg017/sqlite-ulid
+* https://github.com/ulid/spec
+* https://github.com/nalgeon/sqlean  ultimate sqlite extension pack?
 
 
 Querying
