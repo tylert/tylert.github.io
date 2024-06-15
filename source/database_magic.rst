@@ -1,6 +1,8 @@
 SQLite
 ------
 
+* https://sqlite.org/datatype3.html  primitive datatypes
+* https://www.sqlite.org/lang_corefunc.html  built-in functions
 * https://sqlitebrowser.org
 * https://github.com/sqlitebrowser/sqlitebrowser
 * https://sqlitestudio.pl
@@ -16,6 +18,7 @@ SQLite
 * https://developers.cloudflare.com/d1/learning/importing-data/#converting-sqlite-database-files
 * https://sqlime.org
 * https://github.com/nalgeon/sqlime
+* https://sqlpkg.org  extensions
 * https://github.com/dgllghr/stanchion  column-oriented tables for sqlite
 * https://github.com/lovasoa/sqlpage
 * https://sql.ophir.dev
