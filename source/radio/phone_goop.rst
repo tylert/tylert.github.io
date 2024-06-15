@@ -125,7 +125,7 @@ the settings for the app as follows:
         Spam folder:  Junk
         Trash folder:  Trash
       Notifications:
-        Vibration:  Enabled, Vibration pattern = Default, Pattern 1, Repeat vibration 2
+        Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
         Notification light:  Account colour
 
 
