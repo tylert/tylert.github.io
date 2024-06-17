@@ -448,6 +448,7 @@ Awesome Stuff
 * http://hackaday.com/2008/05/29/how-to-super-simple-serial-terminal
 * https://github.com/ncrawforth/VT2040  portable serial terminal based on Pico
 * https://github.com/vha3/Hunter-Adams-RP2040-Demos  Ethernet and VGA for Pico
+* https://axio.ms/projects/2024/06/16/MicroMac.html  Mac 128k on a Pico
 * https://github.com/intenthq/anon
 * https://nodered.org
 * https://github.com/fluent/fluent-bit
