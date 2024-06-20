@@ -148,6 +148,7 @@ Team Stuff
 ----------
 
 * https://itrevolution.com/articles/four-team-types
+* https://futureforum.com/2022/07/15/personal-user-manual
 
 
 Style Guide Stuff

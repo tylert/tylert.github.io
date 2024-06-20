@@ -361,12 +361,6 @@ Cool Products
 * https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino
 
 
-Keyboard CNC
-------------
-
-* https://geekhack.org/index.php?topic=65747.0
-
-
 Kobo Stuff
 ----------
 
@@ -464,7 +458,6 @@ Awesome Stuff
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
-* https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
 * https://popovicu.com/posts/making-usb-devices
 * https://jamesbvaughan.com/southwest-wifi  probing flight info from in-flight wifi without wasting your money
 * https://github.com/NalinPlad/OuterFlightTracker  probing flight info from in-flight wifi without wasting your money

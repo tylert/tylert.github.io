@@ -29,8 +29,6 @@ Random Other Docs
 * https://mesos.apache.org
 * https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-service-discovery-and-distributed-configuration-stores
 * https://www.joyent.com/blog/container-native-discovery
-* https://www.vagrantup.com/docs/docker/basics.html
-* https://www.vagrantup.com/docs/synced-folders/rsync.html
 
 
 Dumb OS X

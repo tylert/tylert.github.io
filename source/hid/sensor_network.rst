@@ -118,6 +118,8 @@ Electronics
 * https://learn.sparkfun.com/tutorials/voltage-dividers/all
 * https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html  KiCAD getting started
 * https://forum.kicad.info/t/configure-global-symbol-footprint-library-table/20264/7  silly KiCAD problem
+* https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
+* https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html
 
 
 Temperature Controller

@@ -67,7 +67,6 @@ Getting Things Done
 Assorted Crap
 -------------
 
-* https://layerci.com/blog/postgres-is-the-answer
 * https://github.com/kelseyhightower/consul-on-kubernetes
 * https://kasvith.github.io/posts/lets-create-a-simple-lb-go
 * https://zwischenzugs.com/2016/04/04/convert-any-server-to-a-docker-container-updated

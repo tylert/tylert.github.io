@@ -139,6 +139,7 @@ Other Types
 PostgreSQL
 ----------
 
+* https://layerci.com/blog/postgres-is-the-answer
 * https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb  PostgreSQL is "enough"
 * https://www.amazingcto.com/postgres-for-everything
 * https://github.com/tembo-io/pgmq  AWS SQS clone for PostgreSQL

@@ -244,3 +244,9 @@ Crypto Magic
     # ED-209
     openssl genpkey -algorithm ed25519 -out priv
     openssl pkey -pubout -in priv -out pub
+
+
+Webby Stuff
+-----------
+
+* https://www.devever.net/~hl/mildlydynamic
