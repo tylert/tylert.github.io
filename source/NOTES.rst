@@ -721,6 +721,7 @@ SDR Rig
 * https://www.youtube.com/watch?v=QxUivqiMvb0
 * https://www.youtube.com/watch?v=ZY7_cr8SM7I
 * https://www.vk-amps.com
+* https://wr9r.com/the-hermes-lite-2-with-an-atu
 
 
 Ribbit
