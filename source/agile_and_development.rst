@@ -222,6 +222,7 @@ Git Stuff
 * https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs
 * https://spin.atomicobject.com/git-history  why rebase
+* https://rednafi.com/misc/on_rebasing
 
 
 Process Stuff

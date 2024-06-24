@@ -155,3 +155,4 @@ SSH CA/Agent/Sudo/Signing
 * https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures  git commit signing
 * https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated
 * https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication
+* https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement

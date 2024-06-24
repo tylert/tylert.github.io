@@ -1,3 +1,12 @@
+Eink
+----
+
+* https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags
+
+
+I2C
+---
+
 Very good LCD. It has an I2C Funduino chip in the back with a jumper to turn on
 and off the backlight. It has 4 pins, VCC - 5v, GND and SDA e SCL. It has a
 small pot to adjust the contrast of the display and a Led to show that´s

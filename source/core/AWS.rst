@@ -272,6 +272,7 @@ Lambda
 * https://harishkm.in/2020/06/16/run-bash-scripts-in-aws-lambda-functions
 * https://github.com/aws/aws-lambda-runtime-interface-emulator
 * https://github.com/apparentorder/reweb  AWS serverless proxy
+* https://github.com/awslabs/aws-lambda-web-adapter  NIH reweb
 
 
 S3
