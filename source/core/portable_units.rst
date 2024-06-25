@@ -182,3 +182,11 @@ Voice Assistants
 * https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
 * https://www.optoutproject.net/ditch-your-alexa
+
+
+Local Files
+-----------
+
+* https://holtwick.de/en/blog/localfirst-resilient-sync
+* https://tailscale.com/blog/remembering-the-lan
+* https://tonsky.me/blog/crdt-filesync

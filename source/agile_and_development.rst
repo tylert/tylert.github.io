@@ -350,6 +350,9 @@ Go Stuff
 * https://zenhorace.dev/blog/context-control-go
 * https://github.com/songgao/water  TUN/TAP library
 * https://gvisor.dev
+* https://github.com/JFryy/qq  like 'jq'
+* https://github.com/goplus/llgo
+* https://github.com/goplus/gop
 
 
 Rust Stuff
