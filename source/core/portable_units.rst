@@ -139,8 +139,9 @@ Communication
 NNCP
 ----
 
-* https://www.complete.org/nncp      to try to learn how to use NNCP
+* https://www.complete.org/nncp  to try to learn how to use NNCP
 * https://aur.archlinux.org/nncp.git  to learn the missing compilation step needed
+* https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
 * https://www.gibbard.me/using_git_offline
 * https://www.complete.org/nncp
