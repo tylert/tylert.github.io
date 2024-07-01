@@ -72,10 +72,13 @@ Email
 * https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 * https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
-* https://github.com/mjl-/mox
+* https://www.xmox.nl  Mox
+* https://github.com/mjl-/mox  Mox
 * https://github.com/neilalexander/yggmail
 * https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
 * https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email
+* https://github.com/awesome-selfhosted/awesome-selfhosted
+* https://wiki.archlinux.org/title/Fdm
 
 
 Mesh
