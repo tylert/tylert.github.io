@@ -279,3 +279,9 @@ S3
 --
 
 * https://github.com/presslabs/z3  ZFS send to S3?
+
+
+SQS
+---
+
+* https://github.com/poundifdef/SmoothMQ

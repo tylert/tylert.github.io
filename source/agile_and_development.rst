@@ -353,6 +353,8 @@ Go Stuff
 * https://github.com/JFryy/qq  like 'jq'
 * https://github.com/goplus/llgo
 * https://github.com/goplus/gop
+* https://github.com/panta/machineid  machineid stuff
+* https://github.com/markbates/goth  auth stuff
 
 
 Rust Stuff

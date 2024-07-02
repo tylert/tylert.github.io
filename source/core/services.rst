@@ -79,6 +79,8 @@ Email
 * https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://wiki.archlinux.org/title/Fdm
+* https://maddy.email
+* https://github.com/foxcpp/maddy
 
 
 Mesh
