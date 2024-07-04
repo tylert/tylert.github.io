@@ -193,3 +193,4 @@ Other
 
 * https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt/
 * https://github.com/benjojo/dumb-net-poller
+* https://blog.brixit.nl/making-a-linux-managed-network-switch

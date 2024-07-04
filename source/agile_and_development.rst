@@ -30,6 +30,7 @@ Kanban Stuff
 * http://greggigon.github.io/my-personal-kanban
 * https://my-personal-kanban.appspot.com
 * https://budgetkanban.com/landing  Kanban for budgets too?
+* https://www.leiga.com/post/kanban-vs-scrum
 
 ::
 
