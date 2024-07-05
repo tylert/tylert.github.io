@@ -68,7 +68,11 @@ Pi Pico/PicoW
 * https://github.com/Noltari/pico-uart-bridge
 * http://antirez.com/news/143  playing audio files on a Pico without a DAC
 * https://github.com/tinygo-org/tinygo/issues/2947  plain Pico is already supported but PicoW is still pending
+* https://github.com/soypat/cyw43439  Bluetooth and TinyGo on a Pico???
 * https://circuitpython.org/board/raspberry_pi_pico_w
+* https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040  FreeRTOS et al
+* http://cowlark.com/2021-03-10-fuzix-pi-pico
+* http://cowlark.com/2021-02-16-fuzix-pi-pico
 
 
 nRF52840
