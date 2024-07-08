@@ -152,6 +152,7 @@ Team Stuff
 * https://futureforum.com/2022/07/15/personal-user-manual
 * https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign
 * https://steveblank.com/2017/09/14/how-companies-strangle-innovation
+* https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams
 
 
 Style Guide Stuff
