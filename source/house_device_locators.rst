@@ -160,3 +160,9 @@ Sub-Index::
     A = Top
     B = Bottom
     X = N/A
+
+
+Other
+-----
+
+* https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book

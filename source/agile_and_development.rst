@@ -54,6 +54,7 @@ Supply Chain Magic
 * https://github.com/opensbom-generator/spdx-sbom-generator
 * https://avdi.codes/on-owning-software
 * https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html
+* https://words.filippo.io/dispatches/geomys
 
 
 Software Design and Documentation
