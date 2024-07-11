@@ -358,6 +358,8 @@ Go Stuff
 * https://github.com/goplus/gop
 * https://github.com/panta/machineid  machineid stuff
 * https://github.com/markbates/goth  auth stuff
+* https://stackoverflow.com/questions/44363911/detect-windows-version-in-go-to-figure-out-the-starup-folder/75074215#75074215
+* https://ss64.com/mac/sw_vers.html  macOS version info (os/exec this or is there a better way?)
 
 
 Rust Stuff
