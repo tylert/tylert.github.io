@@ -218,7 +218,6 @@ Cloud Backup and Recovery
 -------------------------
 
 * http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
-* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
 
 
 DynamoDB
@@ -241,7 +240,6 @@ Cloud Hybrid
 * https://youtu.be/tIDbFTIPolQ
 * http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
 * https://www.val.town  weird jabbascript lambda thingy?
-* https://blog.cloudflare.com/sippy-incremental-migration-s3-r2
 
 
 IPAM
@@ -279,6 +277,9 @@ S3
 --
 
 * https://github.com/presslabs/z3  ZFS send to S3?
+* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
+* https://blog.cloudflare.com/sippy-incremental-migration-s3-r2
+* https://ochagavia.nl/blog/using-s3-as-a-container-registry
 
 
 SQS

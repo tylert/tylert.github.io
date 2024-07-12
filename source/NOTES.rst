@@ -656,6 +656,8 @@ Networking
 * https://who.ldelossa.is/posts  more eBPF/TC low-level learning
 * https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync  router7, distri, gokrazy-rsync, etc.
 * https://github.com/zhangjiayin/caddy-geoip2  Caddy module for GeoIP
+* https://github.com/gojue/ecapture  eBPF SSL/TLS fun
+* https://ecapture.cc  eBPF SSL/TLS fun
 
 
 Family IT Support Calls

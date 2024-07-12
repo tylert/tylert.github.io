@@ -110,6 +110,11 @@ Decentralized Infrastructure Stuff
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
 * https://pimalaya.org  PIM software in Rust?
 * https://astrid.tech/2024/05/28/0/ping-ff02-1  magic local networking?
+* https://www.complete.org/recovering-our-lost-free-will-online-tools-and-techniques-that-are-available-now
+* https://www.complete.org/tools-for-communicating-offline-and-in-difficult-circumstances
+* https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
+* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
+* https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network
 
 
 Communication
@@ -191,3 +196,19 @@ Local Files
 * https://holtwick.de/en/blog/localfirst-resilient-sync
 * https://tailscale.com/blog/remembering-the-lan
 * https://tonsky.me/blog/crdt-filesync
+
+
+OS Upgrades
+-----------
+
+- https://wiki.archlinux.org/title/Offline_installation
+- https://wiki.archlinux.org/title/Help:Browsing#Offline_viewing
+
+
+Packet Radio
+------------
+
+* https://www.youtube.com/watch?v=V0FAzMIsxMg
+* https://themodernham.com/modern-introduction-to-packet-radio-ax25-aprs-and-tcp-ip
+* https://unsigned.io/15-kilometre-ssh-link-with-rnode
+* https://www.f6fbb.org  BBS
