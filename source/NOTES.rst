@@ -362,6 +362,12 @@ Cool Products
 * https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino
 
 
+Woodworking
+-----------
+
+* https://aroundhomediy.com/build-roubo-workbench-leg-vise
+
+
 Kobo Stuff
 ----------
 
@@ -649,6 +655,7 @@ Networking
 * https://ebpf.io/what-is-ebpf
 * https://who.ldelossa.is/posts  more eBPF/TC low-level learning
 * https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync  router7, distri, gokrazy-rsync, etc.
+* https://github.com/zhangjiayin/caddy-geoip2  Caddy module for GeoIP
 
 
 Family IT Support Calls

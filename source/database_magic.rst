@@ -27,6 +27,7 @@ SQLite
 * https://lumosql.org  pluggable backend which supports encryption?
 * https://github.com/LMDB/lmdb  might be part of the magic of LumoSQL
 * https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini
+* https://github.com/glebarez/go-sqlite  embedded sqlite
 
 ::
 

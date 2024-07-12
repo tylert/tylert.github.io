@@ -262,6 +262,10 @@ REST API Stuff
 * https://ithub.com/gin-gonic/gin
 * https://gin-gonic.com/docs/quickstart
 * https://github.com/gorilla/mux
+* https://vulcain.rocks  client-driven hypermedia APIs
+* https://souin.io  SaaS HTTP cache
+* https://www.authelia.com  auth server for IAM/SSO for reverse proxies?
+* https://github.com/motiv-labs/janus  API gateway in Go
 
 
 Compiled Shellish Stuff
@@ -369,6 +373,10 @@ Rust Stuff
 * https://words.filippo.io/rustgo  calling Rust from Go
 * https://aya-rs.dev  eBPF
 * https://rustpython.github.io
+* https://adventures.michaelfbryan.com/posts/how-to-riir
+* https://github.com/epilys/rsqlite3
+* https://github.com/rusqlite/rusqlite
+* https://stackoverflow.com/questions/62560396/how-to-use-sqlite-via-rusqlite-from-multiple-threads
 
 
 C Stuff
