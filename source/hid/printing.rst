@@ -2,9 +2,15 @@ Brother P-Touch
 ---------------
 
 * https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux
-* https://git.familie-radermacher.ch/linux/ptouch-print.git
+* https://git.familie-radermacher.ch/linux/ptouch-print.git  cutting edge
+* https://aur.archlinux.org/packages/ptouch-print-git  kinda unmaintained and old
+* https://aur.archlinux.org/packages/ptouch-print  way out of date
 
 PT-2730::
+
+    # Fetch the source
+    git clone https://git.familie-radermacher.ch/linux/ptouch-print.git
+    cd ptouch-print
 
     # Build the tool
     ./build.sh
