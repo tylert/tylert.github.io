@@ -21,6 +21,7 @@ Key Meetings
 * https://agilepainrelief.com/glossary/sprint-review
 * https://agilepainrelief.com/glossary/sprint-retrospective
 * https://agilepainrelief.com/glossary/product-backlog-refinement
+* https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck
 
 
 Kanban Stuff
@@ -69,6 +70,7 @@ Software Design and Documentation
 * https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous
 * https://developers.google.com/tech-writing
 * https://leontrolski.github.io/cmd-click-manifesto.html
+* https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to
 
 
 Development
@@ -154,6 +156,7 @@ Team Stuff
 * https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign
 * https://steveblank.com/2017/09/14/how-companies-strangle-innovation
 * https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams
+* https://fev.al/posts/work-journal
 
 
 Style Guide Stuff
@@ -226,6 +229,7 @@ Git Stuff
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs
 * https://spin.atomicobject.com/git-history  why rebase
 * https://rednafi.com/misc/on_rebasing
+* https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs
 
 
 Process Stuff
