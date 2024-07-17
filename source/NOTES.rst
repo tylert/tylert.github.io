@@ -424,6 +424,7 @@ RPG Stuff
 * https://github.com/mewo2/terrain  Jabbascript version??
 * https://github.com/mewo2/naming-language  more Jabbascript for name generation??
 * https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604  random dungeon generator on a business card
+* https://olano.dev/blog/deconstructing-the-role-playing-videogame  GURPS, TWERPS, Dinky Dungeons, etc.
 
 
 Art Stuff
@@ -471,6 +472,7 @@ Awesome Stuff
 * https://github.com/NalinPlad/OuterFlightTracker  probing flight info from in-flight wifi without wasting your money
 * http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
 * https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode
+* https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html
 
 
 Microservices
