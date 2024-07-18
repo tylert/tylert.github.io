@@ -146,6 +146,7 @@ Mentorship Stuff
 * https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity
 * https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
+* https://matt.sh/panic-at-the-job-market
 
 
 Team Stuff

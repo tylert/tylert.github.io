@@ -1,7 +1,13 @@
+Ansible Stuff
+-------------
+
+* https://www.jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem
+* https://github.com/sivel/amanda  Golang web thing for self-hosting Ansible Galaxy Collections
+
+
 Terraform Stuff
 ---------------
 
-* https://www.jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem
 * https://www.terraform.io/docs/configuration/expressions.html
 * https://stackoverflow.com/questions/51496445/conditional-attributes-in-terraform
 * https://www.hashicorp.com/blog/terraform-0-12-conditional-operator-improvements#conditionally-omitted-arguments
