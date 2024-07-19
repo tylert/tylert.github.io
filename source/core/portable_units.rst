@@ -139,6 +139,9 @@ Communication
 * https://www.complete.org/using-gensio-and-ser2net
 * https://brr.fyi/posts/engineering-for-slow-internet
 * https://github.com/fiddyschmitt/File-Tunnel
+* https://github.com/quackduck/devzat  SSH chat
+* https://donuts-are-good.github.io/shhhbb  SSH BBS
+* https://github.com/donuts-are-good/shhhbb  SSH BBS
 
 
 NNCP
