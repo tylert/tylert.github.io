@@ -255,6 +255,7 @@ Python Stuff
 * https://alex-moss.medium.com/creating-an-up-to-date-python-distroless-container-image-e3da728d7a80
 * https://github.com/alexdmoss/distroless-python
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
+* https://rdrn.me/postmodern-python
 
 
 REST API Stuff

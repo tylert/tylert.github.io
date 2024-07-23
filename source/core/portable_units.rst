@@ -115,6 +115,14 @@ Decentralized Infrastructure Stuff
 * https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
 * https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
 * https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network
+* https://git.trevorbentley.com/itsy-gitsy  static site generator for git repos
+* https://github.com/mrmekon/itsy-gitsy  static site generator for git repos
+
+
+Backup Stuff
+------------
+
+* https://github.com/linuxmint/timeshift
 
 
 Communication
@@ -199,6 +207,7 @@ Local Files
 * https://holtwick.de/en/blog/localfirst-resilient-sync
 * https://tailscale.com/blog/remembering-the-lan
 * https://tonsky.me/blog/crdt-filesync
+* https://garagehq.deuxfleurs.fr  S3-compatible object storage
 
 
 OS Upgrades
@@ -206,6 +215,7 @@ OS Upgrades
 
 - https://wiki.archlinux.org/title/Offline_installation
 - https://wiki.archlinux.org/title/Help:Browsing#Offline_viewing
+* https://cloudbsd.xyz/main  install another OS with takeover.sh
 
 
 Packet Radio
