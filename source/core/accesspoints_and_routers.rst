@@ -60,9 +60,9 @@ UART Ramblings::
     qrencode "WIFI:S:${WIFI_SSID};H:false;T:WPA;P:${WIFI_PASSWD};" \
         -o wifi_qrcode.png
     magick -font 'DejaVu-Sans' -pointsize 36 \
-        label:"WiFi ${WIFI_SSID}\n${WIFI_PASSWD}" \
+        label:"${WIFI_SSID}\n${WIFI_PASSWD}" \
         wifi_text.png
-    convert wifi_qrcode.png wifi_text.png -gravity East +append \
+    magick wifi_qrcode.png wifi_text.png -gravity East +append \
         wifi_sticker.png
 
     # H = hidden (true, false, blank)
