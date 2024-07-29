@@ -2,7 +2,7 @@ TP-Link EAP245 US v3
 --------------------
 
 * https://www.amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1
-* https://lowtek.ca/roo/2022/openwrt-dumb-access-point/
+* https://lowtek.ca/roo/2022/openwrt-dumb-access-point
 * https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111  non-US firmware fix
 * https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97
 * https://gist.githubusercontent.com/svanheule/9f82e156a3601d4a726639eb7400ec97/raw/10673b16c5d697e5f6bf8b8292ee6bccf0adfe67/patch-safeloader.py
@@ -55,9 +55,11 @@ UART Ramblings::
     is inside the can on the bottom side of the PCB. Carefully lift the can lid to
     access it.
 
-::
+WiFi config stickers::
 
-    qrencode "WIFI:S:${WIFI_SSID};H:false;T:WPA;P:${WIFI_PASSWD};" \
+    WIFI_SSID='theinternet'
+    WIFI_PASSWD='seven'
+    qrencode "WIFI:S:${WIFI_SSID};H:false;P:${WIFI_PASSWD};T:WPA;" \
         -o wifi_qrcode.png
     magick -font 'DejaVu-Sans' -pointsize 36 \
         label:"${WIFI_SSID}\n${WIFI_PASSWD}" \
@@ -65,11 +67,15 @@ UART Ramblings::
     magick wifi_qrcode.png wifi_text.png -gravity East +append \
         wifi_sticker.png
 
-    # H = hidden (true, false, blank)
+    # S = ssid (<required>)
+    # A = WPA2-EAP anonymous entity (???)
+    # E = WPA2-EAP method (TTLS, PWD)
+    # H = hidden (true, false, <omit>)
+    # I = WPA2-EAP identity (???)
     # P = password
+    # PH2 = WPA2-EAP phase2 method (MSCHAPV2)
     # R = WPA2/WPA3 transition mode disable
-    # S = ssid
-    # T = type (WEP, WPA, blank)
+    # T = type (WEP, WPA, WPA2-EAP, nopass, <omit for no password>)
 
 
 Basic Accesspoint Setup
@@ -85,7 +91,6 @@ Configuration thingies::
         DHCP Server -> Advanced Settings :  Dynamic DHCP unchecked
         DHCP Server -> IPv6 Settings     :  RA-Service disabled
                                          :  DHCPv6-Service disabled
-                                         :  NDP-Proxy disabled
     Network -> Wireless                  :  SSID(s) -> Edit button(s)
                                          :  Enable button, Set ESSID, set encryption
         Advanced Settings                :  Country Code
