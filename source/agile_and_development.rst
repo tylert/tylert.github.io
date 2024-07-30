@@ -256,6 +256,7 @@ Python Stuff
 * https://github.com/alexdmoss/distroless-python
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 * https://rdrn.me/postmodern-python
+* https://fastht.ml  less horrible web app design framework?
 
 
 REST API Stuff

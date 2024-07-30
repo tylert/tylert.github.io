@@ -150,6 +150,8 @@ Communication
 * https://github.com/quackduck/devzat  SSH chat
 * https://donuts-are-good.github.io/shhhbb  SSH BBS
 * https://github.com/donuts-are-good/shhhbb  SSH BBS
+* https://maddy.email  maddy email server
+* https://github.com/foxcpp/maddy  maddy email server
 
 
 NNCP
