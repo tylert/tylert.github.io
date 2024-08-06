@@ -134,3 +134,9 @@ Temperature Controller
 * https://www.rancoetc.com/ranco-etc-111000-000-digital-temperature-controller  default controller
 * https://www.rancoetc.com/ranco-etc-111100-000-digital-temperature-controller0-10v-output  replacement controller
 * https://www.amazon.ca/Ranco-Product-ETC-111100-000/dp/B00EZH3BO6
+
+
+USB Sniffer
+-----------
+
+* https://github.com/ataradov/usb-sniffer-lite  cheap Pi Pico USB sniffer

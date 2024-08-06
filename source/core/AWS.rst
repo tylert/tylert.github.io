@@ -280,6 +280,7 @@ S3
 * http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
 * https://blog.cloudflare.com/sippy-incremental-migration-s3-r2
 * https://ochagavia.nl/blog/using-s3-as-a-container-registry
+* https://segment.com/blog/S3-for-changedatacapture-dynamodb-table  cheaper DynamoDB?
 
 
 SQS

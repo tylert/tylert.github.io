@@ -160,6 +160,7 @@ Internals
 ---------
 
 * https://mediocregopher.com/posts/git-proxy
+* https://github.com/miekg/gitopper  Go tool to handle GitOps?
 
 
 Other
@@ -171,3 +172,4 @@ Other
 * https://baecher.dev/stdout/reproducible-git-bundles  git backup magic
 * https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities
 * https://git-send-email.io
+* https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt  credentials stuff and stacked diffs

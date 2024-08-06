@@ -125,6 +125,12 @@ Backup Stuff
 * https://github.com/linuxmint/timeshift
 
 
+Tamper Fun
+----------
+
+* https://www.anarsec.guide/posts/tamper
+
+
 Communication
 -------------
 
@@ -227,3 +233,11 @@ Packet Radio
 * https://themodernham.com/modern-introduction-to-packet-radio-ax25-aprs-and-tcp-ip
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
 * https://www.f6fbb.org  BBS
+
+
+Cyberdecks and Tiny Machines
+----------------------------
+
+* https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution  tiny NAS units?
+* https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c  old Kindle as a display?
+* https://github.com/ZitaoTech/Hackberry-Pi_Zero  Pi 02W with a tiny screen and keyboard
