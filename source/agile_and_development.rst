@@ -231,6 +231,7 @@ Git Stuff
 * https://spin.atomicobject.com/git-history  why rebase
 * https://rednafi.com/misc/on_rebasing
 * https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs
+* https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
 
 
 Process Stuff
@@ -371,6 +372,7 @@ Go Stuff
 * https://github.com/markbates/goth  auth stuff
 * https://stackoverflow.com/questions/44363911/detect-windows-version-in-go-to-figure-out-the-starup-folder/75074215#75074215
 * https://ss64.com/mac/sw_vers.html  macOS version info (os/exec this or is there a better way?)
+* https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
 
 
 Rust Stuff
@@ -402,3 +404,4 @@ Kubernetes Stuff
 ----------------
 
 * https://www.youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
+* https://www.figma.com/blog/migrating-onto-kubernetes
