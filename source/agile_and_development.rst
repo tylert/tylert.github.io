@@ -73,6 +73,12 @@ Software Design and Documentation
 * https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to
 
 
+Messaging
+---------
+
+* https://www.enterpriseintegrationpatterns.com/patterns/messaging
+
+
 Development
 -----------
 

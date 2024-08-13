@@ -307,6 +307,7 @@ Assorted Things-to-Read
 * https://garnix.io/blog/call-by-hash
 * https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
 * https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist
+* https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f
 
 
 Keepass Stuff
