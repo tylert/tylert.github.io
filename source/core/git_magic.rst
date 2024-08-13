@@ -37,6 +37,14 @@ Fetch a single file::
         --remote=foo master \
         "**/requirements*" "requirements*"
 
+Common ancestor between 2 things::
+
+    git merge-base foo bar
+    # or
+    git merge-base --fork-point trunkbranch
+
+* https://stackoverflow.com/questions/1549146/git-find-the-most-recent-common-ancestor-of-two-branches
+
 Deprecated instructions???::
 
     # Snip out just a single directory
