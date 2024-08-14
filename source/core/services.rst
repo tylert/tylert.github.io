@@ -81,6 +81,7 @@ Email
 * https://wiki.archlinux.org/title/Fdm
 * https://maddy.email
 * https://github.com/foxcpp/maddy
+* https://github.com/sdushantha/tmpmail
 
 
 Mesh
