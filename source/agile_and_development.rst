@@ -281,6 +281,7 @@ REST API Stuff
 * https://souin.io  SaaS HTTP cache
 * https://www.authelia.com  auth server for IAM/SSO for reverse proxies?
 * https://github.com/motiv-labs/janus  API gateway in Go
+* https://cloud.google.com/apis/design  API design guide
 
 
 Compiled Shellish Stuff
@@ -412,3 +413,10 @@ Kubernetes Stuff
 
 * https://www.youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
 * https://www.figma.com/blog/migrating-onto-kubernetes
+
+
+JMESPath
+--------
+
+* https://jmespath.org/tutorial.html
+* https://news.ycombinator.com/item?id=16400320
