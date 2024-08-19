@@ -3,6 +3,14 @@ Simple Stuff
 
 * https://stackoverflow.com/questions/44712874/how-do-i-run-a-container-from-the-command-line-in-kubernetes-like-docker-run/44712875#44712875
 * https://gc-taylor.com/blog/2016/10/31/fire-up-an-interactive-bash-pod-within-a-kubernetes-cluster
+* https://blog.radwell.codes/2022/07/single-node-kubernetes-cluster-via-kubeadm-on-ubuntu-22-04
+
+
+Swap
+----
+
+* https://kubernetes.io/blog/2023/08/24/swap-linux-beta
+* https://github.com/misko/bigmaac
 
 
 Official OS Images
@@ -47,17 +55,14 @@ Container Stuff
 * https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format
 * https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace
 * https://42notes.wordpress.com/2015/05/13/replace-boot2docker-with-coreos-and-vagrant-to-use-docker-containers
-* http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html
-* http://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container
-* http://prakhar.me/docker-curriculum
-* http://stackoverflow.com/questions/18274088/how-can-i-make-my-own-base-image-for-docker
-* http://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
-* http://www.aossama.com/build-debian-docker-image-from-scratch
+* https://blog.xebia.com/2014/07/04/create-the-smallest-possible-docker-container
+* https://docker-curriculum.com
+* https://sysadvent.blogspot.ca/2015/12/day-12-introduction-to-nomad.html
 * https://blog.docker.com/2013/06/create-light-weight-docker-containers-buildroot
 * https://developer.atlassian.com/blog/2015/12/atlassian-docker-orchestration
 * https://github.com/openshift-evangelists/openshift-workshops/blob/master/modules/run-as-non-root.adoc#switching-the-user
 * https://docs.openshift.org/latest/creating_images/guidelines.html#use-uid
-* http://www.projectatomic.io/docs/docker-image-author-guidance
+* https://www.projectatomic.io/docs/docker-image-author-guidance
 * https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers
 * https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd
 * https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images
@@ -118,6 +123,8 @@ Container Stuff
 * https://www.youtube.com/watch?v=6NeQa_1YXbI  "AWS Summit Ottawa 2022:  Security and compliance for container-based microservices"
 * https://github.com/mercari/tortoise  HPA/VPA for k8s?
 * https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha
+* https://kops.sigs.k8s.io  HA k8s clusters in AWS, GCP, OpenStack, etc.
+* https://github.com/nyrahul/wisecow  puzzle for newbies
 
 
 Load-Balancing
