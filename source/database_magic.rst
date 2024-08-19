@@ -95,6 +95,7 @@ Indexing
 Querying
 --------
 
+* https://github.com/TomWright/dasel  CSV, JSON, TOML, XML, YAML data management? (Golang)
 * https://github.com/YS-L/csvlens  like less but for CSV?
 * https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good
 
@@ -153,6 +154,7 @@ PostgreSQL
 * https://github.com/zalando/spilo  HA containerized PostgreSQL cluster thingy
 * https://event-driven-io.github.io/Pongo  mongodb without mongodb?
 * https://github.com/event-driven-io/Pongo
+* https://github.com/janbjorge/PgQueuer  PostreSQL as a queue
 
 
 MySQL Stuff

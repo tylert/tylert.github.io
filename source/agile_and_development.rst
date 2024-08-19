@@ -154,6 +154,8 @@ Mentorship Stuff
 * https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
 * https://matt.sh/panic-at-the-job-market
+* https://boz.com/articles/advice-not-permission
+* https://praachi.work/blog/questions-to-ask-in-a-job-interview
 
 
 Team Stuff
@@ -165,6 +167,7 @@ Team Stuff
 * https://steveblank.com/2017/09/14/how-companies-strangle-innovation
 * https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams
 * https://fev.al/posts/work-journal
+* https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the
 
 
 Style Guide Stuff
@@ -381,6 +384,7 @@ Go Stuff
 * https://stackoverflow.com/questions/44363911/detect-windows-version-in-go-to-figure-out-the-starup-folder/75074215#75074215
 * https://ss64.com/mac/sw_vers.html  macOS version info (os/exec this or is there a better way?)
 * https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
+* https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go
 
 
 Rust Stuff

@@ -16,6 +16,7 @@ More Plotter Stuff
 * https://www.thingiverse.com/search?q=plotter&page=1&type=things&sort=relevant
 * https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html
 * https://github.com/maxvfischer/DIY-CNC-machine
+* https://github.com/LiciaHe/threadPlotter
 
 
 Generative Art

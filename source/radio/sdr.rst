@@ -109,3 +109,9 @@ Assorted Stuff
 * https://gitlab.com/unixispower/push-to-reboot  HOTP over DTMF?
 * https://hackaday.com/2023/04/07/arbitrary-code-execution-over-radio
 * https://www.sota-antennas.com/efhw.php
+
+
+Bluetooth Stuff
+---------------
+
+* https://vanhunteradams.com/Pico/BLE/GATT_Server.html
