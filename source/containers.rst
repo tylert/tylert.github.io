@@ -4,6 +4,7 @@ Simple Stuff
 * https://stackoverflow.com/questions/44712874/how-do-i-run-a-container-from-the-command-line-in-kubernetes-like-docker-run/44712875#44712875
 * https://gc-taylor.com/blog/2016/10/31/fire-up-an-interactive-bash-pod-within-a-kubernetes-cluster
 * https://blog.radwell.codes/2022/07/single-node-kubernetes-cluster-via-kubeadm-on-ubuntu-22-04
+* https://github.com/mr-karan/homelab  single-node Nomad with Consul
 
 
 Swap
