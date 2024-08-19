@@ -1,7 +1,7 @@
 Amp
 ---
 
-* https://www.aliexpress.com/item/32971427148.html?spm=a2g0s.9042311.0.0.53a64c4dv4cjFw
+* https://www.aliexpress.com/item/32971427148.html
 
 Be sure to connect the input and output and then power on, the input power is
 less than 10dBm. Impedance 50 ohms
