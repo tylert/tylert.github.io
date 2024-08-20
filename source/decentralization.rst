@@ -9,6 +9,8 @@ Other
 -----
 
 * https://www.complete.org/interesting-topics
+* https://olano.dev/blog/software-possession-for-personal-use  local-first software
+* https://www.inkandswitch.com/local-first
 
 
 Containers
@@ -21,3 +23,16 @@ Publishing
 ----------
 
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
+* https://www.jvt.me/posts/2019/10/20/indieweb-talk
+* https://github.com/TimoKats/mdrss  Golang Markdown to RSS converter
+* https://pagedjs.org/made-with-paged.js.html
+* https://gitlab.coko.foundation/pagedjs/pagedjs
+* https://gitlab.coko.foundation/pagedjs/pagedjs-cli
+* https://gitlab.coko.foundation/pagedjs/hugo-pagedjs-plugin
+* https://github.com/fisodd/hugo-restructured  sexy ReStructuredText markup theme for Hugo
+* https://hugo-restructured-demo.netlify.app/post/using-rest  example of stuff you can do with hugo-restructured
+* https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
+* https://pandoc.org
+* https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
+* https://krasjet.com/voice/pdf.tocgen  PDF Table Of Contents generation???
+* https://johnfactotum.github.io/foliate  local e-reader app

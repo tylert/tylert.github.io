@@ -367,22 +367,6 @@ Kobo Stuff
 * https://github.com/olup/kobowriter
 
 
-Publishing Fun
---------------
-
-* https://pagedjs.org/made-with-paged.js.html
-* https://gitlab.coko.foundation/pagedjs/pagedjs
-* https://gitlab.coko.foundation/pagedjs/pagedjs-cli
-* https://gitlab.coko.foundation/pagedjs/hugo-pagedjs-plugin
-* https://github.com/fisodd/hugo-restructured  sexy ReStructuredText markup theme for Hugo
-* https://hugo-restructured-demo.netlify.app/post/using-rest  example of stuff you can do with hugo-restructured
-* https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst  raw file for page above
-* https://pandoc.org
-* https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
-* https://krasjet.com/voice/pdf.tocgen  PDF Table Of Contents generation???
-* https://johnfactotum.github.io/foliate  local e-reader app
-
-
 RPG Stuff
 ---------
 
@@ -448,6 +432,7 @@ Awesome Stuff
 * http://infomatimago.free.fr/i/linux/emacs-on-user-mode-linux.html  Emacs-only typewriter???
 * https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode
 * https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html
+* https://github.com/wasi-master/13ft  read articles behind paywalls?
 
 
 Microservices

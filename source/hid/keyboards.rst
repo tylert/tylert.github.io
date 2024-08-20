@@ -249,3 +249,9 @@ Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
     qmk compile -kb stenokeyboards/the_uni/rp_2040 -km default
 
     mv uni_default.u2f qmk_${QMK_VERSION}_uni_default.u2f
+
+
+Other
+=====
+
+* https://github.com/jfedor2/hid-remapper
