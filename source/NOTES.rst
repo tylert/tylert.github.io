@@ -437,6 +437,8 @@ Awesome Stuff
 * https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode
 * https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html
 * https://github.com/wasi-master/13ft  read articles behind paywalls?
+* https://phrack.org/issues/71/17.html#article  financing for hackers?
+* https://jaycarlson.net/embedded-linux  low-level Linux board-support magic
 
 
 Microservices

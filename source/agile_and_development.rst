@@ -155,7 +155,13 @@ Mentorship Stuff
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
 * https://matt.sh/panic-at-the-job-market
 * https://boz.com/articles/advice-not-permission
+
+
+Interviews
+----------
+
 * https://praachi.work/blog/questions-to-ask-in-a-job-interview
+* https://blog.jez.io/bugsquash
 
 
 Team Stuff
