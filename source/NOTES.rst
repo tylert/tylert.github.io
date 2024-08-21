@@ -209,6 +209,10 @@ System76 stuff::
 
     sudo apt-add-repository ppa:system76-dev/stable
 
+Sigh, Debian::
+
+    sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
+
 
 LDAP/Kerberos
 -------------
