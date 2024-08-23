@@ -3,6 +3,9 @@ Email
 
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 * https://blog.lopp.net/death-of-decentralized-email
+* https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email
+* https://aerc-mail.org
+* https://git.sr.ht/~rjarry/aerc
 
 
 Other
@@ -13,10 +16,11 @@ Other
 * https://www.inkandswitch.com/local-first
 
 
-Containers
-----------
+Containers and Images
+---------------------
 
 * https://oras.land
+* https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html
 
 
 Publishing

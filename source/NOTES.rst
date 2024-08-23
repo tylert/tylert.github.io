@@ -276,6 +276,7 @@ Assorted Things-to-Read
 * http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
+* https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1  DevOps Borat "fortune" data file
 * https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers  humour
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
@@ -405,6 +406,7 @@ Art Stuff
 * https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
 * https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
 * https://github.com/CHAITron/sketchdeco-code  auto-colourizing B&W drawings
+* https://sallywolf.ca  flute and recorder lessons
 
 
 Awesome Stuff

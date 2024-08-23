@@ -126,6 +126,7 @@ Container Stuff
 * https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha
 * https://kops.sigs.k8s.io  HA k8s clusters in AWS, GCP, OpenStack, etc.
 * https://github.com/nyrahul/wisecow  puzzle for newbies
+* https://kardinal.dev
 
 
 Load-Balancing
