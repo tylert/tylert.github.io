@@ -164,6 +164,13 @@ Workflow Stuff
 * https://xkcd.com/1296
 
 
+Stacked Diffs
+-------------
+
+* https://kastiglione.github.io/git/2020/09/11/git-stacked-commits.html
+* https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests
+
+
 Internals
 ---------
 
