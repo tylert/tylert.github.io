@@ -40,3 +40,5 @@ Publishing
 * https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
 * https://krasjet.com/voice/pdf.tocgen  PDF Table Of Contents generation???
 * https://johnfactotum.github.io/foliate  local e-reader app
+* https://dokku.com
+* https://hamel.dev/blog/posts/dokku
