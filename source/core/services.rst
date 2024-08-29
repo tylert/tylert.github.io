@@ -260,3 +260,9 @@ Webby Stuff
 * https://www.devever.net/~hl/mildlydynamic
 * https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header
 * https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
+
+
+CI/CD
+-----
+
+* https://devopscube.com/jenkins-build-agents-kubernetes

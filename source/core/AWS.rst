@@ -196,6 +196,9 @@ Account Setup
 
     Enable MFA for root account and users and so on.
 
+* https://alestic.com/2017/09/aws-organizations-cli
+* https://alestic.com/2019/12/aws-cli-across-organization-accounts
+
 
 Assorted
 --------

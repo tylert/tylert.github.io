@@ -5,6 +5,10 @@ Simple Stuff
 * https://gc-taylor.com/blog/2016/10/31/fire-up-an-interactive-bash-pod-within-a-kubernetes-cluster
 * https://blog.radwell.codes/2022/07/single-node-kubernetes-cluster-via-kubeadm-on-ubuntu-22-04
 * https://github.com/mr-karan/homelab  single-node Nomad with Consul
+* https://medium.com/@senthilrch/woot-kubernetes-adds-support-for-swap-memory-92541aad01a0
+* https://www.talos.dev/latest/introduction/quickstart
+* https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/#ephemeral-container
+* https://stencel.io/posts/build-cheapest-kubernetes-i7-cluster.html
 
 
 Swap
