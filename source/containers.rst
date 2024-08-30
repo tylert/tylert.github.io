@@ -133,6 +133,14 @@ Container Stuff
 * https://kardinal.dev
 
 
+Networking
+----------
+
+* https://friendshipcastle.zip/blog/glaceon  wireguard-go in k8s
+* https://github.com/Twi/glaceon
+* https://github.com/Twi/glaceon-operator
+
+
 Load-Balancing
 --------------
 

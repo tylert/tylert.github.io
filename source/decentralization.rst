@@ -14,6 +14,8 @@ Other
 * https://www.complete.org/interesting-topics
 * https://olano.dev/blog/software-possession-for-personal-use  local-first software
 * https://www.inkandswitch.com/local-first
+* https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html  holepunch (squid, stunnel, ssh -R, corkscrew)
+* https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 
 
 Containers and Images
