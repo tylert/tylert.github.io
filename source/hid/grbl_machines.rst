@@ -9,14 +9,16 @@ XY GRBL Stage
 * Z-axis upgrade  https://www.aliexpress.com/item/1005001295847095.html
 
 
-More Plotter Stuff
-------------------
+More Plottery Stuff
+-------------------
 
 * https://szymonkaliski.com/projects/diy-pen-plotter
 * https://www.thingiverse.com/search?q=plotter&page=1&type=things&sort=relevant
 * https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html
 * https://github.com/maxvfischer/DIY-CNC-machine
 * https://github.com/LiciaHe/threadPlotter
+* https://github.com/0xPIT/AlClosure  some OpenSCAD awesome
+* https://github.com/bmsleight/lasercut  some more OpenSCAD awesome
 
 
 Generative Art
