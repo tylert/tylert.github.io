@@ -72,6 +72,8 @@ Software Design and Documentation
 * https://developers.google.com/tech-writing
 * https://leontrolski.github.io/cmd-click-manifesto.html
 * https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to
+* https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods
+* https://morizbuesing.com/blog/greppability-code-metric
 
 
 Messaging
@@ -124,6 +126,7 @@ Development
 * https://platformengineering.org/platform-tooling
 * https://humanitec.com
 * https://aquaproj.github.io  framework for version-pinning build tools?
+* https://www.bytedrum.com/posts/art-of-finishing
 
 
 Versioning

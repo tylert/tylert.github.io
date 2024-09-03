@@ -255,3 +255,4 @@ Other
 =====
 
 * https://github.com/jfedor2/hid-remapper
+* https://nick-gravgaard.com/qwerty-flip

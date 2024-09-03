@@ -16,6 +16,7 @@ Other
 * https://www.inkandswitch.com/local-first
 * https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
+* https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
 
 
 Containers and Images
@@ -44,4 +45,6 @@ Publishing
 * https://johnfactotum.github.io/foliate  local e-reader app
 * https://dokku.com
 * https://hamel.dev/blog/posts/dokku
-* https://github.com/ashishb/wp2hugo
+* https://github.com/ashishb/wp2hugo  WordPress to Hugo
+* https://github.com/robinmoisson/staticrypt  encrypted static site pages without a server?
+* https://robinmoisson.github.io/staticrypt  encrypted static site pages without a server?
