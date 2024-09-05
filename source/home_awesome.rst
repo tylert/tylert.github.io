@@ -3,6 +3,7 @@ Composting Toilets
 
 * https://we-pee.com/products/copy-of-urine-separator-for-composting-toilet
 * https://hepvo.com/hepvo-waterless-valve
+* https://urineseparator.com/product/floran
 
 
 Ontario Things
