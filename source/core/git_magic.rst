@@ -188,3 +188,15 @@ Other
 * https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities
 * https://git-send-email.io
 * https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt  credentials stuff and stacked diffs
+* https://www.geeksforgeeks.org/how-to-make-git-accept-a-self-signed-certificate
+* https://www.jvt.me/posts/2019/03/20/git-rewrite-url-https-ssh
+
+::
+
+    git config ${SCOPE} http.sslCAInfo /path/to/your-cert.crt
+
+    git config ${SCOPE} http.sslVerify false
+    # OR
+    export GIT_SSL_NO_VERIFY=true
+
+    git config ${SCOPE} url.ssh://git@github.com/.insteadOf https://github.com/
