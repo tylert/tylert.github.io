@@ -149,3 +149,87 @@ Load-Balancing
 * https://www.loxilb.io  uses eBPF
 * https://ebpf.io
 * https://samwho.dev/load-balancing  visualization of different load-balancing strategies
+
+
+Experiments
+-----------
+
+Installing stuff::
+
+    $ go install sigs.k8s.io/kind@latest
+    # You'll also need kubectl and nerdctl/containerd
+
+Creating cluster::
+
+    $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind create cluster --name moo
+    using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
+    Creating cluster "moo" ...
+     ✓ Ensuring node image (kindest/node:v1.31.0) 🖼
+     ✓ Preparing nodes 📦
+     ✓ Writing configuration 📜
+     ✓ Starting control-plane 🕹️
+     ✓ Installing CNI 🔌
+     ✓ Installing StorageClass 💾
+    Set kubectl context to "kind-moo"
+    You can now use your cluster with:
+
+    kubectl cluster-info --context kind-moo
+
+    Not sure what to do next? 😅  Check out https://kind.sigs.k8s.io/docs/user/quick-start/
+    $ kubectl cluster-info --context kind-moo
+    Kubernetes control plane is running at https://127.0.0.1:51361
+    CoreDNS is running at https://127.0.0.1:51361/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+
+    To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
+    $ kubectl config get-contexts
+    CURRENT   NAME       CLUSTER    AUTHINFO   NAMESPACE
+    *         kind-moo   kind-moo   kind-moo
+
+Check container status::
+
+    $ nerdctl namespace ls
+    NAME                          CONTAINERS    IMAGES    VOLUMES    LABELS
+    buildkit                      0             0         0
+    buildkit_history              0             0         0
+    default                       1             3         2
+    rancher-desktop-extensions    0             1         0
+    $ nerdctl --namespace default images --all
+    REPOSITORY      TAG        IMAGE ID        CREATED           PLATFORM          SIZE          BLOB SIZE
+    kindest/node    <none>     53df588e0408    27 minutes ago    linux/arm64       1010.1 MiB    391.2 MiB
+    alpine          edge       b93f4f6834d5    3 months ago      linux/arm64/v8    9.0 MiB       3.9 MiB
+    busybox         latest     9ae97d36d265    7 months ago      linux/arm64/v8    4.0 MiB       1.8 MiB
+    $ nerdctl --namespace rancher-desktop-extensions images --all
+    REPOSITORY                                           TAG       IMAGE ID        CREATED         PLATFORM       SIZE       BLOB SIZE
+    ghcr.io/rancher-sandbox/rancher-desktop/rdx-proxy    latest    0899e99ad320    7 months ago    linux/arm64    4.9 MiB    4.9 MiB
+    $ nerdctl --namespace default ps --all
+    CONTAINER ID    IMAGE                                                                                             COMMAND                   CREATED           STATUS    PORTS                        NAMES
+    0987d63e1569    docker.io/kindest/node@sha256:53df588e04085fd41ae12de0c3fe4c72f7013bba32a20e7325357a1ac94ba865    "/usr/local/bin/entr…"    10 minutes ago    Up        127.0.0.1:51361->6443/tcp    moo-control-plane
+    $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind get clusters
+    using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
+    moo
+
+Basic operations::
+
+    $ kubectl get namespaces
+    NAME                 STATUS   AGE
+    default              Active   38m
+    kube-node-lease      Active   38m
+    kube-public          Active   38m
+    kube-system          Active   38m
+    local-path-storage   Active   38m
+    $ kubectl get nodes
+    NAME                STATUS   ROLES           AGE   VERSION
+    moo-control-plane   Ready    control-plane   39m   v1.31.0
+
+Deleting cluster::
+
+    $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind delete cluster --name moo
+    using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
+    Deleting cluster "moo" ...
+    Deleted nodes: ["moo-control-plane"]
+    $ nerdctl namespace ls
+    NAME                          CONTAINERS    IMAGES    VOLUMES    LABELS
+    buildkit                      0             0         0
+    buildkit_history              0             0         0
+    default                       0             3         1
+    rancher-desktop-extensions    0             1         0
