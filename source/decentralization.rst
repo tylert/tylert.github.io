@@ -17,6 +17,7 @@ Other
 * https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
+* https://github.com/harsxv/tinystatus  self-hosted statuspage thing
 
 
 Containers and Images
