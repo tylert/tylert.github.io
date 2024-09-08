@@ -27,3 +27,9 @@ Generative Art
 * https://github.com/fogleman/ln
 * https://plotterfiles.com
 * https://geekhack.org/index.php?topic=65747.0
+
+
+Serial Debugging
+----------------
+
+* https://mcuoneclipse.com/2022/09/17/picoprobe-using-the-raspberry-pi-pico-as-debug-probe
