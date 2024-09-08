@@ -278,6 +278,9 @@ Assorted Things-to-Read
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
 * https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1  DevOps Borat "fortune" data file
 * https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers  humour
+* https://futurerack.info/main.php#/products_pets  cat server shelf
+* https://fmt2.cat  HE datacentre cats
+* https://www.universal-radio.com/cats.html  ham radio store cats
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
 * https://garnix.io/blog/call-by-hash
