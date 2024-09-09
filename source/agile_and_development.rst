@@ -177,6 +177,7 @@ Team Stuff
 * https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams
 * https://fev.al/posts/work-journal
 * https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the
+* https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your
 
 
 Style Guide Stuff
@@ -413,6 +414,7 @@ C Stuff
 -------
 
 * https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
+* https://bernsteinbear.com/blog/fenster-microui
 
 
 WASM

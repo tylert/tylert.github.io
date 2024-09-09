@@ -117,6 +117,8 @@ Decentralized Infrastructure Stuff
 * https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network
 * https://git.trevorbentley.com/itsy-gitsy  static site generator for git repos
 * https://github.com/mrmekon/itsy-gitsy  static site generator for git repos
+* https://jnsgr.uk/2024/07/how-i-computer-in-2024
+* https://jnsgr.uk/2024/08/tailscale-on-the-rocks
 
 
 Backup Stuff

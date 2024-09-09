@@ -9,6 +9,7 @@ Simple Stuff
 * https://www.talos.dev/latest/introduction/quickstart
 * https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/#ephemeral-container
 * https://stencel.io/posts/build-cheapest-kubernetes-i7-cluster.html
+* https://reclaim-the-stack.com
 
 
 Swap
