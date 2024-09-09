@@ -6,6 +6,8 @@ Email
 * https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email
 * https://aerc-mail.org
 * https://git.sr.ht/~rjarry/aerc
+* https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
+* https://www.f6fbb.org
 
 
 Other
@@ -18,6 +20,7 @@ Other
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
 * https://github.com/harsxv/tinystatus  self-hosted statuspage thing
+* https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
 
 
 Containers and Images
