@@ -74,6 +74,7 @@ Software Design and Documentation
 * https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to
 * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods
 * https://morizbuesing.com/blog/greppability-code-metric
+* https://gabevenberg.com/posts/cli-renaissance
 
 
 Messaging
@@ -252,6 +253,7 @@ Git Stuff
 * https://rednafi.com/misc/on_rebasing
 * https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs
 * https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
+* https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
 
 
 Process Stuff

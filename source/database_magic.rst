@@ -62,6 +62,7 @@ Cloud Stuff
 -----------
 
 * https://paulbradley.dev/sqlite-efs-serverless-database  AWS serverless sqlite3???
+* https://kubeblocks.io  databases in k8s
 
 
 Clustering and Replication
