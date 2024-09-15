@@ -179,6 +179,7 @@ Team Stuff
 * https://fev.al/posts/work-journal
 * https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the
 * https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your
+* https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire
 
 
 Style Guide Stuff
