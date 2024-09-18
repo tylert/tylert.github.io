@@ -77,10 +77,11 @@ Software Design and Documentation
 * https://gabevenberg.com/posts/cli-renaissance
 
 
-Messaging
----------
+Messaging and Logging
+---------------------
 
 * https://www.enterpriseintegrationpatterns.com/patterns/messaging
+* https://jeremymorrell.dev/blog/minimal-js-tracing  structured logs and span tracing
 
 
 Development
