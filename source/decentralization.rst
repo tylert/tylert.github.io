@@ -52,3 +52,4 @@ Publishing
 * https://github.com/ashishb/wp2hugo  WordPress to Hugo
 * https://github.com/robinmoisson/staticrypt  encrypted static site pages without a server?
 * https://robinmoisson.github.io/staticrypt  encrypted static site pages without a server?
+* https://type.cyhsu.xyz/2024/09/1dollarscan

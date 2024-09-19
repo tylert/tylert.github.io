@@ -75,6 +75,7 @@ Software Design and Documentation
 * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods
 * https://morizbuesing.com/blog/greppability-code-metric
 * https://gabevenberg.com/posts/cli-renaissance
+* https://paulgraham.com/head.html
 
 
 Messaging and Logging
