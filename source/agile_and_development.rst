@@ -1,5 +1,5 @@
-Scrum/Agile/Kanban Stuff
-------------------------
+Scrum/Agile Stuff
+-----------------
 
 * https://agilepainrelief.com/what-is-scrum-in-a-nutshell
 * https://agilepainrelief.com/the-story-of-a-sprint
@@ -10,7 +10,6 @@ Scrum/Agile/Kanban Stuff
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
 * https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
-* https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html
 * https://www.hypermatic.com/articles/agile-is-for-losers
 
 
@@ -32,12 +31,15 @@ Kanban Stuff
 * https://github.com/apankrat/nullboard
 * https://greggigon.github.io/my-personal-kanban
 * https://github.com/greggigon/my-personal-kanban
+* https://greggigon.com/my-personal-kanban-2-0
+* https://github.com/greggigon/mpk-desktop-app
 * https://budgetkanban.com/landing  Kanban for budgets too?
 * https://www.leiga.com/post/kanban-vs-scrum
+* https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html
 
 ::
 
-    cat all-kanbans-export.json | jq -r '.[].columns[].cards[].name' > todo.txt
+    cat all-kanbans-export.json | gojq -r '.[].columns[].cards[].name' > todo.txt
 
 
 Supply Chain Magic
