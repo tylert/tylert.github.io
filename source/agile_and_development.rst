@@ -157,6 +157,7 @@ Mentorship Stuff
 * https://lethain.com/eng-strategies
 * https://mcfunley.com/choose-boring-technology
 * http://randsinrepose.com/archives/bored-people-quit
+* https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job
 * http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
 * http://www.daedtech.com/how-to-keep-your-best-programmers
 * https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity

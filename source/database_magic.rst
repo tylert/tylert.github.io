@@ -28,6 +28,7 @@ SQLite
 * https://github.com/LMDB/lmdb  might be part of the magic of LumoSQL
 * https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini
 * https://github.com/glebarez/go-sqlite  embedded sqlite
+* https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production
 
 ::
 
