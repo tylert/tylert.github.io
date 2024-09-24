@@ -67,15 +67,14 @@ The default bearings for the Ploopy Nano seem to get rusty with regular use.
 * https://imgur.com/a/o2Ar9VT  original designer's renders and prototype pics
 * https://i.imgur.com/PGTLar9.jpg  finished print example
 * https://www.reddit.com/r/ploopy/comments/ldfcde/heres_a_3dprintable_ploopy_trackball_mod_to_use  BTU discussions
+* https://www.printables.com/model/263616-trackball-15bc  a bigger ball and a better PCB too
 
 
-More QMK Ploopy Stuff
----------------------
+More Ploopy Stuff
+-----------------
 
 QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
-* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aopen
-* https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aclosed
 * https://github.com/qmk/qmk_firmware/blob/master/keyboards/ploopyco/readme.md#drag-scroll
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball
 * https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving
@@ -90,6 +89,7 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 * https://www.reddit.com/r/ploopy/comments/12pzt9a/ploopy_nano_and_scroll_toggle_with_keyboardio
 * https://github.com/englmaxi/zmk-hid-trackball-interface  Ploopy Nano with ZMK?
 * https://gist.github.com/patm1987/4ee78e8727bb4c5a1bbd5f2279b4e79d  improved dragscroll?
+* https://github.com/valeriosetti/ploopy-nano-kicad  KiCAD design files for a clone PCB
 
 
 Power Management
@@ -139,6 +139,8 @@ USB Trickery
 
 * https://github.com/haimgel/display-switch
 * https://haim.dev/posts/2020-07-28-dual-monitor-kvm
+* https://hackaday.com/2023/12/26/building-a-better-keyboard-and-mouse-switch
+* https://github.com/hrvach/deskhop
 
 
 Other
