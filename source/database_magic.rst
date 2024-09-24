@@ -29,6 +29,13 @@ SQLite
 * https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini
 * https://github.com/glebarez/go-sqlite  embedded sqlite
 * https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production
+* https://highperformancesqlite.com
+* https://bedrockdb.com
+* https://github.com/Expensify/Bedrock
+* https://speakerdeck.com/fractaledmind/how-and-why-to-run-sqlite-in-production
+* https://blog.pecar.me/sqlite-prod
+* https://turso.tech
+* https://www.reddit.com/r/rails/comments/k4vlqo/is_anyone_using_sqlite_on_production_either_side
 
 ::
 
