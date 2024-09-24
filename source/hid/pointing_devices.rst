@@ -37,13 +37,13 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
 * https://www.ploopy.co/nano-trackball
 * https://www.ploopy.co/product/nano-trackball/11
 * https://github.com/ploopyco/trackball-nano/wiki
-* https://www.reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is/
+* https://www.reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is
 * https://github.com/brickbots/aball
 * https://github.com/MangoIV/dracuLad
 * https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md
 * https://github.com/monroewilliams/trackball
-* https://shop.beekeeb.com/product/ploopy-nano-trackball-case-resin/
-* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs/
+* https://shop.beekeeb.com/product/ploopy-nano-trackball-case-resin
+* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs
 * https://www.theverge.com/22958439/trackball-diy-building-ploopy
 * https://github.com/jfedor2/rp2040-pmw3360
 
