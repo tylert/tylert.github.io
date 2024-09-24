@@ -76,6 +76,7 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aopen
 * https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+ploopy+is%3Aclosed
+* https://github.com/qmk/qmk_firmware/blob/master/keyboards/ploopyco/readme.md#drag-scroll
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball
 * https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving
 * https://www.reddit.com/r/ploopy/comments/nfdmrc/ploopy_nano_for_scrolling
@@ -85,6 +86,10 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 * https://www.reddit.com/r/ploopy/comments/oqwyzs/help_drag_scroll_as_held_key_in_tap_dance
 * https://www.reddit.com/r/ploopy/comments/ou2110/auto_hot_key_script_for_right_click_scroll_wheel
 * https://www.reddit.com/r/ploopy/comments/pl67bn/ploopy_mini_trackball_and_ubuntu
+* https://www.reddit.com/r/ploopy/comments/ojvhru/led_trick_on_macos_making_nano_versatile_as
+* https://www.reddit.com/r/ploopy/comments/12pzt9a/ploopy_nano_and_scroll_toggle_with_keyboardio
+* https://github.com/englmaxi/zmk-hid-trackball-interface  Ploopy Nano with ZMK?
+* https://gist.github.com/patm1987/4ee78e8727bb4c5a1bbd5f2279b4e79d  improved dragscroll?
 
 
 Power Management
