@@ -36,6 +36,7 @@ SQLite
 * https://blog.pecar.me/sqlite-prod
 * https://turso.tech
 * https://www.reddit.com/r/rails/comments/k4vlqo/is_anyone_using_sqlite_on_production_either_side
+* https://wafris.org/blog/rearchitecting-for-sqlite
 
 ::
 

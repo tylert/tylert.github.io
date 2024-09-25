@@ -173,6 +173,7 @@ Apt Stuff
 * https://help.ubuntu.com/community/Apt-Cacher-Server
 * `https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings?highlight=%28\bCategoryInternet\b%29`
 * http://docs.docker.com/examples/apt-cacher-ng
+* https://mikecoats.com/debian-packaging-first-principles-part-1-simple
 
 (on apt-cacher-ng server)::
 
