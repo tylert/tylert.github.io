@@ -75,6 +75,7 @@ More Ploopy Stuff
 
 QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
+* https://github.com/valeriosetti/ploopy-nano-kicad  KiCAD design files for Ploopy Nano clone PCB
 * https://github.com/qmk/qmk_firmware/blob/master/keyboards/ploopyco/readme.md#drag-scroll
 * https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball
 * https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving
@@ -88,8 +89,9 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 * https://www.reddit.com/r/ploopy/comments/ojvhru/led_trick_on_macos_making_nano_versatile_as
 * https://www.reddit.com/r/ploopy/comments/12pzt9a/ploopy_nano_and_scroll_toggle_with_keyboardio
 * https://github.com/englmaxi/zmk-hid-trackball-interface  Ploopy Nano with ZMK?
-* https://gist.github.com/patm1987/4ee78e8727bb4c5a1bbd5f2279b4e79d  improved dragscroll?
-* https://github.com/valeriosetti/ploopy-nano-kicad  KiCAD design files for a clone PCB
+* https://github.com/qmk/qmk_firmware/pull/23953  waiting to be merged to QMK
+* https://github.com/atseira/ploopy_trackball_nano_scroll/blob/main/scroll/keymap.c  drag scroll example
+* https://gist.github.com/patm1987/4ee78e8727bb4c5a1bbd5f2279b4e79d  improved drag scroll?
 
 
 Power Management
