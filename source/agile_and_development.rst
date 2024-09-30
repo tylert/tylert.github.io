@@ -404,6 +404,7 @@ Go Stuff
 * https://ss64.com/mac/sw_vers.html  macOS version info (os/exec this or is there a better way?)
 * https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
 * https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go
+* https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern
 
 
 Rust Stuff

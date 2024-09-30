@@ -343,6 +343,7 @@ Cool Products
 * https://liliputing.com/build-your-own-nas-with-this-alder-lake-n-motherboard-up-to-6-hard-drives-and-2-ssds
 * https://docs.vorondesign.com/hardware.html#voron-2
 * https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino
+* https://gitlab.com/zephray/sitina1  open-source DSLR body
 
 
 Woodworking
