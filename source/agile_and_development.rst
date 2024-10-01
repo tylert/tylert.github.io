@@ -405,6 +405,8 @@ Go Stuff
 * https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
 * https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern
+* https://playwright-community.github.io/playwright-go  headless web browser stuff with an API
+* https://github.com/playwright-community/playwright-go  headless web browser stuff with an API
 
 
 Rust Stuff
