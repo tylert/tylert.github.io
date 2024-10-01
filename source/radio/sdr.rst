@@ -9,6 +9,7 @@ SDR
 * https://github.com/n7nix/deviation  FM deviation flowgraph
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/dl9rdz/rdz_ttgo_sonde
+* https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 
 
 Modems and Interfaces
