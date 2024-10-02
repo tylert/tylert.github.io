@@ -53,3 +53,11 @@ Publishing
 * https://github.com/robinmoisson/staticrypt  encrypted static site pages without a server?
 * https://robinmoisson.github.io/staticrypt  encrypted static site pages without a server?
 * https://type.cyhsu.xyz/2024/09/1dollarscan
+
+
+Offline Fun
+-----------
+
+* https://8chananon.github.io/tut/scraping1.html  scraping web sites using nothing but a web browser???
+* https://jakelazaroff.com/words/a-local-first-case-study  waypoint offline trip planning thing
+* https://github.com/jakelazaroff/waypoint  waypoint offline trip planning thing

@@ -187,3 +187,12 @@ MySQL Stuff
     done
 
 * https://github.com/dolthub/go-mysql-server
+
+
+SlateDB
+-------
+
+* https://slatedb.io  database in S3???
+* https://github.com/slatedb/slatedb/issues/164  remove the need for DynamoDB in order to run SlateDB???
+* https://github.com/slatedb/slatedb
+* https://github.com/slatedb/slatedb-go
