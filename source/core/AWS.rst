@@ -99,15 +99,21 @@ IPv6
 * https://tty.neveragain.de/2021/04/26/road-to-reweb.html
 
 
-TGW/TF
-------
+TGW
+---
 
 * https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-route53-recordset.html#cfn-route53-recordset-name
-* https://dev.to/rolfstreefkerk/how-to-setup-a-serverless-application-with-aws-sam-and-terraform-33m9
 * https://docs.aws.amazon.com/vpc/latest/tgw/tgw-best-design-practices.html
 * https://aws.amazon.com/blogs/networking-and-content-delivery/zendesks-global-mesh-network-how-we-lowered-operational-overhead-and-cost-by-migrating-to-aws-transit-gateway
 * https://mechanicalrock.github.io/2020/02/24/transit-gateway.html
 * https://www.aws.training/Details/eLearning?id=40275
+
+
+TF
+--
+
+* https://dev.to/rolfstreefkerk/how-to-setup-a-serverless-application-with-aws-sam-and-terraform-33m9
+* https://github.com/virtualroot/awesome-opentofu
 
 
 EC2
@@ -212,6 +218,7 @@ Assorted
 * https://github.com/codahale/sneaker
 * https://www.threatstack.com/blog/cloud-security-best-practices-finding-securing-managing-secrets-part-2
 * https://aws.amazon.com/blogs/architecture/migrate-resources-between-aws-accounts
+* https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-cross-account-support-for-aws-global-accelerator
 * https://www.bitsand.cloud/posts/slashing-data-transfer-costs
 * https://serverfault.com/questions/1073509/in-aws-can-an-ec2-instance-be-in-more-than-one-vpc-at-the-same-time
 * https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments
@@ -252,7 +259,6 @@ Nowadays, you'd just use AWS IPAM instead of rolling your own.
 
 * https://github.com/netbox-community/netbox
 * https://netbox.readthedocs.io/en/stable
-* https://registry.terraform.io/search/providers?q=netbox
 * https://www.phillhocking.com/terraform-netbox-ipam-aws
 
 
