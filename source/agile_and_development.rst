@@ -22,6 +22,7 @@ Key Meetings
 * https://agilepainrelief.com/glossary/sprint-retrospective
 * https://agilepainrelief.com/glossary/product-backlog-refinement
 * https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck
+* https://interconnected.org/home/2020/09/24/unoffice_hours
 
 
 Kanban Stuff
@@ -408,6 +409,7 @@ Go Stuff
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern
 * https://playwright-community.github.io/playwright-go  headless web browser stuff with an API
 * https://github.com/playwright-community/playwright-go  headless web browser stuff with an API
+* https://github.com/C-Loftus/QuickPiperAudiobook  needs ebook-convert but uses Go for the rest???
 
 
 Rust Stuff

@@ -37,6 +37,8 @@ SQLite
 * https://turso.tech
 * https://www.reddit.com/r/rails/comments/k4vlqo/is_anyone_using_sqlite_on_production_either_side
 * https://wafris.org/blog/rearchitecting-for-sqlite
+* https://starbasedb.com/blog/building-an-http-sqlite-database-with-cloudflare-durable-objects
+* https://starbasedb.com/blog/developing-acid-transaction-support-in-starbasedb
 
 ::
 
