@@ -10,3 +10,4 @@ Photography Stuff
 -----------------
 
 * https://jackw01.github.io/scanlight  negative/slide scanning light source
+* https://github.com/wikey/bookscan  workflow automation for scanning books
