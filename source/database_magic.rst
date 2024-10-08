@@ -110,6 +110,7 @@ Querying
 * https://github.com/TomWright/dasel  CSV, JSON, TOML, XML, YAML data management? (Golang)
 * https://github.com/YS-L/csvlens  like less but for CSV?
 * https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good
+* https://github.com/archiewood/gosql
 
 
 Encryption
