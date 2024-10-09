@@ -22,6 +22,7 @@ Other
 * https://github.com/harsxv/tinystatus  self-hosted statuspage thing
 * https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
 * https://ploum.net/the-computer-built-to-last-50-years/index.html
+* https://github.com/alebeck/boring  SSH tunnel manager
 
 
 Containers and Images

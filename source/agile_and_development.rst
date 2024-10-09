@@ -81,6 +81,7 @@ Software Design and Documentation
 * https://morizbuesing.com/blog/greppability-code-metric
 * https://gabevenberg.com/posts/cli-renaissance
 * https://paulgraham.com/head.html
+* https://entropicthoughts.com/practices-of-reliable-software-design
 
 
 Messaging and Logging
