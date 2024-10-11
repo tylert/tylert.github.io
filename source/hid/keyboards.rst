@@ -188,6 +188,7 @@ Mouse Jiggler
 -------------
 
 * https://www.reddit.com/r/MechanicalKeyboards/comments/10b3pk7/how_to_add_a_mousejiggler_toggle_macro_to_your
+* https://www.tomshardware.com/how-to/diy-mouse-jiggler-raspberry-pi-pico
 
 
 Modifications
@@ -218,6 +219,8 @@ Nifty Adapters
 * https://yaowei.dev/posts/usb-to-usb-converter
 * https://geekhack.org/index.php?topic=80421.0
 * https://trzsz.github.io
+* https://github.com/jfedor2/hid-remapper  external remapping dongle
+* https://github.com/jfedor2/blinkenlights  extra LEDs for things
 
 
 Rubber Ducks
