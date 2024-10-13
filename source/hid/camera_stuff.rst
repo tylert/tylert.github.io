@@ -24,8 +24,11 @@ Camera Stuff
 CHDK Doc/Book Scanner
 ---------------------
 
+* https://chdk.fandom.com/wiki/CHDK_User_Manual
+* https://chdk.fandom.com/wiki/PTP_Extension
 * https://app.assembla.com/wiki/show/chdkptp
 * https://aur.archlinux.org/packages/chdkptp-svn  currently abandoned package
+* https://chdk.setepontos.com/index.php?topic=14091.0  set_clock to set camera date/time
 
 ::
 
