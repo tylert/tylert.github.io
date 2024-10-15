@@ -446,6 +446,7 @@ Awesome Stuff
 * https://github.com/wasi-master/13ft  read articles behind paywalls?
 * https://phrack.org/issues/71/17.html#article  financing for hackers?
 * https://jaycarlson.net/embedded-linux  low-level Linux board-support magic
+* https://billwear.github.io  assorted neat stuff
 
 
 Microservices

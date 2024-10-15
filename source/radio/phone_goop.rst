@@ -220,3 +220,4 @@ Others
 * https://mudkip.me/2024/02/28/Spiritual-Successor-to-the-Google-Nexus-7  tablets still suck
 * https://keyboard.futo.org
 * https://kevinboone.me/lineageos-degoogled.html  making LineageOS a tiny bit less horrible
+* https://www.plop.at/en/lineageos.html  backup/restore LineageOS stuff?

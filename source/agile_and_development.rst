@@ -23,6 +23,7 @@ Key Meetings
 * https://agilepainrelief.com/glossary/product-backlog-refinement
 * https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck
 * https://interconnected.org/home/2020/09/24/unoffice_hours
+* https://www.greptile.com/blog/how-we-engineer
 
 
 Kanban Stuff

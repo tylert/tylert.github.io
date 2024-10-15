@@ -19,6 +19,7 @@ Modems and Interfaces
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
+* https://www.kv4p.com  APRS HT-like add-on for Android phones
 
 
 BBS

@@ -18,6 +18,7 @@ Linux
 * http://blog.alexellis.io/boot-linuxkit-in-10-mins
 * https://github.com/MichielDerhaeg/build-linux
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu
+* https://www.plop.at/en/bootmanager/full.html  other low-level boot goop?
 
 
 Style

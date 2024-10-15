@@ -10,6 +10,13 @@ Email
 * https://www.f6fbb.org
 
 
+Linux Phones
+------------
+
+* https://momi.ca/posts/2024-10-09-honeybee.html  XMPP for calls?
+* https://furilabs.com/shop/flx1  Linux-like phone? (Android HAL underneath?)
+
+
 Other
 -----
 
