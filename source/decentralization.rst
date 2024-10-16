@@ -65,6 +65,7 @@ Publishing
 * https://typst.app
 * https://github.com/typst/typst
 * https://blog.jreyesr.com/posts/typst  typesetting similar to LaTeX
+* https://github.com/qjcg/awesome-typst  example templates and things for Typst
 
 
 Offline Fun
