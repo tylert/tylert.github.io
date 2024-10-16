@@ -29,7 +29,8 @@ Other
 * https://github.com/harsxv/tinystatus  self-hosted statuspage thing
 * https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
 * https://ploum.net/the-computer-built-to-last-50-years/index.html
-* https://github.com/alebeck/boring  SSH tunnel manager
+* https://github.com/alebeck/boring  SSH tunnel management
+* https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go  SSH tunnel management
 
 
 Containers and Images
@@ -37,6 +38,8 @@ Containers and Images
 
 * https://oras.land
 * https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html
+* https://dokku.com
+* https://hamel.dev/blog/posts/dokku
 
 
 Publishing
@@ -56,8 +59,6 @@ Publishing
 * https://willcrichton.net/notes/portable-epubs  render epubs directly in a web browser???
 * https://krasjet.com/voice/pdf.tocgen  PDF Table Of Contents generation???
 * https://johnfactotum.github.io/foliate  local e-reader app
-* https://dokku.com
-* https://hamel.dev/blog/posts/dokku
 * https://github.com/ashishb/wp2hugo  WordPress to Hugo
 * https://github.com/robinmoisson/staticrypt  encrypted static site pages without a server?
 * https://robinmoisson.github.io/staticrypt  encrypted static site pages without a server?
