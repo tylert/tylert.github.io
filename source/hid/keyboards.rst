@@ -178,6 +178,20 @@ Upload a firmware from a file to the keyboard::
 * https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html
 
 
+Painting Cases
+--------------
+
+* https://www.youtube.com/watch?v=cOH5uVwAoi0
+* https://youtu.be/yAmCIceq8Zo
+
+
+Keycaps
+-------
+
+* https://spkeyboards.com/collections/dsa-individual-keys
+* https://spkeyboards.com/blogs/product-guides/keycap-colors
+
+
 A Jump To Conclusions Key
 -------------------------
 
