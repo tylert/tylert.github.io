@@ -67,6 +67,9 @@ Publishing
 * https://github.com/typst/typst
 * https://blog.jreyesr.com/posts/typst  typesetting similar to LaTeX
 * https://github.com/qjcg/awesome-typst  example templates and things for Typst
+* https://github.com/typst/typst/issues/721  Typst HTML output
+* https://github.com/pdf2htmlEX/pdf2htmlEX  PDF to HTML
+* https://pdf2htmlex.github.io/pdf2htmlEX  PDF to HTML
 
 
 Offline Fun
