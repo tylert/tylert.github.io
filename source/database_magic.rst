@@ -39,6 +39,7 @@ SQLite
 * https://wafris.org/blog/rearchitecting-for-sqlite
 * https://starbasedb.com/blog/building-an-http-sqlite-database-with-cloudflare-durable-objects
 * https://starbasedb.com/blog/developing-acid-transaction-support-in-starbasedb
+* https://stackoverflow.com/questions/6076984/sqlite-how-do-i-save-the-result-of-a-query-as-a-csv-file
 
 ::
 
