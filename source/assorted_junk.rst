@@ -29,6 +29,7 @@ Random Other Docs
 * https://mesos.apache.org
 * https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-service-discovery-and-distributed-configuration-stores
 * https://www.joyent.com/blog/container-native-discovery
+* https://tilde.town/~dozens/sofa  Start Often Finish Anytime
 
 
 Dumb OS X
