@@ -19,6 +19,7 @@ More Plottery Stuff
 * https://github.com/LiciaHe/threadPlotter
 * https://github.com/0xPIT/AlClosure  some OpenSCAD awesome
 * https://github.com/bmsleight/lasercut  some more OpenSCAD awesome
+* https://lcamtuf.coredump.cx/gcnc/full  more learning tracks for CAD/CAM newbies
 
 
 Generative Art

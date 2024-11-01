@@ -1,3 +1,9 @@
+HDMI
+----
+
+* https://daniel.lawrence.lu/blog/y2023m12d15  using an 8k display as a regular computer monitor
+
+
 Eink
 ----
 

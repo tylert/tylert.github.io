@@ -23,3 +23,18 @@ Arch Linux AMIs
 * https://gitlab.com/bitfehler/archlinux-ec2
 * https://www.packer.io/docs/builders/amazon-ebssurrogate.html
 * https://github.com/aws/amazon-ssm-agent
+
+
+Diagnostics
+-----------
+
+::
+
+    # Show open ports
+    netstat -tunap
+
+    # Show open ports again
+    ss -arpt4  # TCP/IPv4
+    ss -arpt6  # TCP/IPv6
+    ss -arpu4  # UDP/IPv4
+    ss -arpu6  # UDP/IPv6

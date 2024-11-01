@@ -221,3 +221,4 @@ Others
 * https://keyboard.futo.org
 * https://kevinboone.me/lineageos-degoogled.html  making LineageOS a tiny bit less horrible
 * https://www.plop.at/en/lineageos.html  backup/restore LineageOS stuff?
+* https://gitlab.com/android_translation_layer/android_translation_layer  Android apps on your Linux workstation
