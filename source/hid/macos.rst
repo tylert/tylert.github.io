@@ -10,3 +10,9 @@ Binary Goop
 -----------
 
 * https://apple.stackexchange.com/questions/429197/how-can-i-distinguish-arm-binaries-from-x86-binaries-on-macos/436911#436911
+
+
+Other
+-----
+
+* https://weiyen.net/articles/useful-macos-cmd-line-utilities

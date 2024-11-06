@@ -200,3 +200,9 @@ SlateDB
 * https://github.com/slatedb/slatedb/issues/164  remove the need for DynamoDB in order to run SlateDB???
 * https://github.com/slatedb/slatedb
 * https://github.com/slatedb/slatedb-go
+
+
+Datalakes
+---------
+
+* https://ludic.mataroa.blog/blog/get-me-out-of-data-hell

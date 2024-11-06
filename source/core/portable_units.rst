@@ -107,6 +107,7 @@ Decentralized Infrastructure Stuff
 * https://nats.io
 * https://github.com/nats-io
 * https://dgross.ca/blog/linux-home-server-auto-sleep  tiny server wakes bigger server
+* https://github.com/darwindarak/rallyup  Rust Wake-on-LAN scheduler
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
 * https://pimalaya.org  PIM software in Rust?
 * https://astrid.tech/2024/05/28/0/ping-ff02-1  magic local networking?

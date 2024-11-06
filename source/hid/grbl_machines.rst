@@ -43,3 +43,4 @@ Microscopy
 * https://www.anfractuosity.com/projects/cnc-microscopy
 * https://openflexure.org/projects/microscope
 * https://github.com/TadPath/PUMA  PUMA Microscope (PUMA = Portable Upgradeable Modular Affordable)
+* https://docs.hackerfab.org/hacker-fab-space

@@ -125,7 +125,8 @@ Assorted Stuff
 * https://blaines.world/projects/push-to-reboot/logs/locking-things-down  HOTP over DTMF?
 * https://gitlab.com/unixispower/push-to-reboot  HOTP over DTMF?
 * https://hackaday.com/2023/04/07/arbitrary-code-execution-over-radio
-* https://www.sota-antennas.com/efhw.php
+* https://www.sota-antennas.com/efhw.php  End-Fed Half-Wave (EFHW) antennas
+* https://github.com/dmd/morse  Morse-to-email toy
 
 
 Bluetooth Stuff

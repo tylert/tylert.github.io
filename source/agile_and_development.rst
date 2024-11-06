@@ -265,6 +265,7 @@ Git Stuff
 * https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs
 * https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
 * https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
+* https://ente.io/blog/monorepo-retrospective
 
 
 Process Stuff
@@ -412,6 +413,7 @@ Go Stuff
 * https://playwright-community.github.io/playwright-go  headless web browser stuff with an API
 * https://github.com/playwright-community/playwright-go  headless web browser stuff with an API
 * https://github.com/C-Loftus/QuickPiperAudiobook  needs ebook-convert but uses Go for the rest???
+* https://jarosz.dev/article/writing-secure-go-code
 
 
 Rust Stuff
