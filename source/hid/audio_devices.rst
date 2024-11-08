@@ -1,16 +1,15 @@
-Sennheiser HD 25 Headphones
----------------------------
+Sennheiser HD25 Headphones
+--------------------------
 
-* https://loco-noise.com/
-* https://www.thingiverse.com/thing:244966  headbands (right ear can move freely)
-* https://www.thingiverse.com/thing:4808688  cans
+* https://customcans.co.uk/shop/product/sennheiser-hd25-aluminium-metal-ear-cups-and-hinges-set-of-2
+* https://loco-noise.com
+* https://www.thingiverse.com/thing:244966  HD25 headbands (right ear can move freely)
+* https://www.thingiverse.com/thing:4808688  HD25 cans
+* https://www.thingiverse.com/thing:995632  HD25 cable holder
 * https://www.thingiverse.com/thing:4496569  pad adapter (bigger than original)
-* https://www.thingiverse.com/thing:995632  cable holder
 * https://www.thingiverse.com/thing:1255436  detachable cable adapter
 * https://www.reddit.com/r/headphones/comments/4060mp/i_have_finalized_my_hd_25_detachable_cable_mod  detachable cable adapter
-* https://i.imgur.com/jwhD5me.png
-* https://i.imgur.com/xGCDm6p.jpg
-* https://www.youtube.com/watch?v=wB7Nhq5HQFA  history of the HD 25 headphones
+* https://www.youtube.com/watch?v=wB7Nhq5HQFA  history of the HD25 headphones
 
 
 Add-On Microphones
