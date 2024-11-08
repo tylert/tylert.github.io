@@ -2,6 +2,7 @@ Sennheiser HD25 Headphones
 --------------------------
 
 * https://customcans.co.uk/shop/product/sennheiser-hd25-aluminium-metal-ear-cups-and-hinges-set-of-2
+* https://customcans.co.uk/shop/product/hd25-damping-mass-loading-uber-mods-mods-uber-damping-kits
 * https://loco-noise.com
 * https://www.thingiverse.com/thing:244966  HD25 headbands (right ear can move freely)
 * https://www.thingiverse.com/thing:4808688  HD25 cans
