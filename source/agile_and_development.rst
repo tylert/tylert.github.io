@@ -176,6 +176,7 @@ Interviews
 
 * https://praachi.work/blog/questions-to-ask-in-a-job-interview
 * https://blog.jez.io/bugsquash
+* https://fearlesssalarynegotiation.com/salary-expectations-interview-question
 
 
 Team Stuff

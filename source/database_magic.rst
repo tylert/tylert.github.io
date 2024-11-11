@@ -134,6 +134,7 @@ Schema Stuff
 * https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys
 * https://gobuffalo.io  CRUD magic
 * https://github.com/gobuffalo/pop  CRUD magic
+* https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema
 
 
 K8s Stuff
