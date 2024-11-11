@@ -31,6 +31,7 @@ Other
 * https://ploum.net/the-computer-built-to-last-50-years/index.html
 * https://github.com/alebeck/boring  SSH tunnel management
 * https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go  SSH tunnel management
+* https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse
 
 
 Containers and Images
@@ -70,6 +71,7 @@ Publishing
 * https://github.com/typst/typst/issues/721  Typst HTML output
 * https://github.com/pdf2htmlEX/pdf2htmlEX  PDF to HTML
 * https://pdf2htmlex.github.io/pdf2htmlEX  PDF to HTML
+* https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
 
 
 Offline Fun
@@ -78,3 +80,10 @@ Offline Fun
 * https://8chananon.github.io/tut/scraping1.html  scraping web sites using nothing but a web browser???
 * https://jakelazaroff.com/words/a-local-first-case-study  waypoint offline trip planning thing
 * https://github.com/jakelazaroff/waypoint  waypoint offline trip planning thing
+
+
+BBS
+---
+
+* https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
+* https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
