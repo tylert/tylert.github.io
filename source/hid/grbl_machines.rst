@@ -35,12 +35,3 @@ Serial Debugging
 ----------------
 
 * https://mcuoneclipse.com/2022/09/17/picoprobe-using-the-raspberry-pi-pico-as-debug-probe
-
-
-Microscopy
-----------
-
-* https://www.anfractuosity.com/projects/cnc-microscopy
-* https://openflexure.org/projects/microscope
-* https://github.com/TadPath/PUMA  PUMA Microscope (PUMA = Portable Upgradeable Modular Affordable)
-* https://docs.hackerfab.org/hacker-fab-space

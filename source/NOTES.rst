@@ -156,14 +156,6 @@ HandBrake settings for DVDs::
 * https://github.com/mifi/lossless-cut
 * https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video
-* https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
-* https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
-* https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf
-* https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap
-* https://joshuabird.com/blog/post/3d-printed-film-video-camera
-* https://www.diy-thermocam.net  IR imagery with nearly, nearly all open-source stuff (Teensy meh)
-* http://aggregate.org/DIT/CHDK  CHDK with CHDKPTP remote control
-* https://github.com/Jana-Marie/ligra  open-source projector?
 
 
 Apt Stuff

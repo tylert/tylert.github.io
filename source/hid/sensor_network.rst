@@ -22,7 +22,6 @@ Thermostat Stuff
 Doorbell/Camera Stuff
 ---------------------
 
-* https://www.briandorey.com/post/raspberry-pi-high-quality-camera-on-the-microscope
 * https://buzzert.net/posts/2021-05-09-doorbell
 
 
