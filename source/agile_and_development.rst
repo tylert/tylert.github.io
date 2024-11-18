@@ -169,6 +169,7 @@ Mentorship Stuff
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
 * https://matt.sh/panic-at-the-job-market
 * https://boz.com/articles/advice-not-permission
+* https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you
 
 
 Interviews
@@ -416,6 +417,7 @@ Go Stuff
 * https://github.com/playwright-community/playwright-go  headless web browser stuff with an API
 * https://github.com/C-Loftus/QuickPiperAudiobook  needs ebook-convert but uses Go for the rest???
 * https://jarosz.dev/article/writing-secure-go-code
+* https://bitfieldconsulting.com/posts/constraints
 
 
 Rust Stuff
