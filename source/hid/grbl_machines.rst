@@ -20,6 +20,8 @@ More Plottery Stuff
 * https://github.com/0xPIT/AlClosure  some OpenSCAD awesome
 * https://github.com/bmsleight/lasercut  some more OpenSCAD awesome
 * https://lcamtuf.coredump.cx/gcnc/full  more learning tracks for CAD/CAM newbies
+* https://www.kickstarter.com/projects/maslow4/maslow41-accessible-large-format-cnc-router
+* https://www.maslowcnc.com
 
 
 Generative Art

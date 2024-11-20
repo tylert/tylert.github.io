@@ -5,6 +5,7 @@ Containers
 * https://github.com/hobby-kube/guide
 * https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image
 * https://grahamc.com/blog/nix-and-layered-docker-images
+* https://git.sr.ht/~bitfehler/notariat  TLS manager ACME thingy for k8s
 
 ::
 
@@ -19,6 +20,8 @@ Linux
 * https://github.com/MichielDerhaeg/build-linux
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu
 * https://www.plop.at/en/bootmanager/full.html  other low-level boot goop?
+* https://anemos.io  build custom initramfs installers
+* https://github.com/liquidmetal-dev/flintlock  containerd-backed micro VMs?
 
 
 Style

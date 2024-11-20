@@ -8,6 +8,11 @@ Email
 * https://git.sr.ht/~rjarry/aerc
 * https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
 * https://www.f6fbb.org
+* https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90
+* https://mailcatcher.me
+* https://github.com/sj26/mailcatcher
+* https://github.com/dynamail/gosmtp
+* https://github.com/emersion/go-smtp
 
 
 Linux Phones
