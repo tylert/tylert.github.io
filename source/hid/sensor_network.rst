@@ -17,6 +17,8 @@ Thermostat Stuff
 * https://www.windmill.co.uk/rs485.html
 * https://en.wikipedia.org/wiki/RS-485
 * https://buzzert.net/posts/2020-02-10-chipotherm
+* https://github.com/gtls64/MontyHome-Hackers-Guide  MontyHome compost sensor
+* https://montycompost.co  MontyHome compost sensor
 
 
 Doorbell/Camera Stuff
@@ -140,3 +142,11 @@ USB Sniffer
 -----------
 
 * https://github.com/ataradov/usb-sniffer-lite  cheap Pi Pico USB sniffer
+
+
+Tools
+-----
+
+* https://www.instructables.com/Reading-Digital-Callipers-with-an-Arduino-USB
+* http://www.shumatech.com/support/chinese_scales.htm
+* https://github.com/kemsky/arduino-digital-caliper

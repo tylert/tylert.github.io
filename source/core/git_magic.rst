@@ -200,3 +200,10 @@ Other
     export GIT_SSL_NO_VERIFY=true
 
     git config ${SCOPE} url.ssh://git@github.com/.insteadOf https://github.com/
+
+
+Large Files
+-----------
+
+* https://git-lfs.com
+* https://git-annex.branchable.com

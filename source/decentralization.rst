@@ -77,6 +77,7 @@ Publishing
 * https://github.com/pdf2htmlEX/pdf2htmlEX  PDF to HTML
 * https://pdf2htmlex.github.io/pdf2htmlEX  PDF to HTML
 * https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
+* https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book
 
 
 Offline Fun
