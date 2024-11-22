@@ -234,3 +234,6 @@ Deleting cluster::
     buildkit_history              0             0         0
     default                       0             3         1
     rancher-desktop-extensions    0             1         0
+
+* https://github.com/lisenet/kubernetes-homelab
+* https://iamsafts.com/posts/homelab-intro
