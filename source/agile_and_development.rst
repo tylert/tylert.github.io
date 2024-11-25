@@ -170,6 +170,7 @@ Mentorship Stuff
 * https://matt.sh/panic-at-the-job-market
 * https://boz.com/articles/advice-not-permission
 * https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you
+* https://bitfieldconsulting.com/posts/career
 
 
 Interviews
@@ -295,6 +296,7 @@ Python Stuff
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 * https://rdrn.me/postmodern-python
 * https://fastht.ml  less horrible web app design framework?
+* https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf
 
 
 REST API Stuff
@@ -418,6 +420,7 @@ Go Stuff
 * https://github.com/C-Loftus/QuickPiperAudiobook  needs ebook-convert but uses Go for the rest???
 * https://jarosz.dev/article/writing-secure-go-code
 * https://bitfieldconsulting.com/posts/constraints
+* https://github.com/gostor/awesome-go-storage
 
 
 Rust Stuff
@@ -458,3 +461,9 @@ JMESPath
 
 * https://jmespath.org/tutorial.html
 * https://news.ycombinator.com/item?id=16400320
+
+
+Lua
+---
+
+* https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding

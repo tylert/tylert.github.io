@@ -75,6 +75,7 @@ Pi Pico/PicoW
 * http://cowlark.com/2021-03-10-fuzix-pi-pico
 * http://cowlark.com/2021-02-16-fuzix-pi-pico
 * https://github.com/kevinmcaleer/pi_to_pico_bluetooth
+* https://github.com/mcknly/breadboard-os
 
 
 nRF52840
