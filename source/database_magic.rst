@@ -136,6 +136,9 @@ Schema Stuff
 * https://gobuffalo.io  CRUD magic
 * https://github.com/gobuffalo/pop  CRUD magic
 * https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema
+* https://github.com/sqlalchemy/sqlalchemy/wiki/SchemaDisplay
+* https://github.com/eralchemy/eralchemy
+* https://stackoverflow.com/questions/44981986/sqlalchemy-er-diagram-in-python-3
 
 
 K8s Stuff
