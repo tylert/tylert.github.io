@@ -83,6 +83,7 @@ Software Design and Documentation
 * https://gabevenberg.com/posts/cli-renaissance
 * https://paulgraham.com/head.html
 * https://entropicthoughts.com/practices-of-reliable-software-design
+* https://passo.uno/what-docs-as-code-means
 
 
 Messaging and Logging

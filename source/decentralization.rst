@@ -72,6 +72,7 @@ Publishing
 * https://type.cyhsu.xyz/2024/09/1dollarscan
 * https://typst.app
 * https://github.com/typst/typst
+* https://github.com/typst/packages
 * https://blog.jreyesr.com/posts/typst  typesetting similar to LaTeX
 * https://github.com/qjcg/awesome-typst  example templates and things for Typst
 * https://github.com/typst/typst/issues/721  Typst HTML output
@@ -94,3 +95,16 @@ BBS
 
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
+
+
+Pagers
+------
+
+* https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century
+
+
+Backups
+-------
+
+* http://www.mikerubel.org/computers/rsync_snapshots
+* https://github.com/WikiBox/snapshot.sh

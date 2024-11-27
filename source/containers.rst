@@ -237,3 +237,4 @@ Deleting cluster::
 
 * https://github.com/lisenet/kubernetes-homelab
 * https://iamsafts.com/posts/homelab-intro
+* https://github.com/doitintl/kube-no-trouble

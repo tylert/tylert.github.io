@@ -14,6 +14,7 @@ Other
 * https://wiki.archlinux.org/title/Arch_Linux_AMIs_for_Amazon_Web_Services
 * https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
 * https://crossplane.io
+* https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
 
 ::
 
