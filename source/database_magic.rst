@@ -141,6 +141,10 @@ Schema Stuff
 * https://github.com/sqlalchemy/sqlalchemy/wiki/SchemaDisplay
 * https://github.com/eralchemy/eralchemy
 * https://stackoverflow.com/questions/44981986/sqlalchemy-er-diagram-in-python-3
+* https://github.com/kaishuu0123/erd-go  ER diagrams from text using Graphviz
+* https://typst.app/universe/package/pintorita
+* https://github.com/taylorh140/typst-pintora  Pintorita plugin for Typst
+* https://pintorajs.vercel.app/docs/intro
 
 
 K8s Stuff
