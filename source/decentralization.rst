@@ -80,6 +80,7 @@ Publishing
 * https://pdf2htmlex.github.io/pdf2htmlEX  PDF to HTML
 * https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
 * https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book
+* https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial
 
 
 Offline Fun
