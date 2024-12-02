@@ -342,6 +342,7 @@ Woodworking
 -----------
 
 * https://aroundhomediy.com/build-roubo-workbench-leg-vise
+* https://www.leevalley.com/en-ca/shop/tools/workshop/workbenches/benches-and-tables/117579-bora-centipede-table?item=99W8349
 
 
 Kobo Stuff
