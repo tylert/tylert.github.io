@@ -84,6 +84,7 @@ Software Design and Documentation
 * https://paulgraham.com/head.html
 * https://entropicthoughts.com/practices-of-reliable-software-design
 * https://passo.uno/what-docs-as-code-means
+* https://rm4n0s.github.io/posts/6-cant-driven-development
 
 
 Messaging and Logging
@@ -271,6 +272,7 @@ Git Stuff
 * https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
 * https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
 * https://ente.io/blog/monorepo-retrospective
+* https://www.cyberdemon.org/2024/03/20/submodules.html
 
 
 Process Stuff
@@ -298,6 +300,12 @@ Python Stuff
 * https://rdrn.me/postmodern-python
 * https://fastht.ml  less horrible web app design framework?
 * https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf
+
+
+Ruby Stuff
+----------
+
+* https://radanskoric.com/articles/rails-is-better-low-code-than-low-code
 
 
 REST API Stuff

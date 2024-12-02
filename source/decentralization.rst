@@ -40,13 +40,17 @@ Other
 * https://github.com/ricott1/rebels-in-the-sky  terminal-based game?
 
 
-Containers and Images
----------------------
+Containers Images Backups
+-------------------------
 
 * https://oras.land
 * https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html
 * https://dokku.com
 * https://hamel.dev/blog/posts/dokku
+* https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync
+* https://github.com/minio/rsync-go
+* https://github.com/Redundancy/gosync-cmd
+* https://github.com/Redundancy/gosync
 
 
 Publishing

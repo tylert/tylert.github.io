@@ -15,6 +15,7 @@ Other
 * https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
 * https://crossplane.io
 * https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
+* https://bilbof.com/posts/kubernetes-on-hetzner
 
 ::
 
