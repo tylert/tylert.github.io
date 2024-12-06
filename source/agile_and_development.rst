@@ -196,6 +196,7 @@ Team Stuff
 * https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your
 * https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire
 * https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
+* https://www.seangoedecke.com/programmer-archetypes
 
 
 Style Guide Stuff
