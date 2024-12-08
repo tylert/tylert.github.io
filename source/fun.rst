@@ -22,6 +22,11 @@ Linux
 * https://www.plop.at/en/bootmanager/full.html  other low-level boot goop?
 * https://anemos.io  build custom initramfs installers
 * https://github.com/liquidmetal-dev/flintlock  containerd-backed micro VMs?
+* https://wiki.debian.org/ThomasChung/CloudImage
+* https://libguestfs.org
+* https://cloud.debian.org/images/cloud
+* https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html
+* https://asciinema.org/a/132009  debian cloud image demo with cloud-init nocloud
 
 
 Style
