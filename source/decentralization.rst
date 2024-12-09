@@ -13,6 +13,7 @@ Email
 * https://github.com/sj26/mailcatcher
 * https://github.com/dynamail/gosmtp
 * https://github.com/emersion/go-smtp
+* https://github.com/pimalaya/himalaya  CLI for managing emails
 
 
 Linux Phones

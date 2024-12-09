@@ -204,6 +204,13 @@ Evict Obstinate System Apps
     done
 
 
+SSH
+---
+
+* https://gitlab.com/d4rcm4rc/MagiskSSH
+* https://github.com/topjohnwu/Magisk  SU + other stuff?
+
+
 Others
 ------
 
