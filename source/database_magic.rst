@@ -43,6 +43,7 @@ SQLite
 * https://stackoverflow.com/questions/6076984/sqlite-how-do-i-save-the-result-of-a-query-as-a-csv-file
 * https://mrsuh.com/articles/2024/sqlite-index-visualization-structure
 * https://stackoverflow.com/questions/2359205/copying-data-from-one-sqlite-database-to-another
+* https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust
 
 ::
 

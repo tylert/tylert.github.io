@@ -139,6 +139,7 @@ Development
 * https://humanitec.com
 * https://aquaproj.github.io  framework for version-pinning build tools?
 * https://www.bytedrum.com/posts/art-of-finishing
+* https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure
 
 
 Versioning
