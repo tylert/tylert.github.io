@@ -15,7 +15,9 @@ SDR
 Modems and Interfaces
 ---------------------
 
+* https://www.repeater-builder.com/projects/fob/startech-fob.html
 * https://www.marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html
+* https://www.amazon.ca/s?k=cm108
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
