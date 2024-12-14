@@ -86,6 +86,7 @@ Publishing
 * https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
 * https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book
 * https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial
+* https://github.com/kr1sp1n/awesome-gemini
 
 
 Offline Fun
