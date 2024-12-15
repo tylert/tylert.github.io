@@ -14,6 +14,7 @@ Email
 * https://github.com/dynamail/gosmtp
 * https://github.com/emersion/go-smtp
 * https://github.com/pimalaya/himalaya  CLI for managing emails
+* https://stalw.art
 
 
 Linux Phones
