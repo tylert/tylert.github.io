@@ -90,6 +90,7 @@ Smaller Cases
 * https://www.ikejima.org/projects/2022091-egg-laptop.html
 * https://github.com/dekuNukem/RGBeeb/blob/master/README.md  modern retro computer
 * https://tanelpoder.com/posts/rtx4090-egpu
+* https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network
 
 
 Decentralized Infrastructure Stuff

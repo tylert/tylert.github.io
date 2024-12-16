@@ -21,6 +21,7 @@ Linux
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu
 * https://www.plop.at/en/bootmanager/full.html  other low-level boot goop?
 * https://anemos.io  build custom initramfs installers
+* https://words.filippo.io/dispatches/frood  initramfs Alpine NAS
 * https://github.com/liquidmetal-dev/flintlock  containerd-backed micro VMs?
 * https://wiki.debian.org/ThomasChung/CloudImage
 * https://libguestfs.org
