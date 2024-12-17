@@ -13,3 +13,13 @@ Dip Pens
 * https://www.reddit.com/r/fountainpens/comments/1dsezfk/alternative_nib_holder_for_the_kakimori_brass_nib
 * https://www.reddit.com/r/fountainpens/comments/xuywdm/how_to_clean_the_kakimori_brass_nib
 * https://paintspot.ca/art-supplies/drawing1606883528/inks1606883528/chunghua-chinese-sumi-ink
+
+
+Fancy Journals
+--------------
+
+* https://www.youtube.com/watch?v=hCYAnmQnn6w&list=UUqjRRwnme0687dsSr8Y5TAg
+* https://onesleepydad.blogspot.com/2014/02/diy-travel-journal.html
+* http://greyladyshearth.blogspot.com/2014/10/my-eldori-is-finished.html
+* https://www.tortagialla.com/make-your-own-midori-fauxdori-travelers-notebook
+* https://www.wellappointeddesk.com/2022/10/a-deep-dive-into-elastic-planner-systems-aka-travelers-notebooks-fauxdori
