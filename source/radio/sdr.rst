@@ -59,6 +59,9 @@ HackRF and PortaPack
 --------------------
 
 * https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
+* https://opensourcesdrlab.com/products/mayhem-signature-edition-h4m-portapack-and-transparent-shell-with-speaker-and-2500-mah-lithium-battery
+* https://opensourcesdrlab.com/products/r10c-hrf-sdr-software-defined-1mhz-to-6ghz-mainboard-development-board-kit
+* https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
 
 
 Hermes Lite 2
