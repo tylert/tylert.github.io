@@ -86,3 +86,9 @@ CHDK Doc/Book Scanner
     make LUA_LIB=lua5.3 LUA_INCLUDE_DIR=/usr/include/lua5.3 GUI=1 GTK_SUPPORT=1
     popd
     popd
+
+
+Music Stuff
+-----------
+
+* https://github.com/sergree/matchering  funky AI stuff with music

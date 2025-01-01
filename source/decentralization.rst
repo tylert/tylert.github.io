@@ -98,6 +98,20 @@ Offline Fun
 * https://github.com/jakelazaroff/waypoint  waypoint offline trip planning thing
 
 
+Proxies
+-------
+
+* https://github.com/yusing/go-proxy
+
+
+Usenet
+------
+
+::
+
+    Usenet > NZBGet > NZBGeek, NZBPlanet, Anime Toshu
+
+
 BBS
 ---
 
@@ -116,3 +130,5 @@ Backups
 
 * http://www.mikerubel.org/computers/rsync_snapshots
 * https://github.com/WikiBox/snapshot.sh
+* https://www.reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
+* https://www.reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
