@@ -70,7 +70,12 @@ Game Stuff
 * https://news.ycombinator.com/item?id=31590724
 * https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 * https://bazzite.gg  immutable desktop for Steam Decks?
+* https://www.renpy.org/doc/html/build.html#archives  .rpa scripts and images files example
+* https://www.reddit.com/r/RenPy/comments/wq6jms/how_to_compress_un_rpa
+* https://www.reddit.com/r/RenPy/comments/sv92zp/rpa_files  .rpa files are just Python pickle files maybe?
 * https://github.com/Lattyware/unrpa  RenPy data file unpacking
+* https://pypi.org/project/unrpa  pip install unrpa
+* https://github.com/shizmob/rpatool  RenPy data file repacking thing maybe?
 
 
 Video/Audio/Camera Awesome
