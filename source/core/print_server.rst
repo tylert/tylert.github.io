@@ -59,7 +59,7 @@ interface::
 Printer Setup
 -------------
 
-Visit https://${HOSTNAME}:631/admin/.
+Visit https://${HOSTNAME}:631/admin.
 
 Select 'Adding Printers and Classes' and then 'Add Printer'.  Pick USB printer
 from 'Local Printers' and click 'Continue'.  Next to 'Sharing', tick the 'Share
@@ -74,7 +74,7 @@ Background
 ----------
 
 * https://njh.eu/printer.html
-* http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint/
+* http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint
 * http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=hl2240_us_eu&os=128
 
 

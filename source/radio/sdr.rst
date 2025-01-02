@@ -47,6 +47,7 @@ GRCon And Others
 * https://www.youtube.com/watch?v=kVY3E3e--_I&t=11713s  ARDC
 * https://www.youtube.com/watch?v=MHkz7jNynOg
 * https://www.youtube.com/watch?v=kVY3E3e--_I  TAPR DCC
+* https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
 
 
 GPS

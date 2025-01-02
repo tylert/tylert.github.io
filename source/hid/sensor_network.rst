@@ -76,6 +76,7 @@ Pi Pico/PicoW
 * http://cowlark.com/2021-02-16-fuzix-pi-pico
 * https://github.com/kevinmcaleer/pi_to_pico_bluetooth
 * https://github.com/mcknly/breadboard-os
+* https://www.cnx-software.com/2024/12/26/inky-frame-7-3-7-color-epaper-display-powered-by-a-raspberry-pi-pico-2-w
 
 
 nRF52840

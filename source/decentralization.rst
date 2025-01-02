@@ -15,6 +15,7 @@ Email
 * https://github.com/emersion/go-smtp
 * https://github.com/pimalaya/himalaya  CLI for managing emails
 * https://stalw.art
+* https://workaround.org/ispmail-bookworm
 
 
 Linux Phones
@@ -102,6 +103,7 @@ Proxies
 -------
 
 * https://github.com/yusing/go-proxy
+* https://github.com/yusing/go-proxy/wiki
 
 
 Usenet

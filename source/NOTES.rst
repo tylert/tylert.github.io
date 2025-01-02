@@ -344,13 +344,6 @@ Cool Products
 * https://gitlab.com/zephray/sitina1  open-source DSLR body
 
 
-Woodworking
------------
-
-* https://aroundhomediy.com/build-roubo-workbench-leg-vise
-* https://www.leevalley.com/en-ca/shop/tools/workshop/workbenches/benches-and-tables/117579-bora-centipede-table?item=99W8349
-
-
 Kobo Stuff
 ----------
 
@@ -393,24 +386,6 @@ RPG Stuff
 * https://github.com/mewo2/naming-language  more Jabbascript for name generation??
 * https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604  random dungeon generator on a business card
 * https://olano.dev/blog/deconstructing-the-role-playing-videogame  GURPS, TWERPS, Dinky Dungeons, etc.
-
-
-Art Stuff
----------
-
-* https://github.com/Acly/krita-ai-diffusion  Krita plugin for inpaint/outpaint within images!!!
-* https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
-* https://www.cloudskillsboost.google/paths/118  generative AI learning path
-* https://github.com/esimov/triangle  make bitmaps look all triangley
-* https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
-* https://simonwillison.net/2023/Nov/29/llamafile
-* https://penrose.cs.cmu.edu  web diagrams from text
-* https://voussoir.net/writing/css_for_printing
-* https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
-* https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
-* https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
-* https://github.com/CHAITron/sketchdeco-code  auto-colourizing B&W drawings
-* https://sallywolf.ca  flute and recorder lessons
 
 
 Awesome Stuff

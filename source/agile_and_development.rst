@@ -174,6 +174,7 @@ Mentorship Stuff
 * https://boz.com/articles/advice-not-permission
 * https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you
 * https://bitfieldconsulting.com/posts/career
+* https://softwaredoug.com/blog/2024/05/08/build-an-f-you-network
 
 
 Interviews
