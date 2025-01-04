@@ -89,6 +89,8 @@ Publishing
 * https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book
 * https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial
 * https://github.com/kr1sp1n/awesome-gemini
+* https://github.com/obarbeau/pdf2kobo  uses "briss" tool for removing PDF margins?
+* https://github.com/mbaeuerle/Briss-2.0
 
 
 Offline Fun

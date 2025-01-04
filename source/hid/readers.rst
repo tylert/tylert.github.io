@@ -3,7 +3,7 @@ New Kobo Stuff
 
 ::
 
-    $ cat .kobo/Kobo/Kobo\ eReader.conf  # or KoboReader.conf
+    $ cat .kobo/Kobo/Kobo\ eReader.conf
     [ApplicationPreferences]
     # ...
     SideloadedMode=true
@@ -11,15 +11,21 @@ New Kobo Stuff
 ::
 
     $ mkdir .kobo/screensaver
-    # 1264x1680 optimal for B&W images, 632x840 for colour
+    # 1440x1920 px images in PNG or JPEG or GIF format
 
 * https://www.reddit.com/r/kobo/comments/1dl6hym/libra_colour_how_to_bypass_registration
 * https://code.mendhak.com/kobo-customizations
 * https://github.com/koreader/koreader
+* https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices
 * https://koreader.rocks/user_guide
+* https://github.com/NiLuJe/kfmon
 * https://github.com/pgaskin/NickelMenu
 * https://pgaskin.net/NickelMenu
 * https://pgaskin.net/KoboStuff/kobofirmware.html
+* https://www.mobileread.com/forums/showthread.php?t=295612  list of Kobo hacks and utilities
+* https://www.mobileread.com/forums/showthread.php?t=274231  Kute File Monitor (KFM) for Kobo
+* https://www.mobileread.com/forums/showthread.php?t=314220  One-Click Packages (OCP) for Kobo and a helpful install.sh script
+* https://github.com/olup/kobowriter
 
 
 Old Kobo Stuff
@@ -34,14 +40,12 @@ Old Kobo Stuff
 
     cd KOBOeReader/.kobo
     sqlite3 KoboReader.sqlite
-    INSERT INTO user VALUES('', '', '', '', '', '', '', '', '', '', '', '', '');
+    INSERT INTO user VALUES ('', '', '', '', '', '', '', '', '', '', '', '', '');
     .quit
 
     -- slightly different instruction found somewhere else
-    INSERT INTO user(UserID,UserKey) VALUES('1','');
+    INSERT INTO user (UserID, UserKey) VALUES ('1', '');
 
 ::
 
     ebook-convert dummy.html .epub
-
-* https://github.com/olup/kobowriter
