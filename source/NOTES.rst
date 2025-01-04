@@ -344,31 +344,6 @@ Cool Products
 * https://gitlab.com/zephray/sitina1  open-source DSLR body
 
 
-Kobo Stuff
-----------
-
-::
-
-    127.0.0.1 host localhost.localdomain localhost localhost localhost.localdomain
-    127.0.0.1 www.google-analytics.com ssl.google-analytics.com google-analytics.com
-
-::
-
-    cd KOBOeReader/.kobo
-    sqlite3 KoboReader.sqlite
-    INSERT INTO user VALUES('', '', '', '', '', '', '', '', '', '', '', '', '');
-    .quit
-
-    -- slightly different instruction found somewhere else
-    INSERT INTO user(UserID,UserKey) VALUES('1','');
-
-::
-
-    ebook-convert dummy.html .epub
-
-* https://github.com/olup/kobowriter
-
-
 RPG Stuff
 ---------
 
