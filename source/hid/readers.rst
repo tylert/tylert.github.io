@@ -28,6 +28,24 @@ New Kobo Stuff
 * https://github.com/olup/kobowriter
 
 
+Broken SSH
+----------
+
+* https://github.com/koreader/koreader/wiki/SSH
+* https://github.com/koreader/koreader/issues/8370
+* https://github.com/koreader/koreader/issues/11698
+* https://www.mobileread.com/forums/showthread.php?t=254214
+* https://forum.openwrt.org/t/solved-dropbear-and-ed25519-keys-resolved-in-21-02/23539/4  ED25519 support was merged upstream in 2020
+* https://github.com/denysvitali/lightsshd  Go SSH server?
+
+
+Other
+-----
+
+* https://takov751.gitlab.io/posts/project_kobodeck  building a Golang application to run on a Kobo?
+* https://letsdecentralize.org/tutorials/kobo-terminal.html  browsing Gemini sites on a Kobo?
+
+
 Old Kobo Stuff
 --------------
 
