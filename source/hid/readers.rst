@@ -26,6 +26,7 @@ New Kobo Stuff
 * https://www.mobileread.com/forums/showthread.php?t=274231  Kute File Monitor (KFM) for Kobo
 * https://www.mobileread.com/forums/showthread.php?t=314220  One-Click Packages (OCP) for Kobo and a helpful install.sh script
 * https://github.com/olup/kobowriter
+* https://comparisontabl.es/kobo-e-readers
 * https://www.reddit.com/r/kobo/comments/117zz25/kobo_sage_what_are_these_side_contacts_for
 * https://help.kobo.com/hc/en-us/articles/4406292782615-Using-your-Kobo-Sage-PowerCover  PowerCover stuff
 * https://www.mobileread.com/forums/showthread.php?t=358080&nojs=1  PowerCover stuff
