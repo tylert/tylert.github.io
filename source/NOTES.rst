@@ -77,6 +77,7 @@ Game Stuff
 * https://pypi.org/project/unrpa  pip install unrpa
 * https://github.com/shizmob/rpatool  RenPy data file repacking thing maybe?
 * https://github.com/Steam-Headless/docker-steam-headless  access your big game machine from any web browser?
+* https://diymultideck.mauri.app  fancy deck of cards
 
 
 Video/Audio/Camera Awesome

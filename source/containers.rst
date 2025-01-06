@@ -132,6 +132,7 @@ Container Stuff
 * https://kops.sigs.k8s.io  HA k8s clusters in AWS, GCP, OpenStack, etc.
 * https://github.com/nyrahul/wisecow  puzzle for newbies
 * https://kardinal.dev
+* https://abhisman.notion.site/Understanding-ReplicaSet-vs-StatefulSet-vs-DaemonSet-vs-Deployments-a521f9a46ea446219d98be4972f2e16e
 
 
 Networking

@@ -41,6 +41,7 @@ Other
 * https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go  SSH tunnel management
 * https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse
 * https://github.com/ricott1/rebels-in-the-sky  terminal-based game?
+* https://taoshu.in/unix/jool-nat64.html
 
 
 Containers Images Backups
