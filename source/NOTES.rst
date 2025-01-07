@@ -80,6 +80,46 @@ Game Stuff
 * https://diymultideck.mauri.app  fancy deck of cards
 
 
+Zelda3
+------
+
+* https://github.com/snesrev/zelda3
+* https://github.com/snesrev/zelda3/wiki
+* https://github.com/cjhoward/smc2sfc
+* https://archive.org/details/legend-of-zelda-the-a-link-to-the-past-u_202407
+
+::
+
+    # Strip headers from a SNES ROM
+    $ wget https://raw.githubusercontent.com/cjhoward/smc2sfc/refs/heads/master/smc2sfc.cpp
+    $ g++ smc2sfc.cpp -o smc2sfc
+    $ ./smc2sfc zelda3.smc zelda3.sfc
+
+    # Only generate assets needed to play
+    $ git clone https://github.com/snesrev/zelda3 ; cd zelda3
+    $ python -m venv .venv && source .venv/bin/activate
+    $ python -m pip install --upgrade --requirement requirements.txt  # pillow PyYAML
+    # Put zelda3.sfc in the top-level directory of the project
+    $ python assets/restool.py --extract-from-rom
+
+    # Checksums you might care about
+    $ sha256sum zelda3.smc  # header included
+    d9c69c5270b2f7eac54f254688a43cc767fd5cb4f21fc079a0f9fbe09978eaec  zelda3.smc
+    $ sha256sum zelda3.sfc  # header excluded
+    66871d66be19ad2c34c927d6b14cd8eb6fc3181965b6e517cb361f7316009cfb  zelda3.sfc
+    $ sha256sum zelda3_assets.dat
+    0fe2e4bd75d70f06fb9a74cd3a9cb336c838149b831b56e8792114a89292c793  zelda3_assets.dat
+
+    # Just play the damn game
+    $ git clone https://github.com/snesrev/zelda3 ; cd zelda3
+    $ sudo pacman -S sdl2
+    $ python -m venv .venv && source .venv/bin/activate
+    $ python -m pip install --upgrade --requirement requirements.txt  # pillow PyYAML
+    # Put zelda3.sfc in the top-level directory of the project
+    $ make
+    $ ./zelda3
+
+
 Video/Audio/Camera Awesome
 --------------------------
 
