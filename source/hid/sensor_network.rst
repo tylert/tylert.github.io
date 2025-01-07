@@ -94,6 +94,7 @@ nRF52840
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
 * https://github.com/tinygo-org/tinygo/issues/2591  DotStar on ItsyBitsy is just a APA102 RGB LED
 * https://pkg.go.dev/tinygo.org/x/drivers/apa102
+* https://github.com/Neradoc/discotool  might also be handy for other microcontrollers like Pico and Arduino too
 
 Upgrade ItsyBitsy bootloader to latest::
 
