@@ -437,6 +437,7 @@ Awesome Stuff
 * https://phrack.org/issues/71/17.html#article  financing for hackers?
 * https://jaycarlson.net/embedded-linux  low-level Linux board-support magic
 * https://billwear.github.io  assorted neat stuff
+* https://github.com/tomhea/c2fj  compile C programs to NOT gates?
 
 
 Microservices
