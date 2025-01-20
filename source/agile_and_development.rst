@@ -26,8 +26,8 @@ Key Meetings
 * https://www.greptile.com/blog/how-we-engineer
 
 
-Kanban Stuff
-------------
+Kanban/Ticket Stuff
+-------------------
 
 * https://nullboard.io/preview
 * https://github.com/apankrat/nullboard
@@ -39,6 +39,9 @@ Kanban Stuff
 * https://budgetkanban.com/landing  Kanban for budgets too?
 * https://www.leiga.com/post/kanban-vs-scrum
 * https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html
+* https://taskwarrior.org  does tickets
+* https://timewarrior.net  does time-tracking (and works with Task Warrior)
+* https://fossil-scm.org  does tickets and wiki stuff
 
 ::
 

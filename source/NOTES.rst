@@ -504,6 +504,7 @@ OpenTofu Awesome
 * https://github.com/antonbabenko
 * https://serverless.tf
 * https://github.com/terralist/terralist  private module registry
+* https://github.com/brennoo/terraform-provider-hrui  provider for some web-UI-only networking gear???
 
 
 Networking

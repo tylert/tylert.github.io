@@ -110,7 +110,6 @@ Other
 * https://github.com/mikeroyal/Self-Hosting-Guide
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp
-* https://fossil-scm.org
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
 * https://github.com/PhirePhly/micromirrors  mirroring things
 * https://blog.randombits.host/monitoring-self-hosted-services  Grafana, Prometheus, Loki, etc.
