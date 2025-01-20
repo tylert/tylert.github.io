@@ -202,6 +202,9 @@ Mouse Jiggler
 -------------
 
 * https://www.reddit.com/r/MechanicalKeyboards/comments/10b3pk7/how_to_add_a_mousejiggler_toggle_macro_to_your
+* https://github.com/DIYCharles/MouseJigglerV2
+* https://getreuer.info/posts/keyboards/macros3/index.html
+* https://www.reddit.com/r/olkb/comments/1d36m6e/mouse_jiggler_in_qmk
 * https://www.tomshardware.com/how-to/diy-mouse-jiggler-raspberry-pi-pico
 
 
