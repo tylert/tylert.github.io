@@ -27,3 +27,9 @@ PT-2730::
 
     # Make fancier labels
     ptouch-print --font 'Noto Sans Black' --text BAMALAM --writepng bla.png
+
+
+3D
+--
+
+* https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator

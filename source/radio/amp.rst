@@ -41,3 +41,9 @@ and output and pay attention to the impedance matching and power-on test.
 Package Contents
 100% Brand New
 1 X1MHZ-1000MHZ 3W HF VHF UHF FM Transmitter RF Power Amplifier For Ham Radio 35dB
+
+
+Transmission Lines
+------------------
+
+* https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html
