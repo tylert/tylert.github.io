@@ -177,8 +177,8 @@ HandBrake settings for DVDs::
         Denoise Filter:  Off
         Chroma Smooth Filter:  Off
         Sharpen Filter:  Off
-        Grayscale:  disabled
         Colorspace:  Off
+        Grayscale:  disabled
     Video:
         Video Encoder:  H.264 (x264)
         Framerate:  30
