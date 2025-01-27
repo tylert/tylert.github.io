@@ -15,3 +15,5 @@ Fancy Fobs
 
 * https://github.com/google/OpenSK
 * https://github.com/polhenarejos
+* https://github.com/polhenarejos/pico-hsm
+* https://www.picokeys.com
