@@ -21,7 +21,7 @@ Modems and Interfaces
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
-* https://www.kv4p.com  APRS HT-like add-on for Android phones
+* https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
 
 
 BBS
@@ -56,13 +56,30 @@ GPS
 * https://ciechanow.ski/gps  how GPS works
 
 
+Shortwave Receivers
+-------------------
+
+* https://swling.com/blog/2018/09/guest-post-supercharging-the-xhdata-d-808-with-a-7-5-loopstick
+* https://swling.com/blog/2021/10/gary-debocks-xhdata-d-808-loopstick-model
+* https://swling.com/blog/2021/05/gary-debocks-2021-ultralight-radio-shootout
+* https://www.amazon.ca/Tecsun-Digital-PL330-Worldband-Receiver/dp/B0921HN6QM  Tecsun PL-330
+* https://www.amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  Xhdata D-808
+* https://swling.com/blog/2020/09/tecsun-pl-330-initial-impressions-overview-of-functions-and-operation
+* https://swling.com/blog/tag/xhdata-d-808-review
+* https://www.blogordie.com/2023/05/pl-330-or-d-808
+* https://www.blogordie.com/2023/03/my-favorite-shortwave-radio
+
+
 HackRF and PortaPack
 --------------------
 
 * https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
+* https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
 * https://opensourcesdrlab.com/products/mayhem-signature-edition-h4m-portapack-and-transparent-shell-with-speaker-and-2500-mah-lithium-battery
 * https://opensourcesdrlab.com/products/r10c-hrf-sdr-software-defined-1mhz-to-6ghz-mainboard-development-board-kit
-* https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
+* https://www.printables.com/model/1033734-hackrf-portapack-h4m-stand  desk stand for H4M
+* https://www.printables.com/model/1096252-hackrf-portapack-h4m-rotary-encoder-dial-upgrade  grippier scrolly thing for H4M
+* https://www.printables.com/model/784000-threaded-sma-connector-knurled-caps-fpv-drones-hac  SMA covers
 
 
 Hermes Lite 2
