@@ -306,6 +306,9 @@ Python Stuff
 * https://rdrn.me/postmodern-python
 * https://fastht.ml  less horrible web app design framework?
 * https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf
+* https://akrabat.com/defining-python-dependencies-at-the-top-of-the-file  PEP 723???
+* https://akrabat.com/using-uv-as-your-shebang-line
+* https://docs.astral.sh/uv  Rust loader thing for Python???
 
 
 Ruby Stuff
