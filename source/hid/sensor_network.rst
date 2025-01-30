@@ -129,6 +129,17 @@ Electronics
 * https://forum.kicad.info/t/configure-global-symbol-footprint-library-table/20264/7  silly KiCAD problem
 * https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide
 * https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html
+* https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you
+* https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind
+
+
+Wrist/Pocket Notifications
+--------------------------
+
+* https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch
+* https://repebble.com
+* https://watchy.sqfmi.com
+* https://beepy.sqfmi.com
 
 
 Temperature Controller

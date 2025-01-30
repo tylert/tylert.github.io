@@ -374,7 +374,6 @@ Cool Products
 * https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence???
 * https://novamostra.com/2022/10/23/byopm  Pi Zero pocket password manager???
 * https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
-* https://beepberry.sqfmi.com
 * https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
 * https://dynomight.net/better-DIY-air-purifier.html
 * https://cast.otter.jetzt  open-source streaming audio gizmos
