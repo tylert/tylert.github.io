@@ -178,6 +178,7 @@ Mentorship Stuff
 * https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you
 * https://bitfieldconsulting.com/posts/career
 * https://softwaredoug.com/blog/2024/05/08/build-an-f-you-network
+* https://wiki.c2.com/?SovietShoeFactoryPrinciple
 
 
 Interviews
@@ -239,6 +240,8 @@ CI/CD Stuff
 * https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code
 * https://devops-pipeline.com  mazzle?
 * https://git-cliff.org  CHANGELOG stuff
+* https://github.com/glasskube/distr  internal deployment thingy?
+* https://distr.sh/docs/getting-started/about  internal deployment thingy?
 
 
 Git Stuff
