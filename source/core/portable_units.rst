@@ -246,3 +246,10 @@ Cyberdecks and Tiny Machines
 * https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution  tiny NAS units?
 * https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c  old Kindle as a display?
 * https://github.com/ZitaoTech/Hackberry-Pi_Zero  Pi 02W with a tiny screen and keyboard
+
+
+Power Supplies
+--------------
+
+* https://www.powerstream.com/DC-PC-12V.htm
+* https://www.mini-box.com/site/index.html
