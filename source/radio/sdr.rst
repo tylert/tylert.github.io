@@ -24,12 +24,6 @@ Modems and Interfaces
 * https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
 
 
-BBS
----
-
-* https://www.f6fbb.org
-
-
 SSB
 ---
 

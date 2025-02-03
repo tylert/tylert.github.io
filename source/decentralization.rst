@@ -1,3 +1,12 @@
+NNCP
+----
+
+* https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
+* https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
+* http://www.nncpgo.org/Use-cases.html
+* https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
+
+
 Email
 -----
 
@@ -6,8 +15,6 @@ Email
 * https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email
 * https://aerc-mail.org
 * https://git.sr.ht/~rjarry/aerc
-* https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
-* https://www.f6fbb.org
 * https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90
 * https://mailcatcher.me
 * https://github.com/sj26/mailcatcher
@@ -60,7 +67,6 @@ Containers Images Backups
 Publishing
 ----------
 
-* https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * https://www.jvt.me/posts/2019/10/20/indieweb-talk
 * https://github.com/TimoKats/mdrss  Golang Markdown to RSS converter
 * https://pagedjs.org/made-with-paged.js.html
@@ -122,6 +128,8 @@ BBS
 
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
+* https://www.f6fbb.org
+* http://www.textfiles.com/hamradio/wreck.ham
 
 
 Pagers
