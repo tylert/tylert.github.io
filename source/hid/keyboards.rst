@@ -99,11 +99,13 @@ Building New Firmware
     pip install qmk
 
     qmk setup
-    qmk compile -kb durgod/k310/base -km typhon  # somebody broke k320:typhon keymaps
+    qmk compile -kb durgod/k310/base -km typhon
     qmk compile -kb durgod/k310/base -km chimera
 
-    mv durgod_k3x0_k320_base_typhon.bin qmk_${QMK_VERSION}_durgod_k3x0_k320_base_typhon.bin
-    mv durgod_k3x0_k310_base_chimera.bin qmk_${QMK_VERSION}_durgod_k3x0_k310_base_chimera.bin
+    chmod -x durgod_k310_base_typhon.bin
+    chmod -x durgod_k310_base_chimera.bin
+    mv durgod_k310_base_typhon.bin qmk_${QMK_VERSION}_durgod_k310_base_typhon.bin
+    mv durgod_k310_base_chimera.bin qmk_${QMK_VERSION}_durgod_k310_base_chimera.bin
 
 
 Flashing New Firmware
@@ -268,7 +270,7 @@ Version 4 of the "The Uni" uses a RP2040 chip (like the Raspberry Pi Pico).
     qmk setup
     qmk compile -kb stenokeyboards/the_uni/rp_2040 -km default
 
-    mv uni_default.u2f qmk_${QMK_VERSION}_uni_default.u2f
+    mv stenokeyboards_the_uni_rp_2040_default.uf2 qmk_${QMK_VERSION}_stenokeyboards_the_uni_rp_2040_default.uf2
 
 
 Other

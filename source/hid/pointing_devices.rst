@@ -50,11 +50,11 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
 ::
 
     pip install qmk
-    qmk setup
 
+    qmk setup
     qmk compile -kb ploopyco/trackball_nano -km default
 
-    mv foo.hex qmk_${QMK_VERSION}_foo.hex
+    mv ploopyco_trackball_nano_rev1_001_default.hex qmk_${QMK_VERSION}_ploopyco_trackball_nano_rev1_001_default.hex
 
 
 Ploopy Nano With Better Bearings
