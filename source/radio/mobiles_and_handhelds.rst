@@ -41,3 +41,21 @@ Parts and Service
 * https://www.amazon.ca/M-D-Building-Products-84327-020-Inch/dp/B007NG6EQI  holey metal
 * https://www.rtl-sdr.com/a-tutorial-on-using-sdrangel-for-dmr-d-star-and-fusion-reception-with-an-rtl-sdr
 * https://n5amd.com/digital-radio-how-tos/tune-mmdvm-repeater-sdr-low-ber
+
+
+Mesh
+----
+
+* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114
+* https://unsigned.io/rnode_firmware/#supported-hardware
+* https://github.com/markqvist/RNode_Firmware/releases/tag/1.81
+* https://github.com/markqvist/RNode_Firmware
+* https://meshtastic.org/docs/hardware/devices/heltec-automation/mesh-node
+* https://unsigned.io/guides/2022_03_26_private-messaging-over-lora.html
+* https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
+* https://unsigned.io/15-kilometre-ssh-link-with-rnode
+* https://unsigned.io/aprs-over-lora-with-rnode
+* https://reticulum.network/manual/networks.html#interconnected-lora-sites
+* https://reticulum.network/hardware.html
+* https://github.com/markqvist/Reticulum
+* https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
