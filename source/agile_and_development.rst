@@ -95,6 +95,7 @@ Messaging and Logging
 
 * https://www.enterpriseintegrationpatterns.com/patterns/messaging
 * https://jeremymorrell.dev/blog/minimal-js-tracing  structured logs and span tracing
+* https://unifiedpush.org/news/20250131_push_for_decentralized
 
 
 Development
