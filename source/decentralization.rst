@@ -106,6 +106,8 @@ Offline Fun
 * https://8chananon.github.io/tut/scraping1.html  scraping web sites using nothing but a web browser???
 * https://jakelazaroff.com/words/a-local-first-case-study  waypoint offline trip planning thing
 * https://github.com/jakelazaroff/waypoint  waypoint offline trip planning thing
+* https://github.com/agersant/polaris  some kind of self-hosted streaming audio server thing
+* https://github.com/ogarcia/docker-polaris  container for polaris
 
 
 Proxies

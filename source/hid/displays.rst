@@ -8,6 +8,7 @@ Eink
 ----
 
 * https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags
+* https://github.com/markfodor/InkCal
 
 
 I2C
