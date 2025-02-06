@@ -46,7 +46,8 @@ Parts and Service
 Mesh
 ----
 
-* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114
+* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
+* https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug
 * https://unsigned.io/rnode_firmware/#supported-hardware
 * https://github.com/markqvist/RNode_Firmware/releases/tag/1.81
 * https://github.com/markqvist/RNode_Firmware
@@ -59,3 +60,5 @@ Mesh
 * https://reticulum.network/hardware.html
 * https://github.com/markqvist/Reticulum
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
+* https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
+* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for T114-V2
