@@ -4,6 +4,7 @@ Font Stuff
 * https://stackoverflow.com/questions/38299930/how-to-add-a-simple-text-label-to-an-image-in-go
 * https://github.com/faiface/pixel/wiki/Typing-text-on-the-screen
 * https://github.com/golang/freetype/blob/master/example/freetype/main.go
+* https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon
 
 
 Photography Stuff
@@ -50,6 +51,11 @@ Camera Stuff
 * http://nestboxtech.blogspot.ca/2014/10/how-to-make-your-own-raspberry-pi-trail.html
 * http://www.instructables.com/id/PiPoE-powering-a-Raspberry-Pi-over-Ethernet
 * https://ruha.camera
+* https://reolink.com  ONVIF cameras (seem to get bad reviews from the Frigate folks though)
+* https://frigate.video  NVR software?
+* https://shinobi.video  has Nodejs gunk
+* https://zoneminder.com  another possibility
+* https://www.aliexpress.com/item/1005004626681677.html  Ingenic T31X + ONVIF + PoE (4 or 5 MPx, 3.6 mm lens)???
 
 850 nm near IR
 
@@ -63,6 +69,7 @@ CHDK Doc/Book Scanner
 * https://aur.archlinux.org/packages/chdkptp-svn  currently abandoned package
 * https://chdk.setepontos.com/index.php?topic=14091.0  set_clock to set camera date/time
 * https://diybookscanner.org/en/intro.html  some camera selection criteria
+* https://www.scantips.com
 
 ::
 

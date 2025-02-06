@@ -54,6 +54,9 @@ Currency Stuff
 * https://github.com/pallets/click  "click" pypi package
 * https://github.com/cryptoadvance/specter-diy  hardware wallet thing?
 * https://www.ethvm.com  check values of wallets
+* https://en.bitcoin.it/wiki/Electrum/Documentation
+* http://bitzuma.com/posts/five-ways-to-lose-money-with-bitcoin-change-addresses
+* http://www.thecleverest.com/creating-a-bitcoin-paper-wallet-for-cold-storage
 
 
 Random Stuff

@@ -122,7 +122,7 @@ Usenet
 
 ::
 
-    Usenet > NZBGet > NZBGeek, NZBPlanet, Anime Toshu
+    Usenet > NZBGet > NZBGeek, NZBPlanet
 
 
 BBS
@@ -132,12 +132,6 @@ BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
 * https://www.f6fbb.org
 * http://www.textfiles.com/hamradio/wreck.ham
-
-
-Pagers
-------
-
-* https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century
 
 
 Backups

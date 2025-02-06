@@ -60,5 +60,11 @@ Mesh
 * https://reticulum.network/hardware.html
 * https://github.com/markqvist/Reticulum
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
-* https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
 * https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for T114-V2
+
+
+Pagers
+------
+
+* https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
+* https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century

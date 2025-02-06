@@ -443,6 +443,7 @@ Go Stuff
 * https://jarosz.dev/article/writing-secure-go-code
 * https://bitfieldconsulting.com/posts/constraints
 * https://github.com/gostor/awesome-go-storage
+* https://www.riverphillips.dev/blog/go-cfs  GOMAXPROCS environment variable
 
 
 Rust Stuff

@@ -253,3 +253,14 @@ Power Supplies
 
 * https://www.powerstream.com/DC-PC-12V.htm
 * https://www.mini-box.com/site/index.html
+* https://blog.adafruit.com/2020/08/08/simple-trick-for-determining-2-1mm-or-2-5mm-barrel-jacks
+
+
+Serial Communication
+--------------------
+
+* https://superuser.com/questions/1780816/how-do-i-enable-serial-access-to-a-computer-not-from-a-computer
+* https://unix.stackexchange.com/questions/22545/how-to-connect-to-a-serial-port-as-simple-as-using-ssh
+* https://github.com/tio/tio
+* https://github.com/npat-efault/picocom
+* https://hackaday.com/2022/10/31/need-an-usb-i2c-adapter-use-your-pico
