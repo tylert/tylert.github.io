@@ -164,6 +164,8 @@ Other Types
 * http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb  careful with MongoDB
 * http://blog.wix.engineering/2015/12/10/scaling-to-100m-mysql-is-a-better-nosql
 * https://petereliaskraft.net/blog/epoxy  atomic transactions across databases?
+* https://tinybase.org  apparently, plays well with SQLite (local-first data)
+* https://github.com/tinyplex/tinybase  TinyBase (Jabbascript)
 
 
 PostgreSQL
