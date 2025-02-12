@@ -69,3 +69,9 @@ Pagers
 
 * https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
 * https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century
+
+
+ADS-B
+-----
+
+* https://github.com/llopisdon/skies-adsb  3D ADS-B visualizer in web browser

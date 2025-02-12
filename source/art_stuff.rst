@@ -99,6 +99,8 @@ Music Stuff
 -----------
 
 * https://github.com/sergree/matchering  funky AI stuff with music
+* https://opendaw.studio  DAW in a web browser
+* https://sallywolf.ca  flute and recorder lessons
 
 
 Graphics
@@ -113,22 +115,27 @@ Graphics
 * https://github.com/cooljjj33/PolyDye  white filament + inkjet technology = full-colour prints
 
 
-Other
------
+AI
+--
 
 * https://github.com/Acly/krita-ai-diffusion  Krita plugin for inpaint/outpaint within images!!!
 * https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
 * https://www.cloudskillsboost.google/paths/118  generative AI learning path
-* https://github.com/esimov/triangle  make bitmaps look all triangley
-* https://stable-diffusion-art.com/qr-code  artwork which incorporates a QR code into the image
+* https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
 * https://simonwillison.net/2023/Nov/29/llamafile
+* https://github.com/CHAITron/sketchdeco-code  auto-colourizing B&W drawings
+* https://stable-diffusion-art.com/qr-code  incorporates a QR code into artwork
+* https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget
+
+
+Other
+-----
+
+* https://github.com/esimov/triangle  make bitmaps look all triangley
 * https://penrose.cs.cmu.edu  web diagrams from text
 * https://voussoir.net/writing/css_for_printing
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
-* https://github.com/vitoplantamura/OnnxStream  Stable Diffusion on Raspberry Pi Zero
 * https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
-* https://github.com/CHAITron/sketchdeco-code  auto-colourizing B&W drawings
-* https://sallywolf.ca  flute and recorder lessons
 
 
 Woodworking

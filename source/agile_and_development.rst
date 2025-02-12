@@ -283,6 +283,7 @@ Git Stuff
 * https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
 * https://ente.io/blog/monorepo-retrospective
 * https://www.cyberdemon.org/2024/03/20/submodules.html
+* https://cbea.ms/git-commit  How to write a git commit message
 
 
 Process Stuff

@@ -291,7 +291,6 @@ Assorted Things-to-Read
 -----------------------
 
 * http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1
-* http://chris.beams.io/posts/git-commit
 * http://lett.be/oauth2
 * http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop
 * http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
@@ -314,6 +313,17 @@ Assorted Things-to-Read
 * https://blog.jim-nielsen.com/2022/what-work-looks-like
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
 * http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers
+* https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
+* https://www.onedayyoullfindyourself.com
+* https://garnix.io/blog/call-by-hash
+* https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
+* https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist
+* https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f
+
+
+Humour
+------
+
 * https://imgur.com/a/iJD8f  Tales of IT (humour)
 * https://imgur.com/a/AOz0d  Tales of IT Part 2 (humour)
 * https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1  DevOps Borat "fortune" data file
@@ -321,12 +331,7 @@ Assorted Things-to-Read
 * https://futurerack.info/main.php#/products_pets  cat server shelf
 * https://fmt2.cat  HE datacentre cats
 * https://www.universal-radio.com/cats.html  ham radio store cats
-* https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
-* https://www.onedayyoullfindyourself.com
-* https://garnix.io/blog/call-by-hash
-* https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
-* https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist
-* https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f
+* https://benjamin-brady.github.io/gitlab-simulator  meeting simulator
 
 
 Keepass Stuff

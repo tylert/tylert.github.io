@@ -108,6 +108,7 @@ Offline Fun
 * https://github.com/jakelazaroff/waypoint  waypoint offline trip planning thing
 * https://github.com/agersant/polaris  some kind of self-hosted streaming audio server thing
 * https://github.com/ogarcia/docker-polaris  container for polaris
+* https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page
 
 
 Proxies
