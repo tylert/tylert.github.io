@@ -70,6 +70,7 @@ CHDK Doc/Book Scanner
 * https://chdk.setepontos.com/index.php?topic=14091.0  set_clock to set camera date/time
 * https://diybookscanner.org/en/intro.html  some camera selection criteria
 * https://www.scantips.com
+* https://www.ocr4all.org/about/ocr4all  automated workflows for OCR?
 
 ::
 
@@ -126,6 +127,7 @@ AI
 * https://github.com/CHAITron/sketchdeco-code  auto-colourizing B&W drawings
 * https://stable-diffusion-art.com/qr-code  incorporates a QR code into artwork
 * https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget
+* https://muffinman.io/blog/the-tiny-book-of-great-joys  centre-line tracing for pen plotting
 
 
 Other

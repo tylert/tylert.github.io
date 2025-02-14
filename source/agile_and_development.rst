@@ -346,6 +346,7 @@ Compiled Shellish Stuff
 * https://bitfieldconsulting.com/posts/scripting
 * https://github.com/bitfield/script
 * https://til.simonwillison.net/bash/go-script  kinda horrible hack
+* https://taskfile.dev  Go binary to take the place of GNU Make?
 
 
 Go Stuff
@@ -471,6 +472,8 @@ WASM
 ----
 
 * https://github.com/eliot-akira/waxolotl
+* https://go.dev/blog/wasmexport  Go 1.24 new capabilities
+* https://wasmcloud.com  WASM-native orchestration? (even on-prem, self-hosted)
 
 
 Kubernetes Stuff

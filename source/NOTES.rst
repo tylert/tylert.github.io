@@ -442,6 +442,7 @@ Awesome Stuff
 * https://jaycarlson.net/embedded-linux  low-level Linux board-support magic
 * https://billwear.github.io  assorted neat stuff
 * https://github.com/tomhea/c2fj  compile C programs to NOT gates?
+* https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji
 
 
 Microservices
