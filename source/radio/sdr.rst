@@ -9,6 +9,9 @@ SDR
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/dl9rdz/rdz_ttgo_sonde
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
+* https://www.rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
+* https://sdrswitch.com
+* https://rfnm.com
 
 
 Modems and Interfaces
