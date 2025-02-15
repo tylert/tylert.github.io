@@ -5,7 +5,6 @@ SDR
 * https://github.com/mhassell/gqrx_scan
 * https://github.com/gasparka/spectrogram
 * https://github.com/qualitymanifest/timestampSDR
-* https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone
 * https://github.com/n7nix/deviation  FM deviation flowgraph
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/dl9rdz/rdz_ttgo_sonde
@@ -67,6 +66,7 @@ Shortwave Receivers
 HackRF and PortaPack
 --------------------
 
+* https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone
 * https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
 * https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
 * https://opensourcesdrlab.com/products/mayhem-signature-edition-h4m-portapack-and-transparent-shell-with-speaker-and-2500-mah-lithium-battery
@@ -74,6 +74,8 @@ HackRF and PortaPack
 * https://www.printables.com/model/1033734-hackrf-portapack-h4m-stand  desk stand for H4M
 * https://www.printables.com/model/1096252-hackrf-portapack-h4m-rotary-encoder-dial-upgrade  grippier scrolly thing for H4M
 * https://www.printables.com/model/784000-threaded-sma-connector-knurled-caps-fpv-drones-hac  SMA covers
+* https://ppsplash.creativo.hu  PortaPack splash screens
+* https://github.com/htotoo/PPSplash
 
 
 Hermes Lite 2
