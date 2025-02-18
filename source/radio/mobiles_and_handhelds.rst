@@ -58,10 +58,45 @@ LoRa
 * https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
 * https://unsigned.io/aprs-over-lora-with-rnode
+* https://unsigned.io/understanding-lora-parameters  calculate data rate from coding rate, spreading factor, etc.
 * https://reticulum.network/manual/networks.html#interconnected-lora-sites
 * https://reticulum.network/hardware.html
 * https://github.com/markqvist/Reticulum
+* https://github.com/markqvist/tncattach
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
+* https://www.chatters.io
+
+::
+
+    # host A (10.0.0.1)
+    ./rnodeconf /dev/ttyUSB0 \
+        --tnc            \  # TNC mode
+        --freq 915000000 \  # frequency in Hz
+        --txp 21         \  # Tx power in dBm (max 21)
+        --bw 125000      \  # bandwidth in Hz
+        --sf 7           \  # spreading factor (7 to 12)
+        --cr 5              # coding rate (5 to 8)
+    sudo tncattach /dev/ttyUSB0 115200 \
+        --daemon   \
+        --ethernet \
+        --ipv4 10.0.0.1/24
+        --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
+        --noipv6
+
+    # host B (10.0.0.2)
+    ./rnodeconf /dev/ttyUSB0 \
+        --tnc            \  # TNC mode
+        --freq 915000000 \  # frequency in Hz
+        --txp 21         \  # Tx power in dBm (max 21)
+        --bw 125000      \  # bandwidth in Hz
+        --sf 7           \  # spreading factor (7 to 12)
+        --cr 5              # coding rate (5 to 8)
+    sudo tncattach /dev/ttyUSB0 115200 \
+        --daemon   \
+        --ethernet \
+        --ipv4 10.0.0.2/24
+        --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
+        --noipv6
 
 
 Pagers
