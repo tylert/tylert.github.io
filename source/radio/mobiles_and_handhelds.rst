@@ -65,6 +65,10 @@ LoRa
 * https://github.com/markqvist/tncattach
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
 * https://www.chatters.io
+* https://awsh.org/rnode
+* https://github.com/liamcottle/reticulum-meshchat
+* https://github.com/liberatedsystems/RNode_Firmware_CE  CE = Community Edition
+* https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
 
 ::
 
