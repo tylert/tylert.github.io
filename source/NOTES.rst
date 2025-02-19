@@ -332,6 +332,7 @@ Humour
 * https://fmt2.cat  HE datacentre cats
 * https://www.universal-radio.com/cats.html  ham radio store cats
 * https://benjamin-brady.github.io/gitlab-simulator  meeting simulator
+* https://experience.prfalken.dev/english/subway-poker
 
 
 Keepass Stuff

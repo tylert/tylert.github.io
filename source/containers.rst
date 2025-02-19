@@ -141,6 +141,7 @@ Networking
 * https://friendshipcastle.zip/blog/glaceon  wireguard-go in k8s
 * https://github.com/Twi/glaceon
 * https://github.com/Twi/glaceon-operator
+* https://github.com/subtrace/subtrace  Wireshark-like functionality for containers
 
 
 Load-Balancing
