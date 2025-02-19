@@ -2,6 +2,7 @@ NNCP
 ----
 
 * https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
+* https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * http://www.nncpgo.org/Use-cases.html
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
@@ -24,6 +25,7 @@ Email
 * https://github.com/pimalaya/himalaya  CLI for managing emails
 * https://stalw.art
 * https://workaround.org/ispmail-bookworm
+* https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
 
 
 Linux Phones
@@ -132,8 +134,12 @@ BBS
 
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
+* http://unsigned.io/hardware/RNode.html  better than Meshtastic?
 * https://www.f6fbb.org
 * http://www.textfiles.com/hamradio/wreck.ham
+* https://donuts-are-good.github.io/shhhbb  SSH BBS
+* https://shazow.net/posts/ssh-how-does-it-even  ssh-chat
+* https://github.com/shazow/ssh-chat
 
 
 Backups
