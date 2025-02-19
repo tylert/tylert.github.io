@@ -5,6 +5,7 @@ NNCP
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * http://www.nncpgo.org/Use-cases.html
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
+* https://github.com/jgoerzen/nncp-tools  helper shell scripts for maintaining and using NNCP
 
 
 Email
