@@ -53,6 +53,7 @@ LoRa
 * https://unsigned.io/rnode_firmware/#supported-hardware
 * https://github.com/markqvist/RNode_Firmware/releases/tag/1.81
 * https://github.com/markqvist/RNode_Firmware
+* https://github.com/liberatedsystems/RNode_Firmware_CE  CE = Community Edition
 * https://meshtastic.org/docs/hardware/devices/heltec-automation/mesh-node
 * https://unsigned.io/guides/2022_03_26_private-messaging-over-lora.html
 * https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
@@ -62,18 +63,19 @@ LoRa
 * https://reticulum.network/manual/networks.html#interconnected-lora-sites
 * https://reticulum.network/hardware.html
 * https://github.com/markqvist/Reticulum
+* https://github.com/markqvist/Reticulum/releases  rnodeconf.py utility
 * https://github.com/markqvist/tncattach
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
 * https://www.chatters.io
 * https://awsh.org/rnode
 * https://github.com/liamcottle/reticulum-meshchat
-* https://github.com/liberatedsystems/RNode_Firmware_CE  CE = Community Edition
 * https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
+* https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W and 200 kbps
 
 ::
 
     # host A (10.0.0.1)
-    ./rnodeconf /dev/ttyUSB0 \
+    ./rnodeconf.py /dev/ttyUSB0 \
         --tnc            \  # TNC mode
         --freq 915000000 \  # frequency in Hz
         --txp 21         \  # Tx power in dBm (max 21)
@@ -88,7 +90,7 @@ LoRa
         --noipv6
 
     # host B (10.0.0.2)
-    ./rnodeconf /dev/ttyUSB0 \
+    ./rnodeconf.py /dev/ttyUSB0 \
         --tnc            \  # TNC mode
         --freq 915000000 \  # frequency in Hz
         --txp 21         \  # Tx power in dBm (max 21)
