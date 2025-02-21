@@ -88,6 +88,7 @@ Software Design and Documentation
 * https://entropicthoughts.com/practices-of-reliable-software-design
 * https://passo.uno/what-docs-as-code-means
 * https://rm4n0s.github.io/posts/6-cant-driven-development
+* https://github.com/charmbracelet/glow  render Markdown in a terminal
 
 
 Messaging and Logging

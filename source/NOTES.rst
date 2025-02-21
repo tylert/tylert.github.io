@@ -281,6 +281,7 @@ Cool Shell Tricks
 * https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html
 * https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
 * https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts
+* https://proycon.anaproy.nl/posts/my-cli-tools-for-text-processing
 
 ::
 
