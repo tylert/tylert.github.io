@@ -76,12 +76,12 @@ LoRa
 
     # host A (10.0.0.1)
     ./rnodeconf.py /dev/ttyUSB0 \
-        --tnc            \  # TNC mode
         --freq 915000000 \  # frequency in Hz
-        --txp 21         \  # Tx power in dBm (max 21)
         --bw 125000      \  # bandwidth in Hz
+        --txp 22         \  # Tx power in dBm (max 22)
         --sf 7           \  # spreading factor (7 to 12)
-        --cr 5              # coding rate (5 to 8)
+        --cr 5           \  # coding rate (5 to 8)
+        --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
         --daemon   \
         --ethernet \
@@ -91,18 +91,31 @@ LoRa
 
     # host B (10.0.0.2)
     ./rnodeconf.py /dev/ttyUSB0 \
-        --tnc            \  # TNC mode
         --freq 915000000 \  # frequency in Hz
-        --txp 21         \  # Tx power in dBm (max 21)
         --bw 125000      \  # bandwidth in Hz
+        --txp 22         \  # Tx power in dBm (max 22)
         --sf 7           \  # spreading factor (7 to 12)
-        --cr 5              # coding rate (5 to 8)
+        --cr 5           \  # coding rate (5 to 8)
+        --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
         --daemon   \
         --ethernet \
         --ipv4 10.0.0.2/24
         --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
         --noipv6
+
+Raw bytes sent by rnodeconf::
+
+    freq => \xc0,\x01,....,\xc0  (4 bytes)
+    bw   => \xc0,\x02,....,\xc0  (4 bytes)
+    txp  => \xc0,\x03,....,\xc0  (1 byte, values ranging from \x01 to \x16)
+    sf   => \xc0,\x04,....,\xc0  (1 byte, values ranging from \x07 to \x0c)
+    cr   => \xc0,\x05,....,\xc0  (1 byte, values ranging from \x05 to \x08)
+    tnc  => \xc0,\x53,\x00,\xc0
+
+* https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py
+* https://github.com/bugst/go-serial
+* https://pkg.go.dev/go.bug.st/serial
 
 
 Pagers
