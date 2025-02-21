@@ -459,6 +459,7 @@ Rust Stuff
 * https://github.com/epilys/rsqlite3
 * https://github.com/rusqlite/rusqlite
 * https://stackoverflow.com/questions/62560396/how-to-use-sqlite-via-rusqlite-from-multiple-threads
+* https://github.com/mainmatter/eserde/tree/main/eserde
 
 
 C Stuff
