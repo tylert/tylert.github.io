@@ -48,8 +48,9 @@ LoRa
 
 * https://heltec.org/project/mesh-node-t114  Heltec T114-V2
 * https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
-* https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug
-* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for T114-V2
+* https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
+* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
+* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
 * https://unsigned.io/rnode_firmware/#supported-hardware
 * https://github.com/markqvist/RNode_Firmware/releases/tag/1.81
 * https://github.com/markqvist/RNode_Firmware
@@ -71,6 +72,9 @@ LoRa
 * https://github.com/liamcottle/reticulum-meshchat
 * https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
 * https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W and 200 kbps
+* https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
+* https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3
+* https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 
 ::
 
