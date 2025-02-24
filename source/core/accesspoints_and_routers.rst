@@ -141,12 +141,13 @@ Ubiquiti EdgeRouter X
 * https://www.amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W
 * http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html
 * http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html
-* https://www.reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x/
-* https://www.reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage/
+* https://www.reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x
+* https://www.reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage
 * https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
 * https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x
+* https://github.com/darkxst/erx-migration  needed if upgrading an ERX from pre-24.10.x OpenWRT
 
 Steps for replacement of stock firmware::
 
@@ -196,6 +197,6 @@ QoS setup::
 Other
 -----
 
-* https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt/
+* https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt
 * https://github.com/benjojo/dumb-net-poller
 * https://blog.brixit.nl/making-a-linux-managed-network-switch
