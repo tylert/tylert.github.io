@@ -45,3 +45,10 @@ DVD Ripping
 -----------
 
 * https://www.tweaking4all.com/video/rip-dvd-blu-ray/linux-handbrake-copy-a-dvd-to-mp4-or-mkv-file
+
+
+Heh
+---
+
+* https://thetyee.ca/Analysis/2024/07/15/Enshittification-Everything
+* https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
