@@ -121,6 +121,9 @@ Evil
 
 * https://fly.io/blog/our-user-mode-wireguard-year
 * https://mjg59.dreamwidth.org/69646.html  SSH Agent as an RPC
+* https://github.com/ekzhang/sshx
+* https://sshx.io
+* https://16years.secvuln.info  badkeys?
 
 
 SSH CA/Agent/Sudo/Signing

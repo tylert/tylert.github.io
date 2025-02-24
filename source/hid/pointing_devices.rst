@@ -142,7 +142,9 @@ USB Trickery
 * https://github.com/haimgel/display-switch
 * https://haim.dev/posts/2020-07-28-dual-monitor-kvm
 * https://hackaday.com/2023/12/26/building-a-better-keyboard-and-mouse-switch
-* https://github.com/hrvach/deskhop
+* https://github.com/hrvach/deskhop  2 computers, 1 mouse and 1 keyboard
+* https://github.com/input-leap/input-leap
+* https://github.com/input-leap/input-leap/issues/1414  Synergy -> Barrier -> Input Leap
 
 
 Other

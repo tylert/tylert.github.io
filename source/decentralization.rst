@@ -61,14 +61,12 @@ Other
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
 * https://github.com/harsxv/tinystatus  self-hosted statuspage thing
-* https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
 * https://ploum.net/the-computer-built-to-last-50-years/index.html
 * https://github.com/alebeck/boring  SSH tunnel management
 * https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go  SSH tunnel management
 * https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse
 * https://github.com/ricott1/rebels-in-the-sky  terminal-based game?
 * https://taoshu.in/unix/jool-nat64.html
-* https://blog.jse.li/posts/torrent  Go torrent client
 
 
 Containers Images Backups
@@ -146,10 +144,19 @@ Usenet
     Usenet > NZBGet > NZBGeek, NZBPlanet
 
 
-Backups
--------
+Backups and File Sharing
+------------------------
 
+* https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
+* https://blog.jse.li/posts/torrent  Go torrent client
 * http://www.mikerubel.org/computers/rsync_snapshots
 * https://github.com/WikiBox/snapshot.sh
 * https://www.reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
 * https://www.reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
+* https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html
+
+
+Auth
+----
+
+* https://github.com/anderspitman/obligator  self-hosted OpenID via email

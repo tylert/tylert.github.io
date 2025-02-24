@@ -389,6 +389,7 @@ Cool Products
 * https://docs.vorondesign.com/hardware.html#voron-2
 * https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino
 * https://gitlab.com/zephray/sitina1  open-source DSLR body
+* https://diypresso.com
 
 
 RPG Stuff
