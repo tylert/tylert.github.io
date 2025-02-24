@@ -128,6 +128,7 @@ Pagers
 
 * https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
 * https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century
+* https://www.reddit.com/r/hackrf/comments/ls3a3c/portapack_pocsac_pager_guide
 
 
 HackRF and PortaPack
@@ -145,6 +146,8 @@ HackRF and PortaPack
 * https://github.com/htotoo/PPSplash
 * https://github.com/llopisdon/skies-adsb  3D ADS-B visualizer in web browser
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
+* https://github.com/portapack-mayhem/mayhem-firmware/wiki/Add-GPIO-to-H2
+* https://github.com/portapack-mayhem/mayhem-firmware/wiki/USB%E2%80%90C-charging-modification-for-older-HackRF-boards  second charge port?
 
 
 Shortwave Receivers
