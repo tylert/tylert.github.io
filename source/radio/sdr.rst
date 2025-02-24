@@ -6,9 +6,7 @@ SDR
 * https://github.com/gasparka/spectrogram
 * https://github.com/qualitymanifest/timestampSDR
 * https://github.com/n7nix/deviation  FM deviation flowgraph
-* https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/dl9rdz/rdz_ttgo_sonde
-* https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
 * https://sdrswitch.com
 * https://rfnm.com
@@ -50,35 +48,6 @@ GPS
 ---
 
 * https://ciechanow.ski/gps  how GPS works
-
-
-Shortwave Receivers
--------------------
-
-* https://swling.com/blog/2018/09/guest-post-supercharging-the-xhdata-d-808-with-a-7-5-loopstick
-* https://swling.com/blog/2021/10/gary-debocks-xhdata-d-808-loopstick-model
-* https://swling.com/blog/2021/05/gary-debocks-2021-ultralight-radio-shootout
-* https://www.amazon.ca/Tecsun-Digital-PL330-Worldband-Receiver/dp/B0921HN6QM  Tecsun PL-330
-* https://www.amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  Xhdata D-808
-* https://swling.com/blog/2020/09/tecsun-pl-330-initial-impressions-overview-of-functions-and-operation
-* https://swling.com/blog/tag/xhdata-d-808-review
-* https://www.blogordie.com/2023/05/pl-330-or-d-808
-* https://www.blogordie.com/2023/03/my-favorite-shortwave-radio
-
-
-HackRF and PortaPack
---------------------
-
-* https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone
-* https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
-* https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
-* https://opensourcesdrlab.com/products/mayhem-signature-edition-h4m-portapack-and-transparent-shell-with-speaker-and-2500-mah-lithium-battery
-* https://opensourcesdrlab.com/products/r10c-hrf-sdr-software-defined-1mhz-to-6ghz-mainboard-development-board-kit
-* https://www.printables.com/model/1033734-hackrf-portapack-h4m-stand  desk stand for H4M
-* https://www.printables.com/model/1096252-hackrf-portapack-h4m-rotary-encoder-dial-upgrade  grippier scrolly thing for H4M
-* https://www.printables.com/model/784000-threaded-sma-connector-knurled-caps-fpv-drones-hac  SMA covers
-* https://ppsplash.creativo.hu  PortaPack splash screens
-* https://github.com/htotoo/PPSplash
 
 
 Hermes Lite 2
