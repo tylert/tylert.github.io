@@ -83,22 +83,22 @@ Basic Accesspoint Setup
 
 Configuration thingies::
 
-    # Main configuration
-    System -> System                     :  Set hostname
-    System -> Administration             :  Set password
-    Network -> Interfaces                :  Interfaces -> LAN -> Edit button
-        DHCP Server -> General Setup     :  Ignore interface checked (disable DHCP)
-        DHCP Server -> Advanced Settings :  Dynamic DHCP unchecked
-        DHCP Server -> IPv6 Settings     :  RA-Service disabled
-                                         :  DHCPv6-Service disabled
-    Network -> Wireless                  :  SSID(s) -> Edit button(s)
-                                         :  Enable button, Set ESSID, set encryption
-        Advanced Settings                :  Country Code
+    System -> System                      :  Set hostname
+    System -> Administration              :  Set password
+    Network -> Interfaces                 :  Interfaces -> LAN -> Edit button
+        DHCP Server -> General Setup      :  Ignore interface checked (disable DHCP)
+        DHCP Server -> Advanced Settings  :  Dynamic DHCP unchecked
+        DHCP Server -> IPv6 Settings      :  RA-Service disabled
+                                          :  DHCPv6-Service disabled
+    Network -> Wireless                   :  SSID(s) -> Edit button(s)
+                                          :  Enable button, Set ESSID, set encryption
+        Advanced Settings                 :  Country Code
 
-    # These might be obviated if using DHCP rather than a static IP
-    Network -> Interfaces                :  Interfaces -> LAN -> Edit button
-        General Settings                 :  IPv4 address, IPv4 gateway (IP of router)
-        Advanced Settings                :  Use custom DNS servers (IP of router)
+    # XXX FIXME TODO  Test getting these via DHCP instead of hard-coding them!!!
+
+    Network -> Interfaces                 :  Interfaces -> LAN -> Edit button
+        General Settings                  :  IPv4 address, IPv4 gateway (IP of router)
+        Advanced Settings                 :  Use custom DNS servers (IP of router)
 
 ::
 
@@ -183,15 +183,25 @@ Steps for replacement of stock firmware::
 .. image:: sqm_basic_settings.png
 .. image:: sqm_queue_discipline.png
 
+Configuration thingies::
+
+    System -> System          :  Set hostname
+    System -> Administration  :  Set password
+    Network -> Interfaces     :  Interfaces -> LAN -> Edit button
+
 QoS setup::
 
-    # Install "luci-app-sqm"
+    System -> Software                    :  Install package "luci-app-sqm"
+    Network -> SQM QoS -> Basic Settings  :  Download and upload speeds (in kbit/s)
+                                          :    [30000 kbit/s download speed]
+                                          :    [3000 kbit/s upload speed]
+                                          :  Enable this SQM instance checked
+                                          :  Interface name (eth0 => wan, wan6)
 
-    Network -> SQM QoS -> Basic Settings :  Download and upload speeds (in kbit/s)
-                                         :    [30000 kbit/s download speed]
-                                         :    [3000 kbit/s upload speed]
-                                         :  Enable this SQM instance checked
-                                         :  Interface name (eth0 => wan, wan6)
+Other::
+
+    System -> DHCP and DNS -> Static Leases  :  Set some statically-assigned entries
+    System -> DHCP and DNS -> Hostnames      :  Set some backup fixed hostnames for IPv4
 
 
 Other
