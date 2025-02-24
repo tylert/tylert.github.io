@@ -22,6 +22,7 @@ BBS
 * https://shazow.net/posts/ssh-how-does-it-even  ssh-chat
 * https://github.com/shazow/ssh-chat
 * https://github.com/quackduck/devzat  another SSH chat thing
+* https://en.wikipedia.org/wiki/FidoNet
 
 
 Email
