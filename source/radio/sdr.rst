@@ -10,6 +10,17 @@ SDR
 * https://www.rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
 * https://sdrswitch.com
 * https://rfnm.com
+* https://www.reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
+* https://www.sdrpp.org
+
+
+LimeSDR Mini
+------------
+
+* https://electro.pizza/2019/02/limesdrmini-gqrx-arch
+* https://wiki.myriadrf.org/Installing_Lime_Suite_on_Linux#Building_from_Source
+* https://wiki.myriadrf.org/LimeSDR_Firmware_Management
+* https://github.com/myriadrf/LimeSuite
 
 
 Modems and Interfaces
