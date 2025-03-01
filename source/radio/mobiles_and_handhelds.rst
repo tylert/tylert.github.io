@@ -34,8 +34,15 @@ LoRa
 
 ::
 
+    pip install adafruit-nrfutil  # for flashing firmware
+    pip install rns               # for rnodeconf and rns* utils
+    pip install nomadnet          # a chat thingy
+    pip install sbapp             # another chat thingy
+
+::
+
     # host A (10.0.0.1)
-    ./rnodeconf.py /dev/ttyUSB0 \
+    rnodeconf /dev/ttyUSB0 \
         --freq 915000000 \  # frequency in Hz
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
@@ -50,7 +57,7 @@ LoRa
         --noipv6
 
     # host B (10.0.0.2)
-    ./rnodeconf.py /dev/ttyUSB0 \
+    rnodeconf /dev/ttyUSB0 \
         --freq 915000000 \  # frequency in Hz
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
