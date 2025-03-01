@@ -3,6 +3,7 @@ LoRa
 
 * https://heltec.org/project/mesh-node-t114  Heltec T114-V2
 * https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
+* https://www.aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (40cm and 20cm versions)
 * https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
 * https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
 * https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
