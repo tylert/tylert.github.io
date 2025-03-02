@@ -147,9 +147,18 @@ Ubiquiti EdgeRouter X
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
 * https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x
-* https://github.com/darkxst/erx-migration  needed if upgrading an ERX from pre-24.10.x OpenWRT
+* https://github.com/darkxst/erx-migration  needed if upgrading an ERX from pre-24.10.x OpenWRT (see below)
 
-Steps for replacement of stock firmware::
+(New method) Steps for replacement of stock firmware::
+
+    To install on stock firmware, install the OpenWRT 22.03 factory firmware image
+    from web UI or cli, reboot, then ssh in and directly run the migration scripts
+    from that. You dont need to sysupgrade to the full 22.03 image. Now that 24.10
+    has been released I suppose the wiki page should be updated. Basically step 3
+    on the wiki page (https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka) should
+    continue onto the migration instructions.
+
+(Old method) Steps for replacement of stock firmware::
 
     # Prepare your machine to talk to the stock UI and OpenWRT
     # Use eth0 if still on stock firmware and eth1 if on OpenWRT
@@ -208,5 +217,5 @@ Other
 -----
 
 * https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt
-* https://github.com/benjojo/dumb-net-poller
-* https://blog.brixit.nl/making-a-linux-managed-network-switch
+* https://github.com/benjojo/dumb-net-poller  Go utility to scrape /proc for network statistics for Grafana
+* https://blog.brixit.nl/making-a-linux-managed-network-switch  DIY managed Gigabit Ethernet switch
