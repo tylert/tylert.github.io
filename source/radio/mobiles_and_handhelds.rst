@@ -170,3 +170,11 @@ Shortwave Receivers
 * https://swling.com/blog/tag/xhdata-d-808-review
 * https://www.blogordie.com/2023/05/pl-330-or-d-808
 * https://www.blogordie.com/2023/03/my-favorite-shortwave-radio
+
+
+Other
+-----
+
+* https://github.com/wb2osz/direwolf/tree/master/doc  docs for setting up DireWolf for various fun things
+* https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux  ugh, Wine
+* https://github.com/km4ack/73Linux  pre-canned ham apps for to install on Linux

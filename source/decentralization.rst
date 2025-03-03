@@ -155,6 +155,7 @@ Backups and File Sharing
 * https://www.reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
 * https://www.reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
 * https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html
+* https://github.com/localsend/localsend
 
 
 Auth
