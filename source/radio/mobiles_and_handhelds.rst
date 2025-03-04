@@ -31,14 +31,15 @@ LoRa
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
+* https://github.com/RFnexus/reticulum-over-hf
 * https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 
 Build firmware for RNodes::
 
     # Prepare Python stuff
     python -m venv .venv ; source .venv/bin/activate
-    pip install adafruit-nrfutil  # for flashing firmware
-    pip install rns               # for rnodeconf and rns* utils
+    python -m pip install adafruit-nrfutil  # for flashing firmware
+    python -m pip install rns               # for rnodeconf and rns* utils
 
     # Assuming you're still in your Python venv...
     # ERROR: Can not perform a '--user' install. User site-packages are not visible in this virtualenv.
@@ -63,8 +64,8 @@ Flashing firmware to RNodes::
 Chat over RNodes::
 
     # Assuming you're still in your Python venv...
-    pip install nomadnet  # a chat thingy
-    pip install sbapp     # another chat thingy
+    python -m pip install nomadnet  # a chat thingy
+    python -m pip install sbapp     # another chat thingy
 
 Other fun over RNodes::
 
@@ -84,6 +85,7 @@ Other fun over RNodes::
         --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
         --noipv6
 
+    # Assuming you're still in your Python venv...
     # host B (10.0.0.2)
     rnodeconf /dev/ttyUSB0 \
         --freq 915000000 \  # frequency in Hz

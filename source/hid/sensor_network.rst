@@ -88,11 +88,12 @@ nRF52840
 * https://github.com/tinygo-org/bluetooth
 * https://tinygo.org/docs/reference/microcontrollers/itsybitsy-nrf52840
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/overview
+* https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/update-bootloader  nRF52 bootloader upgrades
+* https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
 * https://www.adafruit.com/product/4481  part available from Adafruit
 * https://www.pishop.ca/product/adafruit-itsybitsy-nrf52840-express-bluetooth-le  part available from PiShop.ca
 * https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4481/11497502  part available from Digikey.ca
 * https://github.com/orgs/micropython/discussions/13482  MicroPython on ItsyBitsy?
-* https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
 * https://github.com/tinygo-org/tinygo/issues/2591  DotStar on ItsyBitsy is just a APA102 RGB LED
 * https://pkg.go.dev/tinygo.org/x/drivers/apa102
 * https://github.com/Neradoc/discotool  might also be handy for other microcontrollers like Pico and Arduino too

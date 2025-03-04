@@ -33,6 +33,7 @@ Modems and Interfaces
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
 * https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
+* https://na6d.com/collections/all  AIOC (emulated CM108 option) for handhelds
 
 
 SSB
