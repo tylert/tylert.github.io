@@ -33,6 +33,7 @@ LoRa
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
+* https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 
 Build firmware for RNodes::
 
