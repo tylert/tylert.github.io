@@ -13,6 +13,7 @@ NNCP
 BBS
 ---
 
+* https://github.com/markqvist/Reticulum/discussions/610  Reticulum BBS notes
 * https://github.com/kc1awv/RetiBBS  Reticulum BBS
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
