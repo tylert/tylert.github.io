@@ -34,15 +34,42 @@ LoRa
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
 
-::
+Build firmware for RNodes::
 
+    # Prepare Python stuff
+    python -m venv .venv ; source .venv/bin/activate
     pip install adafruit-nrfutil  # for flashing firmware
     pip install rns               # for rnodeconf and rns* utils
-    pip install nomadnet          # a chat thingy
-    pip install sbapp             # another chat thingy
 
-::
+    # Assuming you're still in your Python venv...
+    # ERROR: Can not perform a '--user' install. User site-packages are not visible in this virtualenv.
+    # patch ./Makefile (remove all occurences of "--user")
+    make prep-nrf
 
+    # Assuming you're still in your Python venv...
+    # Error during build: fork/exec python /home/bubba/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/uf2conv/uf2conv.py: no such file or directory
+    # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/platform.txt (fix quotes on line with "uf2conv")
+    # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/platform.txt (fix quotes on line with "uf2conv")
+    make firmware-heltec_t114
+
+Flashing firmware to RNodes::
+
+    # Assuming you're still in your Python venv...
+    # If this is your first time running this here
+    rnodeconf --key
+
+    rnodeconf --autoinstall
+    # XXX FIXME TODO  Figure out how to load a local firmware file rather than only download them
+
+Chat over RNodes::
+
+    # Assuming you're still in your Python venv...
+    pip install nomadnet  # a chat thingy
+    pip install sbapp     # another chat thingy
+
+Other fun over RNodes::
+
+    # Assuming you're still in your Python venv...
     # host A (10.0.0.1)
     rnodeconf /dev/ttyUSB0 \
         --freq 915000000 \  # frequency in Hz
