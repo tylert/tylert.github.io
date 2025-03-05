@@ -13,6 +13,7 @@ Tmux With Terminal Stuff
 * https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf
 * https://www.ditig.com/256-colors-cheat-sheet
 * https://ianthehenry.com/posts/how-to-configure-tmux
+* https://davidwinter.dev/2019/03/14/tmux-the-essentials
 
 ::
 
@@ -390,6 +391,7 @@ Cool Products
 * https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino
 * https://gitlab.com/zephray/sitina1  open-source DSLR body
 * https://diypresso.com
+* https://www.kaseyhou.com/#/repairable-flatpack-toaster
 
 
 RPG Stuff

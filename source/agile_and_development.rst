@@ -89,6 +89,7 @@ Software Design and Documentation
 * https://passo.uno/what-docs-as-code-means
 * https://rm4n0s.github.io/posts/6-cant-driven-development
 * https://github.com/charmbracelet/glow  render Markdown in a terminal
+* https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer
 
 
 Messaging and Logging
@@ -447,6 +448,8 @@ Go Stuff
 * https://bitfieldconsulting.com/posts/constraints
 * https://github.com/gostor/awesome-go-storage
 * https://www.riverphillips.dev/blog/go-cfs  GOMAXPROCS environment variable
+* https://github.com/pion/stun  Go STUN
+* https://pion.ly
 
 
 Rust Stuff

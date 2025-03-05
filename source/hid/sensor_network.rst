@@ -25,6 +25,7 @@ Doorbell/Camera Stuff
 ---------------------
 
 * https://buzzert.net/posts/2021-05-09-doorbell
+* https://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html
 
 
 Garage Door Stuff

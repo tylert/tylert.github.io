@@ -98,6 +98,7 @@ Clustering and Replication
 * https://github.com/canonical/dqlite
 * https://sqlsync.dev  eventually-consistent SQLite, offline-first
 * https://github.com/orbitinghail/sqlsync
+* https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood
 
 
 Indexing
