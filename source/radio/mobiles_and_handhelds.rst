@@ -32,6 +32,7 @@ LoRa
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
 * https://github.com/RFnexus/reticulum-over-hf
+* https://www.youtube.com/watch?v=aBt56UpaQ0E  how to get started with Reticulum and RNode
 * https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 * https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
 * https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
@@ -115,6 +116,15 @@ Raw bytes sent by rnodeconf::
 * https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py
 * https://github.com/bugst/go-serial
 * https://pkg.go.dev/go.bug.st/serial
+
+
+Meshtastic
+----------
+
+* https://treerocket.bearblog.dev/reticulum-vs-meshtastic-why-i-chose-reticulum
+* https://blog.erethon.com/blog/2024/01/31/comparing-reticulum-and-meshtastic
+* https://github.com/markqvist/Reticulum/discussions/77
+* https://linuxinabit.codeberg.page/blog/reticulum
 
 
 DMR
@@ -209,3 +219,6 @@ Other
 * https://github.com/wb2osz/direwolf/tree/master/doc  docs for setting up DireWolf for various fun things
 * https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux  ugh, Wine
 * https://github.com/km4ack/73Linux  pre-canned ham apps for to install on Linux
+* https://github.com/markqvist/Reticulum/discussions/399  encryption
+* https://github.com/markqvist/Reticulum/discussions/84  encryption
+* https://github.com/markqvist/Reticulum/discussions/70  encryption
