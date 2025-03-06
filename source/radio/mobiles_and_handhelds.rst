@@ -36,6 +36,8 @@ LoRa
 * https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 * https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
 * https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
+* https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum
+* https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
 
 Build firmware for RNodes::
 
@@ -124,7 +126,7 @@ Meshtastic
 * https://treerocket.bearblog.dev/reticulum-vs-meshtastic-why-i-chose-reticulum
 * https://blog.erethon.com/blog/2024/01/31/comparing-reticulum-and-meshtastic
 * https://github.com/markqvist/Reticulum/discussions/77
-* https://linuxinabit.codeberg.page/blog/reticulum
+* https://linuxinabit.codeberg.page/blog/reticulum  loads of useful links
 
 
 DMR
