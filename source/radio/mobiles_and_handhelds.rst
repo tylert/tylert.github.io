@@ -33,6 +33,8 @@ LoRa
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
 * https://github.com/RFnexus/reticulum-over-hf
 * https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
+* https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
+* https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 
 Build firmware for RNodes::
 
