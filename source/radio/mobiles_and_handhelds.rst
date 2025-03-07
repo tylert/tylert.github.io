@@ -31,7 +31,6 @@ LoRa
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
-* https://github.com/RFnexus/reticulum-over-hf
 * https://www.youtube.com/watch?v=aBt56UpaQ0E  how to get started with Reticulum and RNode
 * https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 * https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
@@ -118,6 +117,20 @@ Raw bytes sent by rnodeconf::
 * https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py
 * https://github.com/bugst/go-serial
 * https://pkg.go.dev/go.bug.st/serial
+
+
+Reticulum over HF
+-----------------
+
+* https://github.com/markqvist/Reticulum/discussions/399  encryption
+* https://github.com/markqvist/Reticulum/discussions/84  encryption
+* https://github.com/markqvist/Reticulum/discussions/70  encryption
+* https://github.com/markqvist/Reticulum/discussions/261  more HF
+* https://github.com/RFnexus/reticulum-over-hf
+* https://simplyequipped.github.io/fskmodem/fskmodem.html
+* https://github.com/simplyequipped/fskmodem
+* https://github.com/simplyequipped/tcpkissserver
+* http://www.whence.com/minimodem
 
 
 Meshtastic
@@ -221,6 +234,3 @@ Other
 * https://github.com/wb2osz/direwolf/tree/master/doc  docs for setting up DireWolf for various fun things
 * https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux  ugh, Wine
 * https://github.com/km4ack/73Linux  pre-canned ham apps for to install on Linux
-* https://github.com/markqvist/Reticulum/discussions/399  encryption
-* https://github.com/markqvist/Reticulum/discussions/84  encryption
-* https://github.com/markqvist/Reticulum/discussions/70  encryption
