@@ -37,6 +37,7 @@ LoRa
 * https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 * https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
+* https://r8io.github.io/rns-presentations/source/001-introduction.html#/_reticulum_network_stack
 
 Build firmware for RNodes::
 
