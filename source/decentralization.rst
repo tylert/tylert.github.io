@@ -17,7 +17,7 @@ BBS
 * https://github.com/kc1awv/RetiBBS  Reticulum BBS
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
-* http://unsigned.io/hardware/RNode.html  better than Meshtastic?
+* https://unsigned.io/hardware/RNode.html  better than Meshtastic?
 * https://www.f6fbb.org
 * http://www.textfiles.com/hamradio/wreck.ham
 * https://donuts-are-good.github.io/shhhbb  SSH BBS
@@ -25,6 +25,13 @@ BBS
 * https://github.com/shazow/ssh-chat
 * https://github.com/quackduck/devzat  another SSH chat thing
 * https://en.wikipedia.org/wiki/FidoNet
+* https://codeberg.org/AutumnSpark1226/nomadForum
+* https://github.com/jquast/x84
+* https://enigma-bbs.github.io
+* https://github.com/jmbwell/rsbbs
+* https://github.com/haliphax/xthulu
+* https://github.com/InterLinked1/lbbs
+* https://github.com/virtadpt/ebbs
 
 
 Email
