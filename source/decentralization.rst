@@ -125,6 +125,7 @@ Publishing
 * https://github.com/kr1sp1n/awesome-gemini
 * https://github.com/pdfcpu/pdfcpu  Go PDF processing tool
 * https://pdfcpu.io  Go PDF processing tool
+* https://github.com/typst/svg2pdf
 
 
 Offline Fun
