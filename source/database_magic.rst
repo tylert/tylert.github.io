@@ -167,6 +167,7 @@ Other Types
 * https://petereliaskraft.net/blog/epoxy  atomic transactions across databases?
 * https://tinybase.org  apparently, plays well with SQLite (local-first data)
 * https://github.com/tinyplex/tinybase  TinyBase (Jabbascript)
+* https://www.viblo.se/posts/no-need-redis  maybe you don't need Redis
 
 
 PostgreSQL

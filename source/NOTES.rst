@@ -335,6 +335,7 @@ Humour
 * https://www.universal-radio.com/cats.html  ham radio store cats
 * https://benjamin-brady.github.io/gitlab-simulator  meeting simulator
 * https://experience.prfalken.dev/english/subway-poker
+* https://github.com/vxfemboy/purrcrypt  meowthematical encryption
 
 
 Keepass Stuff

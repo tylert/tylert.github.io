@@ -76,6 +76,7 @@ Other
 * https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse
 * https://github.com/ricott1/rebels-in-the-sky  terminal-based game?
 * https://taoshu.in/unix/jool-nat64.html
+* https://github.com/bypirob/airo  deploy thingy?
 
 
 Containers Images Backups

@@ -42,6 +42,7 @@ Kanban/Ticket Stuff
 * https://taskwarrior.org  does tickets
 * https://timewarrior.net  does time-tracking (and works with Task Warrior)
 * https://fossil-scm.org  does tickets and wiki stuff
+* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate
 
 ::
 
@@ -71,7 +72,7 @@ Supply Chain Magic
 Software Design and Documentation
 ---------------------------------
 
-* http://craftinginterpreters.com
+* https://craftinginterpreters.com
 * https://threedots.tech/post/software-dark-ages
 * https://www.writethedocs.org/guide
 * https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
@@ -90,6 +91,7 @@ Software Design and Documentation
 * https://rm4n0s.github.io/posts/6-cant-driven-development
 * https://github.com/charmbracelet/glow  render Markdown in a terminal
 * https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer
+* https://boringtechnology.club  choose boring technology
 
 
 Messaging and Logging
@@ -450,6 +452,7 @@ Go Stuff
 * https://www.riverphillips.dev/blog/go-cfs  GOMAXPROCS environment variable
 * https://github.com/pion/stun  Go STUN
 * https://pion.ly
+* https://www.goravel.dev  Laravel-like thing for Go
 
 
 Rust Stuff
