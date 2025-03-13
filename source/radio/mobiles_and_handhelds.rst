@@ -38,6 +38,7 @@ LoRa
 * https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
 * https://r8io.github.io/rns-presentations/source/001-introduction.html#/_reticulum_network_stack
+* https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
 
 Build firmware for RNodes::
 
