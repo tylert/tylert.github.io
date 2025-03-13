@@ -77,6 +77,7 @@ Other
 * https://github.com/ricott1/rebels-in-the-sky  terminal-based game?
 * https://taoshu.in/unix/jool-nat64.html
 * https://github.com/bypirob/airo  deploy thingy?
+* https://letsdecentralize.org
 
 
 Containers Images Backups
