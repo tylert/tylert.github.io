@@ -121,8 +121,8 @@ Raw bytes sent by rnodeconf::
 * https://pkg.go.dev/go.bug.st/serial
 
 
-Reticulum over HF
------------------
+Reticulum
+---------
 
 * https://github.com/markqvist/Reticulum/discussions/399  encryption
 * https://github.com/markqvist/Reticulum/discussions/84  encryption
@@ -133,6 +133,13 @@ Reticulum over HF
 * https://github.com/simplyequipped/fskmodem
 * https://github.com/simplyequipped/tcpkissserver
 * http://www.whence.com/minimodem
+* https://github.com/markqvist/Reticulum/discussions/192  basic setup for propagation node
+* https://github.com/markqvist/Reticulum/discussions/57  how to run a propagation or router node
+* https://meezenest.nl/mees/projects/reticulum_field_server/build_doc/index.html  portable reticulum server
+* https://meezenest.nl/mees/projects/reticulum_field_server/build_doc/reticulum_portable_server.pdf  PDF of same
+* https://reticulum.betweentheborders.com/primer.pdf  IMS/ICS and off-grid planning for Reticulum
+* https://piratebox.info/reticulum/understanding.html
+* https://reticulum.network/connect.html  public testnets
 
 
 Meshtastic
