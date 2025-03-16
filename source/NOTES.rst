@@ -495,6 +495,7 @@ More
 * https://pyinfra.com  another replacement for Ansible?
 * https://github.com/debauchee/barrier  open replacement for Synergy
 * https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
+* https://codentium.com/accessing-physical-memory-from-userspace-on-linux
 
 
 Vault Awesome

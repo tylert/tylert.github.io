@@ -17,3 +17,9 @@
 * https://grahamc.com/blog/erase-your-darlings
 * https://github.com/rancher/k3os#quick-start
 * https://blog.nootch.net/post/kubernetes-at-home-with-k3s
+
+
+QEMU
+----
+
+* https://regrow.earth/blog/2022-10-21_qemu_virtualbox
