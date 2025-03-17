@@ -42,6 +42,10 @@ LoRa
 
 Build firmware for RNodes::
 
+    # Install some other needed tools
+    # arduino-cli
+    # make
+
     # Prepare Python stuff
     python -m venv .venv ; source .venv/bin/activate
     python -m pip install adafruit-nrfutil  # for flashing firmware
@@ -56,22 +60,16 @@ Build firmware for RNodes::
     # Error during build: fork/exec python /home/bubba/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/uf2conv/uf2conv.py: no such file or directory
     # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/platform.txt (fix quotes on line with "uf2conv")
     # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/platform.txt (fix quotes on line with "uf2conv")
-    make firmware-heltec_t114
+    make firmware-heltec_t114_gps
+    make upload-heltec_t114
 
-Flashing firmware to RNodes::
+More firmware stuff for RNodes::
 
     # Assuming you're still in your Python venv...
     # If this is your first time running this here
     rnodeconf --key
 
     rnodeconf --autoinstall
-    # XXX FIXME TODO  Figure out how to load a local firmware file rather than only download them
-
-Chat over RNodes::
-
-    # Assuming you're still in your Python venv...
-    python -m pip install nomadnet  # a chat thingy
-    python -m pip install sbapp     # another chat thingy
 
 Other fun over RNodes::
 
