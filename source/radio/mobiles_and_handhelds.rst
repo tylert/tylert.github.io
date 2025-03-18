@@ -1,12 +1,6 @@
 LoRa
 ----
 
-* https://heltec.org/project/mesh-node-t114  Heltec T114-V2
-* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
-* https://www.aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (40cm and 20cm versions)
-* https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
-* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
-* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
 * https://unsigned.io/rnode_firmware/#supported-hardware
 * https://github.com/markqvist/RNode_Firmware
 * https://github.com/liberatedsystems/RNode_Firmware_CE  CE = Community Edition
@@ -39,6 +33,20 @@ LoRa
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
 * https://r8io.github.io/rns-presentations/source/001-introduction.html#/_reticulum_network_stack
 * https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
+
+
+Heltec T114
+-----------
+
+* https://heltec.org/project/mesh-node-t114  Heltec T114-V2
+* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
+* https://www.aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (20cm and 40cm versions)
+* https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
+* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
+* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
+* https://www.zerofox3d.com/products/flexo-hardware-kit?variant=53497579471223  custom switch PCB?
+* https://www.zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit  custom battery holder?
+* https://github.com/heyitsyang/W9ETC-Meshtastic-Solar-Node  MPPT modules?
 
 Build firmware for RNodes::
 
