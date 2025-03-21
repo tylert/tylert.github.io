@@ -104,6 +104,13 @@ Music Stuff
 * https://sallywolf.ca  flute and recorder lessons
 
 
+Blender
+-------
+
+* https://gitlab.com/sheepitrenderfarm
+* https://www.sheepit-renderfarm.com/home
+
+
 Graphics
 --------
 
