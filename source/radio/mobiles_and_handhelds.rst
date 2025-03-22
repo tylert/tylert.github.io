@@ -18,20 +18,12 @@ LoRa
 * https://www.chatters.io
 * https://awsh.org/rnode
 * https://github.com/liamcottle/reticulum-meshchat
-* https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
-* https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W (27 dBm max) and 200 kbps
-* https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
-* https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
-* https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
 * https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
 * https://www.youtube.com/watch?v=aBt56UpaQ0E  how to get started with Reticulum and RNode
-* https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
-* https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
-* https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 * https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
-* https://r8io.github.io/rns-presentations/source/001-introduction.html#/_reticulum_network_stack
+* https://r8io.github.io/rns-presentations/source/001-introduction.html
 * https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
 
 
@@ -47,6 +39,9 @@ Heltec T114
 * https://www.zerofox3d.com/products/flexo-hardware-kit?variant=53497579471223  custom switch PCB?
 * https://www.zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit  custom battery holder?
 * https://github.com/heyitsyang/W9ETC-Meshtastic-Solar-Node  MPPT modules?
+* https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
+* https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
+* https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 
 Build firmware for RNodes::
 
@@ -125,6 +120,16 @@ Raw bytes sent by rnodeconf::
 * https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py
 * https://github.com/bugst/go-serial
 * https://pkg.go.dev/go.bug.st/serial
+
+
+SX1280
+------
+
+* https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
+* https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W (27 dBm max) and 200 kbps
+* https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
+* https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
+* https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 
 
 Reticulum
