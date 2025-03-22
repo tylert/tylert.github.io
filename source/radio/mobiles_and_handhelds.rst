@@ -130,6 +130,7 @@ SX1280
 * https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
 * https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
+* https://www.meezenest.nl/mees-elektronica/projects/reticulum_design_my_own_rnode/index.html  RNode from scratch overview
 
 
 Reticulum
