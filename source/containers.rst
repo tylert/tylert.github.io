@@ -40,6 +40,7 @@ Official OS Images
 * https://gitlab.com/iMil/mksmolnb  containerized NetBSD microVMs (boot in under a second)
 * https://www.talos.dev  Talos Linux (k8s OS)
 * https://github.com/siderolabs/talos  Talos Linux
+* https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc
 
 Typical OS container image "Dockerfile"::
 
