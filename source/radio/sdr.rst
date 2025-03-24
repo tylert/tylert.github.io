@@ -34,12 +34,19 @@ Modems and Interfaces
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
 * https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
 * https://na6d.com/collections/all  AIOC (emulated CM108 option) for handhelds
+* https://github.com/amedes/pico_tnc/issues/1  PCB for Pico TNC
+* https://github.com/amedes/pico_tnc
+* https://ae0zw.github.io/pico-tnc
+* https://unsigned.io/introducing-openmodem
+* https://github.com/mobilinkd/tnc1
+* https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html
 
 
 SSB
 ---
 
 * https://www.n6qw.com/PSSST_20.html  copper-clad 7-transistor SSB rig
+* https://ai6ym.radio/t41-ep-sdt  "T41-EP SDT" radio
 
 
 GRCon And Others

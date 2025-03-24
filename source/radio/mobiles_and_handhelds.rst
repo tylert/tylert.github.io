@@ -131,6 +131,8 @@ SX1280
 * https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://www.meezenest.nl/mees-elektronica/projects/reticulum_design_my_own_rnode/index.html  RNode from scratch overview
+* https://unsigned.io/articles/2022_01_27_rnode-with-anything.html
+* https://unsigned.io/rnode_bootstrap_console/guides/make_rnodes.html
 
 
 Reticulum
