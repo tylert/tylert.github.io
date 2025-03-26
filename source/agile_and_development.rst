@@ -453,6 +453,8 @@ Go Stuff
 * https://github.com/pion/stun  Go STUN
 * https://pion.ly
 * https://www.goravel.dev  Laravel-like thing for Go
+* https://www.practical-go-lessons.com/chap-18-go-module-proxies
+* https://github.com/goproxy/goproxy
 
 
 Rust Stuff
