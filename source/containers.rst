@@ -41,6 +41,7 @@ Official OS Images
 * https://www.talos.dev  Talos Linux (k8s OS)
 * https://github.com/siderolabs/talos  Talos Linux
 * https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc
+* https://iximiuz.com/en/posts/iximiuz-labs-story  building a Firecracker-powered platform for containers
 
 Typical OS container image "Dockerfile"::
 

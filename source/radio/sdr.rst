@@ -12,6 +12,7 @@ SDR
 * https://rfnm.com
 * https://www.reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
 * https://www.sdrpp.org
+* https://101-things.readthedocs.io/en/latest/radio_receiver.html  any-mode Pi Pico SDR receiver for 0 to 30 MHz
 
 
 LimeSDR Mini
@@ -34,12 +35,22 @@ Modems and Interfaces
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
 * https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
 * https://na6d.com/collections/all  AIOC (emulated CM108 option) for handhelds
+* https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://github.com/amedes/pico_tnc/issues/1  PCB for Pico TNC
 * https://github.com/amedes/pico_tnc
 * https://ae0zw.github.io/pico-tnc
 * https://unsigned.io/introducing-openmodem
+* http://www.mobilinkd.com/2014/09/11/arduino-kiss-tnc
 * https://github.com/mobilinkd/tnc1
 * https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html
+
+
+APRS
+----
+
+* https://hamradio.my/2024/09/how-to-turn-a-433-mhz-heltec-wireless-tracker-into-a-433-mhz-lora-aprs-tracker
+* https://github.com/richonguzman/LoRa_APRS_Tracker  for some older ESP32 LoRa boards
+* https://github.com/richonguzman/LoRa_APRS_iGate  for some older ESP32 LoRa boards
 
 
 SSB
@@ -117,7 +128,6 @@ Assorted Stuff
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard  OHIS
 * https://github.com/skuep/AIOC  cheaper APRS?
 * https://github.com/phase4ground/opv-cxx-demod
-* https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
 * https://github.com/BrucePerens/rigcontrol

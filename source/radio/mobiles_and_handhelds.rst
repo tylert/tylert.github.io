@@ -154,6 +154,8 @@ Reticulum
 * https://reticulum.betweentheborders.com/primer.pdf  IMS/ICS and off-grid planning for Reticulum
 * https://piratebox.info/reticulum/understanding.html
 * https://reticulum.network/connect.html  public testnets
+* https://github.com/attermann/microReticulum_Firmware  supports RAK4631 nRF52840 boards?
+* https://reticulum.n7ekb.net  some notes about running your own networks
 
 
 Meshtastic

@@ -118,6 +118,7 @@ Querying
 * https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good
 * https://github.com/archiewood/gosql
 * https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite
+* https://github.com/medialab/xan  the CSV magician
 
 
 Encryption
