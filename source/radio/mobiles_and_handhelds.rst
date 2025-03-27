@@ -34,12 +34,8 @@ Heltec T114
 * https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
 * https://www.aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (20cm and 40cm versions)
 * https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
-* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
-* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
 * https://www.zerofox3d.com/products/flexo-hardware-kit?variant=53497579471223  custom switch PCB?
 * https://www.zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit  custom battery holder?
-* https://github.com/heyitsyang/W9ETC-Meshtastic-Solar-Node  MPPT modules?
-* https://github.com/HelTecAutomation/Heltec_nRF52/pull/3  patch needed to build RNode firmware
 * https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
 * https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 
@@ -122,17 +118,23 @@ Raw bytes sent by rnodeconf::
 * https://pkg.go.dev/go.bug.st/serial
 
 
-SX1280
-------
+Transport RNodes
+----------------
 
+* https://unsigned.io/articles/2022_01_27_rnode-with-anything.html
+* https://unsigned.io/rnode_bootstrap_console/guides/make_rnodes.html
 * https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
 * https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W (27 dBm max) and 200 kbps
 * https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
 * https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
 * https://www.meezenest.nl/mees-elektronica/projects/reticulum_design_my_own_rnode/index.html  RNode from scratch overview
-* https://unsigned.io/articles/2022_01_27_rnode-with-anything.html
-* https://unsigned.io/rnode_bootstrap_console/guides/make_rnodes.html
+* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
+* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
+* https://github.com/heyitsyang/W9ETC-Meshtastic-Solar-Node  MPPT modules?
+* https://uart.cz/en/2534/solar-mppt-charger-for-meshtastic  LoRa module, CN3795 MPPT charging chip, boost converter on custom board
+* https://lectronz.com/products/solar-mppt-charger-for-meshtastic  KiCAD design files for the PCB
+* https://lectronz.com/products/fully-assembled-meshtastic-solar-node-station  another all-in-one solution
 
 
 Reticulum
