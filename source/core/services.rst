@@ -113,6 +113,7 @@ Other
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
 * https://github.com/PhirePhly/micromirrors  mirroring things
 * https://blog.randombits.host/monitoring-self-hosted-services  Grafana, Prometheus, Loki, etc.
+* https://github.com/thevxn/dish  self-contained socket watcher with notifications
 * https://the-dam.org/docs/explanations/suc.html  awesome local server chat thing (5 lines of bash???)
 * https://the-dam.org  pay-for Unix/Linux playground
 * https://tildeverse.org  Unix/Linux playground awesome
