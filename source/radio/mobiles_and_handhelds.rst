@@ -248,7 +248,7 @@ Shortwave Receivers
 * https://swling.com/blog/2021/10/gary-debocks-xhdata-d-808-loopstick-model
 * https://swling.com/blog/2021/05/gary-debocks-2021-ultralight-radio-shootout
 * https://www.amazon.ca/Tecsun-Digital-PL330-Worldband-Receiver/dp/B0921HN6QM  Tecsun PL-330
-* https://www.amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  Xhdata D-808
+* https://www.amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  XHDATA D-808
 * https://swling.com/blog/2020/09/tecsun-pl-330-initial-impressions-overview-of-functions-and-operation
 * https://swling.com/blog/tag/xhdata-d-808-review
 * https://www.blogordie.com/2023/05/pl-330-or-d-808
@@ -261,3 +261,10 @@ Other
 * https://github.com/wb2osz/direwolf/tree/master/doc  docs for setting up DireWolf for various fun things
 * https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux  ugh, Wine
 * https://github.com/km4ack/73Linux  pre-canned ham apps for to install on Linux
+
+
+Power
+-----
+
+* https://blog.k7jlx.io/2021/08/21/100ah-battery-box-build
+* https://www.skywide.ca/portable-battery-box
