@@ -184,6 +184,7 @@ Mentorship Stuff
 * https://bitfieldconsulting.com/posts/career
 * https://softwaredoug.com/blog/2024/05/08/build-an-f-you-network
 * https://wiki.c2.com/?SovietShoeFactoryPrinciple
+* https://www.scottsmitelli.com/articles/take-oncall-and-shove-it
 
 
 Interviews
