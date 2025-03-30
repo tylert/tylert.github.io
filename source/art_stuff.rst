@@ -74,21 +74,13 @@ CHDK Doc/Book Scanner
 
 ::
 
-    pacman -S git subversion
+    pacman -S git subversion perl-term-readkey
     pacman -S libusb-compat lua53 lua53-lgi
-
-    # Prepare the subversion config gunk in your home directory so git-svn can work properly
-    mkdir chdkptp-tmp
-    pushd chdkptp-tmp
-    svn checkout --username=guest https://subversion.assembla.com/svn/chdkptp/trunk
-    # enter password "guest" at the prompt
-    echo "store-passwords = yes" >> ~/.subversion/config
-    echo "store-passwords = yes" >> ~/.subversion/servers
-    popd
 
     # Convert the subversion goop into a local git repo and compile it
     mkdir chdkptp
     pushd chdkptp
+    svn --username=guest --password=guest ls https://subversion.assembla.com/svn/chdkptp
     git svn clone --username=guest https://subversion.assembla.com/svn/chdkptp  # branches, tags, trunk
     pushd trunk
     make LUA_LIB=lua5.3 LUA_INCLUDE_DIR=/usr/include/lua5.3 GUI=1 GTK_SUPPORT=1
