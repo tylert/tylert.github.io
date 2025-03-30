@@ -158,6 +158,7 @@ Reticulum
 * https://reticulum.network/connect.html  public testnets
 * https://github.com/attermann/microReticulum_Firmware  supports RAK4631 nRF52840 boards?
 * https://reticulum.n7ekb.net  some notes about running your own networks
+* https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
 
 
 Meshtastic
