@@ -135,6 +135,7 @@ Transport RNodes
 * https://uart.cz/en/2534/solar-mppt-charger-for-meshtastic  LoRa module, CN3795 MPPT charging chip, boost converter on custom board
 * https://lectronz.com/products/solar-mppt-charger-for-meshtastic  KiCAD design files for the PCB
 * https://lectronz.com/products/fully-assembled-meshtastic-solar-node-station  another all-in-one solution
+* https://www.youtube.com/watch?v=T1itQcdf5cc  nRF52840 RNode, Pi Zero RNS, WiFi hotspot
 
 
 Reticulum
@@ -262,6 +263,7 @@ Other
 * https://github.com/wb2osz/direwolf/tree/master/doc  docs for setting up DireWolf for various fun things
 * https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux  ugh, Wine
 * https://github.com/km4ack/73Linux  pre-canned ham apps for to install on Linux
+* https://www.scc-ares-races.org/gokit/SCCo_Go_Kit_rev20240326.pdf  2-hour kits, 12-hour kits, etc.
 
 
 Power
@@ -269,3 +271,6 @@ Power
 
 * https://blog.k7jlx.io/2021/08/21/100ah-battery-box-build
 * https://www.skywide.ca/portable-battery-box
+* https://xplrcreate.com/2020/04/09/diy-camping-power-station-battery-pack
+* https://www.cloudynights.com/topic/842615-diy-power-tank-with-a-12v-100ah-lifepo4-battery-story-pros-cons-and-equipment
+* https://www.ke7hlr.com/ecw/personal_go-kit_2011.pdf  page 25
