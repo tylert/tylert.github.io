@@ -8,7 +8,6 @@ LoRa
 * https://unsigned.io/guides/2022_03_26_private-messaging-over-lora.html
 * https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
-* https://unsigned.io/aprs-over-lora-with-rnode
 * https://unsigned.io/understanding-lora-parameters  calculate data rate from coding rate, spreading factor, etc.
 * https://reticulum.network/manual/networks.html#interconnected-lora-sites
 * https://reticulum.network/hardware.html
@@ -25,6 +24,16 @@ LoRa
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
 * https://r8io.github.io/rns-presentations/source/001-introduction.html
 * https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
+* https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
+
+
+APRS
+----
+
+* https://unsigned.io/aprs-over-lora-with-rnode
+* https://hamradio.my/2024/09/how-to-turn-a-433-mhz-heltec-wireless-tracker-into-a-433-mhz-lora-aprs-tracker
+* https://github.com/richonguzman/LoRa_APRS_Tracker  for some older ESP32 LoRa boards
+* https://github.com/richonguzman/LoRa_APRS_iGate  for some older ESP32 LoRa boards
 
 
 Heltec T114

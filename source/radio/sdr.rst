@@ -45,14 +45,6 @@ Modems and Interfaces
 * https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html
 
 
-APRS
-----
-
-* https://hamradio.my/2024/09/how-to-turn-a-433-mhz-heltec-wireless-tracker-into-a-433-mhz-lora-aprs-tracker
-* https://github.com/richonguzman/LoRa_APRS_Tracker  for some older ESP32 LoRa boards
-* https://github.com/richonguzman/LoRa_APRS_iGate  for some older ESP32 LoRa boards
-
-
 SSB
 ---
 
@@ -71,13 +63,6 @@ GRCon And Others
 * https://www.youtube.com/watch?v=kVY3E3e--_I&t=11713s  ARDC
 * https://www.youtube.com/watch?v=MHkz7jNynOg
 * https://www.youtube.com/watch?v=kVY3E3e--_I  TAPR DCC
-* https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
-
-
-GPS
----
-
-* https://ciechanow.ski/gps  how GPS works
 
 
 Hermes Lite 2
@@ -91,6 +76,16 @@ Hermes Lite 2
 * https://www.youtube.com/watch?v=ZY7_cr8SM7I
 * https://www.vk-amps.com
 * https://wr9r.com/the-hermes-lite-2-with-an-atu
+* https://www.lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html
+* https://github.com/mathisschmieder/HL2-MRF101/blob/master/README.md
+
+
+Antenna Stuff
+-------------
+
+* https://www.lyonscomputer.com.au/Projects/Coax-Switch-6-Way/Coax-Switch-6-Way.html
+* https://github.com/0x9900/AntennaSwitch
+* https://0x9900.com/remote-controlled-antenna-switch
 
 
 Ribbit
@@ -147,6 +142,8 @@ Assorted Stuff
 * https://hackaday.com/2023/04/07/arbitrary-code-execution-over-radio
 * https://www.sota-antennas.com/efhw.php  End-Fed Half-Wave (EFHW) antennas
 * https://github.com/dmd/morse  Morse-to-email toy
+* https://ciechanow.ski/gps  how GPS works
+* https://www.lyonscomputer.com.au  gold mine of useful ham info
 
 
 Bluetooth Stuff
