@@ -283,3 +283,4 @@ Power
 * https://xplrcreate.com/2020/04/09/diy-camping-power-station-battery-pack
 * https://www.cloudynights.com/topic/842615-diy-power-tank-with-a-12v-100ah-lifepo4-battery-story-pros-cons-and-equipment
 * https://www.ke7hlr.com/ecw/personal_go-kit_2011.pdf  page 25
+* https://www.lyonscomputer.com.au/PV-Solar-Generator-Systems/SolarKing-100Ah-Battery-Rebuild/SolarKing-100Ah-Battery-Rebuild.html  test setup?

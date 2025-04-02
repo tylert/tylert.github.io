@@ -163,6 +163,7 @@ Communication
 * https://maddy.email  maddy email server
 * https://github.com/foxcpp/maddy  maddy email server
 * https://github.com/beac0n/ruroco  UDP port-knocking to open SSH?
+* https://github.com/nizarmah/igatha  BLE-only SOS app thing?
 
 
 NNCP

@@ -148,6 +148,7 @@ Logging and Metrics
 * https://kubernetes.io/docs/concepts/cluster-administration/logging/#cluster-level-logging-architectures
 * https://kener.ing  dashboard stuff???
 * https://github.com/rcoh/angle-grinder  nifty tool
+* https://aumont.fr/posts/FreeBSD-Home-Server/#example-with-a-simple-system-the-gnu%2Flinux-log-management-%3A
 
 
 Winderz

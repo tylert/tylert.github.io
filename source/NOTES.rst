@@ -214,6 +214,7 @@ Apt Stuff
 * `https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings?highlight=%28\bCategoryInternet\b%29`
 * http://docs.docker.com/examples/apt-cacher-ng
 * https://mikecoats.com/debian-packaging-first-principles-part-1-simple
+* https://jangafx.com/insights/linux-binary-compatibility  calling apt from python (subprocess shell goop)
 
 (on apt-cacher-ng server)::
 
