@@ -87,8 +87,8 @@ Other fun over RNodes::
         --freq 915000000 \  # frequency in Hz
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 7           \  # spreading factor (7 to 12)
-        --cr 5           \  # coding rate (5 to 8)
+        --sf 9           \  # spreading factor (7 to 12)
+        --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
         --daemon   \
@@ -103,8 +103,8 @@ Other fun over RNodes::
         --freq 915000000 \  # frequency in Hz
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 7           \  # spreading factor (7 to 12)
-        --cr 5           \  # coding rate (5 to 8)
+        --sf 9           \  # spreading factor (7 to 12)
+        --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
         --daemon   \
@@ -169,6 +169,52 @@ Reticulum
 * https://github.com/attermann/microReticulum_Firmware  supports RAK4631 nRF52840 boards?
 * https://reticulum.n7ekb.net  some notes about running your own networks
 * https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
+
+LXMF config for a server::
+
+    [propagation]
+    enable_node = yes
+
+Reticulum config for a server::
+
+    [reticulum]
+    enable_transport = yes
+    respond_to_probes = yes
+    [interfaces]
+      [[Default Interface]]
+        type = AutoInterface
+        enabled = yes
+      [[Whoopdidoo]]
+        type = TCPServerInterface
+        enabled = yes
+        listen_ip = 0.0.0.0
+        listen_port = 4242
+        mode = gateway
+
+Reticulum config for a client::
+
+    # ~/.reticulum/config
+    [reticulum]
+    enable_transport = no
+    [interfaces]
+      [[Default Interface]]
+        type = AutoInterface
+        enabled = yes
+      [[Whoopdidoo]]
+        type = TCPClientInterface
+        enabled = yes
+        target_host = 100.100.100.100
+        target_port = 4242
+      [[RNode]]
+        type = RNodeInterface
+        enabled = yes
+        port = /dev/ttyACM0
+        # port = ble://
+        frequency = 915000000
+        bandwidth = 125000
+        txpower = 22
+        spreadingfactor = 9
+        codingrate = 6
 
 
 Meshtastic
