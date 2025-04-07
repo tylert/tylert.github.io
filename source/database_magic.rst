@@ -169,6 +169,7 @@ Other Types
 * https://tinybase.org  apparently, plays well with SQLite (local-first data)
 * https://github.com/tinyplex/tinybase  TinyBase (Jabbascript)
 * https://www.viblo.se/posts/no-need-redis  maybe you don't need Redis
+* https://github.com/sebadob/hiqlite
 
 
 PostgreSQL

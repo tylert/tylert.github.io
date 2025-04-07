@@ -130,6 +130,7 @@ Authentication
 
 * https://github.com/glauth/glauth  LDAP server in Go with a variety of backends
 * https://glauth.github.io  GLAuth docs
+* https://github.com/sebadob/rauthy
 
 
 SSH
