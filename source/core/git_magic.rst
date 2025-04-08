@@ -214,3 +214,4 @@ GitHub Actions
 
 * https://www.feldera.com/blog/the-pain-that-is-github-actions
 * https://til.simonwillison.net/github-actions/github-pages
+* https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell

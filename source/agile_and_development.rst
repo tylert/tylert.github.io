@@ -110,16 +110,13 @@ Development
 * https://www.azavea.com/blog/2018/10/10/engineer-onboarding-breakable-toy
 * https://blog.stulta.dev/posts/stupid_tools
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
-* http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston
-* http://redsquirrel.com/dave/work/a2j/patterns/DrawYourOwnMap.html
-* http://redsquirrel.com/dave/work/a2j/patterns/SustainableMotivations.html
 * https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
 * https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 * https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
 * https://github.com/hackergrrl/art-of-readme
-* http://catb.org/esr/writings/taoup/html/ch01s06.html  Basics of the Unix Philosophy
+* https://catb.org/esr/writings/taoup/html/ch01s06.html  Basics of the Unix Philosophy
 * https://blog.mechanicalrock.io/2020/10/06/manual-gates-git-flow-in-a-wig.html
 * https://blog.mechanicalrock.io/2019/07/01/continuous-deployment-the-first-step-on-the-road-to-recovery.html
 * https://blog.mechanicalrock.io/2020/05/04/strangler-pattern.html
@@ -138,7 +135,7 @@ Development
 * https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
 * https://12factor.net
 * https://stokoe.me/summary-hammock-driven-development
-* http://www.catb.org/~esr/faqs/smart-questions.html
+* https://www.catb.org/~esr/faqs/smart-questions.html
 * https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
@@ -171,10 +168,10 @@ Mentorship Stuff
 * https://taylor.town/-10x
 * https://lethain.com/eng-strategies
 * https://mcfunley.com/choose-boring-technology
-* http://randsinrepose.com/archives/bored-people-quit
+* https://randsinrepose.com/archives/bored-people-quit
 * https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job
-* http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
-* http://www.daedtech.com/how-to-keep-your-best-programmers
+* https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
+* https://www.daedtech.com/how-to-keep-your-best-programmers
 * https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity
 * https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
@@ -185,6 +182,7 @@ Mentorship Stuff
 * https://softwaredoug.com/blog/2024/05/08/build-an-f-you-network
 * https://wiki.c2.com/?SovietShoeFactoryPrinciple
 * https://www.scottsmitelli.com/articles/take-oncall-and-shove-it
+* https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer
 
 
 Interviews
@@ -275,7 +273,7 @@ Git Stuff
 * https://cerfacs.fr/coop/coop-cactus-model
 * https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy
 * https://blog.sulami.xyz/posts/cleaning-up-git-history
-* http://rogerdudler.github.io/git-guide
+* https://rogerdudler.github.io/git-guide
 * https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
 * https://lethain.com/trunk-and-branches
@@ -372,7 +370,7 @@ Go Stuff
     go fmt *.go                  # style the code
 
 * https://opensource.com/article/22/4/go-build-options
-* http://howistart.org/posts/go/1
+* https://howistart.org/posts/go/1
 * https://www.youtube.com/watch?v=oyTgx6S87XY
 * https://www.youtube.com/watch?v=ysgMlGHtDMo
 * https://benhoyt.com/writings/prig/?showhn  Go AWK
@@ -413,7 +411,7 @@ Go Stuff
 * https://github.com/bramvdbogaerde/go-scp
 * https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go
 * https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code
-* http://golang50shad.es  common Go mistakes for beginners
+* https://golang50shades.com  common Go mistakes for beginners
 * https://threedots.tech/post/making-games-in-go
 * https://ebitengine.org  2d library
 * https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc  some Go tricks
