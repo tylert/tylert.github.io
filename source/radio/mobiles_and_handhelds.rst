@@ -145,6 +145,7 @@ Transport RNodes
 * https://lectronz.com/products/solar-mppt-charger-for-meshtastic  KiCAD design files for the PCB
 * https://lectronz.com/products/fully-assembled-meshtastic-solar-node-station  another all-in-one solution
 * https://www.youtube.com/watch?v=T1itQcdf5cc  nRF52840 RNode, Pi Zero RNS, WiFi hotspot
+* https://www.loramesh.org  loads more Reticulum/RNode info and solar installs
 
 
 Reticulum
