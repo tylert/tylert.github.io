@@ -25,7 +25,7 @@ New Kobo Stuff
 * https://www.mobileread.com/forums/showthread.php?t=295612  list of Kobo hacks and utilities
 * https://www.mobileread.com/forums/showthread.php?t=274231  Kute File Monitor (KFM) for Kobo
 * https://www.mobileread.com/forums/showthread.php?t=314220  One-Click Packages (OCP) for Kobo and a helpful install.sh script
-* https://github.com/olup/kobowriter
+* https://github.com/olup/kobowriter  Kobo + USB keyboard = distraction-free writing device
 * https://comparisontabl.es/kobo-e-readers
 * https://www.reddit.com/r/kobo/comments/117zz25/kobo_sage_what_are_these_side_contacts_for
 * https://help.kobo.com/hc/en-us/articles/4406292782615-Using-your-Kobo-Sage-PowerCover  PowerCover stuff
@@ -48,6 +48,14 @@ Other
 
 * https://takov751.gitlab.io/posts/project_kobodeck  building a Golang application to run on a Kobo?
 * https://letsdecentralize.org/tutorials/kobo-terminal.html  browsing Gemini sites on a Kobo?
+* https://yingtongli.me/blog/2018/07/29/kobo-sd.html  accessing the internal microSD card
+* https://yingtongli.me/blog/2018/07/30/kobo-rego.html  bypassing registration garbage
+* https://yingtongli.me/blog/2018/07/30/kobo-telnet.html  enabling telnet (root user access)
+* https://yingtongli.me/blog/2018/07/30/kobo-telnet-usb.html  enable telnet over USB
+* https://yingtongli.me/blog/2018/07/30/kobo-autostart-usb.html  autostart the telnet thing
+* https://yingtongli.me/blog/2018/07/30/kobo-autoswitch-usb.html  autoswitch between regular USB and telnet over USB
+* https://yingtongli.me/blog/2018/07/30/kobo-ssh.html  enable dropbear
+* https://github.com/shermp/go-fbink-v2  FBInk for Go?
 
 
 Old Kobo Stuff
