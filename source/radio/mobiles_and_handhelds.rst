@@ -84,10 +84,10 @@ Other fun over RNodes::
     # Assuming you're still in your Python venv...
     # host A (10.0.0.1)
     rnodeconf /dev/ttyUSB0 \
-        --freq 915000000 \  # frequency in Hz
+        --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12)
+        --sf 9           \  # spreading factor (7 to 12... or is it 5 to 12?)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
@@ -100,10 +100,10 @@ Other fun over RNodes::
     # Assuming you're still in your Python venv...
     # host B (10.0.0.2)
     rnodeconf /dev/ttyUSB0 \
-        --freq 915000000 \  # frequency in Hz
+        --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12)
+        --sf 9           \  # spreading factor (7 to 12... or is it 5 to 12?)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyUSB0 115200 \
