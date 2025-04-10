@@ -219,3 +219,4 @@ Other
 * https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt
 * https://github.com/benjojo/dumb-net-poller  Go utility to scrape /proc for network statistics for Grafana
 * https://blog.brixit.nl/making-a-linux-managed-network-switch  DIY managed Gigabit Ethernet switch
+* https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev  another fancy whitebox switch
