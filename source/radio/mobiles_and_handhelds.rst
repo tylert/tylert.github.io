@@ -170,6 +170,7 @@ Reticulum
 * https://github.com/attermann/microReticulum_Firmware  supports RAK4631 nRF52840 boards?
 * https://reticulum.n7ekb.net  some notes about running your own networks
 * https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
+* https://reticulum.network/connect.html  other test nets
 
 LXMF config for a server::
 
@@ -194,7 +195,6 @@ Reticulum config for a server::
 
 Reticulum config for a client::
 
-    # ~/.reticulum/config
     [reticulum]
     enable_transport = no
     [interfaces]
@@ -204,13 +204,12 @@ Reticulum config for a client::
       [[Whoopdidoo]]
         type = TCPClientInterface
         enabled = yes
-        target_host = 100.100.100.100
+        target_host = <EXT_IP_OR_HOSTNAME_OF_RNS_SERVER>
         target_port = 4242
       [[RNode]]
         type = RNodeInterface
         enabled = yes
-        port = /dev/ttyACM0
-        # port = ble://
+        port = /dev/ttyACM0  # port = ble://
         frequency = 915000000
         bandwidth = 125000
         txpower = 22
