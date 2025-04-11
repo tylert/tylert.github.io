@@ -42,6 +42,28 @@ TOTP, CA, U2F, FIDO
     auth required pam_google_authenticator.so secret=/root/.google_authenticator user=root
 
 
+Firewall Magic
+--------------
+
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+* https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-debian-11
+* https://github.com/fail2ban/fail2ban/discussions/3680
+
+::
+
+    apt-get --yes install ufw
+    ufw status numbered
+    ufw insert 1 deny from 100.100.100.100/32
+
+    apt-get --yes install fail2ban
+    # Sigh, why isn't this the default?!?
+    echo "backend = systemd" >> /etc/fail2ban/jail.d/defaults-debian.conf
+    systemctl start fail2ban
+
+    iptables -L ufw-user-input -n  # see what's being blocked by ufw
+    iptables -L f2b-sshd -n  # see what's being blocked by fail2ban
+
+
 Dynamic DNS
 -----------
 
