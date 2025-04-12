@@ -152,3 +152,4 @@ Other
 
 * https://github.com/carlosefr/spinner-mouse  arcade spinny thing
 * https://github.com/omriharel/deej  sliders
+* https://hackaday.com/2024/01/31/3d-mouse-with-3d-printed-flexures-and-pcb-coils  OS3M open-source 3D mouse
