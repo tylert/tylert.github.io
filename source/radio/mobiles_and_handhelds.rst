@@ -8,6 +8,9 @@ LoRa
 * https://unsigned.io/guides/2022_03_26_private-messaging-over-lora.html
 * https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
+* https://unsigned.io/tncattach
+* https://unsigned.io/using-rnode-as-a-lora-based-wireless-nic
+* https://gist.github.com/liamcottle/f42d01570108ec71706fb9c109fc5408
 * https://unsigned.io/understanding-lora-parameters  calculate data rate from coding rate, spreading factor, etc.
 * https://reticulum.network/manual/networks.html#interconnected-lora-sites
 * https://reticulum.network/hardware.html
