@@ -58,16 +58,13 @@ Build firmware for RNodes::
     # make
 
     # Prepare Python stuff
-    python -m venv .venv ; source .venv/bin/activate
-    python -m pip install adafruit-nrfutil  # for flashing firmware
-    python -m pip install rns               # for rnodeconf and rns* utils
+    python -m pip install --break-ssytem-packages adafruit-nrfutil  # for flashing firmware
+    python -m pip install --break-ssytem-packages rns               # for rnodeconf and rn* utils
 
-    # Assuming you're still in your Python venv...
     # ERROR: Can not perform a '--user' install. User site-packages are not visible in this virtualenv.
     # patch ./Makefile (remove all occurences of "--user")
     make prep-nrf
 
-    # Assuming you're still in your Python venv...
     # Error during build: fork/exec python /home/bubba/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/uf2conv/uf2conv.py: no such file or directory
     # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/platform.txt (fix quotes on line with "uf2conv")
     # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/platform.txt (fix quotes on line with "uf2conv")
@@ -76,7 +73,6 @@ Build firmware for RNodes::
 
 More firmware stuff for RNodes::
 
-    # Assuming you're still in your Python venv...
     # If this is your first time running this here
     rnodeconf --key
 
@@ -84,36 +80,34 @@ More firmware stuff for RNodes::
 
 Other fun over RNodes::
 
-    # Assuming you're still in your Python venv...
-    # host A (10.0.0.1)
-    rnodeconf /dev/ttyUSB0 \
+    # host A
+    rnodeconf /dev/ttyACM0 \
         --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12... or is it 5 to 12?)
+        --sf 9           \  # spreading factor (7 to 12)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
-    sudo tncattach /dev/ttyUSB0 115200 \
+    sudo tncattach /dev/ttyACM0 115200 \
+        --ipv4 10.0.0.1/24 \
         --daemon   \
         --ethernet \
-        --ipv4 10.0.0.1/24
-        --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
+        --mtu 478  \  # 500 - 22 bytes Ethernet + VLANs (default 392)
         --noipv6
 
-    # Assuming you're still in your Python venv...
-    # host B (10.0.0.2)
-    rnodeconf /dev/ttyUSB0 \
+    # host B
+    rnodeconf /dev/ttyACM0 \
         --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12... or is it 5 to 12?)
+        --sf 9           \  # spreading factor (7 to 12)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
-    sudo tncattach /dev/ttyUSB0 115200 \
+    sudo tncattach /dev/ttyACM0 115200 \
+        --ipv4 10.0.0.2/24 \
         --daemon   \
         --ethernet \
-        --ipv4 10.0.0.2/24
-        --mtu 478  \  # RNode can handle 500 - 22 bytes for Ethernet with VLAN tags (default 392)
+        --mtu 478  \  # 500 - 22 bytes Ethernet + VLANs (default 392)
         --noipv6
 
 Raw bytes sent by rnodeconf::
