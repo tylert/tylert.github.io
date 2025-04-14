@@ -7,11 +7,13 @@ LoRa
 * https://meshtastic.org/docs/hardware/devices/heltec-automation/mesh-node
 * https://unsigned.io/guides/2022_03_26_private-messaging-over-lora.html
 * https://unsigned.io/guides/2020_05_27_ethernet-and-ip-over-packet-radio-tncs.html
+* https://unsigned.io/guides/2018_07_01_using-rnode-as-a-lora-based-wireless-nic.html
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
 * https://unsigned.io/tncattach
 * https://unsigned.io/using-rnode-as-a-lora-based-wireless-nic
 * https://gist.github.com/liamcottle/f42d01570108ec71706fb9c109fc5408
 * https://unsigned.io/understanding-lora-parameters  calculate data rate from coding rate, spreading factor, etc.
+* https://github.com/markqvist/Reticulum/wiki/Popular-RNode-Settings  anecdotal LoRa settings
 * https://reticulum.network/manual/networks.html#interconnected-lora-sites
 * https://reticulum.network/hardware.html
 * https://github.com/markqvist/Reticulum  also includes rnodeconf utility
@@ -148,6 +150,8 @@ Transport RNodes
 Reticulum
 ---------
 
+* https://hub.federated.channel/channel/reticulum  news and updates for Reticulum
+* https://github.com/markqvist/Reticulum/discussions/702  some newbie thoughts on Reticulum
 * https://github.com/markqvist/Reticulum/discussions/399  encryption
 * https://github.com/markqvist/Reticulum/discussions/84  encryption
 * https://github.com/markqvist/Reticulum/discussions/70  encryption
@@ -168,6 +172,7 @@ Reticulum
 * https://reticulum.n7ekb.net  some notes about running your own networks
 * https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
 * https://reticulum.network/connect.html  other test nets
+* https://www.technopolis.tv/blog/2023/05/22/TNC-IP-over-LoRa
 
 LXMF config for a server::
 
