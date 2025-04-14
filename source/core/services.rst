@@ -290,3 +290,11 @@ CI/CD
 -----
 
 * https://devopscube.com/jenkins-build-agents-kubernetes
+
+
+Crawler Stuff
+-------------
+
+* https://xeiaso.net/notes/2025/anubis-works
+* https://anubis.techaro.lol
+* https://github.com/TecharoHQ/anubis

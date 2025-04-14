@@ -213,6 +213,7 @@ Voice Assistants
 * https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
 * https://www.optoutproject.net/ditch-your-alexa
+* https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 
 
 Local Files

@@ -146,6 +146,7 @@ Networking
 * https://github.com/Twi/glaceon
 * https://github.com/Twi/glaceon-operator
 * https://github.com/subtrace/subtrace  Wireshark-like functionality for containers
+* https://github.com/sanspareilsmyn/kforward  CLI tool for working with services in K8s
 
 
 Load-Balancing
