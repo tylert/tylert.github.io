@@ -79,6 +79,7 @@ Game Stuff
 * https://github.com/shizmob/rpatool  RenPy data file repacking thing maybe?
 * https://github.com/Steam-Headless/docker-steam-headless  access your big game machine from any web browser?
 * https://diymultideck.mauri.app  fancy deck of cards
+* https://naikari.github.io  open-source space game thing
 
 
 Zelda3
