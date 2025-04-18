@@ -44,6 +44,8 @@ SQLite
 * https://mrsuh.com/articles/2024/sqlite-index-visualization-structure
 * https://stackoverflow.com/questions/2359205/copying-data-from-one-sqlite-database-to-another
 * https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust
+* https://misfra.me/2025/virtual-tables-in-sqlite-with-go
+* https://misfra.me/2025/sqlite-transactions-and-virtual-tables
 
 ::
 

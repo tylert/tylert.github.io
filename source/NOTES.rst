@@ -216,6 +216,8 @@ Apt Stuff
 * http://docs.docker.com/examples/apt-cacher-ng
 * https://mikecoats.com/debian-packaging-first-principles-part-1-simple
 * https://jangafx.com/insights/linux-binary-compatibility  calling apt from python (subprocess shell goop)
+* https://github.com/attunehq/attune  nerdctl compose up an APT repo
+* https://attunehq.com  nerdctl compose up an APT repo
 
 (on apt-cacher-ng server)::
 
