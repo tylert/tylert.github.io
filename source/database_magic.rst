@@ -121,6 +121,7 @@ Querying
 * https://github.com/archiewood/gosql
 * https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite
 * https://github.com/medialab/xan  the CSV magician
+* https://github.com/cube2222/octosql  CLI tool to join JSON with SQL and other weird things
 
 
 Encryption

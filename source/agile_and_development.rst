@@ -456,6 +456,9 @@ Go Stuff
 * https://www.goravel.dev  Laravel-like thing for Go
 * https://www.practical-go-lessons.com/chap-18-go-module-proxies
 * https://github.com/goproxy/goproxy
+* https://github.com/mantcz/awesome-go-cli
+* https://cli.urfave.org  nice, simple CLI wrapper lib
+* https://github.com/urfave/cli  nice, simple CLI wrapper lib
 
 
 Rust Stuff
