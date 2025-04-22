@@ -16,6 +16,7 @@ Other
 * https://crossplane.io
 * https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
 * https://bilbof.com/posts/kubernetes-on-hetzner
+* https://octabyte.io  managed open-source apps?
 
 ::
 
