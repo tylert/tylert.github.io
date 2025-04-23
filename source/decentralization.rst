@@ -128,6 +128,7 @@ Publishing
 * https://github.com/pdfcpu/pdfcpu  Go PDF processing tool
 * https://pdfcpu.io  Go PDF processing tool
 * https://github.com/typst/svg2pdf
+* https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly
 
 
 Offline Fun

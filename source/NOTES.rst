@@ -205,6 +205,7 @@ HandBrake settings for DVDs::
 * https://github.com/mifi/lossless-cut
 * https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video
+* https://motion-project.github.io  MotionEye
 
 
 Apt Stuff
@@ -287,6 +288,7 @@ Cool Shell Tricks
 * https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
 * https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts
 * https://proycon.anaproy.nl/posts/my-cli-tools-for-text-processing
+* https://blog.atuin.sh/atuin-desktop-runbooks-that-run  automation stuff?
 
 ::
 

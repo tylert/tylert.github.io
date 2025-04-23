@@ -317,6 +317,8 @@ Python Stuff
 * https://akrabat.com/defining-python-dependencies-at-the-top-of-the-file  PEP 723???
 * https://akrabat.com/using-uv-as-your-shebang-line
 * https://docs.astral.sh/uv  Rust loader thing for Python???
+* https://github.com/autokitteh/autokitteh
+* https://www.thepythoncodingstack.com/p/demystifying-python-decorators
 
 
 Ruby Stuff

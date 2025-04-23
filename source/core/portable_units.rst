@@ -248,6 +248,8 @@ Cyberdecks and Tiny Machines
 * https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution  tiny NAS units?
 * https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c  old Kindle as a display?
 * https://github.com/ZitaoTech/Hackberry-Pi_Zero  Pi 02W with a tiny screen and keyboard
+* https://github.com/ericjenott/Evertop  solar-powered emulated 80186 for running Minix, DOS, Windows 3.0, etc.
+* https://github.com/unkyulee/micro-journal
 
 
 Power Supplies

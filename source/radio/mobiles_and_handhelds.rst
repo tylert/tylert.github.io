@@ -298,6 +298,7 @@ HackRF and PortaPack
 * https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/portapack-mayhem/mayhem-firmware/wiki/Add-GPIO-to-H2
 * https://github.com/portapack-mayhem/mayhem-firmware/wiki/USB%E2%80%90C-charging-modification-for-older-HackRF-boards  second charge port?
+* https://blog.videah.net/attacking-my-landlords-boiler
 
 
 Shortwave Receivers

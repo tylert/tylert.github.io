@@ -220,3 +220,4 @@ Other
 * https://github.com/benjojo/dumb-net-poller  Go utility to scrape /proc for network statistics for Grafana
 * https://blog.brixit.nl/making-a-linux-managed-network-switch  DIY managed Gigabit Ethernet switch
 * https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev  another fancy whitebox switch
+* https://interfacinglinux.com/2024/12/26/banana-pi-bpi-r4-openwrt-quickstart  dual-10GbE SFP
