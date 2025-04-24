@@ -127,6 +127,8 @@ AI
 * https://stable-diffusion-art.com/qr-code  incorporates a QR code into artwork
 * https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget
 * https://muffinman.io/blog/the-tiny-book-of-great-joys  centre-line tracing for pen plotting
+* https://github.com/trycua/cua  containers for AI?
+* https://koomen.dev/essays/horseless-carriages
 
 
 Other

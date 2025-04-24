@@ -1,3 +1,13 @@
+Providers
+---------
+
+* https://sr.ht  git hosting
+* https://srht.site  static web hosting
+* https://paste.sr.ht  paste hosting
+* https://sourcehut.org  sr.ht folks
+* https://codeberg.org  git hosting
+
+
 Git Stuff
 ---------
 

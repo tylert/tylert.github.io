@@ -46,3 +46,10 @@ Microphone Mute Buttons
 * http://hackerpublicradio.org/eps.php?id=3077
 * https://medium.com/macoclock/how-in-the-bleep-do-i-mute-my-mic-anywhere-on-macos-d2fa1185b13
 * https://www.reddit.com/r/olkb/comments/gjlgsc/anyone_managed_to_get_a_macro_to_muteunmute_the
+
+
+Audio Players
+-------------
+
+* https://www.crowdsupply.com/cool-tech-zone/tangara
+* https://github.com/amachronic/echoplayer
