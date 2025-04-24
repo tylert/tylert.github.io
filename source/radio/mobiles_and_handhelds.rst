@@ -80,6 +80,11 @@ More firmware stuff for RNodes::
 
     rnodeconf --autoinstall
 
+Flash an official firmware zip fetched from GitHub::
+
+    adafruit-nrfutil dfu serial --package rnode_firmware_1.82_heltec_t114.zip --port /dev/ttyACM0 --baudrate 115200 --touch 1200
+    rnodeconf /dev/ttyACM0 --firmware-hash $(./partition_hashes from_device /dev/ttyACM0)
+
 Other fun over RNodes::
 
     # host A
