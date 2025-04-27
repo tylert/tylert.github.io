@@ -316,17 +316,18 @@ Assorted Things-to-Read
 * https://sambleckley.com/writing/church-of-interruption.html
 * https://tynan.com/letstalk
 * https://www.neelnanda.io/blog/43-making-friends
-* http://www.structuredprocrastination.com/index.php
+* https://structuredprocrastination.com/index.php
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office
 * https://blog.jim-nielsen.com/2022/what-work-looks-like
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
-* http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers
+* http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
 * https://www.onedayyoullfindyourself.com
 * https://garnix.io/blog/call-by-hash
 * https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
 * https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist
 * https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f
+* https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting
 
 
 Humour
