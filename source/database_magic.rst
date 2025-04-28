@@ -46,6 +46,7 @@ SQLite
 * https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust
 * https://misfra.me/2025/virtual-tables-in-sqlite-with-go
 * https://misfra.me/2025/sqlite-transactions-and-virtual-tables
+* https://sqlite.org/cli.html#redirecting_i_o  .once directive
 
 ::
 
@@ -122,6 +123,12 @@ Querying
 * https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite
 * https://github.com/medialab/xan  the CSV magician
 * https://github.com/cube2222/octosql  CLI tool to join JSON with SQL and other weird things
+
+
+ORM
+---
+
+* https://blog.julik.nl/2025/04/a-can-of-shardines
 
 
 Encryption

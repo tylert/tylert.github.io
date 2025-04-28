@@ -30,6 +30,7 @@ Microscopes and Camera Stuff
 * https://github.com/TadPath/PUMA  PUMA Microscope (PUMA = Portable Upgradeable Modular Affordable)
 * https://docs.hackerfab.org/hacker-fab-space
 * https://www.briandorey.com/post/raspberry-pi-high-quality-camera-on-the-microscope
+* https://mariozechner.at/posts/2025-04-20-boxie  USB microscope upgrade?
 
 
 Camera Stuff

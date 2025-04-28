@@ -52,6 +52,7 @@ Email
 * https://stalw.art
 * https://workaround.org/ispmail-bookworm
 * https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
+* https://lib.rs/crates/m2sync  m2dir-imap sync tool
 
 
 Linux Phones
