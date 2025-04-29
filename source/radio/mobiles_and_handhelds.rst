@@ -92,7 +92,7 @@ Other fun over RNodes::
         --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12)
+        --sf 8           \  # spreading factor (6 to 12)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyACM0 115200 \
@@ -107,7 +107,7 @@ Other fun over RNodes::
         --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
         --bw 125000      \  # bandwidth in Hz
         --txp 22         \  # Tx power in dBm (max 22)
-        --sf 9           \  # spreading factor (7 to 12)
+        --sf 8           \  # spreading factor (6 to 12)
         --cr 6           \  # coding rate (5 to 8)
         --tnc               # TNC mode
     sudo tncattach /dev/ttyACM0 115200 \
@@ -220,7 +220,7 @@ Reticulum config for a client::
         frequency = 915000000
         bandwidth = 125000
         txpower = 22
-        spreadingfactor = 9
+        spreadingfactor = 8
         codingrate = 6
 
 
