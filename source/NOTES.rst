@@ -387,7 +387,7 @@ Cool Products
 
 * http://nwavguy.blogspot.ca/2011/07/o2-headphone-amp.html
 * https://teenage.engineering/products/tx-6  pocket mixer/synth
-* https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km on a page wire fence???
+* https://botblox.io/products/speblox-long  10 Mbps Ethernet over 1 km
 * https://novamostra.com/2022/10/23/byopm  Pi Zero pocket password manager???
 * https://transistor-man.com/lenovo_ebike_adapter.html  DIY DC-DC Thiccpad power brick
 * https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
@@ -456,6 +456,7 @@ Awesome Stuff
 * https://billwear.github.io  assorted neat stuff
 * https://github.com/tomhea/c2fj  compile C programs to NOT gates?
 * https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji
+* https://idiallo.com/blog/zipbomb-protection  feeding gzip-compressed blobs of /dev/zero to bots
 
 
 Microservices
