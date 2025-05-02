@@ -47,6 +47,7 @@ SQLite
 * https://misfra.me/2025/virtual-tables-in-sqlite-with-go
 * https://misfra.me/2025/sqlite-transactions-and-virtual-tables
 * https://sqlite.org/cli.html#redirecting_i_o  .once directive
+* https://alexwlchan.net/2025/copying-sqlite-databases  rsync dbs
 
 ::
 
