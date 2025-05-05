@@ -156,7 +156,8 @@ Reticulum
 ---------
 
 * https://hub.federated.channel/channel/reticulum  news and updates for Reticulum
-* https://github.com/markqvist/Reticulum/discussions/702  some newbie thoughts on Reticulum
+* https://hub.federated.channel/channel/reticulum?mid=5f06882f-ddbe-4cf0-ab9c-bac79f9172ff  Rphones
+* https://github.com/markqvist/Reticulum/discussions/702  some newbie thoughts about Reticulum
 * https://github.com/markqvist/Reticulum/discussions/399  encryption
 * https://github.com/markqvist/Reticulum/discussions/84  encryption
 * https://github.com/markqvist/Reticulum/discussions/70  encryption
@@ -178,6 +179,9 @@ Reticulum
 * https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
 * https://reticulum.network/connect.html  other test nets
 * https://www.technopolis.tv/blog/2023/05/22/TNC-IP-over-LoRa
+* https://github.com/resiliencetheatre/rpi4edgemap  Reticulum and Meshtastic on same map?
+* https://resilience-theatre.com/edgemap
+* https://resilience-theatre.com/wiki/doku.php?id=start
 
 LXMF config for a server::
 

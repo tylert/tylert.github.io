@@ -90,6 +90,8 @@ DevOps / Deploy
 * https://gist.github.com/mattiaslundberg/8620837
   ``Arch linux deploy to UEFI w/ LUKS``
 * https://blog.codeship.com/immutable-deployments
+* https://gist.github.com/Syderitic/23b9c22cb772e1b0e674ed4bb5a3abef  LUKS2, TPM2, FIDO2, btrfs
+* https://forum.endeavouros.com/t/using-fido2-keys-to-unlock-luks-on-endeavouros/51111
 
 
 Docker
