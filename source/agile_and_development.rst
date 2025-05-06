@@ -183,6 +183,7 @@ Mentorship Stuff
 * https://wiki.c2.com/?SovietShoeFactoryPrinciple
 * https://www.scottsmitelli.com/articles/take-oncall-and-shove-it
 * https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer
+* https://notashelf.dev/posts/curse-of-knowing
 
 
 Interviews
@@ -461,6 +462,7 @@ Go Stuff
 * https://github.com/mantcz/awesome-go-cli
 * https://cli.urfave.org  nice, simple CLI wrapper lib
 * https://github.com/urfave/cli  nice, simple CLI wrapper lib
+* https://victoriametrics.com/blog/go-graceful-shutdown/index.html
 
 
 Rust Stuff

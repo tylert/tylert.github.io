@@ -186,6 +186,7 @@ PiHole
 * https://raspberrypi.stackexchange.com/questions/58732/remove-ssh-warning-about-default-password
 * https://github.com/pi-hole/pi-hole/#one-step-automated-install
 * https://greg.jeanmart.me/2020/04/13/self-host-pi-hole-on-kubernetes-and-block-ad
+* https://den.dev/blog/pihole
 
 ::
 

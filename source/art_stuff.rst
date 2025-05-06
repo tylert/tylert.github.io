@@ -114,6 +114,7 @@ Graphics
 -----------
 
 * https://github.com/cooljjj33/PolyDye  white filament + inkjet technology = full-colour prints
+* https://blog.rahix.de/design-for-3d-printing
 
 
 AI
