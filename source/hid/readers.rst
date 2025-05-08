@@ -56,6 +56,7 @@ Other
 * https://yingtongli.me/blog/2018/07/30/kobo-autoswitch-usb.html  autoswitch between regular USB and telnet over USB
 * https://yingtongli.me/blog/2018/07/30/kobo-ssh.html  enable dropbear
 * https://github.com/shermp/go-fbink-v2  FBInk for Go?
+* https://github.com/ciromattia/kcc  Python manga image-processing workflow thing?
 
 
 Old Kobo Stuff

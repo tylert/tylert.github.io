@@ -137,6 +137,7 @@ Container Stuff
 * https://abhisman.notion.site/Understanding-ReplicaSet-vs-StatefulSet-vs-DaemonSet-vs-Deployments-a521f9a46ea446219d98be4972f2e16e
 * https://dagger.io/blog/dagger-shell
 * https://docs.dagger.io/install
+* https://github.com/rzane/docker2exe  turn a docker container into an executable (that still requires docker)
 
 
 Networking
