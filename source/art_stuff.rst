@@ -14,6 +14,7 @@ Photography Stuff
 * https://github.com/wikey/bookscan  workflow automation for scanning books
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
 * http://aggregate.org/DIT/CHDK  CHDK with CHDKPTP remote control
+* https://gitlab.com/zephray/sitina1  open-source DSLR body
 
 
 Microscopes and Camera Stuff
@@ -115,6 +116,8 @@ Graphics
 
 * https://github.com/cooljjj33/PolyDye  white filament + inkjet technology = full-colour prints
 * https://blog.rahix.de/design-for-3d-printing
+* https://github.com/FullControlXYZ/fullcontrol  a different way of handling slicing/pathing
+* https://fullcontrol.xyz/#/models
 
 
 AI

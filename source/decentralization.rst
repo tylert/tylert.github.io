@@ -131,6 +131,7 @@ Publishing
 * https://pdfcpu.io  Go PDF processing tool
 * https://github.com/typst/svg2pdf
 * https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly
+* https://overreacted.io/static-as-a-server  pre-generate output from a web server?
 
 
 Offline Fun
