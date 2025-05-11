@@ -132,6 +132,7 @@ Publishing
 * https://github.com/typst/svg2pdf
 * https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly
 * https://overreacted.io/static-as-a-server  pre-generate output from a web server?
+* https://plainvanillaweb.com/index.html  no framework web pages and simple, single-page applications
 
 
 Offline Fun

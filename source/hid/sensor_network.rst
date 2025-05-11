@@ -79,6 +79,7 @@ Pi Pico/PicoW
 * https://github.com/mcknly/breadboard-os
 * https://www.cnx-software.com/2024/12/26/inky-frame-7-3-7-color-epaper-display-powered-by-a-raspberry-pi-pico-2-w
 * https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory
+* https://pfister.dev/blog/2025/rp2350-uart-bl.html
 
 
 nRF52840
