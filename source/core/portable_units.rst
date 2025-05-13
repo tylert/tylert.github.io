@@ -214,6 +214,7 @@ Voice Assistants
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
 * https://www.optoutproject.net/ditch-your-alexa
 * https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
+* https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device
 
 
 Local Files

@@ -10,6 +10,7 @@ Binary Goop
 -----------
 
 * https://apple.stackexchange.com/questions/429197/how-can-i-distinguish-arm-binaries-from-x86-binaries-on-macos/436911#436911
+* https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803
 
 
 Other

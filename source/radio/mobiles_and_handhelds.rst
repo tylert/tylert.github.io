@@ -19,17 +19,18 @@ LoRa
 * https://github.com/markqvist/Reticulum  also includes rnodeconf utility
 * https://github.com/markqvist/tncattach
 * https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/Reticulum%20Manual.pdf
-* https://www.chatters.io
+* https://chatters.io
 * https://awsh.org/rnode
 * https://github.com/liamcottle/reticulum-meshchat
 * https://gitlab.com/crankylinuxuser/meshtastic_sdr  Tx and Rx for Meshtastic from HackRF
-* https://www.youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
-* https://www.youtube.com/watch?v=aBt56UpaQ0E  how to get started with Reticulum and RNode
+* https://youtube.com/watch?v=aBt56UpaQ0E&list=PLNuF5RFkwVtEjRU0wriiSQWO5B6jMKGi7&index=1  other Reticulum/RNode videos
+* https://youtube.com/watch?v=aBt56UpaQ0E  how to get started with Reticulum and RNode
 * https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum
 * https://reticulum.betweentheborders.com/guidance.pdf  "Sideband Situation Tracker" search-and-rescue team sensor network?
 * https://r8io.github.io/rns-presentations/source/001-introduction.html
 * https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
 * https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
+* https://elecrow.com/thinknode-m1-meshtastic-lora-signal-transceiver-powered-by-nrf52840-with-154-screen-support-gps.html
 
 
 APRS
@@ -45,11 +46,11 @@ Heltec T114
 -----------
 
 * https://heltec.org/project/mesh-node-t114  Heltec T114-V2
-* https://www.aliexpress.com/item/1005008182274183.html  Heltec T114-V2
-* https://www.aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (20cm and 40cm versions)
+* https://aliexpress.com/item/1005008182274183.html  Heltec T114-V2
+* https://aliexpress.com/item/1005006359246399.html  915 MHz handheld radio antennas (20cm and 40cm versions)
 * https://github.com/meshtastic/firmware/issues/4723#issuecomment-2369336696  Heltec T114-V1 hardware bug description
-* https://www.zerofox3d.com/products/flexo-hardware-kit?variant=53497579471223  custom switch PCB?
-* https://www.zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit  custom battery holder?
+* https://zerofox3d.com/products/flexo-hardware-kit?variant=53497579471223  custom switch PCB?
+* https://zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit  custom battery holder?
 * https://github.com/arduino/arduino-cli/issues/1538  some Arduino horribleness
 * https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624  some more Arduino horribleness
 
@@ -138,18 +139,18 @@ Transport RNodes
 * https://unsigned.io/rnode_bootstrap_console/guides/make_rnodes.html
 * https://git.liberatedsystems.co.uk/jacob.eva/opencom_xl_firmware
 * https://store.liberatedsystems.co.uk/product/wisblock-sx1280-module  Semtech SX1280 2.4-2.5 GHz @ up to 0.5 W (27 dBm max) and 200 kbps
-* https://www.cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
+* https://cnx-software.com/2022/08/30/esp32-board-supports-2-4ghz-lora-with-sx1280-rf-transceiver
 * https://lilygo.cc/products/t3s3-v1-0  Semtech SX1280 with ESP32-S3 (12 dBm max)
 * https://duckduckgo.com/?q=2.4+GHz+grid+antenna&t=ffab&iar=images&iax=images&ia=images  2.4 GHz grid antenna images
-* https://www.meezenest.nl/mees-elektronica/projects/reticulum_design_my_own_rnode/index.html  RNode from scratch overview
-* https://www.reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
-* https://www.youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
+* https://meezenest.nl/mees-elektronica/projects/reticulum_design_my_own_rnode/index.html  RNode from scratch overview
+* https://reddit.com/r/meshtastic/comments/1fekv0v/gorse_solar_node_using_t114  solar charging for Heltec T114-V2
+* https://youtube.com/watch?v=FcQzAxWBN7A  solar charging for Heltec T114-V2
 * https://github.com/heyitsyang/W9ETC-Meshtastic-Solar-Node  MPPT modules?
 * https://uart.cz/en/2534/solar-mppt-charger-for-meshtastic  LoRa module, CN3795 MPPT charging chip, boost converter on custom board
 * https://lectronz.com/products/solar-mppt-charger-for-meshtastic  KiCAD design files for the PCB
 * https://lectronz.com/products/fully-assembled-meshtastic-solar-node-station  another all-in-one solution
-* https://www.youtube.com/watch?v=T1itQcdf5cc  nRF52840 RNode, Pi Zero RNS, WiFi hotspot
-* https://www.loramesh.org  loads more Reticulum/RNode info and solar installs
+* https://youtube.com/watch?v=T1itQcdf5cc  nRF52840 RNode, Pi Zero RNS, WiFi hotspot
+* https://loramesh.org  loads more Reticulum/RNode info and solar installs
 
 
 Reticulum
@@ -178,7 +179,7 @@ Reticulum
 * https://reticulum.n7ekb.net  some notes about running your own networks
 * https://ikiwiki.laglab.org/_Reticulum  more notes about getting started as a group
 * https://reticulum.network/connect.html  other test nets
-* https://www.technopolis.tv/blog/2023/05/22/TNC-IP-over-LoRa
+* https://technopolis.tv/blog/2023/05/22/TNC-IP-over-LoRa
 * https://github.com/resiliencetheatre/rpi4edgemap  Reticulum and Meshtastic on same map?
 * https://resilience-theatre.com/edgemap
 * https://resilience-theatre.com/wiki/doku.php?id=start
@@ -240,7 +241,7 @@ Meshtastic
 DMR
 ---
 
-* https://www.farnsworth.org/dale/codeplug/editcp  better CPS
+* https://farnsworth.org/dale/codeplug/editcp  better CPS
 * https://github.com/dalefarnsworth-dmr  better CPS
 * https://www.retevis.com/Download/brochure/RT3S-brochure.pdf  RT3S brochure
 * https://www.retevis.com/resources_center/mannual/RT3S-English-Manual.pdf  RT3S manual
@@ -249,10 +250,10 @@ DMR
 * https://www.retevis.com/resources_center/software/RT3S_updated_FirmwareV3.04.zip  official firmware
 * https://www.retevis.com/resources_center/software/RT3S_GPS_SoftwareV1.2.zip  official CPS
 * https://www.retevis.com/resources_center/software/RT3&RT8_USBDriver.zip  official USB driver
-* https://www.youtube.com/watch?v=Lw0Y-jQZMZ0  DMR features and overview
+* https://youtube.com/watch?v=Lw0Y-jQZMZ0  DMR features and overview
 * https://www.jeffreykopcak.com/2017/06/11/dmr-in-amateur-radio-programming-a-code-plug  DMR programming
-* https://www.youtube.com/watch?v=VExx628R0DM  DMR programming
-* https://www.youtube.com/watch?v=ip3a37G68JA  DMR programming in French
+* https://youtube.com/watch?v=VExx628R0DM  DMR programming
+* https://youtube.com/watch?v=ip3a37G68JA  DMR programming in French
 * https://www.taitradioacademy.com/topic/benefits-of-dmr-1
 * https://www.jpole-antenna.com/2018/07/13/retevis-rt3s-dual-band-dmr-handheld-transceiver-review
 * https://m6ceb.com/reviews/retevis-rt3s-dmr-fm-dual-band-handheld-radio
@@ -262,49 +263,49 @@ DMR
 * https://radioid.net
 * https://blog.retevis.com/index.php/how-to-set-rt3s-aprs
 * http://www.tothewoods.net/Comms-mounting-baofeng-uv-5r-ham-radio-in-Jeep-Wrangler-TJ.php
-* https://www.thingiverse.com/thing:2252779  RT3S cradle
-* https://www.thingiverse.com/thing:267879  clone RAM arm
-* https://www.thingiverse.com/thing:1323115  clone RAM base
-* https://www.youtube.com/watch?v=wsPt91xVEKE  MMDVM build
-* https://www.youtube.com/watch?v=gVlXYLTD_DI  MMDVM build
-* https://www.youtube.com/watch?v=DNQgZx92Gj0  MMDVM build
+* https://thingiverse.com/thing:2252779  RT3S cradle
+* https://thingiverse.com/thing:267879  clone RAM arm
+* https://thingiverse.com/thing:1323115  clone RAM base
+* https://youtube.com/watch?v=wsPt91xVEKE  MMDVM build
+* https://youtube.com/watch?v=gVlXYLTD_DI  MMDVM build
+* https://youtube.com/watch?v=DNQgZx92Gj0  MMDVM build
 
 
 Repeaters
 ---------
 
-* https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-2/550725  20-pin connector housing
-* https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-1/289312  16-pin connector housing
-* https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/1-87309-3/29826  16-pin pins
+* https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-2/550725  20-pin connector housing
+* https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-1/289312  16-pin connector housing
+* https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/1-87309-3/29826  16-pin pins
 * https://www.itead.cc/nextion-nx4832k035.html  3.5 Nextion display
-* https://www.amazon.ca/M-D-Building-Products-84327-020-Inch/dp/B007NG6EQI  holey metal
-* https://www.rtl-sdr.com/a-tutorial-on-using-sdrangel-for-dmr-d-star-and-fusion-reception-with-an-rtl-sdr
+* https://amazon.ca/M-D-Building-Products-84327-020-Inch/dp/B007NG6EQI  holey metal
+* https://rtl-sdr.com/a-tutorial-on-using-sdrangel-for-dmr-d-star-and-fusion-reception-with-an-rtl-sdr
 * https://n5amd.com/digital-radio-how-tos/tune-mmdvm-repeater-sdr-low-ber
 
 
 Pagers
 ------
 
-* https://www.hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
+* https://hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f
 * https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century
-* https://www.reddit.com/r/hackrf/comments/ls3a3c/portapack_pocsac_pager_guide
+* https://reddit.com/r/hackrf/comments/ls3a3c/portapack_pocsac_pager_guide
 
 
 HackRF and PortaPack
 --------------------
 
 * https://greatscottgadgets.com/2021/12-07-testing-a-hackrf-clone
-* https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
+* https://rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware
 * https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10002
 * https://opensourcesdrlab.com/products/mayhem-signature-edition-h4m-portapack-and-transparent-shell-with-speaker-and-2500-mah-lithium-battery
 * https://opensourcesdrlab.com/products/r10c-hrf-sdr-software-defined-1mhz-to-6ghz-mainboard-development-board-kit
-* https://www.printables.com/model/1033734-hackrf-portapack-h4m-stand  desk stand for H4M
-* https://www.printables.com/model/1096252-hackrf-portapack-h4m-rotary-encoder-dial-upgrade  grippier scrolly thing for H4M
-* https://www.printables.com/model/784000-threaded-sma-connector-knurled-caps-fpv-drones-hac  SMA covers
+* https://printables.com/model/1033734-hackrf-portapack-h4m-stand  desk stand for H4M
+* https://printables.com/model/1096252-hackrf-portapack-h4m-rotary-encoder-dial-upgrade  grippier scrolly thing for H4M
+* https://printables.com/model/784000-threaded-sma-connector-knurled-caps-fpv-drones-hac  SMA covers
 * https://ppsplash.creativo.hu  PortaPack splash screens
 * https://github.com/htotoo/PPSplash
 * https://github.com/llopisdon/skies-adsb  3D ADS-B visualizer in web browser
-* https://www.nooelec.com/store/opera-cake.html  HackRF antenna switcher?
+* https://nooelec.com/store/opera-cake.html  HackRF antenna switcher?
 * https://github.com/portapack-mayhem/mayhem-firmware/wiki/Add-GPIO-to-H2
 * https://github.com/portapack-mayhem/mayhem-firmware/wiki/USB%E2%80%90C-charging-modification-for-older-HackRF-boards  second charge port?
 * https://blog.videah.net/attacking-my-landlords-boiler
@@ -316,12 +317,12 @@ Shortwave Receivers
 * https://swling.com/blog/2018/09/guest-post-supercharging-the-xhdata-d-808-with-a-7-5-loopstick
 * https://swling.com/blog/2021/10/gary-debocks-xhdata-d-808-loopstick-model
 * https://swling.com/blog/2021/05/gary-debocks-2021-ultralight-radio-shootout
-* https://www.amazon.ca/Tecsun-Digital-PL330-Worldband-Receiver/dp/B0921HN6QM  Tecsun PL-330
-* https://www.amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  XHDATA D-808
+* https://amazon.ca/Tecsun-Digital-PL330-Worldband-Receiver/dp/B0921HN6QM  Tecsun PL-330
+* https://amazon.ca/XHDATA-Portable-Speaker-Display-External/dp/B0DCFZYMHY  XHDATA D-808
 * https://swling.com/blog/2020/09/tecsun-pl-330-initial-impressions-overview-of-functions-and-operation
 * https://swling.com/blog/tag/xhdata-d-808-review
-* https://www.blogordie.com/2023/05/pl-330-or-d-808
-* https://www.blogordie.com/2023/03/my-favorite-shortwave-radio
+* https://blogordie.com/2023/05/pl-330-or-d-808
+* https://blogordie.com/2023/03/my-favorite-shortwave-radio
 
 
 Other

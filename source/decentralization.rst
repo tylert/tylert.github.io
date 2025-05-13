@@ -33,6 +33,7 @@ BBS
 * https://github.com/haliphax/xthulu
 * https://github.com/InterLinked1/lbbs
 * https://github.com/virtadpt/ebbs
+* https://github.com/VeggieVampire/MeshBoard
 
 
 Email
@@ -80,6 +81,7 @@ Other
 * https://taoshu.in/unix/jool-nat64.html
 * https://github.com/bypirob/airo  deploy thingy?
 * https://letsdecentralize.org
+* https://bowshock.nl/irc  start your own internet resiliency club
 
 
 Containers Images Backups
@@ -144,6 +146,13 @@ Offline Fun
 * https://github.com/agersant/polaris  some kind of self-hosted streaming audio server thing
 * https://github.com/ogarcia/docker-polaris  container for polaris
 * https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page
+
+
+Wireless
+--------
+
+* https://a.wholelottanothing.org/how-to-build-a-5-acre-wifi-network-cheap-reliable-long-range-wireless-points-make-amazing-things-possible
+* https://startyourownisp.com
 
 
 Proxies
