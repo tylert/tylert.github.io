@@ -79,23 +79,12 @@ Initial Setup
     passwd root
 
 
-Firmware and Extras
--------------------
+Firmware and Updates
+--------------------
 
 ::
 
-    pacman --noconfirm --sync wireguard-tools
+    pikvm-update
 
     pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
     rpi-eeprom-update -a -d
-
-
-Upgrades
---------
-
-::
-
-    # Put the main root filesystem into "writable mode"
-    rw
-
-    wget https://raw.githubusercontent.com/tylert/dotfiles/master/bin/upgrade_everything.sh
