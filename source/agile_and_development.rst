@@ -288,6 +288,7 @@ Git Stuff
 * https://ente.io/blog/monorepo-retrospective
 * https://www.cyberdemon.org/2024/03/20/submodules.html
 * https://cbea.ms/git-commit  How to write a git commit message
+* https://github.com/git-bug/git-bug  decentralized issue tracking
 
 
 Process Stuff

@@ -138,12 +138,13 @@ Other
 * https://the-dam.org/docs/explanations/suc.html  awesome local server chat thing (5 lines of bash???)
 * https://the-dam.org  pay-for Unix/Linux playground
 * https://tildeverse.org  Unix/Linux playground awesome
-* http://tilde.club  Unix/Linux playground
+* https://tilde.club  Unix/Linux playground
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
 * https://github.com/thomiceli/opengist  open-source, self-hostable GitHub Gists and/or pastebin
 * https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop
 * https://www.zedng.com/p/harden-linux-self-hosting-vps-dokku-nextjs-migration  Heroku-like thing?
 * https://zolagonano.github.io/a-ninjas-handbook
+* https://archivista.ch/cms/en/home  document management system?
 
 
 Authentication
@@ -252,7 +253,6 @@ bash lines::
 Networking Magic
 ----------------
 
-* http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets
 * https://github.com/luainkernel/lunatik  LUA scripting for kernel stuff???
 * https://startyourownisp.com
 * https://j6b72.de/article/why-you-should-take-a-look-at-traefik
@@ -284,6 +284,7 @@ Webby Stuff
 * https://www.devever.net/~hl/mildlydynamic
 * https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header
 * https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
+* https://it-notes.dragas.net/tags/cdn  DIY CDN magic?
 
 
 CI/CD

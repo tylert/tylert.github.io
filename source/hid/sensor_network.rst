@@ -2,7 +2,7 @@ Fan Controller
 --------------
 
 * https://digiblur.com/2021/07/08/itead-sonoff-ifan04-l-they-listened
-* https://www.amazon.ca/iFAN04-L-Ceiling-Controller-Assistant-Required/dp/B09C21LX9R
+* https://amazon.ca/iFAN04-L-Ceiling-Controller-Assistant-Required/dp/B09C21LX9R
 * https://templates.blakadder.com/sonoff_iFan04-L.html
 * https://sonoff.tech/product-document/diy-smart-switches-doc/ifan04-l-doc
 * https://sonoff.tech/product/diy-smart-switches/ifan04-l
@@ -11,10 +11,10 @@ Fan Controller
 Thermostat Stuff
 ----------------
 
-* https://www.mysensors.org/build/rs485
+* https://mysensors.org/build/rs485
 * https://arduinoinfo.mywikis.net/wiki/RS485-Modules
-* https://www.raspberrypi.org/products/raspberry-pi-pico/specifications
-* https://www.windmill.co.uk/rs485.html
+* https://raspberrypi.org/products/raspberry-pi-pico/specifications
+* https://windmill.co.uk/rs485.html
 * https://en.wikipedia.org/wiki/RS-485
 * https://buzzert.net/posts/2020-02-10-chipotherm
 * https://github.com/gtls64/MontyHome-Hackers-Guide  MontyHome compost sensor
@@ -32,7 +32,7 @@ Garage Door Stuff
 -----------------
 
 * https://github.com/geerlingguy/pico-w-garage-door-sensor
-* https://www.hackster.io/news/open-and-close-your-garage-door-with-raspberry-pi-81347881a4cb
+* https://hackster.io/news/open-and-close-your-garage-door-with-raspberry-pi-81347881a4cb
 
 
 Level Stuff
@@ -50,7 +50,7 @@ Light Switches
 Weather Station Stuff
 ---------------------
 
-* https://www.instructables.com/DIY-Weather-Station-With-ESP32
+* https://instructables.com/DIY-Weather-Station-With-ESP32
 
 
 Magnetometer
@@ -64,7 +64,7 @@ Pi Pico/PicoW
 -------------
 
 * https://forums.raspberrypi.com/viewtopic.php?p=2015975#p2015975  BLE on Pico
-* https://www.raspberrypi.com/news/getting-to-grips-with-bluetooth-on-pico-w
+* https://raspberrypi.com/news/getting-to-grips-with-bluetooth-on-pico-w
 * https://electrocredible.com/raspberry-pi-pico-serial-uart-micropython
 * https://arduino-pico.readthedocs.io
 * https://github.com/Noltari/pico-uart-bridge
@@ -77,8 +77,8 @@ Pi Pico/PicoW
 * http://cowlark.com/2021-02-16-fuzix-pi-pico
 * https://github.com/kevinmcaleer/pi_to_pico_bluetooth
 * https://github.com/mcknly/breadboard-os
-* https://www.cnx-software.com/2024/12/26/inky-frame-7-3-7-color-epaper-display-powered-by-a-raspberry-pi-pico-2-w
-* https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory
+* https://cnx-software.com/2024/12/26/inky-frame-7-3-7-color-epaper-display-powered-by-a-raspberry-pi-pico-2-w
+* https://raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory
 * https://pfister.dev/blog/2025/rp2350-uart-bl.html
 
 
@@ -92,9 +92,9 @@ nRF52840
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/overview
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/update-bootloader  nRF52 bootloader upgrades
 * https://learn.adafruit.com/adafruit-itsybitsy-nrf52840-express/circuitpython-cpu-temp
-* https://www.adafruit.com/product/4481  part available from Adafruit
-* https://www.pishop.ca/product/adafruit-itsybitsy-nrf52840-express-bluetooth-le  part available from PiShop.ca
-* https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4481/11497502  part available from Digikey.ca
+* https://adafruit.com/product/4481  part available from Adafruit
+* https://pishop.ca/product/adafruit-itsybitsy-nrf52840-express-bluetooth-le  part available from PiShop.ca
+* https://digikey.ca/en/products/detail/adafruit-industries-llc/4481/11497502  part available from Digikey.ca
 * https://github.com/orgs/micropython/discussions/13482  MicroPython on ItsyBitsy?
 * https://github.com/tinygo-org/tinygo/issues/2591  DotStar on ItsyBitsy is just a APA102 RGB LED
 * https://pkg.go.dev/tinygo.org/x/drivers/apa102
@@ -151,9 +151,9 @@ Temperature Controller
 
 * https://heatmasterss.com/products/mf-eseries  MF 5000e overview
 * https://heatmasterss.com/wp-content/uploads/2022/02/MF-Series-Owners-Manual-2018-HM-Update.pdf  MF 5000e manual
-* https://www.rancoetc.com/ranco-etc-111000-000-digital-temperature-controller  default controller
-* https://www.rancoetc.com/ranco-etc-111100-000-digital-temperature-controller0-10v-output  replacement controller
-* https://www.amazon.ca/Ranco-Product-ETC-111100-000/dp/B00EZH3BO6
+* https://rancoetc.com/ranco-etc-111000-000-digital-temperature-controller  default controller
+* https://rancoetc.com/ranco-etc-111100-000-digital-temperature-controller0-10v-output  replacement controller
+* https://amazon.ca/Ranco-Product-ETC-111100-000/dp/B00EZH3BO6
 
 
 USB Sniffer
@@ -165,6 +165,6 @@ USB Sniffer
 Tools
 -----
 
-* https://www.instructables.com/Reading-Digital-Callipers-with-an-Arduino-USB
-* http://www.shumatech.com/support/chinese_scales.htm
+* https://instructables.com/Reading-Digital-Callipers-with-an-Arduino-USB
+* https://shumatech.com/support/chinese_scales.htm
 * https://github.com/kemsky/arduino-digital-caliper
