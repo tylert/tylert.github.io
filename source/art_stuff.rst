@@ -5,6 +5,15 @@ Font Stuff
 * https://github.com/faiface/pixel/wiki/Typing-text-on-the-screen
 * https://github.com/golang/freetype/blob/master/example/freetype/main.go
 * https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon
+* https://www.technomancer.com/archives/163  creating a Linux console font
+* https://www.reddit.com/r/linuxquestions/comments/7st7hz/any_way_to_convert_ttf_files_to_psf_files
+* https://en.wikipedia.org/wiki/PC_Screen_Font  pretty simple format in case you want to just handbomb it
+* https://aur.archlinux.org/packages/otf2bdf
+* https://aur.archlinux.org/packages/bdf2psf
+
+::
+
+    setfont moo.psf.gz
 
 
 Photography Stuff
