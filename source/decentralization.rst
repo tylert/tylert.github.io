@@ -132,6 +132,10 @@ Publishing
 * https://github.com/pdfcpu/pdfcpu  Go PDF processing tool
 * https://pdfcpu.io  Go PDF processing tool
 * https://github.com/typst/svg2pdf
+* https://crates.io/crates/svg2pdf-cli  cargo install svg2pdf-cli
+* https://aur.archlinux.org/packages/svg2pdf  AUR svg2pdf-typst
+* https://aur.archlinux.org/packages/svg2pdf-git  AUR svg2pdf-cairo???
+* https://github.com/wszqkzqk/pdf-svg-conv  yet another svg2pdf (and pdf2svg too)
 * https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly
 * https://overreacted.io/static-as-a-server  pre-generate output from a web server?
 * https://plainvanillaweb.com/index.html  no framework web pages and simple, single-page applications

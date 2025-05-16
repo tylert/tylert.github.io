@@ -105,6 +105,7 @@ Music Stuff
 * https://github.com/sergree/matchering  funky AI stuff with music
 * https://opendaw.studio  DAW in a web browser
 * https://sallywolf.ca  flute and recorder lessons
+* https://codeberg.org/unspeaker/tek  old-school tracker?
 
 
 Blender
