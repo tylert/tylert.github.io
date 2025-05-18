@@ -33,3 +33,13 @@ PT-2730::
 --
 
 * https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator
+
+
+Dymo Tapewriter
+---------------
+
+* https://thingiverse.com/thing:5150698  replacement driver gear
+* https://github.com/andreisperid/E-TKT
+* https://andreisperid.github.io/E-TKT
+* https://glenalec.net/projects/dymo  custom embossing wheels (wrong model)
+* https://thingiverse.com/thing:6176018  custom embossing wheels (wrong model)
