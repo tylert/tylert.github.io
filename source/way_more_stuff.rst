@@ -3,6 +3,7 @@ Ansible Stuff
 
 * https://www.jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem
 * https://github.com/sivel/amanda  Golang web thing for self-hosting Ansible Galaxy Collections
+* https://github.com/Blackmamoth/sshsync  possible, smaller replacement for ad-hoc ansible?
 
 
 Terraform Stuff

@@ -139,6 +139,7 @@ Publishing
 * https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly
 * https://overreacted.io/static-as-a-server  pre-generate output from a web server?
 * https://plainvanillaweb.com/index.html  no framework web pages and simple, single-page applications
+* https://github.com/clawsoftware/clawPDF  pdfcpu/pdftk/tesseract/cups-pdf as a service?
 
 
 Offline Fun
