@@ -269,3 +269,12 @@ Serial Communication
 * https://github.com/tio/tio
 * https://github.com/npat-efault/picocom
 * https://hackaday.com/2022/10/31/need-an-usb-i2c-adapter-use-your-pico
+
+
+Navigation
+----------
+
+* https://medium.com/maptiler/diy-car-navigation-on-raspberry-pi-with-openmaptiles-f84a00848abf
+* https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping
+* https://github.com/akhenakh/mocs  Go, Qt app
+* https://ozzmaker.com/navigating-navit-raspberry-pi
