@@ -2,10 +2,10 @@ NNCP
 ----
 
 * https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
-* https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
+* https://complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * https://www.complete.org/nncp
-* http://www.nncpgo.org/Use-cases.html
+* http://nncpgo.org/Use-cases.html
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
 * https://github.com/jgoerzen/nncp-tools  helper shell scripts for maintaining and using NNCP
 * https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network
@@ -158,6 +158,7 @@ Wireless
 
 * https://a.wholelottanothing.org/how-to-build-a-5-acre-wifi-network-cheap-reliable-long-range-wireless-points-make-amazing-things-possible
 * https://startyourownisp.com
+* https://wndw.net  Wireless Networks for the Developing World
 
 
 Proxies

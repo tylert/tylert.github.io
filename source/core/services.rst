@@ -85,6 +85,7 @@ VPN
 
 * https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard
 * https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
+* https://github.com/axllent/wireguard-vanity-keygen  try to generate Wireguard keys containing words
 
 
 Email
@@ -285,12 +286,14 @@ Webby Stuff
 * https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header
 * https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
 * https://it-notes.dragas.net/tags/cdn  DIY CDN magic?
+* https://github.com/mtlynch/picoshare  clicky file sharing thing for non-technical people?
 
 
 CI/CD
 -----
 
 * https://devopscube.com/jenkins-build-agents-kubernetes
+* https://github.com/nektos/act  GitHub Actions locally?
 
 
 Crawler Stuff

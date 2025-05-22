@@ -10,7 +10,7 @@ SDR
 * https://www.rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
 * https://sdrswitch.com
 * https://rfnm.com
-* https://www.reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
+* https://reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
 * https://www.sdrpp.org
 * https://101-things.readthedocs.io/en/latest/radio_receiver.html  any-mode Pi Pico SDR receiver for 0 to 30 MHz
 
@@ -29,7 +29,7 @@ Modems and Interfaces
 
 * https://www.repeater-builder.com/projects/fob/startech-fob.html
 * https://www.marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html
-* https://www.amazon.ca/s?k=cm108
+* https://amazon.ca/s?k=cm108
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
 * http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
@@ -57,12 +57,12 @@ GRCon And Others
 
 * https://irrational.net/2022/10/04/building-challenges-for-the-grcon22-ctf
 * https://github.com/argilo/grcon22
-* https://www.youtube.com/watch?v=Qx8uFhumgGM
-* https://www.youtube.com/watch?v=5qKp4sMZ59A&t=430s  M17
-* https://www.youtube.com/watch?v=kVY3E3e--_I&t=15069s  KA9Q Radio
-* https://www.youtube.com/watch?v=kVY3E3e--_I&t=11713s  ARDC
-* https://www.youtube.com/watch?v=MHkz7jNynOg
-* https://www.youtube.com/watch?v=kVY3E3e--_I  TAPR DCC
+* https://youtube.com/watch?v=Qx8uFhumgGM
+* https://youtube.com/watch?v=5qKp4sMZ59A&t=430s  M17
+* https://youtube.com/watch?v=kVY3E3e--_I&t=15069s  KA9Q Radio
+* https://youtube.com/watch?v=kVY3E3e--_I&t=11713s  ARDC
+* https://youtube.com/watch?v=MHkz7jNynOg
+* https://youtube.com/watch?v=kVY3E3e--_I  TAPR DCC
 
 
 Hermes Lite 2
@@ -71,9 +71,9 @@ Hermes Lite 2
 * http://hermeslite.com
 * https://github.com/softerhardware/Hermes-Lite2/wiki
 * https://www.makerfabs.com/hermes-lite-2.html
-* https://www.youtube.com/watch?v=Z09Mr5I6trw
-* https://www.youtube.com/watch?v=QxUivqiMvb0
-* https://www.youtube.com/watch?v=ZY7_cr8SM7I
+* https://youtube.com/watch?v=Z09Mr5I6trw
+* https://youtube.com/watch?v=QxUivqiMvb0
+* https://youtube.com/watch?v=ZY7_cr8SM7I
 * https://www.vk-amps.com
 * https://wr9r.com/the-hermes-lite-2-with-an-atu
 * https://www.lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html
@@ -87,6 +87,12 @@ Antenna Stuff
 * https://github.com/0x9900/AntennaSwitch
 * https://0x9900.com/remote-controlled-antenna-switch
 
+::
+
+    902-928 MHz   for hams and 902-928 MHz   for non-hams - 33 cm band
+    2300-2450 MHz for hams and 2400-2500 MHz for non-hams - 13 cm band
+    5650–5925 MHz for hams and 5725-5875 MHz for non-hams - 5  cm band
+
 
 Ribbit
 ------
@@ -97,7 +103,7 @@ Store.  This might be useful if there's ever a desktop app too.
 * https://www.ribbitradio.org  official site
 * https://github.com/aicodix/rattlegram  app source code
 * https://github.com/phase4ground/ribbit  possible location for source code eventually maybe???
-* https://www.youtube.com/watch?v=_jN4IVccIEw  initial presentation video
+* https://youtube.com/watch?v=_jN4IVccIEw  initial presentation video
 * https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new  presentation slides (PDF)
 
 
@@ -126,14 +132,14 @@ Assorted Stuff
 * https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
 * https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
 * https://github.com/BrucePerens/rigcontrol
-* https://www.youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
+* https://youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
 * `https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#`  IMS 100 self-study course
 * https://www.onallbands.com/simple-filters-from-transmission-line-stubs  coax stub filters
 * http://www.k1ttt.net/technote/k2trstub.html  coax stub filters
 * https://www.n1nc.org/Filters  ugly filter project
 * https://groups.io/g/TXBPF/message/3034  W3NQN-compatible filters with a more reasonable price tag
 * https://www.arraysolutions.com/filters/bpf-hpf  insanely-expensive filters
-* https://www.youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
+* https://youtube.com/watch?v=D1LYLDGknOY  KA9Q-Radio
 * https://lcamtuf.substack.com/p/radios-how-do-they-work
 * https://oe7drt.com/posts/2024/64-packet-radio-vara-mobilinkd-and-digirig-on-linux
 * https://blog.habets.se/2020/06/Amateur-packet-radio-walkthrough.html

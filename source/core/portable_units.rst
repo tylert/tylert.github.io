@@ -31,10 +31,10 @@ Black Case Hardware
 * https://www.pennelcomonline.com/us/Penn-Elcom-Pack-of-4-x-Large-Black-Steel-Ball-Corners-C1340K-PE4/m-10084.aspx  large corners, black (C1340K)
 * https://www.pennelcomonline.com/us/Penn-Elcom-Large-Ball-Corner-C1340Z/m-8810.aspx  large corners, zinc (C1340Z)
 * https://www.pennelcomonline.com/us/Penn-Elcom-Black-Lift-Off-Hinge-57mm-wide-P0625K/m-8508.aspx  lift-off hinges, black
-* https://www.amazon.ca/s?k=reliable+hardware
-* https://www.amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles, black
-* https://www.amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners, black
-* https://www.amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners, black
+* https://amazon.ca/s?k=reliable+hardware
+* https://amazon.ca/Reliable-Hardware-Company-RH-0511BK-Recessed/dp/B00JQYVJNS  medium handles, black
+* https://amazon.ca/BQLZR-48x48x50mm-Protector-Amplifier-Decorations/dp/B078PNY94B  large corners, black
+* https://amazon.ca/EXCEART-Protectors-Furniture-Protector-Amplifier/dp/B08P5FXJKG  large corners, black
 * https://www.diyroadcasesstore.com/l904-914k-small-recessed-twist-latch-black  small latches, black
 * https://www.diyroadcasesstore.com/h7154k-handle-medium-recessed-black  medium handles, black
 * https://www.diyroadcasesstore.com/1031bk-flat-corner-large-black  large corners, black
@@ -112,10 +112,10 @@ Decentralized Infrastructure Stuff
 * https://xeiaso.net/blog/2024/homelab-v2  Talos + Longhorn
 * https://pimalaya.org  PIM software in Rust?
 * https://astrid.tech/2024/05/28/0/ping-ff02-1  magic local networking?
-* https://www.complete.org/recovering-our-lost-free-will-online-tools-and-techniques-that-are-available-now
-* https://www.complete.org/tools-for-communicating-offline-and-in-difficult-circumstances
-* https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
-* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
+* https://complete.org/recovering-our-lost-free-will-online-tools-and-techniques-that-are-available-now
+* https://complete.org/tools-for-communicating-offline-and-in-difficult-circumstances
+* https://complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
+* https://complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
 * https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network
 * https://git.trevorbentley.com/itsy-gitsy  static site generator for git repos
 * https://github.com/mrmekon/itsy-gitsy  static site generator for git repos
@@ -191,8 +191,8 @@ Yggdrasil
 * https://cheapskateguide.org/articles/yggdrasil.html
 * https://yggdrasil-network.github.io/faq.html
 * https://github.com/yggdrasil-network/yggdrasil-go/issues/418  how does local peering work?
-* https://www.reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer
-* https://www.reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to
+* https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer
+* https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to
 * https://medium.com/@mdrahony/how-to-install-yggdrasil-in-debian-stretch-and-find-peers-a9525bf7d2c5
 
 
@@ -237,7 +237,7 @@ OS Upgrades
 Packet Radio
 ------------
 
-* https://www.youtube.com/watch?v=V0FAzMIsxMg
+* https://youtube.com/watch?v=V0FAzMIsxMg
 * https://themodernham.com/modern-introduction-to-packet-radio-ax25-aprs-and-tcp-ip
 * https://unsigned.io/15-kilometre-ssh-link-with-rnode
 * https://www.f6fbb.org  BBS
