@@ -71,15 +71,16 @@ Game Stuff
 * https://news.ycombinator.com/item?id=31590724
 * https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 * https://bazzite.gg  immutable desktop for Steam Decks?
-* https://www.renpy.org/doc/html/build.html#archives  .rpa scripts and images files example
-* https://www.reddit.com/r/RenPy/comments/wq6jms/how_to_compress_un_rpa
-* https://www.reddit.com/r/RenPy/comments/sv92zp/rpa_files  .rpa files are just Python pickle files maybe?
+* https://renpy.org/doc/html/build.html#archives  .rpa scripts and images files example
+* https://reddit.com/r/RenPy/comments/wq6jms/how_to_compress_un_rpa
+* https://reddit.com/r/RenPy/comments/sv92zp/rpa_files  .rpa files are just Python pickle files maybe?
 * https://github.com/Lattyware/unrpa  RenPy data file unpacking
 * https://pypi.org/project/unrpa  pip install unrpa
 * https://github.com/shizmob/rpatool  RenPy data file repacking thing maybe?
 * https://github.com/Steam-Headless/docker-steam-headless  access your big game machine from any web browser?
 * https://diymultideck.mauri.app  fancy deck of cards
 * https://naikari.github.io  open-source space game thing
+* https://lakka.tv  neato interface like RetroArch, RetroPie, Kodi?
 
 
 Zelda3
@@ -272,8 +273,8 @@ LDAP/Kerberos
 Cool Shell Tricks
 -----------------
 
-* http://www.theunixschool.com/2012/10/how-to-find-duplicate-records-of-file.html
-* http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
+* http://theunixschool.com/2012/10/how-to-find-duplicate-records-of-file.html
+* http://theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
 * https://serverfault.com/questions/187712/how-to-determine-if-im-logged-in-via-ssh
 * https://github.com/mrmarble/termsvg  Go binary for shell -> asciinema -> SVG
 * https://github.com/jlevy/the-art-of-command-line
@@ -322,7 +323,7 @@ Assorted Things-to-Read
 * https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free
 * http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers
 * https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
-* https://www.onedayyoullfindyourself.com
+* https://onedayyoullfindyourself.com
 * https://garnix.io/blog/call-by-hash
 * https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure
 * https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist
@@ -340,10 +341,12 @@ Humour
 * https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers  humour
 * https://futurerack.info/main.php#/products_pets  cat server shelf
 * https://fmt2.cat  HE datacentre cats
-* https://www.universal-radio.com/cats.html  ham radio store cats
+* https://universal-radio.com/cats.html  ham radio store cats
 * https://benjamin-brady.github.io/gitlab-simulator  meeting simulator
 * https://experience.prfalken.dev/english/subway-poker
 * https://github.com/vxfemboy/purrcrypt  meowthematical encryption
+* https://wtfpl.net  the "do what you want to public license"
+* https://friendda.org  FriendDA
 
 
 Keepass Stuff
@@ -440,7 +443,7 @@ Awesome Stuff
 * https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8
 * https://www.alvarez.io/posts/living-like-it-s-99
 * https://www.sliderulemuseum.com/SR_Course.htm
-* https://www.youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
+* https://youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.netmeister.org/blog/ops-lessons.html
@@ -470,8 +473,8 @@ Microservices
 Time-Series and Graphing Considerations
 ---------------------------------------
 
-* https://www.datadoghq.com/blog/timeseries-metric-graphs-101
-* https://www.datadoghq.com/blog/metric-units-descriptions-metadata
+* https://datadoghq.com/blog/timeseries-metric-graphs-101
+* https://datadoghq.com/blog/metric-units-descriptions-metadata
 
 
 Crypto
@@ -518,9 +521,9 @@ OpenTofu Awesome
 ----------------
 
 * https://learn.hashicorp.com/tutorials/terraform/sensitive-variables
-* https://www.terraform.io/docs/commands/state/rm.html
+* https://terraform.io/docs/commands/state/rm.html
 * https://www.baeldung.com/ops/terraform-best-practices
-* https://www.terraform-best-practices.com
+* https://terraform-best-practices.com
 * https://bit.ly/terraform-youtube  GH antonbabenko
 * https://github.com/antonbabenko
 * https://serverless.tf
@@ -558,14 +561,14 @@ Family IT Support Calls
 
 * https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1
 * https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2
-* https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html
+* https://schneier.com/blog/archives/2014/03/choosing_secure_1.html
 * https://keepassxc.org
 * https://keepassxc.org/docs
 * https://keepassxc.org/docs/KeePassXC_GettingStarted.html
 * https://keepassxc.org/docs/KeePassXC_UserGuide.html
 * https://en.wikipedia.org/wiki/Diceware
 * https://diceware.dmuth.org
-* https://www.eff.org/dice
+* https://eff.org/dice
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://lwn.net/Articles/925870  TOTP

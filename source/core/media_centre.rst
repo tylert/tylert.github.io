@@ -47,8 +47,8 @@ OSMC on Debian
 Activate MPEG Stuff (DEPRECATED)
 --------------------------------
 
-Go buy license key(s) from http://www.raspberrypi.com/mpeg-2-license-key and
-http://www.raspberrypi.com/vc-1-license-key/.
+Go buy license key(s) from https://raspberrypi.com/mpeg-2-license-key and
+https://raspberrypi.com/vc-1-license-key.
 
 Wait up to 24 hours for an email to arrive with your keys.
 
@@ -68,7 +68,7 @@ The less painful way of enabling the codecs::
     cp start_x.elf start_x.elf.backup && \
         perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start_x.elf.backup > start_x.elf
 
-* https://www.reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license/
+* https://reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license
 * https://news.ycombinator.com/item?id=16381331
 
 
@@ -77,7 +77,7 @@ OSMC (DEPRECATED)
 
 How to Install OSMC (Kodi + Raspbian) on a Raspberry Pi
 
-1.  Download an image file.  Go to osmc.tv (https://osmc.tv/download/-> Disk
+1.  Download an image file.  Go to osmc.tv (https://osmc.tv/download -> Disk
 mmages) and fetch a new image or else pull a recently downloaded one off your
 local storage somewhere.  Make sure to get the one for the appropriate model of
 Raspberry Pi (0, 1, 2 or 3).  These instructions should be roughly pertient for
@@ -136,10 +136,10 @@ select "Install from repository".  Go into the "Kodi Add-on repository".  Under
 
 
 # https://github.com/oss001/KodiStreaming/blob/master/setup.sh
-# https://makingstuffwork.net/technology/watch-netflix-amazon-prime-kodi/
-# https://raspberrytips.com/install-netflix-on-kodi/
+# https://makingstuffwork.net/technology/watch-netflix-amazon-prime-kodi
+# https://raspberrytips.com/install-netflix-on-kodi
 # https://raw.githubusercontent.com/zjoasan/netflix-install-script/master/netflix_prep_install.sh
-# https://www.hackster.io/sbcomponentsuk/netflix-and-amazon-prime-video-now-streaming-on-raspberry-pi-44f3cb
+# https://hackster.io/sbcomponentsuk/netflix-and-amazon-prime-video-now-streaming-on-raspberry-pi-44f3cb
 
 #!/bin/bash
 echo "Starting setup, this will only work on Kodi V18 or greater..."

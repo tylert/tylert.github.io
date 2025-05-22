@@ -6,10 +6,13 @@ Font Stuff
 * https://github.com/golang/freetype/blob/master/example/freetype/main.go
 * https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon
 * https://www.technomancer.com/archives/163  creating a Linux console font
-* https://www.reddit.com/r/linuxquestions/comments/7st7hz/any_way_to_convert_ttf_files_to_psf_files
+* https://reddit.com/r/linuxquestions/comments/7st7hz/any_way_to_convert_ttf_files_to_psf_files
 * https://en.wikipedia.org/wiki/PC_Screen_Font  pretty simple format in case you want to just handbomb it
 * https://aur.archlinux.org/packages/otf2bdf
 * https://aur.archlinux.org/packages/bdf2psf
+* https://heckmeck.de/computerstuff/psf_tools
+* https://linuxfromscratch.org/blfs/view/basic/console-fonts.html
+* https://github.com/NateChoe1/ttf2psf  maybe convert TTF to PSF directly
 
 ::
 
@@ -46,27 +49,27 @@ Microscopes and Camera Stuff
 Camera Stuff
 ------------
 
-* https://www.uctronics.com/camera-modules/camera-for-raspberry-pi/arducam-csi-usb-uvc-camera-adapter-board-for-12-3mp-imx477-raspberry-pi-camera-b0278.html
-* https://www.uctronics.com/camera-modules/camera-for-raspberry-pi/arducam-12mp-imx477-ir-cut-filter-auto-switch-camera-for-raspberry-pi-b0270.html
-* https://www.arducam.com/64mp-ultra-high-res-camera-raspberry-pi
-* https://www.kickstarter.com/projects/blindspotgear/power-any-camera-and-12-volt-device-with-the-power-junkie-v2
+* https://uctronics.com/camera-modules/camera-for-raspberry-pi/arducam-csi-usb-uvc-camera-adapter-board-for-12-3mp-imx477-raspberry-pi-camera-b0278.html
+* https://uctronics.com/camera-modules/camera-for-raspberry-pi/arducam-12mp-imx477-ir-cut-filter-auto-switch-camera-for-raspberry-pi-b0270.html
+* https://arducam.com/64mp-ultra-high-res-camera-raspberry-pi
+* https://kickstarter.com/projects/blindspotgear/power-any-camera-and-12-volt-device-with-the-power-junkie-v2
 * http://www.kevsrobots.com/blog/pikon-camera.html
 * https://www.codeproject.com/Articles/665518/Raspberry-Pi-as-low-cost-HD-surveillance-camera
 * https://www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-and-opencv
 * https://github.com/jasaw/bbPiCam
-* https://www.linux.com/learn/give-your-raspberry-pi-night-vision-pinoir-camera
-* https://www.waveshare.com/wiki/RPi_IR-CUT_Camera
-* https://www.amazon.ca/gp/product/B01M1BZXJQ
-* https://www.amazon.ca/gp/product/B0056XFS5S
-* https://www.amazon.ca/gp/product/B003AXEFMI
+* https://linux.com/learn/give-your-raspberry-pi-night-vision-pinoir-camera
+* https://waveshare.com/wiki/RPi_IR-CUT_Camera
+* https://amazon.ca/gp/product/B01M1BZXJQ
+* https://amazon.ca/gp/product/B0056XFS5S
+* https://amazon.ca/gp/product/B003AXEFMI
 * http://nestboxtech.blogspot.ca/2014/10/how-to-make-your-own-raspberry-pi-trail.html
-* http://www.instructables.com/id/PiPoE-powering-a-Raspberry-Pi-over-Ethernet
+* http://instructables.com/id/PiPoE-powering-a-Raspberry-Pi-over-Ethernet
 * https://ruha.camera
 * https://reolink.com  ONVIF cameras (seem to get bad reviews from the Frigate folks though)
 * https://frigate.video  NVR software?
 * https://shinobi.video  has Nodejs gunk
 * https://zoneminder.com  another possibility
-* https://www.aliexpress.com/item/1005004626681677.html  Ingenic T31X + ONVIF + PoE (4 or 5 MPx, 3.6 mm lens)???
+* https://aliexpress.com/item/1005004626681677.html  Ingenic T31X + ONVIF + PoE (4 or 5 MPx, 3.6 mm lens)???
 
 850 nm near IR
 
@@ -80,7 +83,7 @@ CHDK Doc/Book Scanner
 * https://aur.archlinux.org/packages/chdkptp-svn  currently abandoned package
 * https://chdk.setepontos.com/index.php?topic=14091.0  set_clock to set camera date/time
 * https://diybookscanner.org/en/intro.html  some camera selection criteria
-* https://www.scantips.com
+* https://scantips.com
 * https://www.ocr4all.org/about/ocr4all  automated workflows for OCR?
 
 ::
@@ -160,4 +163,4 @@ Woodworking
 -----------
 
 * https://aroundhomediy.com/build-roubo-workbench-leg-vise
-* https://www.leevalley.com/en-ca/shop/tools/workshop/workbenches/benches-and-tables/117579-bora-centipede-table?item=99W8349
+* https://leevalley.com/en-ca/shop/tools/workshop/workbenches/benches-and-tables/117579-bora-centipede-table?item=99W8349
