@@ -283,7 +283,7 @@ Cool Shell Tricks
 * https://thevaluable.dev/vim-advanced
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
 * https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
-* https://www.dns.toys  do horrible things using DNS
+* https://dns.toys  do horrible things using DNS
 * https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff
 * https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html
 * https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
