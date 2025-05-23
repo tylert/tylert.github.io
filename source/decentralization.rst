@@ -68,7 +68,9 @@ Other
 
 * https://www.complete.org/interesting-topics
 * https://olano.dev/blog/software-possession-for-personal-use  local-first software
-* https://www.inkandswitch.com/local-first
+* https://inkandswitch.com/essay/local-first
+* https://inkandswitch.com/local-first
+* https://inkandswitch.com
 * https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
@@ -82,6 +84,7 @@ Other
 * https://github.com/bypirob/airo  deploy thingy?
 * https://letsdecentralize.org
 * https://bowshock.nl/irc  start your own internet resiliency club
+* https://scuttlebutt.nz
 
 
 Containers Images Backups

@@ -5,8 +5,8 @@ Scrum/Agile Stuff
 * https://agilepainrelief.com/the-story-of-a-sprint
 * https://scrumguides.org/scrum-guide.html
 * https://www.scrumalliance.org/why-scrum/scrum-elearning-series
-* https://www.youtube.com/watch?v=502ILHjX9EE  Agile Product Ownership in a Nutshell
-* https://www.youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
+* https://youtube.com/watch?v=502ILHjX9EE  Agile Product Ownership in a Nutshell
+* https://youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
 * https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
@@ -52,7 +52,7 @@ Kanban/Ticket Stuff
 Supply Chain Magic
 ------------------
 
-* https://www.youtube.com/watch?v=JC-xCXcyNXI
+* https://youtube.com/watch?v=JC-xCXcyNXI
 * https://slsa.dev
 * https://github.com/gomods/athens
 * https://gomods.io
@@ -74,7 +74,7 @@ Software Design and Documentation
 
 * https://craftinginterpreters.com
 * https://threedots.tech/post/software-dark-ages
-* https://www.writethedocs.org/guide
+* https://writethedocs.org/guide
 * https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
 * https://www.industrialempathy.com/posts/design-docs-at-google
 * https://er4hn.info/blog/2023.07.22-good_docs_great_effort
@@ -97,7 +97,7 @@ Software Design and Documentation
 Messaging and Logging
 ---------------------
 
-* https://www.enterpriseintegrationpatterns.com/patterns/messaging
+* https://enterpriseintegrationpatterns.com/patterns/messaging
 * https://jeremymorrell.dev/blog/minimal-js-tracing  structured logs and span tracing
 * https://unifiedpush.org/news/20250131_push_for_decentralized
 
@@ -135,7 +135,7 @@ Development
 * https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
 * https://12factor.net
 * https://stokoe.me/summary-hammock-driven-development
-* https://www.catb.org/~esr/faqs/smart-questions.html
+* https://catb.org/~esr/faqs/smart-questions.html
 * https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
@@ -208,6 +208,7 @@ Team Stuff
 * https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire
 * https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
 * https://www.seangoedecke.com/programmer-archetypes
+* https://blog.alexewerlof.com/p/when-a-team-is-too-big
 
 
 Style Guide Stuff
@@ -235,8 +236,8 @@ Diagrams-as-Code Stuff
 Books
 -----
 
-* https://www.amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227
-* https://www.amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
+* https://amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227
+* https://amazon.com/Ministry-Common-Sense-Eliminate-Bureaucratic/dp/0358272564
 
 
 CI/CD Stuff
@@ -261,7 +262,7 @@ Git Stuff
 * https://leoneperdigao.medium.com/pull-request-best-practices-fa20f7daeb3c
 * https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
 * https://trunkbaseddevelopment.com/#scaled-trunk-based-development
-* https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+* https://atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
 * https://makandracards.com/makandra/527-squashing-several-git-commits-into-a-single-commit
 * https://gitbetter.substack.com/p/how-to-squash-git-commits
 * https://davidwalsh.name/squash-commits-git
@@ -269,13 +270,13 @@ Git Stuff
 * https://betterprogramming.pub/why-and-how-to-squash-git-commits-b508b3b0dba
 * https://github.com/erlang/otp/wiki/writing-good-commit-messages
 * https://paulhammant.com/2013/04/05/what-is-trunk-based-development
-* https://www.gitops.tech
+* https://gitops.tech
 * https://baatz.io/2015/how-many-git-repos
 * https://cerfacs.fr/coop/coop-cactus-model
 * https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy
 * https://blog.sulami.xyz/posts/cleaning-up-git-history
 * https://rogerdudler.github.io/git-guide
-* https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+* https://atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
 * https://lethain.com/trunk-and-branches
 * https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
@@ -376,8 +377,8 @@ Go Stuff
 
 * https://opensource.com/article/22/4/go-build-options
 * https://howistart.org/posts/go/1
-* https://www.youtube.com/watch?v=oyTgx6S87XY
-* https://www.youtube.com/watch?v=ysgMlGHtDMo
+* https://youtube.com/watch?v=oyTgx6S87XY
+* https://youtube.com/watch?v=ysgMlGHtDMo
 * https://benhoyt.com/writings/prig/?showhn  Go AWK
 * https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
 * https://jogendra.dev/building-command-line-tools-in-go
@@ -391,7 +392,7 @@ Go Stuff
 * https://roberto.selbach.ca/go-proxies
 * https://stackoverflow.com/questions/65921916/why-does-go-module-ssh-custom-private-repo-non-github-config-still-request-htt
 * https://awesome-go.com
-* https://www.awesomego.net
+* https://awesomego.net
 * https://github.com/felixge/fgtrace  Go tracing
 * https://github.com/nikolaydubina/go-recipes
 * https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
@@ -500,7 +501,7 @@ WASM
 Kubernetes Stuff
 ----------------
 
-* https://www.youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
+* https://youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
 * https://www.figma.com/blog/migrating-onto-kubernetes
 
 
