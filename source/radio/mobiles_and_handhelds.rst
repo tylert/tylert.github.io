@@ -228,6 +228,45 @@ Reticulum config for a client::
         spreadingfactor = 8
         codingrate = 6
 
+rnsd.service::
+
+    [Unit]
+    Description=Reticulum Network Stack Daemon
+    After=multi-user.target
+
+    [Service]
+    # If you run Reticulum on WiFi devices,
+    # or other devices that need some extra
+    # time to initialise, you might want to
+    # add a short delay before Reticulum is
+    # started by systemd:
+    # ExecStartPre=/bin/sleep 10
+    Type=simple
+    Restart=always
+    RestartSec=3
+    User=${USER}
+    ExecStart=rnsd --service
+
+    [Install]
+    WantedBy=multi-user.target
+
+lxmd.service::
+
+    [Unit]
+    Description=Lightweight eXtensible Messaging Daemon
+    After=multi-user.target
+
+    [Service]
+    # ExecStartPre=/bin/sleep 10
+    Type=simple
+    Restart=always
+    RestartSec=3
+    User=${USER}
+    ExecStart=lxmd --service
+
+    [Install]
+    WantedBy=multi-user.target
+
 
 Meshtastic
 ----------
