@@ -290,6 +290,8 @@ Cool Shell Tricks
 * https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts
 * https://proycon.anaproy.nl/posts/my-cli-tools-for-text-processing
 * https://blog.atuin.sh/atuin-desktop-runbooks-that-run  automation stuff?
+* https://github.com/uutils  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
+* https://uutils.github.io  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
 
 ::
 
