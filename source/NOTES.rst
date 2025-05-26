@@ -81,6 +81,7 @@ Game Stuff
 * https://diymultideck.mauri.app  fancy deck of cards
 * https://naikari.github.io  open-source space game thing
 * https://lakka.tv  neato interface like RetroArch, RetroPie, Kodi?
+* https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start  486SX in an FPGA
 
 
 Zelda3
@@ -220,6 +221,7 @@ Apt Stuff
 * https://jangafx.com/insights/linux-binary-compatibility  calling apt from python (subprocess shell goop)
 * https://github.com/attunehq/attune  nerdctl compose up an APT repo
 * https://attunehq.com  nerdctl compose up an APT repo
+* https://optimizedbyotto.com/post/debian-packaging-from-git
 
 (on apt-cacher-ng server)::
 
@@ -292,6 +294,7 @@ Cool Shell Tricks
 * https://blog.atuin.sh/atuin-desktop-runbooks-that-run  automation stuff?
 * https://github.com/uutils  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
 * https://uutils.github.io  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
+* https://heitorpb.github.io/bla/timeout  add timeouts to bash scripts
 
 ::
 
