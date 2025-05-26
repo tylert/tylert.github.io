@@ -43,3 +43,12 @@ Dymo Tapewriter
 * https://andreisperid.github.io/E-TKT
 * https://glenalec.net/projects/dymo  custom embossing wheels (wrong model)
 * https://thingiverse.com/thing:6176018  custom embossing wheels (wrong model)
+
+
+Other
+-----
+
+* https://behind.pretix.eu/2018/01/20/cups-driver  writing your own custom CUPS driver in Python
+* https://github.com/pretix/cups-fgl-printers  ticket printers driver source
+* https://aur.archlinux.org/packages/cups-fgl-printers-git  Arch ticket printers
+* https://download.pretix.eu  Debian ticket printers
