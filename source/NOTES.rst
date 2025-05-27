@@ -208,6 +208,7 @@ HandBrake settings for DVDs::
 * https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video
 * https://motion-project.github.io  MotionEye
+* https://danq.me/2025/05/26/downloading-vs-streaming
 
 
 Apt Stuff

@@ -76,7 +76,7 @@ Service Mesh
 ------------
 
 * https://youtu.be/8T8t4-hQY74
-* https://www.youtube.com/watch?v=vh1YtWjfcyk
+* https://youtube.com/watch?v=vh1YtWjfcyk
 * https://youtu.be/bEFILWrRJJ4
 
 
@@ -95,7 +95,7 @@ Email
 * https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 * https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
-* https://www.xmox.nl  Mox
+* https://xmox.nl  Mox
 * https://github.com/mjl-/mox  Mox
 * https://github.com/neilalexander/yggmail
 * https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc
@@ -302,3 +302,9 @@ Crawler Stuff
 * https://xeiaso.net/notes/2025/anubis-works
 * https://anubis.techaro.lol
 * https://github.com/TecharoHQ/anubis
+
+
+NFS
+---
+
+* https://willowbarraco.fr/my-perfect-music-synchronization-solution

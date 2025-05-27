@@ -21,6 +21,7 @@ Git Stuff
 * https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-and-the-easy-way
 * https://github.com/git-big-picture/git-big-picture  Graphviz sub-graphs of git commit history
 * https://ohmygit.org  game-like git tutorial???
+* https://man.sr.ht/git.sr.ht/#signing-tags-tarballs  git-notes and signing
 
 Stitch two repos together::
 
