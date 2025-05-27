@@ -4,7 +4,7 @@ NNCP
 * https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp
 * https://complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
-* https://www.complete.org/nncp
+* https://complete.org/nncp
 * http://nncpgo.org/Use-cases.html
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
 * https://github.com/jgoerzen/nncp-tools  helper shell scripts for maintaining and using NNCP
@@ -19,7 +19,7 @@ BBS
 * https://github.com/TheCommsChannel/TC2-BBS-mesh  Meshtastic BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
 * https://unsigned.io/hardware/RNode.html  better than Meshtastic?
-* https://www.f6fbb.org
+* https://f6fbb.org
 * http://www.textfiles.com/hamradio/wreck.ham
 * https://donuts-are-good.github.io/shhhbb  SSH BBS
 * https://shazow.net/posts/ssh-how-does-it-even  ssh-chat
@@ -54,6 +54,8 @@ Email
 * https://workaround.org/ispmail-bookworm
 * https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
 * https://lib.rs/crates/m2sync  m2dir-imap sync tool
+* https://gist.github.com/chripede/99b7eaa1101ee05cc64a59b46e4d299f  stalwart deployment
+* https://vkttech.com/setup-and-configure-stalwart-email-server-a-comprehensive-guide-for-2025
 
 
 Linux Phones
@@ -66,7 +68,7 @@ Linux Phones
 Other
 -----
 
-* https://www.complete.org/interesting-topics
+* https://complete.org/interesting-topics
 * https://olano.dev/blog/software-possession-for-personal-use  local-first software
 * https://inkandswitch.com/essay/local-first
 * https://inkandswitch.com/local-first
@@ -103,7 +105,7 @@ Containers Images Backups
 Publishing
 ----------
 
-* https://www.jvt.me/posts/2019/10/20/indieweb-talk
+* https://jvt.me/posts/2019/10/20/indieweb-talk
 * https://github.com/TimoKats/mdrss  Golang Markdown to RSS converter
 * https://pagedjs.org/made-with-paged.js.html
 * https://gitlab.coko.foundation/pagedjs/pagedjs
@@ -129,7 +131,7 @@ Publishing
 * https://github.com/pdf2htmlEX/pdf2htmlEX  PDF to HTML
 * https://pdf2htmlex.github.io/pdf2htmlEX  PDF to HTML
 * https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
-* https://www.artofmanliness.com/lifestyle/homeownership/butler-s-book
+* https://artofmanliness.com/lifestyle/homeownership/butler-s-book
 * https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial
 * https://github.com/kr1sp1n/awesome-gemini
 * https://github.com/pdfcpu/pdfcpu  Go PDF processing tool
@@ -186,8 +188,8 @@ Backups and File Sharing
 * https://blog.jse.li/posts/torrent  Go torrent client
 * http://www.mikerubel.org/computers/rsync_snapshots
 * https://github.com/WikiBox/snapshot.sh
-* https://www.reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
-* https://www.reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
+* https://reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
+* https://reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
 * https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html
 * https://github.com/localsend/localsend
 

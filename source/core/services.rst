@@ -45,8 +45,8 @@ TOTP, CA, U2F, FIDO
 Firewall Magic
 --------------
 
-* https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
-* https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-debian-11
+* https://digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+* https://digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-debian-11
 * https://github.com/fail2ban/fail2ban/discussions/3680
 
 ::
