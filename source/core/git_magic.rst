@@ -22,10 +22,21 @@ Git Stuff
 * https://github.com/git-big-picture/git-big-picture  Graphviz sub-graphs of git commit history
 * https://ohmygit.org  game-like git tutorial???
 
-Use the new tooling for rewriting history::
+Stitch two repos together::
 
-    # Force an entire repo root to look like it was always under a subdirectory
-    git filter-repo --to-subdirectory-filter my-module/
+    # Make the repo look like it was always under a subdirectory
+    # Work on a local clone or be prepared to use '--force'
+    git filter-repo --to-subdirectory-filter doohicky
+
+    # Bring the other repo into this git repo
+    # Ideally, ensure you don't have a 'doohicky' directory already
+    git remote add thing /path/to/local/clone
+    git fetch thing --tags
+    git merge --allow-unrelated-histories thing/whatzit  # <-- remote and branch name
+    git remote rm thing
+
+    # Rejoice that you now have two initial commits
+    git rev-list --abbrev-commit --max-parents=0 HEAD
 
 Fetch a single file::
 
@@ -120,7 +131,7 @@ Workflow Stuff
 --------------
 
 * http://rogerdudler.github.io/git-guide
-* http://www.catb.org/~esr/faqs/smart-questions.html
+* http://catb.org/~esr/faqs/smart-questions.html
 * https://12factor.net
 * https://baatz.io/2015/how-many-git-repos
 * https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful
@@ -162,12 +173,12 @@ Workflow Stuff
 * https://stokoe.me/summary-hammock-driven-development
 * https://trunkbaseddevelopment.com/#scaled-trunk-based-development
 * https://vsardata.blob.core.windows.net/projects/TFS%20Version%20Control%20Part%201%20-%20Branching%20Strategies.pdf
-* https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
-* https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+* https://atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+* https://atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 * https://www.cmcrossroads.com/article/pros-and-cons-four-kinds-code-reviews
 * https://www.endoflineblog.com/gitflow-considered-harmful
 * https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
-* https://www.gitops.tech
+* https://gitops.tech
 * https://www.leshenko.net/p/ugit
 * https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy
 * https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/#toc-use-feature-toggles
