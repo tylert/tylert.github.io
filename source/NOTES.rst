@@ -82,6 +82,10 @@ Game Stuff
 * https://naikari.github.io  open-source space game thing
 * https://lakka.tv  neato interface like RetroArch, RetroPie, Kodi?
 * https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start  486SX in an FPGA
+* https://0mhz.net/download
+* https://0mhz.net/docs
+* https://amiga.vision/download
+* https://amiga.vision/docs
 
 
 Zelda3
@@ -410,6 +414,7 @@ Cool Products
 * https://diypresso.com
 * https://www.kaseyhou.com/#/repairable-flatpack-toaster
 * https://openinverter.org/wiki/ZombieVerter_VCU  Frankenstein electric vehicle brain
+* https://hackaday.com/2025/05/27/hands-on-eufymake-e1-uv-printer
 
 
 RPG Stuff
