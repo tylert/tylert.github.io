@@ -184,6 +184,7 @@ Mentorship Stuff
 * https://www.scottsmitelli.com/articles/take-oncall-and-shove-it
 * https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer
 * https://notashelf.dev/posts/curse-of-knowing
+* https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook
 
 
 Interviews
@@ -397,7 +398,7 @@ Go Stuff
 * https://github.com/nikolaydubina/go-recipes
 * https://golang.ch/a-tiny-web-application-golang-showcases-best-practices-of-running-microservices-in-kubernetes/?amp=1
 * https://gist.github.com/fsmv/02c636d4da58106f113049ee45a62f50  go run???
-* https://www.arp242.net/flags-config-go.html  config stuff
+* https://arp242.net/flags-config-go.html  config stuff
 * https://github.com/arp242/sconfig
 * https://paulgorman.org/technical/blog/20171113164018.html  maybe the best config???
 * https://paseto.io  JWT/JOSE stuff

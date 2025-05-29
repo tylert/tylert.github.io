@@ -1,9 +1,9 @@
 SQLite
 ------
 
-* https://www.sqlitetutorial.net/sqlite-primary-key
+* https://sqlitetutorial.net/sqlite-primary-key
 * https://sqlite.org/datatype3.html  primitive datatypes
-* https://www.sqlite.org/lang_corefunc.html  built-in functions
+* https://sqlite.org/lang_corefunc.html  built-in functions
 * https://sqlitebrowser.org
 * https://github.com/sqlitebrowser/sqlitebrowser
 * https://sqlitestudio.pl
@@ -36,7 +36,7 @@ SQLite
 * https://speakerdeck.com/fractaledmind/how-and-why-to-run-sqlite-in-production
 * https://blog.pecar.me/sqlite-prod
 * https://turso.tech
-* https://www.reddit.com/r/rails/comments/k4vlqo/is_anyone_using_sqlite_on_production_either_side
+* https://reddit.com/r/rails/comments/k4vlqo/is_anyone_using_sqlite_on_production_either_side
 * https://wafris.org/blog/rearchitecting-for-sqlite
 * https://starbasedb.com/blog/building-an-http-sqlite-database-with-cloudflare-durable-objects
 * https://starbasedb.com/blog/developing-acid-transaction-support-in-starbasedb
@@ -67,7 +67,7 @@ JSON
 ----
 
 * https://www.delphitools.info/2021/06/17/sqlite-as-a-no-sql-database
-* https://www.sqlite.org/json1.html
+* https://sqlite.org/json1.html
 * https://sqlite.org/forum/forumpost/012136abd5292b8d
 * https://dgl.cx/2020/06/sqlite-json-support
 
@@ -75,7 +75,7 @@ JSON
 WAL
 ---
 
-* https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md
+* https://sqlite.org/cgi/src/doc/wal2/doc/wal2.md
 
 
 Cloud Stuff
@@ -96,7 +96,7 @@ Clustering and Replication
 * https://github.com/superfly/litefs
 * https://rqlite.io
 * https://github.com/rqlite/rqlite
-* https://www.rqlite.com
+* https://rqlite.com
 * https://www.philipotoole.com
 * https://dqlite.io
 * https://github.com/canonical/dqlite
@@ -202,6 +202,8 @@ PostgreSQL
 * https://xata.io/blog/postgres-webhooks-with-pgstream
 * https://challahscript.com/what_i_wish_someone_told_me_about_postgres
 * https://github.com/frectonz/pglite-fusion  SQLite databases in PostgreSQL tables
+* https://github.com/pgdogdev/pgdog  scaling and sharding magic
+* https://pgdog.dev  scaling and sharding magic
 
 
 MySQL Stuff
