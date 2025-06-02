@@ -131,6 +131,7 @@ Graphics
 * https://blog.rahix.de/design-for-3d-printing
 * https://github.com/FullControlXYZ/fullcontrol  a different way of handling slicing/pathing
 * https://fullcontrol.xyz/#/models
+* https://hackaday.com/2024/09/23/custom-mini-neon-signs-in-10-minutes
 
 
 AI
