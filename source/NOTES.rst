@@ -89,6 +89,7 @@ Game Stuff
 * https://medium.com/@8bitsten/start-with-c-programming-on-amiga-1e8312cec2db
 * http://compilers.de/vbcc.html  vintage CPU/computer C99-compiler, assembler, linker
 * https://aminet.net/tree?path=dev
+* https://misterreplay.com/mister-fpga-guide.html
 
 
 Zelda3
