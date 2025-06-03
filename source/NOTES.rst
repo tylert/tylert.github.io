@@ -90,6 +90,11 @@ Game Stuff
 * http://compilers.de/vbcc.html  vintage CPU/computer C99-compiler, assembler, linker
 * https://aminet.net/tree?path=dev
 * https://misterreplay.com/mister-fpga-guide.html
+* https://krystof.io/mister-fpga-initial-setup-and-network-mounting
+* https://mister-devel.github.io/MkDocs_MiSTer/advanced/computer/#ppp-connection
+* https://www.brutman.com/mTCP  DHCP, HTGET, PING, TELNET, etc.
+* https://github.com/AnttiTakala/SSH2DOS
+* https://misterfpga.org/viewtopic.php?t=478  change hostname, MAC address, etc.
 
 
 Zelda3
