@@ -181,6 +181,7 @@ Other Types
 * https://github.com/tinyplex/tinybase  TinyBase (Jabbascript)
 * https://www.viblo.se/posts/no-need-redis  maybe you don't need Redis
 * https://github.com/sebadob/hiqlite
+* https://heidisql.com  client that works with PostgreSQL, MySQL, etc.
 
 
 PostgreSQL
@@ -194,7 +195,7 @@ PostgreSQL
 * https://docs.omnigres.org
 * https://tembo.io/blog/pg-timeseries
 * https://github.com/kiwicopple/serverless-postgres
-* https://www.orioledb.com
+* https://orioledb.com
 * https://github.com/zalando/spilo  HA containerized PostgreSQL cluster thingy
 * https://event-driven-io.github.io/Pongo  mongodb without mongodb?
 * https://github.com/event-driven-io/Pongo

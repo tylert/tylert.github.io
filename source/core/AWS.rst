@@ -6,7 +6,7 @@ Other
 * https://instances.vantage.sh former ec2instances.info
 * http://aws.typepad.com/aws/atom.xml  RSS feed of AWS news posts
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html  current list of instance types
-* http://cloud-images.ubuntu.com/locator/ec2
+* https://cloud-images.ubuntu.com/locator/ec2
 * https://wiki.debian.org/Cloud/AmazonEC2Image
 * https://www.uplinklabs.net/projects/arch-linux-on-ec2
 * https://gitlab.com/anemos-io/archlinux-ec2
@@ -17,6 +17,8 @@ Other
 * https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
 * https://bilbof.com/posts/kubernetes-on-hetzner
 * https://octabyte.io  managed open-source apps?
+* https://github.com/ubicloud/ubicloud  IaaS frontend?
+* https://ubicloud.com  IaaS frontend?
 
 ::
 
@@ -97,7 +99,7 @@ CLI
 IPv6
 ----
 
-* https://awsipv6.neveragain.de  the needle never quite moves off of 88% IPv4, it seems
+* https://awsipv6.neveragain.de  41% IPv4-only, 58% IPv6-friendly???
 * https://tty.neveragain.de  more awesome stuff
 * https://tty.neveragain.de/2021/04/26/road-to-reweb.html
 
@@ -109,7 +111,7 @@ TGW
 * https://docs.aws.amazon.com/vpc/latest/tgw/tgw-best-design-practices.html
 * https://aws.amazon.com/blogs/networking-and-content-delivery/zendesks-global-mesh-network-how-we-lowered-operational-overhead-and-cost-by-migrating-to-aws-transit-gateway
 * https://mechanicalrock.github.io/2020/02/24/transit-gateway.html
-* https://www.aws.training/Details/eLearning?id=40275
+* https://aws.training/Details/eLearning?id=40275
 
 
 TF
@@ -140,7 +142,7 @@ Exam Prep
 ---------
 
 * https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner
-* https://www.aws.training/Details/eLearning?id=60697
+* https://aws.training/Details/eLearning?id=60697
 * https://aws.amazon.com/s3/storage-classes
 * https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud
 * https://jayendrapatil.com/tag/aws
@@ -175,14 +177,14 @@ Continuous Delivery on EC2
 --------------------------
 
 * https://youtu.be/I6ApIARoMxE
-* http://www.slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
+* http://slideshare.net/AmazonWebServices/aws-december-2015-webinar-series-continuous-delivery-to-amazon-ec2-container-service
 
 
 ECS/EKS
 -------
 
-* https://www.youtube.com/watch?v=MRoPaHUttoA
-* http://www.slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
+* https://youtube.com/watch?v=MRoPaHUttoA
+* http://slideshare.net/AmazonWebServices/aws-april-webinar-series-getting-started-with-amazon-ec2-container-service
 * https://aws.amazon.com/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks
 * https://aws.github.io/aws-eks-best-practices
 
@@ -230,7 +232,7 @@ Assorted
 Cloud Backup and Recovery
 -------------------------
 
-* http://www.slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
+* http://slideshare.net/AmazonWebServices/aws-march-2016-webinar-series-best-practices-for-architecting-cloud-backup-and-recovery-solutions
 
 
 DynamoDB
@@ -243,7 +245,7 @@ OpenSearch
 ----------
 
 * https://youtu.be/cn7QLSPB3OA
-* http://www.slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
+* http://slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
 * https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service
 
 
@@ -251,7 +253,7 @@ Cloud Hybrid
 ------------
 
 * https://youtu.be/tIDbFTIPolQ
-* http://www.slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
+* http://slideshare.net/AmazonWebServices/february-2016-webinar-series-use-aws-cloud-storage-as-the-foundation-for-hybrid-strategy
 * https://www.val.town  weird jabbascript lambda thingy?
 
 

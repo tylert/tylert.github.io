@@ -7,7 +7,7 @@ GPG/PGP Magic
 * https://rgoulter.com/blog/posts/programming/2022-06-10-a-visual-explanation-of-gpg-subkeys.html
 * https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key
 * https://www.g-loaded.eu/2010/11/01/change-expiration-date-gpg-key
-* https://www.gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html
+* https://gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html
 * https://latacora.micro.blog/2019/07/16/the-pgp-problem.html  the worst parts about GPG/PGP!!!
 * https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key
 
@@ -64,6 +64,9 @@ Backups
 * https://wiki.archlinux.org/title/Paperkey
 * https://www.jabberwocky.com/software/paperkey
 * https://github.com/dmshaw/paperkey
+* https://github.com/volution/punchcard-key-backup
+* https://www.monperrus.net/martin/store-data-paper
+* https://www.monperrus.net/martin/perfect-ocr-digital-data
 
 ::
 

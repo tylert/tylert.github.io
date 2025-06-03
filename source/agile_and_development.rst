@@ -417,6 +417,7 @@ Go Stuff
 * https://github.com/yngwiewang/carrier  like ansible ad-hoc but in golang
 * https://github.com/bramvdbogaerde/go-scp
 * https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go
+* https://southcla.ws/structured-errors-in-go
 * https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code
 * https://golang50shades.com  common Go mistakes for beginners
 * https://threedots.tech/post/making-games-in-go

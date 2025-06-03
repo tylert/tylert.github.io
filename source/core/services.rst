@@ -18,6 +18,7 @@ TOTP, CA, U2F, FIDO
 * https://www.linuxbabe.com/ubuntu/two-factor-authentication-ssh-key-ubuntu
 * https://wiki.archlinux.org/title/Google_Authenticator
 * https://github.com/google/google-authenticator-libpam
+* https://feeding.cloud.geek.nz/posts/totp-in-2025
 
 ::
 
