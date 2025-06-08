@@ -14,8 +14,8 @@ TOTP, CA, U2F, FIDO
 * https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey
 * https://github.com/bulwarkid/virtual-fido
 * https://github.com/susam/mintotp
-* https://www.reddit.com/r/selfhosted/comments/h02wzr/how_to_adding_totp_to_sudo
-* https://www.linuxbabe.com/ubuntu/two-factor-authentication-ssh-key-ubuntu
+* https://reddit.com/r/selfhosted/comments/h02wzr/how_to_adding_totp_to_sudo
+* https://linuxbabe.com/ubuntu/two-factor-authentication-ssh-key-ubuntu
 * https://wiki.archlinux.org/title/Google_Authenticator
 * https://github.com/google/google-authenticator-libpam
 * https://feeding.cloud.geek.nz/posts/totp-in-2025
@@ -87,6 +87,7 @@ VPN
 * https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard
 * https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
 * https://github.com/axllent/wireguard-vanity-keygen  try to generate Wireguard keys containing words
+* https://nginxproxymanager.com  more inbound networking magic
 
 
 Email
@@ -95,7 +96,7 @@ Email
 * https://stalw.art  single Rust binary/container for email server stuff
 * https://github.com/stalwartlabs/mail-server  single Rust binary/container for email server stuff
 * https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
-* https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
+* https://xomedia.io/blog/a-deep-dive-into-email-deliverability  DMARC, DKIM, SPF generators?
 * https://xmox.nl  Mox
 * https://github.com/mjl-/mox  Mox
 * https://github.com/neilalexander/yggmail
@@ -131,6 +132,7 @@ Other
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
+* https://ssp.sh/blog/self-host-self-independence
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp
 * https://indieweb.org/POSSE  Publish Own Site Syndicate Elsewhere
@@ -144,7 +146,7 @@ Other
 * https://rafichaudhury.com/site/blog/Folderbase  Hypercard-like Markdown thing
 * https://github.com/thomiceli/opengist  open-source, self-hostable GitHub Gists and/or pastebin
 * https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop
-* https://www.zedng.com/p/harden-linux-self-hosting-vps-dokku-nextjs-migration  Heroku-like thing?
+* https://zedng.com/p/harden-linux-self-hosting-vps-dokku-nextjs-migration  Heroku-like thing?
 * https://zolagonano.github.io/a-ninjas-handbook
 * https://archivista.ch/cms/en/home  document management system?
 
@@ -205,8 +207,10 @@ Script, know thyself::
 
     directory="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
 
-* https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script
+* https://die-welt.net/2021/11/i-just-want-to-run-this-one-python-script
 * https://github.com/gyf304/dotenv  C tool for populating running environment variables
+* https://netfort.gr.jp/~dancer/software/binfmtc.html.en  run arbitrary things in the shell
+* https://twdev.blog/2024/01/docker_multi_platform  run arbitrary things in the shell
 
 
 Ngrok Clone
@@ -283,7 +287,7 @@ Crypto Magic
 Webby Stuff
 -----------
 
-* https://www.devever.net/~hl/mildlydynamic
+* https://devever.net/~hl/mildlydynamic
 * https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header
 * https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
 * https://it-notes.dragas.net/tags/cdn  DIY CDN magic?

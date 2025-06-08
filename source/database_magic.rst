@@ -205,6 +205,7 @@ PostgreSQL
 * https://github.com/frectonz/pglite-fusion  SQLite databases in PostgreSQL tables
 * https://github.com/pgdogdev/pgdog  scaling and sharding magic
 * https://pgdog.dev  scaling and sharding magic
+* https://github.com/wey-gu/py-pglite  Py-PGlite;  PostgreSQL with the ease of SQLite?
 
 
 MySQL Stuff
