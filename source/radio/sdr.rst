@@ -1,17 +1,17 @@
 SDR
 ---
 
-* https://www.ve7xen.com/blog/2015/01/20/recording-nbfm-scanner-with-rtlsdr
+* https://ve7xen.com/blog/2015/01/20/recording-nbfm-scanner-with-rtlsdr
 * https://github.com/mhassell/gqrx_scan
 * https://github.com/gasparka/spectrogram
 * https://github.com/qualitymanifest/timestampSDR
 * https://github.com/n7nix/deviation  FM deviation flowgraph
 * https://github.com/dl9rdz/rdz_ttgo_sonde
-* https://www.rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
+* https://rtl-sdr.com/setting-up-a-dual-rx-system-with-an-sdr-and-ham-radio-rig-via-an-sdrswitch
 * https://sdrswitch.com
 * https://rfnm.com
 * https://reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
-* https://www.sdrpp.org
+* https://sdrpp.org
 * https://101-things.readthedocs.io/en/latest/radio_receiver.html  any-mode Pi Pico SDR receiver for 0 to 30 MHz
 
 
@@ -27,20 +27,20 @@ LimeSDR Mini
 Modems and Interfaces
 ---------------------
 
-* https://www.repeater-builder.com/projects/fob/startech-fob.html
-* https://www.marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html
+* https://repeater-builder.com/projects/fob/startech-fob.html
+* https://marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html
 * https://amazon.ca/s?k=cm108
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
 * https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg
-* http://www.radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
-* https://www.kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
+* http://radioamatoripeligni.it/i6ibe/rt3/cavo.jpg
+* https://kv4p.com  APRS HT-like add-on for Android phones (app is not on F-droid)
 * https://na6d.com/collections/all  AIOC (emulated CM108 option) for handhelds
 * https://github.com/eleccoder/raspi-pico-aprs-tnc
 * https://github.com/amedes/pico_tnc/issues/1  PCB for Pico TNC
 * https://github.com/amedes/pico_tnc
 * https://ae0zw.github.io/pico-tnc
 * https://unsigned.io/introducing-openmodem
-* http://www.mobilinkd.com/2014/09/11/arduino-kiss-tnc
+* http://mobilinkd.com/2014/09/11/arduino-kiss-tnc
 * https://github.com/mobilinkd/tnc1
 * https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html
 
@@ -48,7 +48,7 @@ Modems and Interfaces
 SSB
 ---
 
-* https://www.n6qw.com/PSSST_20.html  copper-clad 7-transistor SSB rig
+* https://n6qw.com/PSSST_20.html  copper-clad 7-transistor SSB rig
 * https://ai6ym.radio/t41-ep-sdt  "T41-EP SDT" radio
 
 
@@ -70,13 +70,13 @@ Hermes Lite 2
 
 * http://hermeslite.com
 * https://github.com/softerhardware/Hermes-Lite2/wiki
-* https://www.makerfabs.com/hermes-lite-2.html
+* https://makerfabs.com/hermes-lite-2.html
 * https://youtube.com/watch?v=Z09Mr5I6trw
 * https://youtube.com/watch?v=QxUivqiMvb0
 * https://youtube.com/watch?v=ZY7_cr8SM7I
-* https://www.vk-amps.com
+* https://vk-amps.com
 * https://wr9r.com/the-hermes-lite-2-with-an-atu
-* https://www.lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html
+* https://lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html
 * https://github.com/mathisschmieder/HL2-MRF101/blob/master/README.md
 
 
@@ -91,7 +91,7 @@ Keyers and Decoders
 Antenna Stuff
 -------------
 
-* https://www.lyonscomputer.com.au/Projects/Coax-Switch-6-Way/Coax-Switch-6-Way.html
+* https://lyonscomputer.com.au/Projects/Coax-Switch-6-Way/Coax-Switch-6-Way.html
 * https://github.com/0x9900/AntennaSwitch
 * https://0x9900.com/remote-controlled-antenna-switch
 
@@ -108,7 +108,7 @@ Ribbit
 The current "walled garden" app is called "Rattlegram" on The Poodle Grey
 Store.  This might be useful if there's ever a desktop app too.
 
-* https://www.ribbitradio.org  official site
+* https://ribbitradio.org  official site
 * https://github.com/aicodix/rattlegram  app source code
 * https://github.com/phase4ground/ribbit  possible location for source code eventually maybe???
 * https://youtube.com/watch?v=_jN4IVccIEw  initial presentation video
@@ -118,27 +118,10 @@ Store.  This might be useful if there's ever a desktop app too.
 Assorted Stuff
 --------------
 
-* https://github.com/ftl/cabrillo  read/write Cabrillo using Golang
-* https://github.com/flwyd/adif-multitool  convert ADIF to/from CSV
-* https://github.com/gocarina/gocsv  unmarshal CSV structs just like JSON
-* https://github.com/k0swe/adi2cbr  convert ADIF to Cabrillo
-* https://github.com/oIdq/qsls  convert ADIF to PDF
-* https://github.com/Matir/adifparser
-* https://github.com/tzneal/ham-go
-* https://pypi.org/project/adif-io
-* https://github.com/xaratustrah/dolphinlog  Python SQLite logger with ADIF 3.x.x export
-* https://github.com/sq8kfh/hamutils  another Python library for dealing with logs
-* https://github.com/timseed/adif_to_csv
-* https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
-* https://github.com/davepacheco/rust-adif
-* http://www.adif.org
-* `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
 * https://youtu.be/nkUR31fj9Xw  OHIS Open Headset Interconnect Standard
 * https://github.com/Halibut-Electronics/Open-Headset-Interconnect-Standard  OHIS
 * https://github.com/skuep/AIOC  cheaper APRS?
 * https://github.com/phase4ground/opv-cxx-demod
-* https://www.commswg.site/_amateur_radio/mmdvm_duplex.shtml
-* https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
 * https://github.com/BrucePerens/rigcontrol
 * https://youtube.com/watch?v=wUQsfDX1AnU  presentation about BrucePerens/rigcontrol
 * `https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#`  IMS 100 self-study course
@@ -157,11 +140,34 @@ Assorted Stuff
 * https://www.sota-antennas.com/efhw.php  End-Fed Half-Wave (EFHW) antennas
 * https://github.com/dmd/morse  Morse-to-email toy
 * https://ciechanow.ski/gps  how GPS works
-* https://www.lyonscomputer.com.au  gold mine of useful ham info
+* https://lyonscomputer.com.au  gold mine of useful ham info
+
+
+Logging
+-------
+
+* https://github.com/ftl/cabrillo  read/write Cabrillo using Golang
+* https://github.com/flwyd/adif-multitool  convert ADIF to/from CSV
+* https://github.com/gocarina/gocsv  unmarshal CSV structs just like JSON
+* https://github.com/k0swe/adi2cbr  convert ADIF to Cabrillo
+* https://github.com/oIdq/qsls  convert ADIF to PDF
+* https://github.com/Matir/adifparser
+* https://github.com/tzneal/ham-go
+* https://pypi.org/project/adif-io
+* https://github.com/sq8kfh/hamutils  another Python library for dealing with logs
+* https://github.com/timseed/adif_to_csv
+* https://github.com/Ewpratten/adif-rs  no ADIF 3.x.x support
+* https://github.com/davepacheco/rust-adif
+* https://adif.org
+* `https://wikitia.com/wiki/Amateur_Data_Interchange_Format_(ADIF)`
+* https://github.com/xaratustrah/dolphinlog  Python SQLite logger with ADIF 3.x.x export
+* https://github.com/VE2ZAZ/VHF_Contest_Logger_Software
+* https://gist.github.com/ericek111/d2325c55921853a4592e46962dfe37f2  setup N1MM under Wine
+* https://calf-studio-gear.org  JACK audio magic
 
 
 Bluetooth Stuff
 ---------------
 
 * https://vanhunteradams.com/Pico/BLE/GATT_Server.html
-* https://www.bettercap.org
+* https://bettercap.org
