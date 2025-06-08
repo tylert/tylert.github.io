@@ -80,6 +80,14 @@ Hermes Lite 2
 * https://github.com/mathisschmieder/HL2-MRF101/blob/master/README.md
 
 
+Keyers and Decoders
+-------------------
+
+* https://youtube.com/watch?v=FaaQbMpAI1U
+* https://github.com/jmharvey1/STM32_CWDecoder
+* https://github.com/jmharvey1/MCUFriend_STM32CUBEIDE
+
+
 Antenna Stuff
 -------------
 
