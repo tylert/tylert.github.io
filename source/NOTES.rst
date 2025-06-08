@@ -67,9 +67,7 @@ Game Stuff
 ----------
 
 * https://github.com/kentonv/lanparty
-* https://kilograham.github.io/rp2040-doom
 * https://news.ycombinator.com/item?id=31590724
-* https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 * https://bazzite.gg  immutable desktop for Steam Decks?
 * https://renpy.org/doc/html/build.html#archives  .rpa scripts and images files example
 * https://reddit.com/r/RenPy/comments/wq6jms/how_to_compress_un_rpa
@@ -80,6 +78,13 @@ Game Stuff
 * https://github.com/Steam-Headless/docker-steam-headless  access your big game machine from any web browser?
 * https://diymultideck.mauri.app  fancy deck of cards
 * https://naikari.github.io  open-source space game thing
+
+
+Retro Computing
+---------------
+
+* https://kilograham.github.io/rp2040-doom
+* https://github.com/pod-arcade/pod-arcade  k8s + RetroArch???
 * https://lakka.tv  neato interface like RetroArch, RetroPie, Kodi?
 * https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start  486SX in an FPGA
 * https://0mhz.net/download
@@ -95,6 +100,13 @@ Game Stuff
 * https://www.brutman.com/mTCP  DHCP, HTGET, PING, TELNET, etc.
 * https://github.com/AnttiTakala/SSH2DOS
 * https://misterfpga.org/viewtopic.php?t=478  change hostname, MAC address, etc.
+* https://www.datagubbe.se/adosmyst  AmigaDOS tips and tricks
+* https://www.sttmedia.com/newline  Amiga line endings should be the same as Linux/Unix
+* https://wiki.amigaos.net/wiki/AmigaOS_Apps_Productivity_%26_Utilities
+* https://ocawesome101.github.io/486-linux.html  Linux on a i486SX
+* http://slackware.com/install/sysreq.php  Slackware claims to run on a 486
+* https://knopper.net/knoppix-info/index-en.html  Knoppix claims to run on a 486
+* https://retrocomputing.stackexchange.com/questions/1811/which-linux-or-bsd-distributions-do-still-support-i386-i486-or-i586-cpus#1815  more ancient CPU discussions
 
 
 Zelda3
