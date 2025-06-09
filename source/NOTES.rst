@@ -107,6 +107,7 @@ Retro Computing
 * http://slackware.com/install/sysreq.php  Slackware claims to run on a 486
 * https://knopper.net/knoppix-info/index-en.html  Knoppix claims to run on a 486
 * https://retrocomputing.stackexchange.com/questions/1811/which-linux-or-bsd-distributions-do-still-support-i386-i486-or-i586-cpus#1815  more ancient CPU discussions
+* https://github.com/rasteri/HIDman  using your favourite USB keyboards and mice with a computer that only talks PS/2, AT, XT, etc.
 
 
 Zelda3
