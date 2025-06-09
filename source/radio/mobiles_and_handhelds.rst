@@ -188,6 +188,8 @@ LXMF config for a server::
 
     [propagation]
     enable_node = yes
+    [lxmf]
+    display_name = Whoopdidoo
 
 Reticulum config for a server::
 
