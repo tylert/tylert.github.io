@@ -111,6 +111,7 @@ Retro Computing
 * https://snes.nesdev.org/wiki/ROM_file_formats  .SFC, .SMC, .SWC, .FIG ROM files
 * https://github.com/franckverrot/EmulationResources/blob/master/consoles/megadrive/genesis_rom.txt  .BIN, .MD, .SMD ROM files
 * https://theblackzone.net/posts/2018/msdos622-in-qemu
+* https://github.com/jessodum/ngrom  convert Genesis/MegaDrive SMD format ROMs to BIN format ROMs
 
 
 Zelda3
