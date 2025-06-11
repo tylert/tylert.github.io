@@ -114,6 +114,7 @@ Retro Computing
 * https://github.com/jessodum/ngrom  convert Genesis/MegaDrive SMD format ROMs to BIN format ROMs
 * https://www.zeldix.net/t1662-remove-header  stripping SNES ROM headers
 * https://r-roms.github.io
+* https://pukepals.com/2025/06/05/mister-fpga-console
 
 ::
 
