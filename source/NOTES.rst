@@ -115,6 +115,8 @@ Retro Computing
 * https://www.zeldix.net/t1662-remove-header  stripping SNES ROM headers
 * https://r-roms.github.io
 * https://pukepals.com/2025/06/05/mister-fpga-console
+* https://github.com/Abdess/retroarch_system  BIOS
+* https://retropie.org.uk/docs/3do  BIOS md5sums
 
 ::
 
