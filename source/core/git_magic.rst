@@ -59,6 +59,11 @@ Fetch a single file::
         --remote=foo master \
         "**/requirements*" "requirements*"
 
+Cull files::
+
+    echo "whatever.txt\nsomething.txt" > foo.txt
+    git filter-repo --invert-paths --force --paths-from-file foo.txt
+
 Common ancestor between 2 things::
 
     git merge-base foo bar
