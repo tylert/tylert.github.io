@@ -468,6 +468,7 @@ Go Stuff
 * https://cli.urfave.org  nice, simple CLI wrapper lib
 * https://github.com/urfave/cli  nice, simple CLI wrapper lib
 * https://victoriametrics.com/blog/go-graceful-shutdown/index.html
+* https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead
 
 
 Rust Stuff
