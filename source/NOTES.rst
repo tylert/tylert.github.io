@@ -118,10 +118,29 @@ Retro Computing
 * https://github.com/Abdess/retroarch_system  BIOS
 * https://retropie.org.uk/docs/3do  BIOS md5sums
 * https://aterik.github.io/Transpiler.and.similar.List  Go to C???
+* https://en.wikipedia.org/wiki/Newline#Representation
+* https://en.wikipedia.org/wiki/EBCDIC
+* https://en.wikipedia.org/wiki/End-of-file
+* https://ultibo.org  Raspberry Pi bare metal magic?
+* https://reddit.com/r/fpgagaming/comments/7uvp0h/baremetal_raspberry_pi_emulators
 
 ::
 
     myrient?
+
+EOL::
+
+    Linux,Unix,Amiga  LF
+    Commodore,MacOld  CR
+    CP/M,OS/2,DOS     CRLF
+    BBCMicro          CR or LFCR
+    RISCOS            LF or LFCR
+    EvilOS            LCFR
+    SortedOS          CFLR
+    MorseCode         BT
+
+    CR  0x0d  13  \r
+    LF  0x0a  10  \n
 
 
 Zelda3
