@@ -469,6 +469,8 @@ Go Stuff
 * https://github.com/urfave/cli  nice, simple CLI wrapper lib
 * https://victoriametrics.com/blog/go-graceful-shutdown/index.html
 * https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead
+* https://github.com/charmbracelet/fang  and even more bloated cobra?
+* https://github.com/muesli/mango  lazy man pages?
 
 
 Rust Stuff

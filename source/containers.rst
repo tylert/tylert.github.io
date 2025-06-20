@@ -139,6 +139,8 @@ Container Stuff
 * https://docs.dagger.io/install
 * https://github.com/rzane/docker2exe  turn a docker container into an executable (that still requires docker)
 * https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html  all that for one service
+* https://matduggan.com/what-would-a-kubernetes-2-0-look-like
+* https://github.com/k3s-io/kine  sqlite instead of etcd
 
 
 Networking

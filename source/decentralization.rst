@@ -198,3 +198,9 @@ Auth
 ----
 
 * https://github.com/anderspitman/obligator  self-hosted OpenID via email
+
+
+Networking
+----------
+
+* https://mjg59.dreamwidth.org/72095.html

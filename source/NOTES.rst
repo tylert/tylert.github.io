@@ -100,7 +100,7 @@ Retro Computing
 * https://www.brutman.com/mTCP  DHCP, HTGET, PING, TELNET, etc.
 * https://github.com/AnttiTakala/SSH2DOS
 * https://misterfpga.org/viewtopic.php?t=478  change hostname, MAC address, etc.
-* https://www.datagubbe.se/adosmyst  AmigaDOS tips and tricks
+* https://datagubbe.se/adosmyst  AmigaDOS tips and tricks
 * https://www.sttmedia.com/newline  Amiga line endings should be the same as Linux/Unix
 * https://wiki.amigaos.net/wiki/AmigaOS_Apps_Productivity_%26_Utilities
 * https://ocawesome101.github.io/486-linux.html  Linux on a i486SX
@@ -127,6 +127,7 @@ Retro Computing
 * https://multi-console-controller.com
 * https://breadbox64.com/blog/universal-fight-stick
 * https://pcem-emulator.co.uk/index.html
+* https://dansanderson.com/lab-notes/mister-in-an-amiga-600  pretty
 
 ::
 
@@ -272,6 +273,7 @@ HandBrake settings for DVDs::
 * https://frigate.video
 * https://motion-project.github.io  MotionEye
 * https://danq.me/2025/05/26/downloading-vs-streaming
+* https://rm2000.app  macOS app that acts like a tape recorder
 
 
 Apt Stuff
