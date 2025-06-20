@@ -123,6 +123,9 @@ Retro Computing
 * https://en.wikipedia.org/wiki/End-of-file
 * https://ultibo.org  Raspberry Pi bare metal magic?
 * https://reddit.com/r/fpgagaming/comments/7uvp0h/baremetal_raspberry_pi_emulators
+* https://aliexpress.com/item/33046715575.html  arcade stick
+* https://multi-console-controller.com
+* https://breadbox64.com/blog/universal-fight-stick
 
 ::
 
