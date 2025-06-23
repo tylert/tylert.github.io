@@ -128,6 +128,7 @@ Retro Computing
 * https://breadbox64.com/blog/universal-fight-stick
 * https://pcem-emulator.co.uk/index.html
 * https://dansanderson.com/lab-notes/mister-in-an-amiga-600  pretty
+* https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m  pretty
 
 ::
 
