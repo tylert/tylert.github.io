@@ -129,6 +129,7 @@ Retro Computing
 * https://pcem-emulator.co.uk/index.html
 * https://dansanderson.com/lab-notes/mister-in-an-amiga-600  pretty
 * https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m  pretty
+* https://ravener.is-a.dev/posts/compressing-games-to-chd  converting various CD images to CHD format
 
 ::
 
