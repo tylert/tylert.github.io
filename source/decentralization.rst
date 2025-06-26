@@ -87,6 +87,9 @@ Other
 * https://letsdecentralize.org
 * https://bowshock.nl/irc  start your own internet resiliency club
 * https://scuttlebutt.nz
+* https://iroh.computer  Rust libs for building point-to-point QUIC links?
+* https://iroh.computer/sendme  built with iroh
+* https://dumbpipe.dev  built with iroh
 
 
 Containers Images Backups
