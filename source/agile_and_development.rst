@@ -233,6 +233,7 @@ Diagrams-as-Code Stuff
 * https://diagrams.mingrammer.com  Python code to generate diagrams
 * https://d2lang.com
 * https://github.com/stathissideris/ditaa  bloated Java thing (that works)
+* https://github.com/stan-smith/OpenFLOW  isometric network diagrams
 
 
 Books
@@ -493,6 +494,7 @@ C Stuff
 
 * https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
 * https://bernsteinbear.com/blog/fenster-microui
+* https://danielchasehooper.com/posts/typechecked-generic-c-data-structures
 
 
 WASM
