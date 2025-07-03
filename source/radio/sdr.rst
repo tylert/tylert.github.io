@@ -13,6 +13,8 @@ SDR
 * https://reddit.com/r/amateurradio/comments/1hmn0y4/sdr_shenanigans  Linux software options
 * https://sdrpp.org
 * https://101-things.readthedocs.io/en/latest/radio_receiver.html  any-mode Pi Pico SDR receiver for 0 to 30 MHz
+* https://qsl.net/kp4md/freqdev.htm  FM deviation measurement with RTL-SDR
+* https://robrobinette.com/Ham_VHF-UHF_Digital_Modes.htm  loads of MMDVM and repeater tuning things
 
 
 LimeSDR Mini
