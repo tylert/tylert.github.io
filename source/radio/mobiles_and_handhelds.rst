@@ -277,6 +277,7 @@ Meshtastic
 * https://blog.erethon.com/blog/2024/01/31/comparing-reticulum-and-meshtastic
 * https://github.com/markqvist/Reticulum/discussions/77
 * https://linuxinabit.codeberg.page/blog/reticulum  loads of useful links
+* https://github.com/landandair/RNS_Over_Meshtastic
 
 
 DMR
