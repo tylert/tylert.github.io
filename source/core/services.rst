@@ -149,6 +149,7 @@ Other
 * https://zedng.com/p/harden-linux-self-hosting-vps-dokku-nextjs-migration  Heroku-like thing?
 * https://zolagonano.github.io/a-ninjas-handbook
 * https://archivista.ch/cms/en/home  document management system?
+* https://privateisland.tech/betsy  vapourware FPGA hardware firewall device?
 
 
 Authentication

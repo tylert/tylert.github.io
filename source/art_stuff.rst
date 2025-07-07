@@ -109,6 +109,11 @@ Music Stuff
 * https://opendaw.studio  DAW in a web browser
 * https://sallywolf.ca  flute and recorder lessons
 * https://codeberg.org/unspeaker/tek  old-school tracker?
+* https://crowdsupply.com/cool-tech-zone/tangara  currently unobtainable (CAD $250+)
+* https://amazon.ca/HIFI-WALKER-H2-Resolution-Bluetooth/dp/B072C4YPCG  runs Rockbox and you can get it now (CAD $170)
+* https://rockbox.org/wiki/AIGOErosQK.html  install Rockbox on "HIFI WALKER H2"
+* https://rockbox.org/wiki/JztoolInstall.html  install Rockbox on "HIFI WALKER H2"
+* https://mynoise.net  OMFG fabulous background sounds (forest, waterfall, kitten purring, ringing bowls, etc.)
 
 
 Blender

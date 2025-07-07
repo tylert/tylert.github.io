@@ -186,6 +186,7 @@ Mentorship Stuff
 * https://notashelf.dev/posts/curse-of-knowing
 * https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook
 * https://alanwu.xyz/posts/community  external motivation on-tap?
+* https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a
 
 
 Interviews
