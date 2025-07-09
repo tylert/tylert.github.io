@@ -7,7 +7,7 @@ Initial Preparations
 #. Completely update your phone to the latest official Android load first.
 #. Make sure you backup all local data on your phone, if applicable (contacts, photos, ringtones, downloads, etc.).
 #. Use "Settings", go to "About phone", tap "Build number" 7 times.
-#. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
+#. Use "Settings", go to "System -> Advanced -> Developer options", enable "USB debugging".
 #. Use "Settings", go to "System -> Advanced -> Developer options", enable "OEM unlocking";  May require stupidity like `adb shell pm uninstall --user 0 com.android.phone`, reboot after changing this.
 #. Follow all installation instructions for your chosen Android load (e.g.:  LineageOS, /e/, etc.).
 #. Reboot into the new system when you're finished with all the installation steps.
@@ -28,7 +28,7 @@ Factory-Fresh Setup
 #. At the final screen, hit "START".
 #. Acknowledge the "Discover Trust" notification, hit "GOT IT".
 #. Use "Settings", go to "About phone", tap "Build number" 7 times.
-#. Use "Settings", go to "System -> Advanced -> Developer options", enable "Android debugging" (ADB USB debugging).
+#. Use "Settings", go to "System -> Advanced -> Developer options", enable "USB debugging".
 
 
 Install Other Apps
@@ -43,11 +43,10 @@ Install Other Apps
   * "Termux" phone unsuckifier
 #. Use "FFUpdater", allow access to files and media and allow install apps from unknown sources, hit "+" to install:
   * "Firefox Browser" web browser
-  * "K-9 Mail" email client
+  * "Thunderbird Mail" email client
 #. Remove all the junk from your home screen and move your icons around as desired.
 #. Use "F-Droid", add repo "https://apt.izzysoft.de/fdroid/repo" and install the following additional apps:
   * "Osmin" GPS navigator
-  * "WireGuard" VPN client
 
 
 Osmin
@@ -86,8 +85,8 @@ Firefox
       Experiments:  Off
 
 
-K-9 Mail
---------
+Thunderbird Mail
+----------------
 
 Fill in the settings you obtained from your email admin/provider and configure
 the settings for the app as follows:
@@ -101,15 +100,11 @@ the settings for the app as follows:
         Show correspondent names:  Off
         Show contact pictures:  Off
         Visible message actions: Delete, Move
-      Interaction:
-        Return to list after delete:  On
     Account Settings:
       Fetching mail:
         Local folder size:  all messages
         Fetch messages up to:  any size (no limit)
         Folder poll frequency:  Every hour
-        Poll folders:  All
-        Push folders:  All
         Advanced:
           Max folders to check with push:  1000 folders
       Sending mail:
@@ -117,8 +112,6 @@ the settings for the app as follows:
           Use Signature:  Off
         Message Format:  Plain Text (remove images and formatting)
       Folders:
-        Folders to display:  All
-        Move/copy destination folders:  All
         Archive folder:  -NONE-
         Drafts folder:  Drafts
         Sent folder:  Sent
