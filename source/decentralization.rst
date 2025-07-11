@@ -90,6 +90,7 @@ Other
 * https://iroh.computer  Rust libs for building point-to-point QUIC links?
 * https://iroh.computer/sendme  built with iroh
 * https://dumbpipe.dev  built with iroh
+* https://foks.pub  kv store and git store?
 
 
 Containers Images Backups
@@ -174,6 +175,7 @@ Proxies
 
 * https://github.com/yusing/go-proxy
 * https://github.com/yusing/go-proxy/wiki
+* https://github.com/fosrl/pangolin
 
 
 Usenet

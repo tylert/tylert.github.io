@@ -224,6 +224,7 @@ Style Guide Stuff
 * https://jmmv.dev/2021/08/useless-use-of-gnu.html
 * https://sharats.me/posts/shell-script-best-practices
 * https://docs.gitlab.com/ee/development/shell_scripting_guide
+* https://github.com/google/yamlfmt  still early days for this CLI tool
 
 
 Diagrams-as-Code Stuff
