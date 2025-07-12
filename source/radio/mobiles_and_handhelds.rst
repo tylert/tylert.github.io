@@ -183,6 +183,8 @@ Reticulum
 * https://github.com/resiliencetheatre/rpi4edgemap  Reticulum and Meshtastic on same map?
 * https://resilience-theatre.com/edgemap
 * https://resilience-theatre.com/wiki/doku.php?id=start
+* https://github.com/jooray/lxmf-message  CLI for sending messages to a destination
+* https://github.com/randogoth/lxmf-bot
 
 LXMF config for a server::
 
