@@ -264,6 +264,8 @@ Networking Magic
 * https://startyourownisp.com
 * https://j6b72.de/article/why-you-should-take-a-look-at-traefik
 * https://zoraxy.arozos.com/#features  reverse-proxy stuff for homelabs
+* https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel
+* https://b.tuxes.uk/simple-homelab-monitoring.html
 
 
 Crypto Magic
