@@ -15,6 +15,7 @@ SDR
 * https://101-things.readthedocs.io/en/latest/radio_receiver.html  any-mode Pi Pico SDR receiver for 0 to 30 MHz
 * https://qsl.net/kp4md/freqdev.htm  FM deviation measurement with RTL-SDR
 * https://robrobinette.com/Ham_VHF-UHF_Digital_Modes.htm  loads of MMDVM and repeater tuning things
+* https://github.com/jopohl/urh  Universal Radio Hacker suite
 
 
 LimeSDR Mini
@@ -143,6 +144,7 @@ Assorted Stuff
 * https://github.com/dmd/morse  Morse-to-email toy
 * https://ciechanow.ski/gps  how GPS works
 * https://lyonscomputer.com.au  gold mine of useful ham info
+* https://craiger.org/digipi
 
 
 Logging
