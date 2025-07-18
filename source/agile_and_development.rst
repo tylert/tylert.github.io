@@ -234,8 +234,12 @@ Diagrams-as-Code Stuff
 * https://blockdiag.com
 * https://diagrams.mingrammer.com  Python code to generate diagrams
 * https://d2lang.com
+* https://play.d2lang.com
+* https://github.com/terrastruct/d2
+* https://github.com/typst/typst/issues/729
 * https://github.com/stathissideris/ditaa  bloated Java thing (that works)
 * https://github.com/stan-smith/OpenFLOW  isometric network diagrams
+* https://penrose.cs.cmu.edu  web diagrams from text
 
 
 Books

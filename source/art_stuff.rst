@@ -159,7 +159,6 @@ Other
 -----
 
 * https://github.com/esimov/triangle  make bitmaps look all triangley
-* https://penrose.cs.cmu.edu  web diagrams from text
 * https://voussoir.net/writing/css_for_printing
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
 * https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
