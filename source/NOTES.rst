@@ -131,6 +131,8 @@ Retro Computing
 * https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m  pretty
 * https://ravener.is-a.dev/posts/compressing-games-to-chd  converting various CD images to CHD format
 * https://retrogamecoders.com/roguelike-multiplatform  also using cc65, vbcc, etc. C compilers
+* https://github.com/wickerwaka/PicoROM  RP2040 simulating a ROM
+* https://zuzebox.wordpress.com/2023/12/31/raspberry-pi-pico-rp2040-retro-vintage-home-computer-emulation
 
 ::
 

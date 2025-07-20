@@ -48,11 +48,13 @@ Modems and Interfaces
 * https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html
 
 
-SSB
----
+Transceivers
+------------
 
 * https://n6qw.com/PSSST_20.html  copper-clad 7-transistor SSB rig
 * https://ai6ym.radio/t41-ep-sdt  "T41-EP SDT" radio
+* https://github.com/WB2CBA/ADX  FT8 transceiver with Arduino
+* https://github.com/lu7did/RDX-rp2040  FT8 transceiver with RP2040
 
 
 GRCon And Others
