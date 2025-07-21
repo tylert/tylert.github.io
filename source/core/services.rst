@@ -132,6 +132,7 @@ Other
 * https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host
 * https://news.ycombinator.com/item?id=33095823
 * https://github.com/mikeroyal/Self-Hosting-Guide
+* https://codecaptured.com/blog/my-ultimate-self-hosting-setup
 * https://ssp.sh/blog/self-host-self-independence
 * https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp

@@ -566,6 +566,7 @@ Crypto
 * https://arstechnica.com/information-technology/2016/09/meet-pocketblock-the-crypto-engineering-game-for-kids-of-all-ages
 * https://github.com/sustrik/crypto-for-kids
 * https://lwn.net/Articles/867158  PAM duress
+* https://asherfalcon.com/blog/posts/3  fun with a deck of cards
 
 
 More

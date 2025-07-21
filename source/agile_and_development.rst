@@ -420,6 +420,7 @@ Go Stuff
 * https://otterize.com/blog/golang-contexts-and-blocking-functions
 * https://ish-ar.io/tutorial-go-git
 * https://github.com/go-git/go-git
+* https://github.com/bmf-san/ggc  Git CLI client in Go
 * https://boyter.org/posts/how-to-start-go-project-2023
 * https://mholt.github.io/json-to-go
 * https://github.com/yngwiewang/carrier  like ansible ad-hoc but in golang

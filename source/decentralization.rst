@@ -149,6 +149,8 @@ Publishing
 * https://overreacted.io/static-as-a-server  pre-generate output from a web server?
 * https://plainvanillaweb.com/index.html  no framework web pages and simple, single-page applications
 * https://github.com/clawsoftware/clawPDF  pdfcpu/pdftk/tesseract/cups-pdf as a service?
+* https://getzola.org  like Hugo but in Rust
+* https://github.com/getzola/zola  like Hugo but in Rust
 
 
 Offline Fun
