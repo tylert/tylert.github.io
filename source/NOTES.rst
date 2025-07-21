@@ -78,6 +78,11 @@ Game Stuff
 * https://github.com/Steam-Headless/docker-steam-headless  access your big game machine from any web browser?
 * https://diymultideck.mauri.app  fancy deck of cards
 * https://naikari.github.io  open-source space game thing
+* https://thearcadestick.com  review arcade sticks
+* https://gp2040-ce.info  RP2040 based arcade sticks
+* https://github.com/OpenStickCommunity  RP2040 based arcade sticks
+* https://osa-stick.com  Open Source Arcade stick (nearly all 3D-printed)
+* https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick  Open Source Arcade stick
 
 
 Retro Computing
