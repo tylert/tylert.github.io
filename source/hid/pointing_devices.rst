@@ -13,15 +13,15 @@ Gaming Mice
 
 Logitech G203 Lightsync gaming mouse.
 
-* https://www.logitechg.com/en-us/products/gaming-mice/g203-lightsync-rgb-gaming-mouse.910-005791.html
+* https://logitechg.com/en-us/products/gaming-mice/g203-lightsync-rgb-gaming-mouse.910-005791.html
 * https://github.com/libratbag/piper
 * https://github.com/smasty/g203-led
 * https://github.com/carlos-menezes/libg203lightsync
-* https://www.thingiverse.com/thing:4064213  replacement G203 outer shell
-* https://www.thingiverse.com/thing:3985798  replacement G203 top shell
-* https://www.thingiverse.com/thing:4920326  replacement G203 top shell alternate
-* https://www.thingiverse.com/thing:4601347  light diffuser for G203???
-* https://www.thingiverse.com/thing:4920290  replacement scroll wheel for G203???
+* https://thingiverse.com/thing:4064213  replacement G203 outer shell
+* https://thingiverse.com/thing:3985798  replacement G203 top shell
+* https://thingiverse.com/thing:4920326  replacement G203 top shell alternate
+* https://thingiverse.com/thing:4601347  light diffuser for G203???
+* https://thingiverse.com/thing:4920290  replacement scroll wheel for G203???
 
 
 Trackballs
@@ -34,18 +34,20 @@ Very high quality, easy to repair and a great ordering experience.
 Any ball between 37.6 and 38.3 mm should work (stock kit uses 38.1 mm ball).
 Bearings are "MR63ZZ" and are available at places like Aliexpress.
 
-* https://www.ploopy.co/nano-trackball
-* https://www.ploopy.co/product/nano-trackball/11
+* https://gbryant.co.uk/posts/2021-02-15_ploopy-trackball/post.html
+* https://ploopy.co/nano-trackball
+* https://ploopy.co/product/nano-trackball/11
 * https://github.com/ploopyco/trackball-nano/wiki
-* https://www.reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is
+* https://reddit.com/r/Trackballs/comments/lnhvpy/ploopy_nano_project_ballonly_trackball_is
 * https://github.com/brickbots/aball
 * https://github.com/MangoIV/dracuLad
 * https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md
 * https://github.com/monroewilliams/trackball
 * https://shop.beekeeb.com/product/ploopy-nano-trackball-case-resin
-* https://www.keysofkings.com/shop/mice/trackball/ploopy-project-ruby/pcb/ploopy-project-ruby-pcbs
-* https://www.theverge.com/22958439/trackball-diy-building-ploopy
+* https://theverge.com/22958439/trackball-diy-building-ploopy
 * https://github.com/jfedor2/rp2040-pmw3360
+* https://github.com/adept-anyball/mod
+* https://github.com/adept-anyball/ploopy-adept-small-btu
 
 ::
 
@@ -57,17 +59,20 @@ Bearings are "MR63ZZ" and are available at places like Aliexpress.
     mv ploopyco_trackball_nano_rev1_001_default.hex qmk_${QMK_VERSION}_ploopyco_trackball_nano_rev1_001_default.hex
 
 
-Ploopy Nano With Better Bearings
---------------------------------
+Ploopy Nano Improvements
+------------------------
 
 The default bearings for the Ploopy Nano seem to get rusty with regular use.
 
 * https://github.com/gbrnt/ploopy-nano/tree/master/hardware/mechanicals-btu-mod  3D files
-* https://www.reddit.com/r/ploopy/comments/p7mkhd/new_btu_mod_for_ploopy_nano  discussion
+* https://reddit.com/r/ploopy/comments/p7mkhd/new_btu_mod_for_ploopy_nano  discussion
 * https://imgur.com/a/o2Ar9VT  original designer's renders and prototype pics
 * https://i.imgur.com/PGTLar9.jpg  finished print example
-* https://www.reddit.com/r/ploopy/comments/ldfcde/heres_a_3dprintable_ploopy_trackball_mod_to_use  BTU discussions
-* https://www.printables.com/model/263616-trackball-15bc  a bigger ball and a better PCB too
+* https://reddit.com/r/ploopy/comments/ldfcde/heres_a_3dprintable_ploopy_trackball_mod_to_use  BTU discussions
+* https://printables.com/model/263616-trackball-15bc  a bigger ball and a better PCB too
+* https://github.com/fabriciobastian/ploopy-nano-scroll-button
+* https://reddit.com/r/Trackballs/comments/t5dp8z/found_a_metal_ball_that_works_with_ploopy_nano
+* https://reddit.com/r/ploopy/comments/pjbvu9/ive_finally_gone_full_trackball_thanks_to_ploopy
 
 
 More Ploopy Stuff
@@ -77,17 +82,17 @@ QMK build "0.12.26" or newer includes the mainline-merged Ploopy Nano code.
 
 * https://github.com/valeriosetti/ploopy-nano-kicad  KiCAD design files for Ploopy Nano clone PCB
 * https://github.com/qmk/qmk_firmware/blob/master/keyboards/ploopyco/readme.md#drag-scroll
-* https://www.reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball
-* https://www.reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving
-* https://www.reddit.com/r/ploopy/comments/nfdmrc/ploopy_nano_for_scrolling
-* https://www.reddit.com/r/ploopy/comments/ngltuh/toggle_functionality_of_nano_using_other_qmk
-* https://www.reddit.com/r/ploopy/comments/nlvgkq/how_to_scroll_with_the_trackball_nano
-* https://www.reddit.com/r/ploopy/comments/nnb9qn/hold_to_drag_scroll
-* https://www.reddit.com/r/ploopy/comments/oqwyzs/help_drag_scroll_as_held_key_in_tap_dance
-* https://www.reddit.com/r/ploopy/comments/ou2110/auto_hot_key_script_for_right_click_scroll_wheel
-* https://www.reddit.com/r/ploopy/comments/pl67bn/ploopy_mini_trackball_and_ubuntu
-* https://www.reddit.com/r/ploopy/comments/ojvhru/led_trick_on_macos_making_nano_versatile_as
-* https://www.reddit.com/r/ploopy/comments/12pzt9a/ploopy_nano_and_scroll_toggle_with_keyboardio
+* https://reddit.com/r/ploopy/comments/k1c7sh/drag_scroll_with_ploopy_trackball
+* https://reddit.com/r/ploopy/comments/merk8e/possible_for_nano_to_scroll_instead_of_moving
+* https://reddit.com/r/ploopy/comments/nfdmrc/ploopy_nano_for_scrolling
+* https://reddit.com/r/ploopy/comments/ngltuh/toggle_functionality_of_nano_using_other_qmk
+* https://reddit.com/r/ploopy/comments/nlvgkq/how_to_scroll_with_the_trackball_nano
+* https://reddit.com/r/ploopy/comments/nnb9qn/hold_to_drag_scroll
+* https://reddit.com/r/ploopy/comments/oqwyzs/help_drag_scroll_as_held_key_in_tap_dance
+* https://reddit.com/r/ploopy/comments/ou2110/auto_hot_key_script_for_right_click_scroll_wheel
+* https://reddit.com/r/ploopy/comments/pl67bn/ploopy_mini_trackball_and_ubuntu
+* https://reddit.com/r/ploopy/comments/ojvhru/led_trick_on_macos_making_nano_versatile_as
+* https://reddit.com/r/ploopy/comments/12pzt9a/ploopy_nano_and_scroll_toggle_with_keyboardio
 * https://github.com/englmaxi/zmk-hid-trackball-interface  Ploopy Nano with ZMK?
 * https://github.com/qmk/qmk_firmware/pull/23953  waiting to be merged to QMK
 * https://github.com/atseira/ploopy_trackball_nano_scroll/blob/main/scroll/keymap.c  drag scroll example
@@ -107,7 +112,7 @@ You might need to disable some silly USB stuff to get suspend to work "properly"
     lsusb -t
     echo "auto" > /sys/bus/usb/devices/1-4/power/control
 
-* https://www.kernel.org/doc/html/v4.19/driver-api/usb/power-management.html
+* https://kernel.org/doc/html/v4.19/driver-api/usb/power-management.html
 
 
 Thiccpad Trackpoint Stuff
