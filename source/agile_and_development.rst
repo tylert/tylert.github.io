@@ -480,6 +480,7 @@ Go Stuff
 * https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead
 * https://github.com/charmbracelet/fang  and even more bloated cobra?
 * https://github.com/muesli/mango  lazy man pages?
+* https://github.com/cmd-stream/cmd-stream-go  faster than RPC?
 
 
 Rust Stuff

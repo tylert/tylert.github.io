@@ -487,6 +487,8 @@ Cool Products
 * https://www.kaseyhou.com/#/repairable-flatpack-toaster
 * https://openinverter.org/wiki/ZombieVerter_VCU  Frankenstein electric vehicle brain
 * https://hackaday.com/2025/05/27/hands-on-eufymake-e1-uv-printer
+* https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor  Tiny Code Sensor (QRcode reader)
+* https://github.com/moonshine-ai/tiny_code_reader_docs/blob/main/README.md  Tiny Code Sensor (QRcode reader)
 
 
 RPG Stuff
