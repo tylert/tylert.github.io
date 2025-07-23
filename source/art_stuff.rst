@@ -169,3 +169,4 @@ Woodworking
 
 * https://aroundhomediy.com/build-roubo-workbench-leg-vise
 * https://leevalley.com/en-ca/shop/tools/workshop/workbenches/benches-and-tables/117579-bora-centipede-table?item=99W8349
+* https://compassrouter.com  computer-assisted handheld router

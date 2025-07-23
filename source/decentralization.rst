@@ -91,6 +91,8 @@ Other
 * https://iroh.computer/sendme  built with iroh
 * https://dumbpipe.dev  built with iroh
 * https://foks.pub  kv store and git store?
+* https://notes.pault.ag/tpl  The Promised LAN Manifesto
+* https://tpl.house  The Promised LAN architecture
 
 
 Containers Images Backups

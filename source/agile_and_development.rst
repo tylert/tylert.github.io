@@ -271,6 +271,7 @@ Git Stuff
 * https://leoneperdigao.medium.com/pull-request-best-practices-fa20f7daeb3c
 * https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
 * https://trunkbaseddevelopment.com/#scaled-trunk-based-development
+* https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html
 * https://atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
 * https://makandracards.com/makandra/527-squashing-several-git-commits-into-a-single-commit
 * https://gitbetter.substack.com/p/how-to-squash-git-commits

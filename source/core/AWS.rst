@@ -241,12 +241,13 @@ DynamoDB
 * http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
 
 
-OpenSearch
-----------
+Elasticsearch
+-------------
 
 * https://youtu.be/cn7QLSPB3OA
 * http://slideshare.net/AmazonWebServices/aws-october-webinar-series-introducing-amazon-elasticsearch-service
 * https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service
+* https://github.com/manticoresoftware/manticoresearch
 
 
 Cloud Hybrid
