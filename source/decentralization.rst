@@ -63,6 +63,7 @@ Linux Phones
 
 * https://momi.ca/posts/2024-10-09-honeybee.html  XMPP for calls?
 * https://furilabs.com/shop/flx1  Linux-like phone? (Android HAL underneath?)
+* https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat
 
 
 Other
@@ -201,6 +202,7 @@ Backups and File Sharing
 * https://reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
 * https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html
 * https://github.com/localsend/localsend
+* https://github.com/9001/copyparty  Python Samba server with uploads and downloads that work from a regular web browser
 
 
 Auth
