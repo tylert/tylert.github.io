@@ -215,3 +215,9 @@ Networking
 ----------
 
 * https://mjg59.dreamwidth.org/72095.html
+
+
+AI
+--
+
+* https://getubo.com  personal assitant gimmick?

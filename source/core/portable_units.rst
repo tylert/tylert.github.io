@@ -93,6 +93,18 @@ Smaller Cases
 * https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network
 
 
+Mini Racks
+----------
+
+* https://mini-rack.jeffgeerling.com
+
+
+Part Storage Cases
+------------------
+
+* https://vincentuden.xyz/blog/pcb_management  3d-printed organizer trays
+
+
 Decentralized Infrastructure Stuff
 ----------------------------------
 

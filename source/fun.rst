@@ -16,14 +16,14 @@ Containers
 Linux
 -----
 
-* http://blog.alexellis.io/boot-linuxkit-in-10-mins
+* https://blog.alexellis.io/boot-linuxkit-in-10-mins
 * https://github.com/MichielDerhaeg/build-linux
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu
-* https://www.plop.at/en/bootmanager/full.html  other low-level boot goop?
+* https://plop.at/en/bootmanager/full.html  other low-level boot goop?
 * https://anemos.io  build custom initramfs installers
 * https://words.filippo.io/dispatches/frood  initramfs Alpine NAS
 * https://codentium.com/guides/alpine  Alpine server setup
-* https://www.wildtechgarden.ca/doc/server-alpine-linux-docs4web  Alpine server setup
+* https://wildtechgarden.ca/doc/server-alpine-linux-docs4web  Alpine server setup
 * https://regrow.earth/diy-server/installation  Alpine server setup
 * https://github.com/liquidmetal-dev/flintlock  containerd-backed micro VMs?
 * https://wiki.debian.org/ThomasChung/CloudImage
@@ -34,6 +34,7 @@ Linux
 * https://gist.github.com/wngtk/5c616dc16fd84ac69f14bd5e12a595a8#disk-partition-structure
 * https://www.ventoy.net/en/doc_search_path.html#:~:text=3.%20Skip%20a,be%20listed%20anymore  .ventoyignore file
 * https://github.com/FlyGoat/csmwrap  BIOS wrapped in fancy-pants UEFI
+* https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html
 
 
 Style
@@ -141,7 +142,7 @@ Misc
 * https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster
 * https://blog.alexellis.io/serverless-kubernetes-on-raspberry-pi
 * https://sc5.io/posts/a-private-raspberry-pi-cloud-with-arm-docker
-* https://www.instructables.com/id/DIY-Laptop-PowerBank
+* https://instructables.com/id/DIY-Laptop-PowerBank
 * https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
 * https://www.hillelwayne.com/post/randomness  brain PRNG?
 
@@ -149,9 +150,9 @@ Misc
 Kubernetes
 ----------
 
-* https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
+* https://digitalocean.com/community/tutorials/an-introduction-to-kubernetes
 * https://www.katacoda.com/courses/kubernetes
 * https://kubernetes.io/docs/tutorials/kubernetes-basics
 * https://kubernetes.io/docs/tutorials/online-training/overview
 * https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
-* https://www.digitalocean.com/resources/kubernetes
+* https://digitalocean.com/resources/kubernetes

@@ -4,13 +4,12 @@ Scrum/Agile Stuff
 * https://agilepainrelief.com/what-is-scrum-in-a-nutshell
 * https://agilepainrelief.com/the-story-of-a-sprint
 * https://scrumguides.org/scrum-guide.html
-* https://www.scrumalliance.org/why-scrum/scrum-elearning-series
 * https://youtube.com/watch?v=502ILHjX9EE  Agile Product Ownership in a Nutshell
 * https://youtube.com/watch?v=u6XAPnuFjJc  Drive:  The surprising truth about what motivates us
 * https://agilepainrelief.com/glossary/scarf-model  motivation?
 * https://agilepainrelief.com/glossary/motivation  motivation?
 * https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
-* https://www.hypermatic.com/articles/agile-is-for-losers
+* https://hypermatic.com/articles/agile-is-for-losers
 
 
 Key Meetings
@@ -23,7 +22,7 @@ Key Meetings
 * https://agilepainrelief.com/glossary/product-backlog-refinement
 * https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck
 * https://interconnected.org/home/2020/09/24/unoffice_hours
-* https://www.greptile.com/blog/how-we-engineer
+* https://greptile.com/blog/how-we-engineer
 
 
 Kanban/Ticket Stuff
@@ -42,7 +41,7 @@ Kanban/Ticket Stuff
 * https://taskwarrior.org  does tickets
 * https://timewarrior.net  does time-tracking (and works with Task Warrior)
 * https://fossil-scm.org  does tickets and wiki stuff
-* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate
+* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate  (mandatory "www" here)
 
 ::
 
@@ -187,6 +186,7 @@ Mentorship Stuff
 * https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook
 * https://alanwu.xyz/posts/community  external motivation on-tap?
 * https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a
+* https://benkuhn.net/attention  attention is your scarcest resource
 
 
 Interviews
@@ -257,6 +257,7 @@ CI/CD Stuff
 * https://git-cliff.org  CHANGELOG stuff
 * https://github.com/glasskube/distr  internal deployment thingy?
 * https://distr.sh/docs/getting-started/about  internal deployment thingy?
+* https://codspeed.io/blog/benchmarks-in-ci-without-noise
 
 
 Git Stuff
@@ -297,7 +298,7 @@ Git Stuff
 * https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
 * https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
 * https://ente.io/blog/monorepo-retrospective
-* https://www.cyberdemon.org/2024/03/20/submodules.html
+* https://cyberdemon.org/2024/03/20/submodules.html
 * https://cbea.ms/git-commit  How to write a git commit message
 * https://github.com/git-bug/git-bug  decentralized issue tracking
 * https://vivekdhami.com/posts/git-move-repo-files-with-history  another example of how to use git-filter-repo
@@ -306,8 +307,8 @@ Git Stuff
 Process Stuff
 -------------
 
-* https://www.rubick.com/process-gates-of-hell
-* https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops
+* https://rubick.com/process-gates-of-hell
+* https://rubick.com/engineering-leaders-should-obsess-over-feedback-loops
 
 
 Unix/Linux/Shell Stuff
@@ -327,12 +328,13 @@ Python Stuff
 * https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 * https://rdrn.me/postmodern-python
 * https://fastht.ml  less horrible web app design framework?
-* https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf
+* https://polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf
 * https://akrabat.com/defining-python-dependencies-at-the-top-of-the-file  PEP 723???
 * https://akrabat.com/using-uv-as-your-shebang-line
 * https://docs.astral.sh/uv  Rust loader thing for Python???
 * https://github.com/autokitteh/autokitteh
 * https://www.thepythoncodingstack.com/p/demystifying-python-decorators
+* https://peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use
 
 
 Ruby Stuff
@@ -344,7 +346,7 @@ Ruby Stuff
 REST API Stuff
 --------------
 
-* https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
+* https://www.allhandsontech.com/programming/golang/web-app-sqlite-go  (mandatory "www" here)
 * https://faun.pub/building-a-rest-api-with-go-and-sqlite-part-1-97c29ed2f282
 * https://blog.logrocket.com/rest-api-golang-gin-gorm
 * https://hackernoon.com/the-anatomy-of-an-api-gateway-in-golang
@@ -353,7 +355,7 @@ REST API Stuff
 * https://github.com/gorilla/mux
 * https://vulcain.rocks  client-driven hypermedia APIs
 * https://souin.io  SaaS HTTP cache
-* https://www.authelia.com  auth server for IAM/SSO for reverse proxies?
+* https://authelia.com  auth server for IAM/SSO for reverse proxies?
 * https://github.com/motiv-labs/janus  API gateway in Go
 * https://cloud.google.com/apis/design  API design guide
 
@@ -441,7 +443,6 @@ Go Stuff
 * https://github.com/karrick/godirwalk  dir walking?
 * https://go.dev/blog/execution-traces-2024
 * https://remyhax.xyz/posts/golang-packet-editing
-* https://www.zarl.dev/articles/enums-take-two
 * https://github.com/zarldev/goenums
 * https://github.com/dop251/goja  jabbascript in Go?
 * https://github.com/hexops/gotextdiff  unified diffs with Go
@@ -459,7 +460,7 @@ Go Stuff
 * https://github.com/markbates/goth  auth stuff
 * https://stackoverflow.com/questions/44363911/detect-windows-version-in-go-to-figure-out-the-starup-folder/75074215#75074215
 * https://ss64.com/mac/sw_vers.html  macOS version info (os/exec this or is there a better way?)
-* https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
+* https://maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail
 * https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go
 * https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndPromisesPattern
 * https://playwright-community.github.io/playwright-go  headless web browser stuff with an API
@@ -468,11 +469,11 @@ Go Stuff
 * https://jarosz.dev/article/writing-secure-go-code
 * https://bitfieldconsulting.com/posts/constraints
 * https://github.com/gostor/awesome-go-storage
-* https://www.riverphillips.dev/blog/go-cfs  GOMAXPROCS environment variable
+* https://riverphillips.dev/blog/go-cfs  GOMAXPROCS environment variable
 * https://github.com/pion/stun  Go STUN
 * https://pion.ly
-* https://www.goravel.dev  Laravel-like thing for Go
-* https://www.practical-go-lessons.com/chap-18-go-module-proxies
+* https://goravel.dev  Laravel-like thing for Go
+* https://practical-go-lessons.com/chap-18-go-module-proxies
 * https://github.com/goproxy/goproxy
 * https://github.com/mantcz/awesome-go-cli
 * https://cli.urfave.org  nice, simple CLI wrapper lib
@@ -482,6 +483,7 @@ Go Stuff
 * https://github.com/charmbracelet/fang  and even more bloated cobra?
 * https://github.com/muesli/mango  lazy man pages?
 * https://github.com/cmd-stream/cmd-stream-go  faster than RPC?
+* https://github.com/vvvvv/dlg  printf-style debug with magic to remove it from production builds
 
 
 Rust Stuff
@@ -519,7 +521,7 @@ Kubernetes Stuff
 ----------------
 
 * https://youtube.com/watch?v=4-WpJ49MDG8  dependencies in k8s thingies
-* https://www.figma.com/blog/migrating-onto-kubernetes
+* https://figma.com/blog/migrating-onto-kubernetes
 
 
 JMESPath
@@ -532,4 +534,4 @@ JMESPath
 Lua
 ---
 
-* https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding
+* https://polarsignals.com/blog/posts/2024/11/13/lua-unwinding

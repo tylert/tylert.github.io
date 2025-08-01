@@ -117,7 +117,7 @@ Retro Computing
 * https://github.com/franckverrot/EmulationResources/blob/master/consoles/megadrive/genesis_rom.txt  .BIN, .MD, .SMD ROM files
 * https://theblackzone.net/posts/2018/msdos622-in-qemu
 * https://github.com/jessodum/ngrom  convert Genesis/MegaDrive SMD format ROMs to BIN format ROMs
-* https://www.zeldix.net/t1662-remove-header  stripping SNES ROM headers
+* https://zeldix.net/t1662-remove-header  stripping SNES ROM headers
 * https://r-roms.github.io
 * https://pukepals.com/2025/06/05/mister-fpga-console
 * https://github.com/Abdess/retroarch_system  BIOS
