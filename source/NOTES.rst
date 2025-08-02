@@ -14,6 +14,7 @@ Tmux With Terminal Stuff
 * https://www.ditig.com/256-colors-cheat-sheet
 * https://ianthehenry.com/posts/how-to-configure-tmux
 * https://davidwinter.dev/2019/03/14/tmux-the-essentials
+* https://bower.sh/you-might-not-need-tmux  some of the tmux stuff without tmux
 
 ::
 

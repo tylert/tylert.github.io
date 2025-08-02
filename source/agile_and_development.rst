@@ -36,7 +36,7 @@ Kanban/Ticket Stuff
 * https://greggigon.com/my-personal-kanban-2-0
 * https://github.com/greggigon/mpk-desktop-app
 * https://budgetkanban.com/landing  Kanban for budgets too?
-* https://www.leiga.com/post/kanban-vs-scrum
+* https://leiga.com/post/kanban-vs-scrum
 * https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html
 * https://taskwarrior.org  does tickets
 * https://timewarrior.net  does time-tracking (and works with Task Warrior)
@@ -212,6 +212,8 @@ Team Stuff
 * https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
 * https://www.seangoedecke.com/programmer-archetypes
 * https://blog.alexewerlof.com/p/when-a-team-is-too-big
+* https://productpicnic.beehiiv.com/p/the-everything-app-is-a-symptom-of-nothing-management-part-1
+* https://productpicnic.beehiiv.com/p/the-ai-age-is-the-age-of-no-consent-7559
 
 
 Style Guide Stuff
@@ -333,7 +335,7 @@ Python Stuff
 * https://akrabat.com/using-uv-as-your-shebang-line
 * https://docs.astral.sh/uv  Rust loader thing for Python???
 * https://github.com/autokitteh/autokitteh
-* https://www.thepythoncodingstack.com/p/demystifying-python-decorators
+* https://www.thepythoncodingstack.com/p/demystifying-python-decorators  (mandatory "www" here)
 * https://peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use
 
 
