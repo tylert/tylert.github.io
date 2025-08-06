@@ -26,6 +26,19 @@ Doorbell/Camera Stuff
 
 * https://buzzert.net/posts/2021-05-09-doorbell
 * https://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html
+- https://thingino.com  main
+- https://github.com/themactep/thingino-firmware/wiki  docs
+- https://github.com/themactep/thingino-firmware  source
+- https://openipc.org  main
+- https://docs.openipc.org  docs
+- https://github.com/OpenIPC/wiki  docs old
+- https://github.com/OpenIPC/firmware  source
+* https://eufy.com/ca/products/t8442121?variant=40039439171749  Eufy E210
+* https://amazon.ca/eufy-OutdoorCam-Resolution-Spotlight-Weatherproof-dp-B0912R591N/dp/B0912R591N  Eufy E210
+* https://coral.ai/products/accelerator  detector
+* https://frigate.video  main
+* https://docs.frigate.video  docs
+* https://github.com/AlexxIT/go2rtc  streaming multiplexer thing
 
 
 Garage Door Stuff
