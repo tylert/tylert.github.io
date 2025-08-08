@@ -11,15 +11,16 @@ Tmux With Terminal Stuff
 * https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar
 * https://man.openbsd.org/tmux
 * https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf
-* https://www.ditig.com/256-colors-cheat-sheet
+* https://ditig.com/256-colors-cheat-sheet
 * https://ianthehenry.com/posts/how-to-configure-tmux
 * https://davidwinter.dev/2019/03/14/tmux-the-essentials
 * https://bower.sh/you-might-not-need-tmux  some of the tmux stuff without tmux
+* https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful
 
 ::
 
     # tmux
-    PFX = ctrl + b
+    PFX = ctrl + b (default)
 
     PFX + ?       # show shortcuts
     PFX + :       # enter command mode
@@ -103,11 +104,11 @@ Retro Computing
 * https://misterreplay.com/mister-fpga-guide.html
 * https://krystof.io/mister-fpga-initial-setup-and-network-mounting
 * https://mister-devel.github.io/MkDocs_MiSTer/advanced/computer/#ppp-connection
-* https://www.brutman.com/mTCP  DHCP, HTGET, PING, TELNET, etc.
+* https://brutman.com/mTCP  DHCP, HTGET, PING, TELNET, etc.
 * https://github.com/AnttiTakala/SSH2DOS
 * https://misterfpga.org/viewtopic.php?t=478  change hostname, MAC address, etc.
 * https://datagubbe.se/adosmyst  AmigaDOS tips and tricks
-* https://www.sttmedia.com/newline  Amiga line endings should be the same as Linux/Unix
+* https://sttmedia.com/newline  Amiga line endings should be the same as Linux/Unix
 * https://wiki.amigaos.net/wiki/AmigaOS_Apps_Productivity_%26_Utilities
 * https://ocawesome101.github.io/486-linux.html  Linux on a i486SX
 * http://slackware.com/install/sysreq.php  Slackware claims to run on a 486
@@ -279,7 +280,7 @@ HandBrake settings for DVDs::
 
 * https://trac.ffmpeg.org/wiki/Capture/Desktop
 * https://img.ly/blog/ultimate-guide-to-ffmpeg
-* https://www.mifi.no/losslesscut
+* https://mifi.no/losslesscut
 * https://github.com/mifi/lossless-cut
 * https://en.wikipedia.org/wiki/LosslessCut
 * https://frigate.video
@@ -345,7 +346,7 @@ LDAP/Kerberos
 -------------
 
 * http://aput.net/~jheiss/krbldap/howto.html
-* http://www.roguelynn.com/words/explain-like-im-5-kerberos
+* https://roguelynn.com/words/explain-like-im-5-kerberos
 * https://help.ubuntu.com/lts/serverguide/kerberos-ldap.html
 * https://wiki.debian.org/LDAP/Kerberos
 
@@ -364,7 +365,7 @@ Cool Shell Tricks
 * https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file/161853#161853
 * https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
 * https://dns.toys  do horrible things using DNS
-* https://www.bsdhowto.ch/doh.html  DNS over HTTP
+* https://www.bsdhowto.ch/doh.html  DNS over HTTP (mandatory "www" here)
 * https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff
 * https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html
 * https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
@@ -386,9 +387,7 @@ Assorted Things-to-Read
 * http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1
 * http://lett.be/oauth2
 * http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop
-* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-* http://www.programblings.com/2014/09/17/logstash-you-dont-need-to-deploy-it-to-use-it
 * http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2
 * https://github.com/mitchellh/packer/pull/2962
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0

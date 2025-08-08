@@ -62,6 +62,14 @@ UUID stuff::
     CREATE TABLE foo (id UUID PRIMARY KEY, name TEXT);
     INSERT INTO foo VALUES (uuid(), 'udders');
 
+::
+
+    sqlite3 myfile.zip
+
+    SELECT name FROM zip;
+    SELECT data FROM zip WHERE name = '1.txt';
+    DELETE FROM zip WHERE name = '1.txt';
+
 
 JSON
 ----
@@ -103,6 +111,7 @@ Clustering and Replication
 * https://sqlsync.dev  eventually-consistent SQLite, offline-first
 * https://github.com/orbitinghail/sqlsync
 * https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood
+* https://github.com/sqliteai/sqlite-sync
 
 
 Indexing

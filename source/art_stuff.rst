@@ -137,6 +137,7 @@ Graphics
 * https://github.com/FullControlXYZ/fullcontrol  a different way of handling slicing/pathing
 * https://fullcontrol.xyz/#/models
 * https://hackaday.com/2024/09/23/custom-mini-neon-signs-in-10-minutes
+* https://github.com/torbenconto/bambulabs_api  Go library for interfacing with Bambu printers?
 
 
 AI

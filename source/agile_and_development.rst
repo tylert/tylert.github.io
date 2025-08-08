@@ -304,6 +304,7 @@ Git Stuff
 * https://cbea.ms/git-commit  How to write a git commit message
 * https://github.com/git-bug/git-bug  decentralized issue tracking
 * https://vivekdhami.com/posts/git-move-repo-files-with-history  another example of how to use git-filter-repo
+* https://tomups.com/posts/git-worktrees
 
 
 Process Stuff

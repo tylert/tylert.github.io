@@ -73,6 +73,12 @@ Magnetometer
 * https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module
 
 
+Automation
+----------
+
+* https://chameth.com/home-automation-without-megacorps
+
+
 Pi Pico/PicoW
 -------------
 
