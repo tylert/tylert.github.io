@@ -413,6 +413,7 @@ Assorted Things-to-Read
 * https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f
 * https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting
 * https://mitchhorowitz.substack.com/p/101-rules-of-effective-living
+* https://improveyoursocialskills.com/basic-social-skills-guide
 
 
 Humour

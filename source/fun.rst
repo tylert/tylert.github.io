@@ -136,6 +136,7 @@ Misc
 * https://mosh.org
 * https://smallstep.com/blog/everything-pki.html
 * https://code.mradford.com/post/the-ubuntu-compiz-desktop
+* https://github.com/basecamp/omarchy  Linux desktop tweaks (Hyprland window manager, etc.)
 * https://www.remove.bg
 * https://blog.tjll.net/distributed-homelab-cluster
 * https://ro14nd.de/kubernetes-on-raspberry-pi3

@@ -17,6 +17,8 @@
 * https://grahamc.com/blog/erase-your-darlings
 * https://github.com/rancher/k3os#quick-start
 * https://blog.nootch.net/post/kubernetes-at-home-with-k3s
+* https://nowsci.com/winapps  KVM single-app Windows VM with RDP integration tricks for your Linux desktop environment
+* https://github.com/Fmstrat/winapps
 
 
 QEMU

@@ -195,6 +195,7 @@ Interviews
 * https://praachi.work/blog/questions-to-ask-in-a-job-interview
 * https://blog.jez.io/bugsquash
 * https://fearlesssalarynegotiation.com/salary-expectations-interview-question
+* https://jyn.dev/an-engineers-perspective-on-hiring
 
 
 Team Stuff
@@ -214,6 +215,8 @@ Team Stuff
 * https://blog.alexewerlof.com/p/when-a-team-is-too-big
 * https://productpicnic.beehiiv.com/p/the-everything-app-is-a-symptom-of-nothing-management-part-1
 * https://productpicnic.beehiiv.com/p/the-ai-age-is-the-age-of-no-consent-7559
+* https://37signals.com
+* https://basecamp.com  free-tier is only one project
 
 
 Style Guide Stuff
