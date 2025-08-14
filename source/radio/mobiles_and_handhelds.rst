@@ -31,6 +31,7 @@ LoRa
 * https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2  cute yagi
 * https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch
 * https://elecrow.com/thinknode-m1-meshtastic-lora-signal-transceiver-powered-by-nrf52840-with-154-screen-support-gps.html
+* https://adrelien.com/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio
 
 
 APRS

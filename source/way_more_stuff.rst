@@ -14,7 +14,6 @@ Terraform Stuff
 * https://www.hashicorp.com/blog/terraform-0-12-conditional-operator-improvements#conditionally-omitted-arguments
 * https://medium.com/the-andela-way/designing-a-three-tier-architecture-in-aws-e5c24671f124
 * https://aws.amazon.com/solutions/implementations/instance-scheduler
-* https://duckduckgo.com/?t=ffab&q=hashiconf&iax=videos&ia=videos
 * https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources
 * https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42
 * https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d
@@ -23,7 +22,7 @@ Terraform Stuff
 Python Fun
 ----------
 
-* https://www.youtube.com/watch?v=wf-BqAjZb8M
+* https://youtube.com/watch?v=wf-BqAjZb8M
 
 
 Cloud Stuff
