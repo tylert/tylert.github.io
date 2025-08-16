@@ -217,6 +217,7 @@ Team Stuff
 * https://productpicnic.beehiiv.com/p/the-ai-age-is-the-age-of-no-consent-7559
 * https://37signals.com
 * https://basecamp.com  free-tier is only one project
+* https://floustate.com/blog/open-office-secondhand-adhd
 
 
 Style Guide Stuff
@@ -308,6 +309,7 @@ Git Stuff
 * https://github.com/git-bug/git-bug  decentralized issue tracking
 * https://vivekdhami.com/posts/git-move-repo-files-with-history  another example of how to use git-filter-repo
 * https://tomups.com/posts/git-worktrees
+* https://tylercipriani.com/blog/2025/08/15/git-lfs  no more git-lfs (or git-annex, etc.)?
 
 
 Process Stuff
