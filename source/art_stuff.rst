@@ -74,6 +74,14 @@ Camera Stuff
 850 nm near IR
 
 
+Thermal Imaging
+---------------
+
+* https://github.com/samyk/GetThermal
+* https://github.com/groupgets/GetThermal  viewer for cheap USB thermal webcams?
+* https://groupgets.com/collections/lepton  cheap USB thermal webcam options?
+
+
 CHDK Doc/Book Scanner
 ---------------------
 
