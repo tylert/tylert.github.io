@@ -221,3 +221,4 @@ AI
 --
 
 * https://getubo.com  personal assitant gimmick?
+* https://github.com/epicenter-so/epicenter/tree/main/apps/whispering

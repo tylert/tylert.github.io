@@ -493,6 +493,7 @@ Cool Products
 * https://hackaday.com/2025/05/27/hands-on-eufymake-e1-uv-printer
 * https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor  Tiny Code Sensor (QRcode reader)
 * https://github.com/moonshine-ai/tiny_code_reader_docs/blob/main/README.md  Tiny Code Sensor (QRcode reader)
+* https://github.com/ClemensElflein/OpenMower
 
 
 RPG Stuff

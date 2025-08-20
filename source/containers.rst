@@ -142,6 +142,7 @@ Container Stuff
 * https://matduggan.com/what-would-a-kubernetes-2-0-look-like
 * https://github.com/k3s-io/kine  sqlite instead of etcd
 * https://github.com/melezhik/Sparrow6/blob/master/posts/Application%20Less%20Containers.md  application-less (empty) containers to run on k8s???
+* https://howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can
 
 
 Networking
