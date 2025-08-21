@@ -231,6 +231,7 @@ Style Guide Stuff
 * https://sharats.me/posts/shell-script-best-practices
 * https://docs.gitlab.com/ee/development/shell_scripting_guide
 * https://github.com/google/yamlfmt  still early days for this CLI tool
+* https://github.com/mvdan/sh  shell auto-formatter?
 
 
 Diagrams-as-Code Stuff
@@ -264,6 +265,7 @@ CI/CD Stuff
 * https://github.com/glasskube/distr  internal deployment thingy?
 * https://distr.sh/docs/getting-started/about  internal deployment thingy?
 * https://codspeed.io/blog/benchmarks-in-ci-without-noise
+* https://taskfile.dev  Go thing that's a bit like Make?
 
 
 Git Stuff

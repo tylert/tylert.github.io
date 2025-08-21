@@ -112,6 +112,7 @@ Clustering and Replication
 * https://github.com/orbitinghail/sqlsync
 * https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood
 * https://github.com/sqliteai/sqlite-sync
+* https://github.com/cowsql/cowsql  fork of dqlite with some differences?
 
 
 Indexing

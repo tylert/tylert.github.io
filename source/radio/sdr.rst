@@ -147,6 +147,7 @@ Assorted Stuff
 * https://ciechanow.ski/gps  how GPS works
 * https://lyonscomputer.com.au  gold mine of useful ham info
 * https://craiger.org/digipi
+* https://computer.rip/2025-08-16-passive-microwave-repeaters.html
 
 
 Logging
