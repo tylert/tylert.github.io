@@ -345,6 +345,7 @@ Python Stuff
 * https://github.com/autokitteh/autokitteh
 * https://www.thepythoncodingstack.com/p/demystifying-python-decorators  (mandatory "www" here)
 * https://peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use
+* https://pydevtools.com/handbook/reference/ruff  Python linting and auto-formatting
 
 
 Ruby Stuff

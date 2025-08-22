@@ -94,6 +94,7 @@ Other
 * https://foks.pub  kv store and git store?
 * https://notes.pault.ag/tpl  The Promised LAN Manifesto
 * https://tpl.house  The Promised LAN architecture
+* https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks  portable network magic?
 
 
 Containers Images Backups
