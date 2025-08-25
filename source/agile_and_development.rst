@@ -144,6 +144,7 @@ Development
 * https://aquaproj.github.io  framework for version-pinning build tools?
 * https://www.bytedrum.com/posts/art-of-finishing
 * https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure
+* https://underlap.org/developers-block
 
 
 Versioning
@@ -210,7 +211,7 @@ Team Stuff
 * https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the
 * https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your
 * https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire
-* https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
+* https://hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
 * https://www.seangoedecke.com/programmer-archetypes
 * https://blog.alexewerlof.com/p/when-a-team-is-too-big
 * https://productpicnic.beehiiv.com/p/the-everything-app-is-a-symptom-of-nothing-management-part-1

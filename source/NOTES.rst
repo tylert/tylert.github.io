@@ -402,6 +402,7 @@ Assorted Things-to-Read
 * https://sambleckley.com/writing/church-of-interruption.html
 * https://tynan.com/letstalk
 * https://www.neelnanda.io/blog/43-making-friends
+* https://www.theguardian.com/lifeandstyle/2025/aug/24/dont-like-joining-in-why-it-could-be-your-superpower
 * https://structuredprocrastination.com/index.php
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office
 * https://blog.jim-nielsen.com/2022/what-work-looks-like
@@ -433,6 +434,7 @@ Humour
 * https://github.com/vxfemboy/purrcrypt  meowthematical encryption
 * https://wtfpl.net  the "do what you want to public license"
 * https://friendda.org  FriendDA
+* https://programmingforcats.com
 
 
 Keepass Stuff
@@ -663,3 +665,4 @@ Family IT Support Calls
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://lwn.net/Articles/925870  TOTP
+* https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux
