@@ -252,3 +252,4 @@ Deleting cluster::
 * https://iamsafts.com/posts/homelab-intro
 * https://github.com/doitintl/kube-no-trouble
 * https://blog.yaakov.online/replacing-kubernetes-with-systemd
+* https://developertips.substack.com/p/how-to-create-and-manage-a-service
