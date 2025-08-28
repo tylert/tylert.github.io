@@ -23,6 +23,14 @@ Add-On Microphones
 * https://antlionaudio.com/collections/microphones/products/modmic-usb  the latest versions have an ugly wart in the wire that you can't easily remove
 
 
+Speakers
+--------
+
+* https://thingiverse.com/thing:4668173  micro bookshelf speaker
+* https://thingiverse.com/thing:4750820  mini bookshelf speaker
+* https://thingiverse.com/thing:4765663  mini subwoofer
+
+
 3D-printed Headphones
 ---------------------
 
