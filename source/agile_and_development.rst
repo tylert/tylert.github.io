@@ -74,14 +74,14 @@ Software Design and Documentation
 * https://craftinginterpreters.com
 * https://threedots.tech/post/software-dark-ages
 * https://writethedocs.org/guide
-* https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
-* https://www.industrialempathy.com/posts/design-docs-at-google
+* https://stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi
+* https://industrialempathy.com/posts/design-docs-at-google
 * https://er4hn.info/blog/2023.07.22-good_docs_great_effort
 * https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous
 * https://developers.google.com/tech-writing
 * https://leontrolski.github.io/cmd-click-manifesto.html
 * https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to
-* https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods
+* https://somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods
 * https://morizbuesing.com/blog/greppability-code-metric
 * https://gabevenberg.com/posts/cli-renaissance
 * https://paulgraham.com/head.html
@@ -106,11 +106,9 @@ Development
 
 * https://docs.cloudposse.com  best practices
 * https://jsimolaris.wordpress.com/2021/04/04/breakable-toys
-* https://www.azavea.com/blog/2018/10/10/engineer-onboarding-breakable-toy
 * https://blog.stulta.dev/posts/stupid_tools
 * https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d
 * https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt
-* https://www.tinypulse.com/blog/sk-every-employee-onboarding-tip-youll-need
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 * https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant
 * https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
@@ -119,30 +117,29 @@ Development
 * https://blog.mechanicalrock.io/2020/10/06/manual-gates-git-flow-in-a-wig.html
 * https://blog.mechanicalrock.io/2019/07/01/continuous-deployment-the-first-step-on-the-road-to-recovery.html
 * https://blog.mechanicalrock.io/2020/05/04/strangler-pattern.html
-* https://www.endoflineblog.com/gitflow-considered-harmful
-* https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+* https://endoflineblog.com/gitflow-considered-harmful
+* https://endoflineblog.com/oneflow-a-git-branching-model-and-workflow
 * https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful
 * https://martinfowler.com/bliki/BranchByAbstraction.html
 * https://martinfowler.com/bliki/StranglerFigApplication.html
-* https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/#toc-use-feature-toggles
+* https://nomachetejuggling.com/2017/04/09/a-different-branching-strategy/#toc-use-feature-toggles
 * https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern
 * https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig
 * https://mtlynch.io/code-review-love
 * https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/april/alm-rangers-a-treasure-hunt-through-alm-readiness
 * https://martinfowler.com/articles/ship-show-ask.html
-* https://www.cmcrossroads.com/article/pros-and-cons-four-kinds-code-reviews
 * https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
 * https://12factor.net
 * https://stokoe.me/summary-hammock-driven-development
 * https://catb.org/~esr/faqs/smart-questions.html
-* https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
+* https://bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm
 * https://octopus.com/blog/devops-uses-capability-not-maturity#limitations-of-maturity-models
 * https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md
 * https://changelog.com/posts/things-we-always-remind-ourselves-while-coding
 * https://platformengineering.org/platform-tooling
 * https://humanitec.com
 * https://aquaproj.github.io  framework for version-pinning build tools?
-* https://www.bytedrum.com/posts/art-of-finishing
+* https://bytedrum.com/posts/art-of-finishing
 * https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure
 * https://underlap.org/developers-block
 
@@ -171,7 +168,7 @@ Mentorship Stuff
 * https://randsinrepose.com/archives/bored-people-quit
 * https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job
 * https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster
-* https://www.daedtech.com/how-to-keep-your-best-programmers
+* https://daedtech.com/how-to-keep-your-best-programmers
 * https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity
 * https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity
 * https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
@@ -181,7 +178,7 @@ Mentorship Stuff
 * https://bitfieldconsulting.com/posts/career
 * https://softwaredoug.com/blog/2024/05/08/build-an-f-you-network
 * https://wiki.c2.com/?SovietShoeFactoryPrinciple
-* https://www.scottsmitelli.com/articles/take-oncall-and-shove-it
+* https://scottsmitelli.com/articles/take-oncall-and-shove-it
 * https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer
 * https://notashelf.dev/posts/curse-of-knowing
 * https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook
@@ -212,7 +209,7 @@ Team Stuff
 * https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your
 * https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire
 * https://hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows
-* https://www.seangoedecke.com/programmer-archetypes
+* https://seangoedecke.com/programmer-archetypes
 * https://blog.alexewerlof.com/p/when-a-team-is-too-big
 * https://productpicnic.beehiiv.com/p/the-everything-app-is-a-symptom-of-nothing-management-part-1
 * https://productpicnic.beehiiv.com/p/the-ai-age-is-the-age-of-no-consent-7559
@@ -518,6 +515,7 @@ C Stuff
 * https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
 * https://bernsteinbear.com/blog/fenster-microui
 * https://danielchasehooper.com/posts/typechecked-generic-c-data-structures
+* https://lysator.liu.se/c/pikestyle.html  C style
 
 
 WASM
@@ -547,3 +545,9 @@ Lua
 ---
 
 * https://polarsignals.com/blog/posts/2024/11/13/lua-unwinding
+
+
+Webby Stuff
+-----------
+
+* https://lyra.horse/blog/2025/08/you-dont-need-js  modern CSS magic

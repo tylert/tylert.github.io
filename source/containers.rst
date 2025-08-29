@@ -10,6 +10,9 @@ Simple Stuff
 * https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/#ephemeral-container
 * https://stencel.io/posts/build-cheapest-kubernetes-i7-cluster.html
 * https://reclaim-the-stack.com
+* https://shadybraden.com/articles/gitopshomelab  k8s-less homelab
+* https://linuxcontainers.org/incus/docs/main  VMM and container host all-in-one?
+* https://komo.do
 
 
 Swap

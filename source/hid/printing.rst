@@ -1,10 +1,12 @@
-Brother P-Touch
----------------
+Brother Label Printers
+----------------------
 
 * https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux
 * https://git.familie-radermacher.ch/linux/ptouch-print.git  cutting edge
 * https://aur.archlinux.org/packages/ptouch-print-git  kinda unmaintained and old
 * https://aur.archlinux.org/packages/ptouch-print  way out of date
+* https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix
+* https://github.com/pklaus/brother_ql
 
 PT-2730::
 
