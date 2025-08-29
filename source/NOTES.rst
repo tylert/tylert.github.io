@@ -227,6 +227,9 @@ Video/Audio/Camera Awesome
     # Stream ripping example (try to keep metadata; needs work)
     ffmpeg -i http://fr.ah.fm:8000/192k -map_metadata 0:s:0 ah_fm.mp3
 
+    # Yootoob
+    yt-dlp -f 'bv[height<=360]+ba' https://foobiewoobie.com/wholebunchofblablablablablabla
+
 Just fix the title of the video file::
 
     ffmpeg -i input.whatever -c copy -map 0 -metadata title='Something else' output.whatever
