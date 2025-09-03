@@ -185,6 +185,9 @@ Winderz
 
 * https://usebottles.com  run Windoze apps on Linux???
 * https://github.com/quickemu-project/quickemu  easy-mode QEMU (KVM) bash script stuff
+* https://github.com/TibixDev/winboat
+* https://winboat.app
+* https://nowsci.com/winapps
 
 
 PiHole
