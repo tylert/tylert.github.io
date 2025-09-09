@@ -147,6 +147,7 @@ Container Stuff
 * https://github.com/melezhik/Sparrow6/blob/master/posts/Application%20Less%20Containers.md  application-less (empty) containers to run on k8s???
 * https://howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can
 * https://nowsci.com/webbian  Debian desktop in a container accessible from a web browser
+* https://bottlefire.dev  container images to microVMs
 
 
 Networking

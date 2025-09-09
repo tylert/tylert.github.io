@@ -379,6 +379,10 @@ Compiled Shellish Stuff
 * https://taskfile.dev  Go binary to take the place of GNU Make?
 * https://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv  Python with "uv" wrapper
 * https://calabro.io/zig-cgo  shoehorn Zig or C or Rust into a Go binary
+* https://github.com/go-monk/from-bash-to-go
+* https://github.com/go-monk/from-bash-to-go-part-i
+* https://github.com/go-monk/from-bash-to-go-part-ii
+* https://gomonk.net
 
 
 Go Stuff
