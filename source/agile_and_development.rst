@@ -230,6 +230,7 @@ Style Guide Stuff
 * https://docs.gitlab.com/ee/development/shell_scripting_guide
 * https://github.com/google/yamlfmt  still early days for this CLI tool
 * https://github.com/mvdan/sh  shell auto-formatter?
+* https://sembr.org  semantic line breaks
 
 
 Diagrams-as-Code Stuff
