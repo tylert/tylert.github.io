@@ -91,6 +91,8 @@ Keyers and Decoders
 * https://youtube.com/watch?v=FaaQbMpAI1U
 * https://github.com/jmharvey1/STM32_CWDecoder
 * https://github.com/jmharvey1/MCUFriend_STM32CUBEIDE
+* https://ve3yt.com/cw-course
+* https://ve3yt.com/cw-mp3s-links  resources for CW course
 
 
 Antenna Stuff
