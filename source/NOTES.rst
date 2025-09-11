@@ -377,6 +377,7 @@ Cool Shell Tricks
 * https://github.com/hackerb9/lsix  sixels in terminal windows via imagemagick?
 * https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts
 * https://proycon.anaproy.nl/posts/my-cli-tools-for-text-processing
+* https://github.com/Julien-cpsn/desktop-tui
 * https://blog.atuin.sh/atuin-desktop-runbooks-that-run  automation stuff?
 * https://github.com/uutils  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
 * https://uutils.github.io  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
