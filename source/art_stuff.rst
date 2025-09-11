@@ -27,6 +27,9 @@ Photography Stuff
 * https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
 * http://aggregate.org/DIT/CHDK  CHDK with CHDKPTP remote control
 * https://gitlab.com/zephray/sitina1  open-source DSLR body
+* https://printables.com/model/356278-camera-2-cinema-style-camera-housing-for-raspberry
+* https://github.com/eat-sleep-code/camera
+* https://github.com/schoolpost/CinePI  CinePi v2
 
 
 Microscopes and Camera Stuff
