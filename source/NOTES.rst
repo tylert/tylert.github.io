@@ -144,6 +144,8 @@ Retro Computing
 * https://zuzebox.wordpress.com/2023/12/31/raspberry-pi-pico-rp2040-retro-vintage-home-computer-emulation
 * https://benjamin.computer/posts/2025-07-28-amiga40.html  Amiga Workbench installs with modern conveniences
 * https://kazeta.org  console appliance distro?
+* https://the-ventureweaver.itch.io  The Labyrinth of Time's Edge text adventure
+* https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment  OpenGEM, FreeGEM, etc.???
 
 ::
 
