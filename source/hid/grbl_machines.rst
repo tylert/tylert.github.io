@@ -38,3 +38,9 @@ Serial Debugging
 ----------------
 
 * https://mcuoneclipse.com/2022/09/17/picoprobe-using-the-raspberry-pi-pico-as-debug-probe
+
+
+Batteries
+---------
+
+* https://github.com/mnh-jansson/m18-protocol  Milwaukee M18 battery protocol (charging, etc.)
