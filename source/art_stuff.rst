@@ -19,6 +19,23 @@ Font Stuff
     setfont moo.psf.gz
 
 
+Screen Recording
+----------------
+
+Record terminal commands to an SVG animation::
+
+    pip install termtosvg  # termtosvg is currently abandonware
+    echo "PS1='\$ '" > ugh.sh
+    termtosvg login.svg --screen-geometry 80x10 --command 'bash --rcfile ugh.sh'
+
+* https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en  hotkeys for video screen recording
+* https://bubelov.com/blog/2020/10/gnome-screenshots  hotkeys for static screen captures
+
+::
+
+    Shift + Ctrl + Alt + R  # start screen recording (same combo when you're done to stop it)
+
+
 Photography Stuff
 -----------------
 

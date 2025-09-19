@@ -5,8 +5,8 @@ Inventory Management
 * https://github.com/opensbom-generator/spdx-sbom-generator
 
 
-Tmux With Terminal Stuff
-------------------------
+Tmux Terminal Stuff
+-------------------
 
 * https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar
 * https://man.openbsd.org/tmux
@@ -16,6 +16,10 @@ Tmux With Terminal Stuff
 * https://davidwinter.dev/2019/03/14/tmux-the-essentials
 * https://bower.sh/you-might-not-need-tmux  some of the tmux stuff without tmux
 * https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful
+* https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
+* https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
+* https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
+* https://aj.codes/posts/be-careful-using-tmux-and-environment-variables
 
 ::
 
@@ -52,17 +56,6 @@ Tmux With Terminal Stuff
     shift + ctrl + c or v             # tmux pass-through copy or paste
     shift + left/middle/right-button  # tmux pass-through left/middle/right-button
     # etc., etc., etc...
-
-Record terminal commands to an SVG animation::
-
-    pip install termtosvg  # termtosvg is currently abandonware
-    echo "PS1='\$ '" > ugh.sh
-    termtosvg login.svg --screen-geometry 80x10 --command 'bash --rcfile ugh.sh'
-
-* https://stackoverflow.com/questions/17445100/getting-back-old-copy-paste-behaviour-in-tmux-with-mouse
-* https://superuser.com/questions/1336762/how-do-i-copy-paste-from-the-system-clipboard-in-tmux-in-xterm-on-linux
-* https://stackoverflow.com/questions/1188959/how-to-open-a-new-tab-in-gnome-terminal-from-command-line
-* https://aj.codes/posts/be-careful-using-tmux-and-environment-variables
 
 
 Game Stuff
