@@ -92,6 +92,9 @@ PDF + Contacts
 * https://github.com/andystiller/address-book/blob/main/address-db.py
 * https://github.com/Shravendra/address_book  neat address book API thingy
 * https://realpython.com/contact-book-python-textual  tutorial creating an address book management tool in Python
+* https://www.zupzup.org/go-example-ical/index.html  creating an iCal feed with Go
+* https://github.com/arran4/golang-ical
+* https://pkg.go.dev/github.com/arran4/golang-ical
 
 ::
 
