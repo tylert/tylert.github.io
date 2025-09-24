@@ -228,6 +228,7 @@ Voice Assistants
 * https://geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 * https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device
 * https://pavlinbg.com/posts/python-speech-to-text-guide
+* https://github.com/openai/whisper  pip install openai-whisper???
 
 
 Local Files
