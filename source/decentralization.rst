@@ -98,6 +98,8 @@ Other
 * https://github.com/polaroi8d/cactoide  self-hosted RSVP platform
 * https://cactoide.dalev.hu  self-hosted RSVP platform
 * https://tarsnap.com/spiped.html
+* https://ekzhang.substack.com/p/ssh-hypervisor-simcity-for-vms  unique VMs for each SSH session
+* https://github.com/ekzhang/ssh-hypervisor  unique VMs for each SSH session
 
 
 Containers Images Backups

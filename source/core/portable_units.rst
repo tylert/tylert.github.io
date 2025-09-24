@@ -181,13 +181,13 @@ Communication
 NNCP
 ----
 
-* https://www.complete.org/nncp  to try to learn how to use NNCP
+* https://complete.org/nncp  to try to learn how to use NNCP
 * https://aur.archlinux.org/nncp.git  to learn the missing compilation step needed
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
-* https://www.complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
-* https://www.gibbard.me/using_git_offline
-* https://www.complete.org/nncp
-* https://www.dyne.org/software/tomb
+* https://complete.org/dead-usb-drives-are-fine-building-a-reliable-sneakernet
+* https://gibbard.me/using_git_offline
+* https://complete.org/nncp
+* https://dyne.org/software/tomb
 * https://changelog.complete.org/archives/5462-kr0l-amateur-radio-wikis-and-linux
 * there's a GNU project for this stuff too hidden somewhere amongst the links above
 
@@ -224,9 +224,10 @@ Voice Assistants
 * https://johnthenerd.com/blog/local-llm-assistant
 * https://github.com/project-alice-assistant/ProjectAlice  offline voice assistant
 * https://github.com/nkasmanoff/pi-card  offline personal assistant?
-* https://www.optoutproject.net/ditch-your-alexa
-* https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
+* https://www.optoutproject.net/ditch-your-alexa  (mandatory "www")
+* https://geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 * https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device
+* https://pavlinbg.com/posts/python-speech-to-text-guide
 
 
 Local Files

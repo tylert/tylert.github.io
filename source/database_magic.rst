@@ -49,6 +49,7 @@ SQLite
 * https://sqlite.org/cli.html#redirecting_i_o  .once directive
 * https://alexwlchan.net/2025/copying-sqlite-databases  rsync dbs
 * https://jacob.gold/posts/go-sqlite-best-practices
+* https://github.com/sqliteai/sqlite-sync
 
 ::
 
