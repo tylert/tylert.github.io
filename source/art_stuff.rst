@@ -166,6 +166,11 @@ Graphics
 * https://fullcontrol.xyz/#/models
 * https://hackaday.com/2024/09/23/custom-mini-neon-signs-in-10-minutes
 * https://github.com/torbenconto/bambulabs_api  Go library for interfacing with Bambu printers?
+* https://blog.thea.codes/my-voron-2-experience
+* https://formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10489
+* https://marlinfw.org/docs/basics/install.html
+* https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x/Marlin
+* https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2.1/config/examples/Creality/Ender-3%20Pro/CrealityV427
 
 
 AI
