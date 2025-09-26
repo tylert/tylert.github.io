@@ -218,6 +218,7 @@ PostgreSQL
 * https://github.com/pgdogdev/pgdog  scaling and sharding magic
 * https://pgdog.dev  scaling and sharding magic
 * https://github.com/wey-gu/py-pglite  Py-PGlite;  PostgreSQL with the ease of SQLite?
+* https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres
 
 
 MySQL Stuff
