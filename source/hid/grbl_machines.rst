@@ -52,6 +52,11 @@ Ender 3
 * https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC  E3CNC
 * https://rh3d.xyz  E3NG
 
+::
+
+    platformio run -e STM32F103RE_creality
+    # ls .pio/build/STM32F103RE_creality/*.bin
+
 
 3D Printing
 -----------
