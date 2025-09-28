@@ -51,6 +51,7 @@ Ender 3
 
 * https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC  E3CNC
 * https://rh3d.xyz  E3NG
+* https://3dprintscape.com/marlin-firmware-on-creality-board-complete-guide
 
 ::
 
