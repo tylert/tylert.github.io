@@ -138,6 +138,7 @@ Publishing
 * https://typst.app
 * https://github.com/typst/typst
 * https://github.com/typst/packages
+* https://typst.app/universe/package/meander  for typesetting newsletters with images?
 * https://blog.jreyesr.com/posts/typst  typesetting similar to LaTeX
 * https://github.com/qjcg/awesome-typst  example templates and things for Typst
 * https://github.com/typst/typst/issues/721  Typst HTML output
@@ -160,6 +161,8 @@ Publishing
 * https://github.com/clawsoftware/clawPDF  pdfcpu/pdftk/tesseract/cups-pdf as a service?
 * https://getzola.org  like Hugo but in Rust
 * https://github.com/getzola/zola  like Hugo but in Rust
+* https://sile-typesetter.org/what-is-sile
+* https://github.com/sile-typesetter/sile
 
 
 Offline Fun
