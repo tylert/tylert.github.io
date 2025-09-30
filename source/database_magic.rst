@@ -1,6 +1,7 @@
 SQLite
 ------
 
+* https://highperformancesqlite.com
 * https://sqlitetutorial.net/sqlite-primary-key
 * https://sqlite.org/datatype3.html  primitive datatypes
 * https://sqlite.org/lang_corefunc.html  built-in functions
