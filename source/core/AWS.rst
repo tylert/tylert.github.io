@@ -19,6 +19,7 @@ Other
 * https://octabyte.io  managed open-source apps?
 * https://github.com/ubicloud/ubicloud  IaaS frontend?
 * https://ubicloud.com  IaaS frontend?
+* https://flightcontrol.dev  pay somebody else to do your DevOops on AWS to make it more platform-y?
 
 ::
 

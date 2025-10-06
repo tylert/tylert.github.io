@@ -258,3 +258,9 @@ Deleting cluster::
 * https://github.com/doitintl/kube-no-trouble
 * https://blog.yaakov.online/replacing-kubernetes-with-systemd
 * https://developertips.substack.com/p/how-to-create-and-manage-a-service
+
+
+Linux From Scratch
+------------------
+
+* https://landley.net/aboriginal/about.html

@@ -36,6 +36,23 @@ BBS
 * https://github.com/VeggieVampire/MeshBoard
 
 
+Messaging
+---------
+
+* https://momi.ca/posts/2024-10-09-honeybee.html  XMPP for calls?
+* https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat
+* https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server  (mandatory "www" here)
+* https://profanity-im.github.io  XMPP client
+
+::
+
+    apk add ejabberd
+
+::
+
+    apk add profanity
+
+
 Email
 -----
 
@@ -56,14 +73,18 @@ Email
 * https://lib.rs/crates/m2sync  m2dir-imap sync tool
 * https://gist.github.com/chripede/99b7eaa1101ee05cc64a59b46e4d299f  stalwart deployment
 * https://vkttech.com/setup-and-configure-stalwart-email-server-a-comprehensive-guide-for-2025
+* https://maxadamski.com/blog/2025/10/email.html  self-hosting email
+* https://wiki.archlinux.org/title/S-nail
+
+::
+
+    apk add opendkim postfix s-nail
 
 
 Linux Phones
 ------------
 
-* https://momi.ca/posts/2024-10-09-honeybee.html  XMPP for calls?
 * https://furilabs.com/shop/flx1  Linux-like phone? (Android HAL underneath?)
-* https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat
 
 
 Other
@@ -163,6 +184,9 @@ Publishing
 * https://github.com/getzola/zola  like Hugo but in Rust
 * https://sile-typesetter.org/what-is-sile
 * https://github.com/sile-typesetter/sile
+* https://overreacted.io/open-social  AT protocol
+* https://overreacted.io/where-its-at  AT protocol
+* https://solidproject.org  Solid protocol
 
 
 Offline Fun
@@ -225,6 +249,7 @@ Networking
 
 * https://mjg59.dreamwidth.org/72095.html
 * https://github.com/juhovh/tailguard
+* https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home
 
 
 AI
