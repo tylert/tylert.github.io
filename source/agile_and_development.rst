@@ -265,6 +265,7 @@ CI/CD Stuff
 * https://distr.sh/docs/getting-started/about  internal deployment thingy?
 * https://codspeed.io/blog/benchmarks-in-ci-without-noise
 * https://taskfile.dev  Go thing that's a bit like Make?
+* https://github.com/jdx/mise  maybe for environment stuff on build servers maybe?
 
 
 Git Stuff
