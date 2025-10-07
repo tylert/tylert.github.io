@@ -59,6 +59,9 @@ Ender 3
 * https://reddit.com/r/klippers/comments/13bbgb3/installed_klipper_on_my_ender_3_pro_and_got_it
 * https://3dprinterly.com/how-to-install-klipper-on-ender-3-pro-v2-s1
 * https://www.klipper3d.org/Installation.html  (mandatory "www" here)
+* https://youmaketech.com/ender3-touch-screen-interface-for-klipper  another display option?
+* https://github.com/boubounokefalos/Ender_SW  Enderwire or Switchwire mod for Ender 3 Pro?
+* https://mods.vorondesign.com/details/EqTd3ybfbII7gUWASGtY0g
 
 Marlin firmware builds::
 
