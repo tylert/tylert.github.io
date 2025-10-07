@@ -72,6 +72,7 @@ Marlin firmware builds::
 3D Printing
 -----------
 
+* https://ellis3dp.com/Print-Tuning-Guide
 * https://github.com/cooljjj33/PolyDye  white filament + inkjet technology = full-colour prints
 * https://blog.rahix.de/design-for-3d-printing
 * https://github.com/FullControlXYZ/fullcontrol  a different way of handling slicing/pathing
