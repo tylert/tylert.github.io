@@ -52,8 +52,15 @@ Ender 3
 * https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC  E3CNC
 * https://rh3d.xyz  E3NG
 * https://3dprintscape.com/marlin-firmware-on-creality-board-complete-guide
+* https://marlinfw.org/docs/basics/install.html
+* https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x/Marlin
+* https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2.1/config/examples/Creality/Ender-3%20Pro/CrealityV427
+* https://reddit.com/r/klippers/comments/114xwd3/ender_3_pro_with_427_mainboard_stock_screen
+* https://reddit.com/r/klippers/comments/13bbgb3/installed_klipper_on_my_ender_3_pro_and_got_it
+* https://3dprinterly.com/how-to-install-klipper-on-ender-3-pro-v2-s1
+* https://www.klipper3d.org/Installation.html  (mandatory "www" here)
 
-::
+Marlin firmware builds::
 
     platformio run -e STM32F103RE_creality
     # ls .pio/build/STM32F103RE_creality/*.bin
@@ -70,9 +77,6 @@ Ender 3
 * https://github.com/torbenconto/bambulabs_api  Go library for interfacing with Bambu printers?
 * https://blog.thea.codes/my-voron-2-experience
 * https://formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10489
-* https://marlinfw.org/docs/basics/install.html
-* https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x/Marlin
-* https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2.1/config/examples/Creality/Ender-3%20Pro/CrealityV427
 
 
 Woodworking

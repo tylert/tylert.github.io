@@ -186,3 +186,9 @@ Other
 * https://voussoir.net/writing/css_for_printing
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
 * https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
+
+
+Printer
+-------
+
+* https://crowdsupply.com/open-tools/open-printer
