@@ -31,6 +31,7 @@ Modems and Interfaces
 ---------------------
 
 * https://repeater-builder.com/projects/fob/startech-fob.html
+* https://wiki.oarc.uk/cm108_sound_interface_smd
 * https://marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html
 * https://amazon.ca/s?k=cm108
 * https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf
