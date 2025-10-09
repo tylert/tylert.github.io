@@ -531,6 +531,7 @@ WASM
 * https://go.dev/blog/wasmexport  Go 1.24 new capabilities
 * https://wasmcloud.com  WASM-native orchestration? (even on-prem, self-hosted)
 * https://github.com/cogentcore/core
+* https://github.com/raphamorim/goiaba
 
 
 Kubernetes Stuff

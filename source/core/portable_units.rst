@@ -176,6 +176,7 @@ Communication
 * https://github.com/foxcpp/maddy  maddy email server
 * https://github.com/beac0n/ruroco  UDP port-knocking to open SSH?
 * https://github.com/nizarmah/igatha  BLE-only SOS app thing?
+* https://romanzipp.com/blog/why-a-homelab-why-self-host
 
 
 NNCP
@@ -265,6 +266,7 @@ Cyberdecks and Tiny Machines
 * https://github.com/ZitaoTech/Hackberry-Pi_Zero  Pi 02W with a tiny screen and keyboard
 * https://github.com/ericjenott/Evertop  solar-powered emulated 80186 for running Minix, DOS, Windows 3.0, etc.
 * https://github.com/unkyulee/micro-journal
+* https://danielmangum.com/posts/laptop-hdmi-monitor-sbc  using an old laptop as a HDMI display for an SBC (using a USB capture device)
 
 
 Power Supplies
