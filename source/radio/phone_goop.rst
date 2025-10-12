@@ -211,7 +211,7 @@ Others
 * https://opensource.com/article/20/12/android-auto-open-source
 * https://www.reddit.com/r/fossdroid/comments/fh5jcr/foss_alternative_to_connect_to_android_auto
 * https://github.com/tomasz-grobelny/AACS
-* http://rafalgolarz.com/blog/2017/01/15/running_golang_on_android
+* https://rafalgolarz.com/blog/2017/01/15/running_golang_on_android  termux-go?
 * https://www.schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html
 * https://tycrek.github.io/degoogle
 * https://github.com/tycrek/degoogle
@@ -224,3 +224,4 @@ Others
 * https://gitlab.com/android_translation_layer/android_translation_layer  Android apps on your Linux workstation
 * https://landley.net/toybox  build Android on Android?
 * https://github.com/landley/toybox  build Android on Android?
+* https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539
