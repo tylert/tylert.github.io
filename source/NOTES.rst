@@ -81,6 +81,8 @@ Game Stuff
 * https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick  Open Source Arcade stick
 * https://aperture-software.github.io/colditz-escape
 * https://github.com/aperture-software/colditz-escape
+* https://zero-k.info
+* https://zerok.itch.io/zero-k
 
 
 Retro Computing
@@ -497,6 +499,8 @@ Cool Products
 * https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor  Tiny Code Sensor (QRcode reader)
 * https://github.com/moonshine-ai/tiny_code_reader_docs/blob/main/README.md  Tiny Code Sensor (QRcode reader)
 * https://github.com/ClemensElflein/OpenMower
+* https://en.alinx.com/Product/FPGA-Development-Boards/Artix-7/AX7201.html  FPGA-based networking gizmo?
+* https://github.com/chili-chips-ba/wireguard-fpga  FPGA-based networking gizmo?
 
 
 RPG Stuff
@@ -539,7 +543,7 @@ Awesome Stuff
 * https://youtube.com/watch?v=icyTnoonRqI  K3s and Home Assistant
 * https://github.com/mwgg/Airports  JSON database of airport codes and locations
 * https://github.com/codecrafters-io/build-your-own-x
-* https://www.netmeister.org/blog/ops-lessons.html
+* https://netmeister.org/blog/ops-lessons.html
 * https://roadmap.sh/devops
 * https://popovicu.com/posts/making-usb-devices
 * https://jamesbvaughan.com/southwest-wifi  probing flight info from in-flight wifi without wasting your money
