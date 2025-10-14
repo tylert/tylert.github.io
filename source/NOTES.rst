@@ -380,6 +380,10 @@ Cool Shell Tricks
 * https://github.com/uutils  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
 * https://uutils.github.io  coreutils, diffutils, findutils, procps, util-linux, etc. rewritten in Rust
 * https://heitorpb.github.io/bla/timeout  add timeouts to bash scripts
+* https://ikrima.dev  a whole bunch more cool shell tricks and notes
+* https://github.com/ikrima/gamedevguide  a whole bunch more cool shell tricks and notes
+* https://3os.org  another collection of cool shell tricks and notes
+* https://github.com/fire1ce/3os.org  another collection of cool shell tricks and notes
 
 ::
 

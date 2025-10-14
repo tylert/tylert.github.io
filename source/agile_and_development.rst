@@ -142,6 +142,8 @@ Development
 * https://bytedrum.com/posts/art-of-finishing
 * https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure
 * https://underlap.org/developers-block
+* https://micro-editor.github.io  another simple, server-friendly option for text editor?
+* https://github.com/zyedidia/micro  another simple, server-friendly option for text editor?
 
 
 Versioning
@@ -392,7 +394,7 @@ Go Stuff
 
 ::
 
-    go tool list dist            # show supported OS/ARCH combos
+    go tool dist list            # show supported OS/ARCH combos
     go build                     # compile everything
     go version -m foo            # show build info packed into the binary
     go clean                     # clean up everything
@@ -400,7 +402,7 @@ Go Stuff
     go get -u all ; go mod tidy  # upgrade all dependencies to latest
     go mod vendor                # vendor (copy) all dependencies locally
     go vet                       # do some linting/checking
-    go fmt *.go                  # style the code
+    gofmt -l -w *.go             # style the code
 
 * https://opensource.com/article/22/4/go-build-options
 * https://howistart.org/posts/go/1
@@ -531,7 +533,7 @@ WASM
 * https://go.dev/blog/wasmexport  Go 1.24 new capabilities
 * https://wasmcloud.com  WASM-native orchestration? (even on-prem, self-hosted)
 * https://github.com/cogentcore/core
-* https://github.com/raphamorim/goiaba
+* https://github.com/raphamorim/goiaba  Rust compiler for Go code?
 
 
 Kubernetes Stuff

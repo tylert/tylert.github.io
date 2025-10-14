@@ -98,7 +98,8 @@ Other
 * https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/Gabriella439/holepunch  holepunch (squid, stunnel, ssh -R, corkscrew)
 * https://github.com/coder/wush  WireGuard + Tailscale for sharing files?
-* https://github.com/harsxv/tinystatus  self-hosted statuspage thing
+* https://github.com/harsxv/tinystatus  self-hosted statuspage thing?
+* https://gethomepage.dev  self-hosted statuspage thing?
 * https://ploum.net/the-computer-built-to-last-50-years/index.html
 * https://github.com/alebeck/boring  SSH tunnel management
 * https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go  SSH tunnel management
