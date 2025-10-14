@@ -52,3 +52,10 @@ Heh
 
 * https://thetyee.ca/Analysis/2024/07/15/Enshittification-Everything
 * https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
+
+
+Essential Services
+------------------
+
+* https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html  make regular web searching suck less?
+* https://kagi.com  make regular web searching suck less?

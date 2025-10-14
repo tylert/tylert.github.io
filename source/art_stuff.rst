@@ -177,6 +177,7 @@ AI
 * https://muffinman.io/blog/the-tiny-book-of-great-joys  centre-line tracing for pen plotting
 * https://github.com/trycua/cua  containers for AI?
 * https://koomen.dev/essays/horseless-carriages
+* https://simonwillison.net/2025/Oct/13/nanochat
 
 
 Other

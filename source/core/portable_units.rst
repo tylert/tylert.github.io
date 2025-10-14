@@ -294,3 +294,4 @@ Navigation
 * https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping
 * https://github.com/akhenakh/mocs  Go, Qt app
 * https://ozzmaker.com/navigating-navit-raspberry-pi
+* https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed  using QGIS to visualize various datasets

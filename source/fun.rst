@@ -32,7 +32,7 @@ Linux
 * https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html
 * https://asciinema.org/a/132009  debian cloud image demo with cloud-init nocloud
 * https://gist.github.com/wngtk/5c616dc16fd84ac69f14bd5e12a595a8#disk-partition-structure
-* https://www.ventoy.net/en/doc_search_path.html#:~:text=3.%20Skip%20a,be%20listed%20anymore  .ventoyignore file
+* https://ventoy.net/en/doc_search_path.html#:~:text=3.%20Skip%20a,be%20listed%20anymore  .ventoyignore file
 * https://github.com/FlyGoat/csmwrap  BIOS wrapped in fancy-pants UEFI
 * https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html
 

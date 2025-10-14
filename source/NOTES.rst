@@ -674,4 +674,4 @@ Family IT Support Calls
 * https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing
 * https://lwn.net/Articles/925870  TOTP
-* https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux
+* https://scottrlarson.com/publications/publication-looking-back-windows-to-linux
