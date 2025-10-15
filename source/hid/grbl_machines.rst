@@ -34,6 +34,16 @@ Generative Art
 * https://hugin.sourceforge.io/tutorials/scans/en.shtml  stitching scanned images together
 
 
+Labels
+------
+
+* https://my.cytron.io/tutorial/creating-a-3d-printed-qr-code
+* https://github.com/RobotAnna/3D_Designs/tree/main/Nameplate_for_Apartment_Mailboxes  OpenSCAD 2-layer label plates
+* https://printables.com/model/855641-parametric-washer-stamping-jig
+* https://github.com/mahzhoor/WasherStampJig  OpenSCAD washer stamping jig
+* https://estudiobitcoin.com/fabrica-tu-billetera-fria-con-arandelas  stamped washers
+
+
 Serial Debugging
 ----------------
 
