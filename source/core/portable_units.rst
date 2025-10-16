@@ -179,6 +179,8 @@ Communication
 * https://romanzipp.com/blog/why-a-homelab-why-self-host
 * https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose
 * https://git.sr.ht/~whynothugo/ImapGoose
+* https://bitfehler.net/man/vsync.1.html
+* https://github.com/pimalaya/himalaya  Rust CLI to manage emails?
 
 
 NNCP
