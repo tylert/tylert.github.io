@@ -177,6 +177,8 @@ Communication
 * https://github.com/beac0n/ruroco  UDP port-knocking to open SSH?
 * https://github.com/nizarmah/igatha  BLE-only SOS app thing?
 * https://romanzipp.com/blog/why-a-homelab-why-self-host
+* https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose
+* https://git.sr.ht/~whynothugo/ImapGoose
 
 
 NNCP
