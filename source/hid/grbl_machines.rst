@@ -32,6 +32,11 @@ Generative Art
 * https://plotterfiles.com
 * https://geekhack.org/index.php?topic=65747.0
 * https://hugin.sourceforge.io/tutorials/scans/en.shtml  stitching scanned images together
+* https://drawscape.io
+* https://generativehut.com
+* https://eyesofpanda.com/project/plotter_painting_q_a
+* https://larswander.com/writing/watercolor-plots
+* https://penplotterartwork.com/blog/2021/11/06/beyond-the-pen-plotter-art-made-with-paint-sand-more
 
 
 Labels
