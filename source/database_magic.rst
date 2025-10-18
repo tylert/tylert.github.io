@@ -108,7 +108,7 @@ Clustering and Replication
 * https://rqlite.io
 * https://github.com/rqlite/rqlite
 * https://rqlite.com
-* https://www.philipotoole.com
+* https://philipotoole.com
 * https://dqlite.io
 * https://github.com/canonical/dqlite
 * https://sqlsync.dev  eventually-consistent SQLite, offline-first
@@ -173,6 +173,7 @@ Schema Stuff
 * https://typst.app/universe/package/pintorita
 * https://github.com/taylorh140/typst-pintora  Pintorita plugin for Typst
 * https://pintorajs.vercel.app/docs/intro
+* https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid
 
 
 K8s Stuff
@@ -221,6 +222,7 @@ PostgreSQL
 * https://github.com/wey-gu/py-pglite  Py-PGlite;  PostgreSQL with the ease of SQLite?
 * https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres
 * https://github.com/pgEdge/spock
+* https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
 
 
 MySQL Stuff

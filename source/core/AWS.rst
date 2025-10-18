@@ -1,6 +1,7 @@
 Other
 -----
 
+* https://digitalsociety.coop/posts/migrating-to-hetzner-cloud
 * https://awsregion.info
 * https://ec2instances.github.io  kinda replacement for ec2instances.info
 * https://instances.vantage.sh former ec2instances.info
