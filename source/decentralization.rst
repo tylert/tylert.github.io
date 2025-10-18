@@ -122,6 +122,8 @@ Other
 * https://tarsnap.com/spiped.html
 * https://ekzhang.substack.com/p/ssh-hypervisor-simcity-for-vms  unique VMs for each SSH session
 * https://github.com/ekzhang/ssh-hypervisor  unique VMs for each SSH session
+* https://automerge.org
+* https://github.com/automerge/automerge-go  maybe sucks to build on Linux?
 
 
 Containers Images Backups

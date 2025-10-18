@@ -424,6 +424,7 @@ Assorted Things-to-Read
 * https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting
 * https://mitchhorowitz.substack.com/p/101-rules-of-effective-living
 * https://improveyoursocialskills.com/basic-social-skills-guide
+* https://codenames.info  WWII codenames
 
 
 Humour

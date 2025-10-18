@@ -23,6 +23,7 @@ More Plottery Stuff
 * https://kickstarter.com/projects/maslow4/maslow41-accessible-large-format-cnc-router
 * https://maslowcnc.com
 * https://thingiverse.com/thing:724999  CNC machine using easily-obtainable pipes
+* https://github.com/mitxela/plotterfun
 
 
 Generative Art
