@@ -142,6 +142,9 @@ Retro Computing
 * https://kazeta.org  console appliance distro?
 * https://the-ventureweaver.itch.io  The Labyrinth of Time's Edge text adventure
 * https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment  OpenGEM, FreeGEM, etc.???
+* https://cmaiolino.wordpress.com/dosbian  apt-get install dosbox?
+* https://cmaiolino.wordpress.com/amiga-pi  apt-get install uae4arm?
+* https://cmaiolino.wordpress.com  apt-get install vice?
 
 ::
 
@@ -506,6 +509,7 @@ Cool Products
 * https://github.com/ClemensElflein/OpenMower
 * https://en.alinx.com/Product/FPGA-Development-Boards/Artix-7/AX7201.html  FPGA-based networking gizmo?
 * https://github.com/chili-chips-ba/wireguard-fpga  FPGA-based networking gizmo?
+* https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch
 
 
 RPG Stuff

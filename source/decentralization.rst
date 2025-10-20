@@ -43,6 +43,11 @@ Messaging
 * https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat
 * https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server  (mandatory "www" here)
 * https://profanity-im.github.io  XMPP client
+* https://berty.tech
+* https://berty.tech/features  BLE and mDNS for messaging?
+* https://github.com/berty/berty
+* https://github.com/berty/weshnet
+* https://wesh.network
 
 ::
 
