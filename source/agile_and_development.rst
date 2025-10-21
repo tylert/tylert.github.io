@@ -314,6 +314,7 @@ Git Stuff
 * https://vivekdhami.com/posts/git-move-repo-files-with-history  another example of how to use git-filter-repo
 * https://tomups.com/posts/git-worktrees
 * https://tylercipriani.com/blog/2025/08/15/git-lfs  no more git-lfs (or git-annex, etc.)?
+* https://stavros.io/posts/switch-to-jujutsu-already-a-tutorial
 
 
 Process Stuff

@@ -149,6 +149,7 @@ Misc
 * https://instructables.com/id/DIY-Laptop-PowerBank
 * https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
 * https://www.hillelwayne.com/post/randomness  brain PRNG?
+* https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay
 
 
 Kubernetes
