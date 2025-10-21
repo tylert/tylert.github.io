@@ -387,6 +387,7 @@ Cool Shell Tricks
 * https://github.com/ikrima/gamedevguide  a whole bunch more cool shell tricks and notes
 * https://3os.org  another collection of cool shell tricks and notes
 * https://github.com/fire1ce/3os.org  another collection of cool shell tricks and notes
+* https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
 
 ::
 
