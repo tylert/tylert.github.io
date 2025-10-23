@@ -15,7 +15,6 @@ Other
 * https://wiki.archlinux.org/title/Arch_Linux_AMIs_for_Amazon_Web_Services
 * https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
 * https://crossplane.io
-* https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
 * https://bilbof.com/posts/kubernetes-on-hetzner
 * https://octabyte.io  managed open-source apps?
 * https://github.com/ubicloud/ubicloud  IaaS frontend?
@@ -294,10 +293,13 @@ S3
 --
 
 * https://github.com/presslabs/z3  ZFS send to S3?
-* http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
+* https://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
 * https://blog.cloudflare.com/sippy-incremental-migration-s3-r2
 * https://ochagavia.nl/blog/using-s3-as-a-container-registry
 * https://segment.com/blog/S3-for-changedatacapture-dynamodb-table  cheaper DynamoDB?
+* https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
+* https://github.com/rustfs/rustfs  self-hosted S3?
+* https://garagehq.deuxfleurs.fr  self-hosted S3?
 
 
 SQS
