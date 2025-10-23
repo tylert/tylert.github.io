@@ -66,12 +66,14 @@ Email
 * https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email
 * https://aerc-mail.org
 * https://git.sr.ht/~rjarry/aerc
+* https://sourceforge.net/p/isync/isync  C + Perl replacement for (Python) offlineimap3?
 * https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90
 * https://mailcatcher.me
 * https://github.com/sj26/mailcatcher
 * https://github.com/dynamail/gosmtp
 * https://github.com/emersion/go-smtp
 * https://github.com/pimalaya/himalaya  CLI for managing emails
+* https://lostpackets.de/khal  CLI CalDAV client
 * https://stalw.art
 * https://workaround.org/ispmail-bookworm
 * https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html
