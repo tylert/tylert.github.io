@@ -502,6 +502,7 @@ Go Stuff
 * https://github.com/muesli/mango  lazy man pages?
 * https://github.com/cmd-stream/cmd-stream-go  faster than RPC?
 * https://github.com/vvvvv/dlg  printf-style debug with magic to remove it from production builds
+* https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know
 
 
 Rust Stuff

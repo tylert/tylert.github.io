@@ -246,6 +246,7 @@ Backups and File Sharing
 * https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html
 * https://github.com/localsend/localsend
 * https://github.com/9001/copyparty  Python Samba server with uploads and downloads that work from a regular web browser
+* https://opensource.com/article/20/1/create-save-run-rsync-configurations
 
 
 Auth
