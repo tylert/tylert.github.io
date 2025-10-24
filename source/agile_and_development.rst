@@ -306,6 +306,7 @@ Git Stuff
 * https://rednafi.com/misc/on_rebasing
 * https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs
 * https://gist.github.com/techknowlogick/c2367e03baff9f16b3c5cc9d9a5d13ca  mirror repos on GitHub to Gitea
+* https://github.com/charmbracelet/soft-serve  self-hosted git server
 * https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2  interdiff code review?
 * https://ente.io/blog/monorepo-retrospective
 * https://cyberdemon.org/2024/03/20/submodules.html
