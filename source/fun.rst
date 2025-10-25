@@ -22,6 +22,9 @@ Linux
 * https://plop.at/en/bootmanager/full.html  other low-level boot goop?
 * https://anemos.io  build custom initramfs installers
 * https://words.filippo.io/dispatches/frood  initramfs Alpine NAS
+* https://willhbr.net/2025/03/09/a-slim-home-server-with-alpine-linux
+* https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation
+* https://blog.bythewood.me/posts/minimal-automated-updates-for-alpine-linux  Alpine actually provides a way to do automatic upgrades (unlike Arch)
 * https://codentium.com/guides/alpine  Alpine server setup
 * https://wildtechgarden.ca/doc/server-alpine-linux-docs4web  Alpine server setup
 * https://regrow.earth/diy-server/installation  Alpine server setup
