@@ -78,6 +78,7 @@ Ender 3
 * https://youmaketech.com/ender3-touch-screen-interface-for-klipper  another display option?
 * https://github.com/boubounokefalos/Ender_SW  Enderwire or Switchwire mod for Ender 3 Pro?
 * https://mods.vorondesign.com/details/EqTd3ybfbII7gUWASGtY0g
+* https://blog.matthewbrunelle.com/3d-printing-the-smartspin-2k-with-an-ender-3-v2  CR touch installation procedure
 
 Marlin firmware builds::
 
