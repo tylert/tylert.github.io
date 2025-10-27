@@ -316,6 +316,7 @@ Git Stuff
 * https://tomups.com/posts/git-worktrees
 * https://tylercipriani.com/blog/2025/08/15/git-lfs  no more git-lfs (or git-annex, etc.)?
 * https://stavros.io/posts/switch-to-jujutsu-already-a-tutorial
+* https://maurycyz.com/misc/easy_git  you already have a git server
 
 
 Process Stuff

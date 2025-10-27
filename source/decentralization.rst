@@ -239,7 +239,7 @@ Backups and File Sharing
 
 * https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing
 * https://blog.jse.li/posts/torrent  Go torrent client
-* http://www.mikerubel.org/computers/rsync_snapshots
+* http://mikerubel.org/computers/rsync_snapshots  (mandatory "http" here)
 * https://github.com/WikiBox/snapshot.sh
 * https://reddit.com/r/selfhosted/comments/1hjqfww/what_are_your_selfhosted_appservice_that_you_cant  doc stuff, etc.
 * https://reddit.com/r/selfhosted/comments/1hlyjv3/what_is_your_selfhosted_discover_in_2024  wiki stuff, doc stuff, etc.
