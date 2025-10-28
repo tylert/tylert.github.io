@@ -234,6 +234,10 @@ Bell
 * https://github.com/adron-s/openwrt-rb5009
 * https://downloads.openwrt.org/releases/24.10.4/targets/mvebu/cortexa72  mikrotik_rb5009
 * https://reddit.com/r/bell/comments/1o8zhj5/switched_from_bell_to_ebox_a_year_ago_same_fibre  ebox.ca?
+* https://reddit.com/r/homelab/comments/wjd2ps/canadian_isp_with_whom_i_can_use_my_own_router
+* https://reddit.com/r/homelab/comments/wjd2ps/comment/ijhs6mu  use your own modem and router
+* https://reddit.com/r/bell/comments/18sdfzy/are_you_technically_savvy_and_want_to_bypass_your
+* https://morey.tech/technical%20blog/Bell-HomeHub-4000-PPPoE-with-pfSense
 
 ::
 
