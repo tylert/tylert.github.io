@@ -221,3 +221,20 @@ Other
 * https://blog.brixit.nl/making-a-linux-managed-network-switch  DIY managed Gigabit Ethernet switch
 * https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev  another fancy whitebox switch
 * https://interfacinglinux.com/2024/12/26/banana-pi-bpi-r4-openwrt-quickstart  dual-10GbE SFP
+
+
+Bell
+----
+
+* https://reddit.com/r/bell/comments/1hgh32v/what_are_my_options_to_use_my_own_router_instead
+* https://www.store.mikrotikcanada.ca/ethernet-routers/441-rb5009ugsin-4752224007148.html?SubmitCurrency=1&id_currency=3  (mandatory "www" here)
+* https://mikrotik.com/product/rb5009ug_s_in
+* https://mikrotik.com/product/rb5009_mount  K-79
+* https://openwrt.org/toh/mikrotik/rb5009ug_s_in?s[]=18
+* https://github.com/adron-s/openwrt-rb5009
+* https://downloads.openwrt.org/releases/24.10.4/targets/mvebu/cortexa72  mikrotik_rb5009
+* https://reddit.com/r/bell/comments/1o8zhj5/switched_from_bell_to_ebox_a_year_ago_same_fibre  ebox.ca?
+
+::
+
+    You will need to know if your service is gpon or xgs-pon.
