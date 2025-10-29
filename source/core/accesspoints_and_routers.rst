@@ -92,7 +92,7 @@ Configuration thingies::
                                           :  DHCPv6-Service disabled
     Network -> Wireless                   :  SSID(s) -> Edit button(s)
                                           :  Enable button, Set ESSID, set encryption
-        Advanced Settings                 :  Country Code
+        General Settings                  :  Country Code
 
     # XXX FIXME TODO  Test getting these via DHCP instead of hard-coding them!!!
 
@@ -102,17 +102,39 @@ Configuration thingies::
 
 ::
 
-    # /etc/config/dhcp
+    uci show
+
+    uci set system.@system[0].hostname='wap5'
+    uci commit system
+
+    uci set dhcp.lan.ignore='1'
+    uci set dhcp.lan.dynamicdhcp='0'
     uci del dhcp.lan.ra
     uci del dhcp.lan.ra_slaac
     uci del dhcp.lan.ra_flags
     uci del dhcp.lan.dhcpv6
-    uci set dhcp.lan.ignore='1'
-    uci set dhcp.lan.dynamicdhcp='0'
-    # /etc/config/network
-    uci set network.lan.ipaddr='${IP_OF_AP}'
-    uci set network.lan.gateway='${IP_OF_RTR}'
-    uci add_list network.lan.dns='${IP_OF_RTR}'
+    uci commit dhcp
+
+    uci wireless.default_radio0.ssid='pants'
+    uci wireless.default_radio1.ssid='shoes'
+    uci wireless.default_radio0.encryption='psk2'
+    uci wireless.default_radio1.encryption='psk2'
+    uci wireless.default_radio0.key='hellohello'
+    uci wireless.default_radio1.key='olleholleh'
+    uci wireless.radio0.country='CA'
+    uci wireless.radio1.country='CA'
+    uci wireless.radio0.disabled='0'
+    uci wireless.radio1.disabled='0'
+    uci commit wireless
+
+    uci del network.lan.ipaddr
+    uci del network.lan.netmask
+    uci del network.lan.ip6assign
+    uci set network.lan.proto='dhcpv6'
+    # uci set network.lan.ipaddr='${IP_OF_AP}'
+    # uci set network.lan.gateway='${IP_OF_RTR}'
+    # uci add_list network.lan.dns='${IP_OF_RTR}'
+    uci commit network
 
 
 Add stuff to /etc/rc.local (System -> Startup -> Local Startup)::
