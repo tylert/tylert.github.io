@@ -235,6 +235,21 @@ Other::
     System -> DHCP and DNS -> Hostnames      :  Set some backup fixed hostnames for IPv4
 
 
+OpenWRT
+-------
+
+* https://openwisp.io  manage lots of OpenWRT devices from a web UI?
+* https://libe.net/en/wlan-practice
+
+::
+
+    opkg update
+
+    opkg list-upgradable | cut -f 1 -d ' ' | xargs -r opkg upgrade
+
+    opkg list-upgradable | cut -f 1 -d ' ' | while IFS='$\n' read -r line; do opkg install $line ; done
+
+
 Other
 -----
 
