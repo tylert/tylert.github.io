@@ -121,19 +121,19 @@ Configuration thingies::
     uci set wireless.default_radio1.encryption='psk2'
     uci set wireless.default_radio0.key='hellohello'
     uci set wireless.default_radio1.key='olleholleh'
+    uci set wireless.radio0.cell_density='0'
+    uci set wireless.radio1.cell_density='0'
+    uci set wireless.radio1.channel='11'
+    uci set wireless.radio1.htmode='HT40'
     uci set wireless.radio0.country='CA'
     uci set wireless.radio1.country='CA'
     uci set wireless.radio0.disabled='0'
     uci set wireless.radio1.disabled='0'
     uci commit wireless
 
-    uci del network.lan.ipaddr
-    uci del network.lan.netmask
-    uci del network.lan.ip6assign
-    uci set network.lan.proto='dhcpv6'
-    # uci set network.lan.ipaddr='${IP_OF_AP}'
-    # uci set network.lan.gateway='${IP_OF_RTR}'
-    # uci add_list network.lan.dns='${IP_OF_RTR}'
+    uci set network.lan.ipaddr='${IP_OF_AP}'
+    uci set network.lan.gateway='${IP_OF_RTR}'
+    uci add_list network.lan.dns='${IP_OF_RTR}'
     uci commit network
 
 
