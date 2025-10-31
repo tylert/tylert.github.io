@@ -136,6 +136,9 @@ Configuration thingies::
     uci add_list network.lan.dns='${IP_OF_RTR}'
     uci commit network
 
+    uci set uhttpd.main.redirect_https='1'
+    uci commit uhttpd
+
 
 Add stuff to /etc/rc.local (System -> Startup -> Local Startup)::
 
