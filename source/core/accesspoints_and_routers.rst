@@ -115,16 +115,16 @@ Configuration thingies::
     uci del dhcp.lan.dhcpv6
     uci commit dhcp
 
-    uci wireless.default_radio0.ssid='pants'
-    uci wireless.default_radio1.ssid='shoes'
-    uci wireless.default_radio0.encryption='psk2'
-    uci wireless.default_radio1.encryption='psk2'
-    uci wireless.default_radio0.key='hellohello'
-    uci wireless.default_radio1.key='olleholleh'
-    uci wireless.radio0.country='CA'
-    uci wireless.radio1.country='CA'
-    uci wireless.radio0.disabled='0'
-    uci wireless.radio1.disabled='0'
+    uci set wireless.default_radio0.ssid='pants'
+    uci set wireless.default_radio1.ssid='shoes'
+    uci set wireless.default_radio0.encryption='psk2'
+    uci set wireless.default_radio1.encryption='psk2'
+    uci set wireless.default_radio0.key='hellohello'
+    uci set wireless.default_radio1.key='olleholleh'
+    uci set wireless.radio0.country='CA'
+    uci set wireless.radio1.country='CA'
+    uci set wireless.radio0.disabled='0'
+    uci set wireless.radio1.disabled='0'
     uci commit wireless
 
     uci del network.lan.ipaddr
