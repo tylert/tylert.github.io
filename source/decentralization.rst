@@ -261,6 +261,18 @@ Networking
 * https://mjg59.dreamwidth.org/72095.html
 * https://github.com/juhovh/tailguard
 * https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home
+* https://github.com/net4people/bbs  shouting into the ether
+* https://github.com/net4people/bbs/issues/88#issuecomment-928690089  obfuscating wireguard packets
+* https://computerscot.github.io/wireguard-obfuscated-udp.html
+* https://btwiusearch.net/posts/wg-over-udp2raw
+* https://github.com/ClusterM/wg-obfuscator
+* https://shadowsocks.org
+* https://github.com/shadowsocks/shadowsocks-rust
+* https://github.com/shadowsocks/go-shadowsocks2
+* https://github.com/wangyu-/udp2raw
+* https://github.com/hrimfaxi/tutuicmptunnel  bpf for doing udp-over-icmp? (replaces udp2raw icmp mode?)
+* https://hysteria.network  censorship-resistant proxy
+* https://github.com/apernet/hysteria  censorship-resistant proxy
 
 
 AI
