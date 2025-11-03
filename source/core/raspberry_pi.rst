@@ -8,15 +8,15 @@ The faster, more useful download link is
 https://downloads.raspberrypi.org.
 
 The shitty, less-automated download link is
-https://www.raspberrypi.org/downloads.
+https://raspberrypi.org/downloads.
 
 
 Berryboot
 ---------
 
-* http://www.berryterminal.com/doku.php/berryboot
-* http://sourceforge.net/projects/berryboot/files
-* http://sourceforge.net/projects/berryboot/files/os_images
+* https://berryterminal.com/doku.php/berryboot
+* https://sourceforge.net/projects/berryboot/files
+* https://sourceforge.net/projects/berryboot/files/os_images
 
 
 Flash Image
@@ -31,9 +31,9 @@ If you have a pesky zip file::
     touch /dev/sdz/boot/ssh
     openssl passwd -6  # append to user:hash in boot/userconf.txt
 
-* https://www.raspberrypi.com/documentation/computers/configuration.html#configuring-a-user
-* https://www.raspberrypi.com/documentation/computers/remote-access.html
-* https://www.raspberrypi.com/documentation/computers/configuration.html
+* https://raspberrypi.com/documentation/computers/configuration.html#configuring-a-user
+* https://raspberrypi.com/documentation/computers/remote-access.html
+* https://raspberrypi.com/documentation/computers/configuration.html
 
 
 Fix All The Broken Stuff
@@ -106,20 +106,17 @@ Install Go
 Assorted Links
 --------------
 
-* http://bobbyromeo.com/technology/triple-boot-raspberry-pi-on-usb-raspbianretropieopenelec-part-2
 * https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt
-* https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793
+* https://raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793
 * https://gist.github.com/abulte/3941653
 * https://gist.github.com/sturadnidge/5630813
 * https://github.com/Wookie/rpi_image_builder
 * https://github.com/RPi-Distro/pi-gen
 * https://12dash.com
-* http://downloads.raspberrypi.org
-* http://www.berryterminal.com/doku.php/berryboot
+* https://downloads.raspberrypi.org
 * https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
-* http://www.kaibader.de/homemade-minimal-raspberry-pi-raspbian-image
-* https://www.amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t
-* https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget
+* https://amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t
+* https://hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget
 
 
 Raspbian Stuff
@@ -143,9 +140,11 @@ Raspbian Stuff
 Hardware
 --------
 
-* https://www.dfrobot.com/product-2242.html
+* https://dfrobot.com/product-2242.html
 * https://lincolnbinns.com/shop/internet-of-things-iot/raspberry-pi4-enclosures/raspberry-pi4-accessories/pi4-extender-board.html
 * https://github.com/TzuHuanTai/RaspberryPi_WebRTC
+* https://josh.pencheon.dev/2025/01/05/manually-updating-raspberry-pi-eeprom.html  fetching and installing EEPROM images
+* https://github.com/raspberrypi/rpi-eeprom  rpi-eeprom-update shell script and EEPROM bin files
 
 
 UEFI
@@ -164,7 +163,7 @@ Encrypted Root
 Kiosk
 -----
 
-* http://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard
+* https://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard
 
 Do all the usual stuff with raspi-config first.
 
@@ -179,7 +178,7 @@ Make sure the mouse cursor hides itself when it isn't being used::
 To make chromium automatically start at boot time, add the following line to
 /home/pi/.config/lxsession/LXDE-pi/autostart::
 
-    chromium --kiosk http://bla.bla.bla --incognito
+    chromium --kiosk https://bla.bla.bla --incognito
 
 It might also be helpful to add a symlink to it in the user's home directory
 to make it easier to find with::
