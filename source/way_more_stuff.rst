@@ -1,7 +1,7 @@
 Ansible Stuff
 -------------
 
-* https://www.jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem
+* https://jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem
 * https://github.com/sivel/amanda  Golang web thing for self-hosting Ansible Galaxy Collections
 * https://github.com/Blackmamoth/sshsync  possible, smaller replacement for ad-hoc ansible?
 
@@ -9,9 +9,9 @@ Ansible Stuff
 Terraform Stuff
 ---------------
 
-* https://www.terraform.io/docs/configuration/expressions.html
+* https://terraform.io/docs/configuration/expressions.html
 * https://stackoverflow.com/questions/51496445/conditional-attributes-in-terraform
-* https://www.hashicorp.com/blog/terraform-0-12-conditional-operator-improvements#conditionally-omitted-arguments
+* https://hashicorp.com/blog/terraform-0-12-conditional-operator-improvements#conditionally-omitted-arguments
 * https://medium.com/the-andela-way/designing-a-three-tier-architecture-in-aws-e5c24671f124
 * https://aws.amazon.com/solutions/implementations/instance-scheduler
 * https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources
@@ -65,6 +65,12 @@ Random Stuff
 ::
 
     sudo apt-get --yes install apt-transport-https
+
+
+Tools
+-----
+
+* https://github.com/ismaelgv/rnr
 
 
 Getting Things Done
