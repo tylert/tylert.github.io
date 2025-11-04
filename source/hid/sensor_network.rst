@@ -154,6 +154,7 @@ Electronics
 * https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html
 * https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you
 * https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind
+* https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
 
 
 Wrist/Pocket Notifications
