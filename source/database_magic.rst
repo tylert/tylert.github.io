@@ -213,7 +213,9 @@ PostgreSQL
 * https://github.com/zalando/spilo  HA containerized PostgreSQL cluster thingy
 * https://event-driven-io.github.io/Pongo  mongodb without mongodb?
 * https://github.com/event-driven-io/Pongo
-* https://github.com/janbjorge/PgQueuer  PostreSQL as a queue
+* https://github.com/janbjorge/PgQueuer  PostgreSQL as a queue
+* https://github.com/pgmq/pgmq  API parity with AWS SQS
+* https://pgmq.github.io/pgmq  API parity with AWS SQS
 * https://xata.io/blog/postgres-webhooks-with-pgstream
 * https://challahscript.com/what_i_wish_someone_told_me_about_postgres
 * https://github.com/frectonz/pglite-fusion  SQLite databases in PostgreSQL tables
@@ -223,6 +225,8 @@ PostgreSQL
 * https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres
 * https://github.com/pgEdge/spock
 * https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+* https://lucumr.pocoo.org/2025/11/3/absurd-workflows  durable execution for agents using just PostgreSQL (Absurd library)
+* https://github.com/earendil-works/absurd
 
 
 MySQL Stuff
