@@ -57,7 +57,7 @@ Level Stuff
 Light Switches
 --------------
 
-* https://www.jamesridgway.co.uk/making-traditional-light-switches-smart
+* https://jamesridgway.co.uk/making-traditional-light-switches-smart
 
 
 Weather Station Stuff
@@ -99,6 +99,7 @@ Pi Pico/PicoW
 * https://cnx-software.com/2024/12/26/inky-frame-7-3-7-color-epaper-display-powered-by-a-raspberry-pi-pico-2-w
 * https://raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory
 * https://pfister.dev/blog/2025/rp2350-uart-bl.html
+* https://github.com/wasdwasd0105/PicoW-usb2bt-audio
 
 
 nRF52840

@@ -637,6 +637,7 @@ OpenTofu Awesome
 * https://serverless.tf
 * https://github.com/terralist/terralist  private module registry
 * https://github.com/brennoo/terraform-provider-hrui  provider for some web-UI-only networking gear???
+* https://github.com/shuaibiyy/awesome-terraform
 
 
 Networking
@@ -644,11 +645,11 @@ Networking
 
 * https://blog.ikuamike.io/posts/2021/netcat
 * https://spiffe.io
-* https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark
+* https://trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark
 * https://sive.rs/com  build a database of domains to make it easier to pick new ones to register
 * https://github.com/iovisor/bcc
-* https://www.brendangregg.com/blog/2019-08-19/bpftrace.html
-* https://www.seekret.io/blog/ebpf-nuances-on-minikube
+* https://brendangregg.com/blog/2019-08-19/bpftrace.html
+* https://seekret.io/blog/ebpf-nuances-on-minikube
 * https://wicg.github.io/ua-client-hints  User-agent info including stuff like GOOS, GOARCH???
 * https://www.scientiamobile.com/introducing-user-agent-client-hints-support-in-wurfl-and-a-rant
 * https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit?pli=1#slide=id.p19  more WURFL client hints
