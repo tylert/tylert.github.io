@@ -200,6 +200,14 @@ Publishing
 * https://solidproject.org  Solid protocol
 
 
+Web Server
+----------
+
+* https://algernon.roboticoverlords.org
+* https://github.com/xyproto/algernon
+* https://github.com/xyproto/wercstyle  entire site as a self-contained algernon application
+
+
 Offline Fun
 -----------
 
