@@ -1,7 +1,7 @@
 TP-Link EAP245 US v3
 --------------------
 
-* https://www.amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1
+* https://amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1
 * https://lowtek.ca/roo/2022/openwrt-dumb-access-point
 * https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111  non-US firmware fix
 * https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97
@@ -9,12 +9,12 @@ TP-Link EAP245 US v3
 * https://openwrt.org/toh/tp-link/eap245_v3
 * https://openwrt.org/docs/guide-user/network/wifi/wifiextenders/bridgedap  postprandial setup
 * https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10  serial UART info
-* https://www.aliexpress.com/item/1005002605013057.html  DC-DC step-up passive PoE
+* https://aliexpress.com/item/1005002605013057.html  DC-DC step-up passive PoE
 * https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods
 * https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11
 * https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption
 * https://superuser.com/questions/1752083/wifi-qr-code-format-for-wpa2-wpa3
-* https://www.wi-fi.org/system/files/WPA3%20Specification%20v3.3.pdf#page=26
+* https://wi-fi.org/system/files/WPA3%20Specification%20v3.3.pdf#page=26
 * https://openwrt.org/docs/guide-user/network/wifi/basic#encryption_modes
 * https://firmware-selector.openwrt.org/?version=22.03.5&target=ath79%2Fgeneric&id=tplink_eap245-v3
 
@@ -163,11 +163,11 @@ Add stuff to /etc/rc.local (System -> Startup -> Local Startup)::
 Ubiquiti EdgeRouter X
 ---------------------
 
-* https://www.amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W
-* http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html
-* http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html
-* https://www.reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x
-* https://www.reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage
+* https://amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W
+* http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html  (mandatory "http" here)
+* http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html  (mandatory "http" and "www" here)
+* https://reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x
+* https://reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage
 * https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka
 * https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka
 * https://openwrt.org/docs/techref/hardware/switch
@@ -282,3 +282,14 @@ Bell
 ::
 
     You will need to know if your service is gpon or xgs-pon.
+
+
+Banana Pi BPI-R4
+----------------
+
+* https://tarball.ca/posts/vyos-bypassing-bell-gigahub-with-was-110
+* https://pon.wiki/guides/masquerade-as-the-bce-inc-giga-hub-with-the-was-110
+* https://fibermall.com/sale-462134-xgspon-onu-sfp-stick-i-temp.htm  WAS-110 SFP+ module
+* https://openwrt.org/tag/sfp_plus  OpenWRT-compatible routers with SFP+ ports
+* https://openwrt.org/inbox/toh/sinovoip/bananapi_bpi-r4
+* https://aliexpress.com/item/1005006256988361.html  router without case
