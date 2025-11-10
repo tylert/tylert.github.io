@@ -83,6 +83,9 @@ Game Stuff
 * https://github.com/aperture-software/colditz-escape
 * https://zero-k.info
 * https://zerok.itch.io/zero-k
+* https://veloren.net
+* https://openmw.org
+* https://wesnoth.org
 
 
 Retro Computing
