@@ -148,13 +148,6 @@ Retro Computing
 * https://cmaiolino.wordpress.com/dosbian  apt-get install dosbox?
 * https://cmaiolino.wordpress.com/amiga-pi  apt-get install uae4arm?
 * https://cmaiolino.wordpress.com  apt-get install vice?
-* https://github.com/ItsDanik/rfidisk  fake floppy disks with NFC reader
-* https://github.com/ZaparooProject  NFC reader for MiSTer
-* https://zaparoo.org/docs/readers/nfc/pn532-usb  waaay cheaper readers
-* https://printables.com/model/955506-tapto-usb-c-reader-case-black-pn532-board  enclosure for PN532 board
-* https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt  fancy eject mechanism
-* https://printables.com/model/1140054-zaparootapto-for-mister-fpga-add-on-enclosure  other enclosure option
-* https://github.com/NyLan-1/Floppy_Disk_Labels  floppy disk labels
 
 ::
 
@@ -173,6 +166,26 @@ EOL::
 
     CR  0x0d  13  \r
     LF  0x0a  10  \n
+
+
+NFC
+---
+
+* https://github.com/ItsDanik/rfidisk  fake floppy disks with NFC reader
+* https://github.com/ZaparooProject  NFC reader for MiSTer
+* https://zaparoo.org/docs/readers/nfc/pn532-usb  waaay cheaper readers
+* https://printables.com/model/955506-tapto-usb-c-reader-case-black-pn532-board  enclosure for PN532 board
+* https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt  fancy eject mechanism
+* https://printables.com/model/1140054-zaparootapto-for-mister-fpga-add-on-enclosure  other enclosure option
+* https://github.com/NyLan-1/Floppy_Disk_Labels  floppy disk labels
+* https://github.com/GSWXXN/NFCToolsGUI  maybe?
+* https://blog.sknk.ws/blog/2021/05/03/using-a-pn532-nfc-module-with-libnfc  maybe?
+* https://wakdev.com/en/apps/nfc-tools-pc-mac.html  closed-source AppImage... might not support PN532 readers
+
+::
+
+    NTAG216 has 888 user bytes
+    NXP NTAG216 is a NFC Forum Type 2 tag?  ISO/IEC 14443 Type A?
 
 
 Zelda3
