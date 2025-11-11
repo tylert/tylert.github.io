@@ -390,6 +390,9 @@ Compiled Shellish Stuff
 * https://github.com/go-monk/from-bash-to-go-part-i
 * https://github.com/go-monk/from-bash-to-go-part-ii
 * https://gomonk.net
+* https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux
+* https://github.com/erning/gorun
+* https://wiki.ubuntu.com/gorun
 
 
 Go Stuff

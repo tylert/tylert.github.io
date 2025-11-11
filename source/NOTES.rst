@@ -416,6 +416,7 @@ Cool Shell Tricks
 * https://3os.org  another collection of cool shell tricks and notes
 * https://github.com/fire1ce/3os.org  another collection of cool shell tricks and notes
 * https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
+* https://dfir.ch/posts/today_i_learned_binfmt_misc
 
 ::
 
