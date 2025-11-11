@@ -181,6 +181,11 @@ NFC
 * https://github.com/GSWXXN/NFCToolsGUI  maybe?
 * https://blog.sknk.ws/blog/2021/05/03/using-a-pn532-nfc-module-with-libnfc  maybe?
 * https://wakdev.com/en/apps/nfc-tools-pc-mac.html  closed-source AppImage... might not support PN532 readers
+* https://eccel.co.uk/how-to-set-a-password-for-the-read-write-operations-on-ntag2xx  password-protect stuff?
+* https://forums.adafruit.com/viewtopic.php?t=82031  password-protect stuff?
+* https://docs.mtoolstec.com/pn532-cli/how-to-start  CLI?
+* https://github.com/whywilson/pn532-python  CLI?
+* https://www.ecotner.com/blog/nfc-hacking  (mandatory "www" here)
 
 ::
 
