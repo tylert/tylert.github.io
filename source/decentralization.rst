@@ -206,6 +206,9 @@ Web Server
 * https://algernon.roboticoverlords.org
 * https://github.com/xyproto/algernon
 * https://github.com/xyproto/wercstyle  entire site as a self-contained algernon application
+* https://caddyserver.com
+* https://til.jakelazaroff.com/caddy/run-an-https-reverse-proxy-for-local-development
+* https://blakesite.com/blog/2024-10-03-building-a-markdown-website-with-caddy
 
 
 Offline Fun

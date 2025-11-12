@@ -268,6 +268,7 @@ CI/CD Stuff
 * https://codspeed.io/blog/benchmarks-in-ci-without-noise
 * https://taskfile.dev  Go thing that's a bit like Make?
 * https://github.com/jdx/mise  maybe for environment stuff on build servers maybe?
+* https://github.com/casey/just  like GNU Make
 
 
 Git Stuff
@@ -522,6 +523,7 @@ Rust Stuff
 * https://github.com/rusqlite/rusqlite
 * https://stackoverflow.com/questions/62560396/how-to-use-sqlite-via-rusqlite-from-multiple-threads
 * https://github.com/mainmatter/eserde/tree/main/eserde
+* https://github.com/denoland/deno  Jabbascript in Rust?
 
 
 C Stuff
