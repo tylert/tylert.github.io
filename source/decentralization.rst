@@ -209,6 +209,10 @@ Web Server
 * https://caddyserver.com
 * https://til.jakelazaroff.com/caddy/run-an-https-reverse-proxy-for-local-development
 * https://blakesite.com/blog/2024-10-03-building-a-markdown-website-with-caddy
+* https://caddyserver.com/docs/quick-starts/reverse-proxy
+* https://cloudinfrastructureservices.co.uk/setup-caddy-cdn-on-ubuntu-in-azure-aws-gcp
+* https://ellen.dev/serve-static-site-using-caddy.html
+* http://scripting.com/2025/08/28/140604.html  (mandatory "http" here)
 
 
 Offline Fun
