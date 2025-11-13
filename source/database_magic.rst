@@ -196,6 +196,7 @@ Other Types
 * https://www.viblo.se/posts/no-need-redis  maybe you don't need Redis
 * https://github.com/sebadob/hiqlite
 * https://heidisql.com  client that works with PostgreSQL, MySQL, etc.
+* https://github.com/pingcap/tidb  MySQL comptabile, distributed?
 
 
 PostgreSQL
