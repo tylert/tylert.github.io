@@ -293,16 +293,6 @@ Crypto Magic
     openssl pkey -pubout -in priv -out pub
 
 
-Webby Stuff
------------
-
-* https://devever.net/~hl/mildlydynamic
-* https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header
-* https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
-* https://it-notes.dragas.net/tags/cdn  DIY CDN magic?
-* https://github.com/mtlynch/picoshare  clicky file sharing thing for non-technical people?
-
-
 CI/CD
 -----
 
