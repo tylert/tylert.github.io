@@ -148,6 +148,14 @@ Retro Computing
 * https://cmaiolino.wordpress.com/dosbian  apt-get install dosbox?
 * https://cmaiolino.wordpress.com/amiga-pi  apt-get install uae4arm?
 * https://cmaiolino.wordpress.com  apt-get install vice?
+* https://mariozechner.at/posts/2025-04-20-boxie
+* https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive
+* https://hackaday.com/2024/07/12/making-sd-cards-more-nostalgic-with-more-cartridge-ness
+* https://onerom.org
+* https://github.com/piersfinlayson/one-rom
+* https://printables.com/model/1053628-nfc-entertainment-system-pc-based
+* https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case/files
+* https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt
 
 ::
 
