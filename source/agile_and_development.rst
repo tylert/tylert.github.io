@@ -318,6 +318,7 @@ Git Stuff
 * https://tylercipriani.com/blog/2025/08/15/git-lfs  no more git-lfs (or git-annex, etc.)?
 * https://stavros.io/posts/switch-to-jujutsu-already-a-tutorial
 * https://maurycyz.com/misc/easy_git  you already have a git server
+* https://github.com/go-gitea/gitea/issues/29426#issuecomment-1967418237  .git at the end of git remotes is kinda legacy
 
 
 Process Stuff
