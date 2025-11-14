@@ -173,7 +173,9 @@ NFC
 
 * https://github.com/ItsDanik/rfidisk  fake floppy disks with NFC reader
 * https://github.com/ZaparooProject  NFC reader for MiSTer
-* https://zaparoo.org/docs/readers/nfc/pn532-usb  waaay cheaper readers
+* https://zaparoo.org/docs/readers/nfc/pn532-usb  readers
+* https://zaparoo.org/docs/tokens/nfc/ntag  tags
+* https://zaparoo.org/docs/core/cli/#write  write to the tags
 * https://printables.com/model/955506-tapto-usb-c-reader-case-black-pn532-board  enclosure for PN532 board
 * https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt  fancy eject mechanism
 * https://printables.com/model/1140054-zaparootapto-for-mister-fpga-add-on-enclosure  other enclosure option
@@ -186,11 +188,17 @@ NFC
 * https://docs.mtoolstec.com/pn532-cli/how-to-start  CLI?
 * https://github.com/whywilson/pn532-python  CLI?
 * https://www.ecotner.com/blog/nfc-hacking  (mandatory "www" here)
+* https://nfcpy.readthedocs.io/en/latest/index.html
+* https://ndeftool.readthedocs.io/en/stable/index.html
 
 ::
 
     NTAG216 has 888 user bytes
     NXP NTAG216 is a NFC Forum Type 2 tag?  ISO/IEC 14443 Type A?
+
+::
+
+    pip install ndeftool nfcpy
 
 
 Zelda3
