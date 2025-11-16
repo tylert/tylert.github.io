@@ -50,6 +50,8 @@ Messaging
 * https://github.com/berty/berty
 * https://github.com/berty/weshnet
 * https://wesh.network
+* https://bitchat.free  no desktop version
+* https://nostr.com  no desktop version, no instructions for how to run your own relays
 
 ::
 
