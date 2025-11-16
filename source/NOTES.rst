@@ -156,6 +156,7 @@ Retro Computing
 * https://printables.com/model/1053628-nfc-entertainment-system-pc-based
 * https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case/files
 * https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt
+* https://bytecellar.com/bbsing
 
 ::
 
