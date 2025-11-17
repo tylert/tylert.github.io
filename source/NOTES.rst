@@ -157,6 +157,7 @@ Retro Computing
 * https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case/files
 * https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt
 * https://bytecellar.com/bbsing
+* https://misterfpga.org/viewtopic.php?t=9699&start=30  Gravis UltraSound settings on ao486
 
 ::
 
