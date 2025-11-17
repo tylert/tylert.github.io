@@ -557,6 +557,8 @@ Cool Products
 * https://en.alinx.com/Product/FPGA-Development-Boards/Artix-7/AX7201.html  FPGA-based networking gizmo?
 * https://github.com/chili-chips-ba/wireguard-fpga  FPGA-based networking gizmo?
 * https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch
+* https://picoide.com
+* https://picog.us
 
 
 RPG Stuff

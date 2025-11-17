@@ -259,6 +259,7 @@ Deleting cluster::
 * https://github.com/doitintl/kube-no-trouble
 * https://blog.yaakov.online/replacing-kubernetes-with-systemd
 * https://developertips.substack.com/p/how-to-create-and-manage-a-service
+* https://codelucky.com/runit-linux-init-service-supervision  the complete guide to runit service supervision
 
 
 Linux From Scratch
