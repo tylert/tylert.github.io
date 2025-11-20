@@ -131,8 +131,8 @@ CHDK Doc/Book Scanner
     popd
 
 
-Music Stuff
------------
+Music and Audio Stuff
+---------------------
 
 * https://github.com/sergree/matchering  funky AI stuff with music
 * https://opendaw.studio  DAW in a web browser
@@ -142,13 +142,22 @@ Music Stuff
 * https://amazon.ca/HIFI-WALKER-H2-Resolution-Bluetooth/dp/B072C4YPCG  runs Rockbox and you can get it now (CAD $170)
 * https://rockbox.org/wiki/AIGOErosQK.html  install Rockbox on "HIFI WALKER H2"
 * https://rockbox.org/wiki/JztoolInstall.html  install Rockbox on "HIFI WALKER H2"
-
-
-Audio Stuff
------------
-
 * https://mynoise.net  OMFG fabulous background sounds (forest, waterfall, kitten purring, ringing bowls, etc.)
 * https://hannahilea.com/blog/birdnet-intro  BirdNET-Pi
+* https://sonic-pi.net
+* https://bespokesynth.com
+* https://youtube.com/watch?v=JDxhkdm_t1U  DJ Dave
+* https://lmms.io
+* https://ardour.org
+* https://tenacityaudio.org
+* https://audacityteam.org
+* https://milkytracker.org
+* https://schismtracker.org
+* https://renoise.com
+* https://renoise.com/redux
+* https://docs.qmk.fm/features/midi
+* https://docs.qmk.fm/features/sequencer
+* https://hydrogen-music.org  drum machine
 
 
 Blender
