@@ -158,6 +158,10 @@ Music and Audio Stuff
 * https://docs.qmk.fm/features/midi
 * https://docs.qmk.fm/features/sequencer
 * https://hydrogen-music.org  drum machine
+* https://kx.studio/Applications:Carla
+* https://qtractor.org
+* https://famistudio.org  NES native and Linux options
+* https://kvraudio.com/product/stargate-daw-by-stargate-daw
 
 
 Blender
