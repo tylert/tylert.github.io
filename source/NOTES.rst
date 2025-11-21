@@ -149,6 +149,7 @@ Retro Computing
 * https://cmaiolino.wordpress.com/amiga-pi  apt-get install uae4arm?
 * https://cmaiolino.wordpress.com  apt-get install vice?
 * https://mariozechner.at/posts/2025-04-20-boxie
+* https://github.com/ItsDanik/rfidisk
 * https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive
 * https://hackaday.com/2024/07/12/making-sd-cards-more-nostalgic-with-more-cartridge-ness
 * https://onerom.org
