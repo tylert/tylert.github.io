@@ -19,6 +19,8 @@
 * https://blog.nootch.net/post/kubernetes-at-home-with-k3s
 * https://nowsci.com/winapps  KVM single-app Windows VM with RDP integration tricks for your Linux desktop environment
 * https://github.com/Fmstrat/winapps
+* https://github.com/Infinibay/lxd
+* https://infinibay.net
 
 
 QEMU
