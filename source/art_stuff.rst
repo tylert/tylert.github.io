@@ -48,6 +48,24 @@ Photography Stuff
 * https://github.com/eat-sleep-code/camera
 * https://github.com/schoolpost/CinePI  CinePi v2
 
+::
+
+    0.  fetch CHDK firmware zip for "Elph 115" (full).
+    1.  put SD card in camera (unlocked).
+    2.  hit "Play" button to start camera without moving the lens.
+    3.  select menu item to format SD card.
+    4.  power off camera.
+    5.  put SD card in computer (unlocked).
+    6.  extract CHDK firmware zip onto root of SD card.
+    7.  unmount SD card from computer.
+    8.  put SD card in camera (unlocked).
+    9.  select menu item to upgrade firmware.
+    10.  hit "Play" button to enter "<ALT>" mode.
+    11.  select menu item Miscellaneous -> Make SD card bootable.
+    12.  power off camera and take out SD card.
+    13.  put SD card in camera (locked).
+    14.  power off camera.
+
 
 Microscopes and Camera Stuff
 ----------------------------
