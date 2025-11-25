@@ -42,6 +42,7 @@ Messaging
 ---------
 
 * https://momi.ca/posts/2024-10-09-honeybee.html  XMPP for calls?
+* https://contrapunctus.codeberg.page/the-quick-and-easy-guide-to-xmpp.html
 * https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat
 * https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server  (mandatory "www" here)
 * https://profanity-im.github.io  XMPP client
