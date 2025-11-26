@@ -6,9 +6,9 @@
 1. Make sure you backup all local data on your phone, if applicable (contacts, photos, ringtones, downloads, etc.).
 1. Use Settings, go to About phone, tap Build number 7 times.
 1. Use Settings, go to System - Advanced - Developer options, enable USB debugging.
-1. Use Settings, go to System - Advanced - Developer options, enable OEM unlocking; May require stupidity like \'adb shell pm uninstall \-\-user 0 com.android.phone\', reboot after changing this.
+1. Use Settings, go to System - Advanced - Developer options, enable OEM unlocking; May require stupidity like 'adb shell pm uninstall \-\-user 0 com.android.phone', reboot after changing this.
 1. Follow all installation instructions for your chosen Android distribution (e.g.: LineageOS, /e/, etc.).
-1. Reboot into the new system when you\'re finished with all the installation steps.
+1. Reboot into the new system when you're finished with all the installation steps.
 
 # Factory-Fresh Setup
 
