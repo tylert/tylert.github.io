@@ -193,5 +193,10 @@ Developer Options too.
 * <https://landley.net/toybox> build Android on Android?
 * <https://github.com/landley/toybox> build Android on Android?
 * <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
-* <https://theprivacydad.com/using-android-without-a-google-account>
+
+# GrapheneOS
+
 * <https://github.com/iAnonymous3000/awesome-grapheneos-guide>
+* <https://funnymonkey.com/2025/02/configuring-grapheneos-for-daily-use>
+* <https://seprand.github.io/articles/best-user-profile-setup>
+* <https://theprivacydad.com/using-android-without-a-google-account> F-Droid, Aurora Store
