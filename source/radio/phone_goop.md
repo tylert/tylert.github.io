@@ -28,16 +28,43 @@
 
 # Install Other Apps
 
-1. Use Browser, visit <https://f-droid.org>, download and install F-Droid app after allowing Browser to access files and media on this device and allow install unknown apps permission.
+1. Use Browser, visit <https://f-droid.org>, download F-Droid app after allowing Browser to access files and media on this device and allow install unknown apps permission.
 1. Use Files, complete the installation of F-Droid.
 1. Use Files, delete the downloaded copy of the F-Droid app.
 1. Use F-Droid, install the following apps after allowing F-Droid to install apps from unknown sources:
-    * FFUpdater Firefox downloader
-    * Termux phone unsuckifier (termux, termux-api)
+    * FFUpdater Thunderbird/Firefox downloader
+    * Termux phone productivity enhancer (termux, termux-api)
 1. Use FFUpdater, allow access to files and media and allow install apps from unknown sources, hit + to install:
-    * Firefox Browser web browser
     * Thunderbird Mail email client
-1. Remove all the junk from your home screen and move your icons around as desired.
+    * Firefox Browser web browser
+
+It is very likely that you will also desire/need some apps from
+<https://fossify.org/apps> as well.  Fossify Calendar might be a good choice.
+
+# Thunderbird
+
+Fill in the settings you obtained from your email admin/provider and override
+the default settings for the app as follows:
+
+    General Settings:
+      Display:
+        Animation:  Disable Use gaudy visual effects
+        Show stars:  Off
+        Show correspondent names:  Off
+        Show contact pictures:  Off
+        Visible message actions: Delete, Move
+    Account Settings:
+      Fetching mail:
+        Local folder size:  all messages
+        Fetch messages up to:  any size (no limit)
+        Advanced:
+          Max folders to check with push:  1000 folders
+      Sending mail:
+        Message Format:  Plain Text (remove images and formatting)
+      Notifications:
+        New mail notifications:  On
+        Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
+        Notification light:  Account colour
 
 # Firefox
 
@@ -62,39 +89,6 @@
       Usage and technical data:  Off
       Marketing data:  Off
       Experiments:  Off
-
-# Thunderbird Mail
-
-Fill in the settings you obtained from your email admin/provider and
-configure the settings for the app as follows:
-
-    General Settings:
-      Display:
-        Animation:  Disable Use gaudy visual effects
-        Show stars:  Off
-        Show correspondent names:  Off
-        Show contact pictures:  Off
-        Visible message actions: Delete, Move
-    Account Settings:
-      Fetching mail:
-        Local folder size:  all messages
-        Fetch messages up to:  any size (no limit)
-        Folder poll frequency:  Every hour
-        Advanced:
-          Max folders to check with push:  1000 folders
-      Sending mail:
-        Composition defaults:
-          Use Signature:  Off
-        Message Format:  Plain Text (remove images and formatting)
-      Folders:
-        Archive folder:  -NONE-
-        Drafts folder:  Drafts
-        Sent folder:  Sent
-        Spam folder:  Junk
-        Trash folder:  Trash
-      Notifications:
-        Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
-        Notification light:  Account colour
 
 # Osmin
 
