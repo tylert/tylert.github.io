@@ -4,44 +4,40 @@
 
 1. Completely update your phone to the latest official Android load first.
 1. Make sure you backup all local data on your phone, if applicable (contacts, photos, ringtones, downloads, etc.).
-1. Use \"Settings\", go to \"About phone\", tap \"Build number\" 7 times.
-1. Use \"Settings\", go to \"System -\> Advanced -\> Developer options\", enable \"USB debugging\".
-1. Use \"Settings\", go to \"System -\> Advanced -\> Developer options\", enable \"OEM unlocking\"; May require stupidity like [adb shell pm uninstall \--user 0 com.android.phone]{.title-ref}, reboot after changing this.
-1. Follow all installation instructions for your chosen Android load (e.g.: LineageOS, /e/, etc.).
+1. Use Settings, go to About phone, tap Build number 7 times.
+1. Use Settings, go to System - Advanced - Developer options, enable USB debugging.
+1. Use Settings, go to System - Advanced - Developer options, enable OEM unlocking; May require stupidity like \'adb shell pm uninstall \-\-user 0 com.android.phone\', reboot after changing this.
+1. Follow all installation instructions for your chosen Android distribution (e.g.: LineageOS, /e/, etc.).
 1. Reboot into the new system when you\'re finished with all the installation steps.
 
 # Factory-Fresh Setup
 
-1. At the welcome screen, hit \"NEXT\".
-1. At \"Language\", select \"English (Canada)\", hit \"NEXT\".
-1. At \"Date and Time\", select your timezone (\"Eastern Time GMT-4:00\"), hit \"NEXT\".
-1. At \"Wi-Fi\", turn off \"Open network notification\", connect to your Wi-Fi accesspoint, hit \"NEXT\".
-1. At \"Turn on cellular data\", enable your service provider, hit \"NEXT\".
-1. At \"Location services\", tick \"Allow apps that have asked your permission\", hit \"NEXT\".
-1. At \"LineageOS features\", untick \"Help improve LineageOS\", hit \"NEXT\".
-1. At \"Fingerprint setup\", hit \"SKIP\".
-1. At \"Protect your phone\", hit \"SET UP\", choose PIN, enter it twice, hit \"NEXT\".
-1. At the final screen, hit \"START\".
-1. Acknowledge the \"Discover Trust\" notification, hit \"GOT IT\".
-1. Use \"Settings\", go to \"About phone\", tap \"Build number\" 7 times.
-1. Use \"Settings\", go to \"System -\> Advanced -\> Developer options\", enable \"USB debugging\".
+1. At the welcome screen, hit NEXT.
+1. At Language, select English (Canada), hit NEXT.
+1. At Date and Time, select your timezone (Eastern Time GMT-4:00), hit NEXT.
+1. At Wi-Fi, turn off Open network notification, connect to your Wi-Fi accesspoint, hit NEXT.
+1. At Turn on cellular data, enable your service provider, hit NEXT.
+1. At Location services, tick Allow apps that have asked your permission, hit NEXT.
+1. At LineageOS features, untick Help improve LineageOS, hit NEXT.
+1. At Fingerprint setup, hit SKIP.
+1. At Protect your phone, hit SET UP, choose PIN, enter it twice, hit NEXT.
+1. At the final screen, hit START.
+1. Acknowledge the Discover Trust notification, hit GOT IT.
+1. Use Settings, go to About phone, tap Build number 7 times.
+1. Use Settings, go to System - Advanced - Developer options, enable USB debugging.
 
 # Install Other Apps
 
-1. Use \"Browser\", visit <https://f-droid.org>, download and install F-Droid app after allowing \"Browser\" to access files and media on this device and allow install unknown apps permission.
-1. Use \"Files\", complete the installation of \"F-Droid\".
-1. Use \"Settings\", revoke permission for \"Browser\" to install unknown apps.
-1. Use \"Files\", delete the downloaded copy of the F-Droid app.
-1. Use \"F-Droid\", install the following apps after allowing F-Droid to install apps from unknown sources: * \"FFUpdater\" Firefox downloader * \"Termux\" phone unsuckifier
-1. Use \"FFUpdater\", allow access to files and media and allow install apps from unknown sources, hit \"+\" to install: * \"Firefox Browser\" web browser * \"Thunderbird Mail\" email client
+1. Use Browser, visit <https://f-droid.org>, download and install F-Droid app after allowing Browser to access files and media on this device and allow install unknown apps permission.
+1. Use Files, complete the installation of F-Droid.
+1. Use Files, delete the downloaded copy of the F-Droid app.
+1. Use F-Droid, install the following apps after allowing F-Droid to install apps from unknown sources:
+    * FFUpdater Firefox downloader
+    * Termux phone unsuckifier (termux, termux-api)
+1. Use FFUpdater, allow access to files and media and allow install apps from unknown sources, hit + to install:
+    * Firefox Browser web browser
+    * Thunderbird Mail email client
 1. Remove all the junk from your home screen and move your icons around as desired.
-1. Use \"F-Droid\", add repo \"<https://apt.izzysoft.de/fdroid/repo>\" and install the following additional apps: * \"Osmin\" GPS navigator
-
-# Osmin
-
-* <https://github.com/janbar/osmin>
-* <https://github.com/janbar/osmin/wiki>
-* <http://download.openstreetmap.fr/extracts> more-granular maps for osmin (may have trouble writing to needed location)
 
 # Firefox
 
@@ -100,27 +96,12 @@ configure the settings for the app as follows:
         Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
         Notification light:  Account colour
 
-# Make the keyboard less annoying
+# Osmin
 
-Under Sound turn off all the other sounds and vibrations.
-
-Under System -\> Languages & input -\> Virtual keyboard -\> Android
-Keyboard (AOSP) -\> Preferences turn off Auto-capitalisation,
-Double-space full stop and Vibrate on keypress Then go under Text
-correction and turn off everything. Also set the Appearance & Layouts
--\> Theme -\> Material Dark.
-
-# Make some other customizations
-
-Set the default ringtone, notification and alarm sounds.
-
-Battery -\> Battery percentage \"Next to the icon\".
-
-System -\> Date & time -\> Use 24-hour format ON
-
-Configure the icons that show on the status bar pull-down. Turn off
-location, NFC, Bluetooth. Set bluetooth device name. Set hostname in
-Developer Options too.
+* <https://apt.izzysoft.de/fdroid/repo>
+* <https://github.com/janbar/osmin>
+* <https://github.com/janbar/osmin/wiki>
+* <http://download.openstreetmap.fr/extracts> more-granular maps for osmin (may have trouble writing to needed location)
 
 # Evict Obstinate System Apps
 
