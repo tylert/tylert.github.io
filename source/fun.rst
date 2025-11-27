@@ -95,7 +95,7 @@ PDF + Contacts
 * https://github.com/andystiller/address-book/blob/main/address-db.py
 * https://github.com/Shravendra/address_book  neat address book API thingy
 * https://realpython.com/contact-book-python-textual  tutorial creating an address book management tool in Python
-* https://www.zupzup.org/go-example-ical/index.html  creating an iCal feed with Go
+* https://zupzup.org/go-example-ical/index.html  creating an iCal feed with Go
 * https://github.com/arran4/golang-ical
 * https://pkg.go.dev/github.com/arran4/golang-ical
 
@@ -159,8 +159,8 @@ Kubernetes
 ----------
 
 * https://digitalocean.com/community/tutorials/an-introduction-to-kubernetes
-* https://www.katacoda.com/courses/kubernetes
+* https://katacoda.com/courses/kubernetes
 * https://kubernetes.io/docs/tutorials/kubernetes-basics
 * https://kubernetes.io/docs/tutorials/online-training/overview
-* https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+* https://freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
 * https://digitalocean.com/resources/kubernetes
