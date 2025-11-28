@@ -50,22 +50,23 @@ Style
 cloud-init
 ----------
 
-* http://stackoverflow.com/questions/23065673/how-to-re-run-cloud-init-without-reboot
-* http://stackoverflow.com/questions/23151425/how-to-run-cloud-init-manually
-* http://cloudinit.readthedocs.io/en/latest/topics/modules.html
+* https://stackoverflow.com/questions/23065673/how-to-re-run-cloud-init-without-reboot
+* https://stackoverflow.com/questions/23151425/how-to-run-cloud-init-manually
+* https://cloudinit.readthedocs.io/en/latest/topics/modules.html
+* https://raspberrypi.com/news/cloud-init-on-raspberry-pi-os
 
 
 Python
 ------
 
-* http://sedimental.org/the_packaging_gradient.html
+* https://sedimental.org/the_packaging_gradient.html
 
 
 2FA
 ---
 
 * https://karl-voit.at/2019/03/03/oathtool-otp
-* https://www.sendthemtomir.com/blog/cli-2-factor-authentication
+* https://www.sendthemtomir.com/blog/cli-2-factor-authentication  (mandatory "www" here)
 * https://blog.snapdragon.cc/2019/04/27/using-a-yubikey-to-secure-ssh-on-macos
 * https://www.engineerbetter.com/blog/yubikey-all-the-things
 
@@ -78,7 +79,7 @@ PDF + Contacts
 * https://github.com/JazzCore/python-pdfkit
 * https://github.com/rst2pdf/rst2pdf/blob/master/rst2pdf/createpdf.py
 * https://rst2pdf.org/static/manual.html
-* https://www.marknagelberg.com/creating-pdf-reports-with-python-pdfkit-and-jinja2-templates
+* https://marknagelberg.com/creating-pdf-reports-with-python-pdfkit-and-jinja2-templates
 * https://en.wikipedia.org/wiki/VCard
 * https://en.wikipedia.org/wiki/ICalendar
 * https://datatracker.ietf.org/doc/html/rfc3275  XML
@@ -114,7 +115,7 @@ Barcodes
 Docker + Alpine Linux
 ---------------------
 
-* https://www.wezm.net/technical/2019/02/alpine-linux-docker-infrastructure
+* https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure
 
 
 NixOS
@@ -143,7 +144,6 @@ Misc
 * https://smallstep.com/blog/everything-pki.html
 * https://code.mradford.com/post/the-ubuntu-compiz-desktop
 * https://github.com/basecamp/omarchy  Linux desktop tweaks (Hyprland window manager, etc.)
-* https://www.remove.bg
 * https://blog.tjll.net/distributed-homelab-cluster
 * https://ro14nd.de/kubernetes-on-raspberry-pi3
 * https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster
@@ -151,7 +151,7 @@ Misc
 * https://sc5.io/posts/a-private-raspberry-pi-cloud-with-arm-docker
 * https://instructables.com/id/DIY-Laptop-PowerBank
 * https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap
-* https://www.hillelwayne.com/post/randomness  brain PRNG?
+* https://hillelwayne.com/post/randomness  brain PRNG?
 * https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay
 
 

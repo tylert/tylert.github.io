@@ -159,6 +159,8 @@ Retro Computing
 * https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt
 * https://bytecellar.com/bbsing
 * https://misterfpga.org/viewtopic.php?t=9699&start=30  Gravis UltraSound settings on ao486
+* https://franke.ms/git/bebbo/bebbossh  SSH2 client and server for Amiga m68k
+* https://franke.ms/git/bebbo/bebboget  tiny HTTPS file fetcher for Amiga m68k
 
 ::
 

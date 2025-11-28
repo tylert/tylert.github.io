@@ -193,6 +193,8 @@ Graphics
 --------
 
 * https://raytracing.github.io/books/RayTracingInOneWeekend.html
+* https://remove.bg  remove background from images automatically
+* https://remove.bg/b/remove-the-background-in-gimp
 
 
 AI
