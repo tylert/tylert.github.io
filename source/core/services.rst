@@ -71,6 +71,8 @@ Dynamic DNS
 * https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8
 * https://jamesturner.im/2019/01/20/dynamic-dns-using-terraform-aws.html
 * https://medium.com/@matzhouse/dynamic-dns-with-terraform-and-route53-3fafe7c68970
+* https://luadns.com  maybe do it without Route53
+* https://github.com/luadns/luadns-go
 
 
 Service Mesh
@@ -111,8 +113,8 @@ Email
 Mesh
 ----
 
-* https://yggdrasil-network.github.io
 * https://github.com/yggdrasil-network/yggdrasil-go
+* https://yggdrasil-network.github.io
 * https://yggdrasil-openwrt.github.io
 * https://willyyangwt.cc/posts/2022/03/08/using-yggdrasil-network-virtual-mesh-ipv6-network.html
 * https://complete.org/user-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers

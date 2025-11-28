@@ -225,6 +225,16 @@ Web Server
 * https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2
 * https://it-notes.dragas.net/tags/cdn  DIY CDN magic?
 * https://github.com/mtlynch/picoshare  clicky file sharing thing for non-technical people?
+* https://caddyserver.com/docs/quick-starts/reverse-proxy
+* https://anubis.techaro.lol
+* https://github.com/TecharoHQ/anubis
+* https://github.com/daegalus/caddy-anubis
+* https://www.corgijan.dev/2025/05/10/caddy-anubis.html  (mandatory "www" here)
+* https://anubis.techaro.lol/docs/admin/environments/caddy
+* https://anubis.techaro.lol/docs/admin/caveats-gitea-forgejo
+* https://crispcache.com/help/how-to-setup-cache-on-caddy
+* https://github.com/caddyserver/cache-handler   might need souin/badger storage
+* https://github.com/dgraph-io/badger
 
 
 Offline Fun
