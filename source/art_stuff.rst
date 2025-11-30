@@ -222,6 +222,7 @@ Other
 * https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
 * https://www.blocklayer.com/sundial-popeng  paper horizontal sundial generator (not equatorial ones)
 * https://praxispuzzles.com/calendar_puzzle_rhombus
+* https://annanay.dev/build-a-signboard  metal signs with cut vinyl overlays
 
 
 Printer

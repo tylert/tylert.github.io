@@ -9,6 +9,7 @@ NNCP
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
 * https://github.com/jgoerzen/nncp-tools  helper shell scripts for maintaining and using NNCP
 * https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network
+* https://nncp.mirrors.quux.org/UsecaseMail.html  NNCP for email relay?
 
 
 BBS
@@ -20,7 +21,7 @@ BBS
 * https://github.com/TechTucson/TT-BBSmesh-Plus  Meshtastic BBS
 * https://unsigned.io/hardware/RNode.html  better than Meshtastic?
 * https://f6fbb.org
-* http://www.textfiles.com/hamradio/wreck.ham
+* http://textfiles.com/hamradio/wreck.ham  (mandatory "http" here)
 * https://donuts-are-good.github.io/shhhbb  SSH BBS
 * https://shazow.net/posts/ssh-how-does-it-even  ssh-chat
 * https://github.com/shazow/ssh-chat
@@ -55,6 +56,11 @@ Messaging
 * https://nostr.com  no desktop version, no instructions for how to run your own relays
 * https://contrapunctus.codeberg.page/the-quick-and-easy-guide-to-xmpp.html
 * https://jmp.chat  XMPP paid-hosting provider with POTS access?
+* https://molly.im
+* https://github.com/mollyim/mollyim-android
+* https://iroh.computer
+* https://iroh.computer/sendme
+* https://dumbpipe.dev
 
 ::
 
@@ -89,6 +95,11 @@ Email
 * https://vkttech.com/setup-and-configure-stalwart-email-server-a-comprehensive-guide-for-2025
 * https://maxadamski.com/blog/2025/10/email.html  self-hosting email
 * https://wiki.archlinux.org/title/S-nail
+* https://github.com/JB-SelfCompany/Tyr  Yggmail (Yggdrasil email) + DeltaChat/ArcaneChat client
+* https://github.com/neilalexander/yggmail
+* https://delta.chat
+* https://chatmail.at
+* https://chtml.ca  Canadian chatmail relay
 
 ::
 
@@ -235,6 +246,8 @@ Web Server
 * https://crispcache.com/help/how-to-setup-cache-on-caddy
 * https://github.com/caddyserver/cache-handler   might need souin/badger storage
 * https://github.com/dgraph-io/badger
+* https://pocketbase.io  backend for web stuff?
+* https://github.com/pocketbase/pocketbase  backend for web stuff?
 
 
 Offline Fun
