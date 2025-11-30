@@ -95,15 +95,38 @@ Email
 * https://vkttech.com/setup-and-configure-stalwart-email-server-a-comprehensive-guide-for-2025
 * https://maxadamski.com/blog/2025/10/email.html  self-hosting email
 * https://wiki.archlinux.org/title/S-nail
+
+::
+
+    apk add opendkim postfix s-nail
+
+
+Yggdrasil
+---------
+
+* https://cheapskateguide.org/articles/yggdrasil.html
+* https://yggdrasil-network.github.io/faq.html
+* https://github.com/yggdrasil-network/yggdrasil-go/issues/418  how does local peering work?
+* https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer
+* https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to
+* https://medium.com/@mdrahony/how-to-install-yggdrasil-in-debian-stretch-and-find-peers-a9525bf7d2c5
 * https://github.com/JB-SelfCompany/Tyr  Yggmail (Yggdrasil email) + DeltaChat/ArcaneChat client
 * https://github.com/neilalexander/yggmail
 * https://delta.chat
 * https://chatmail.at
 * https://chtml.ca  Canadian chatmail relay
+* https://github.com/ufm/yggdns64  DNS proxy for Yggdrasil
+* https://codeberg.org/miekg/dns  v2 of libary for yggdns64
 
-::
 
-    apk add opendkim postfix s-nail
+DNS
+---
+
+* https://atomdns.miek.nl
+* https://codeberg.org/miekg/dns/src/branch/main/cmd/atomdns
+* https://codeberg.org/miekg/dns
+* https://codeberg.org/miekg/dns/src/branch/main/cmd/atomdns/handlers/geoip/README.md  DNS with GeoIP
+* https://mailfud.org/geoip-legacy  GeoIP databases
 
 
 Linux Phones
