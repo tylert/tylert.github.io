@@ -170,6 +170,13 @@ Other
 * https://github.com/automerge/automerge-go  maybe sucks to build on Linux?
 
 
+Git
+---
+
+* https://anubis.techaro.lol/docs/admin/caveats-gitea-forgejo
+* https://github.com/antonmedv/gitmal
+
+
 Containers Images Backups
 -------------------------
 
@@ -234,6 +241,10 @@ Publishing
 * https://overreacted.io/open-social  AT protocol
 * https://overreacted.io/where-its-at  AT protocol
 * https://solidproject.org  Solid protocol
+* https://codeberg.org/git-pages/git-pages  codeberg pages
+* https://grebedoc.dev  codeberg pages
+* https://gotosocial.org  ActivityPub self-hosted social network server written in Go
+* https://activitypub.rocks  ActivityPub
 
 
 Web Server
@@ -261,7 +272,6 @@ Web Server
 * https://github.com/daegalus/caddy-anubis
 * https://www.corgijan.dev/2025/05/10/caddy-anubis.html  (mandatory "www" here)
 * https://anubis.techaro.lol/docs/admin/environments/caddy
-* https://anubis.techaro.lol/docs/admin/caveats-gitea-forgejo
 * https://crispcache.com/help/how-to-setup-cache-on-caddy
 * https://github.com/caddyserver/cache-handler   might need souin/badger storage
 * https://github.com/dgraph-io/badger
