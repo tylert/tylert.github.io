@@ -5,11 +5,33 @@ NNCP
 * https://complete.org/building-an-asynchronous-internet-optional-instant-messaging-system
 * https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html
 * https://complete.org/nncp
+* https://complete.org/nncpnet-email-network
+* https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network
+* https://nncp.mirrors.quux.org/UsecaseMail.html  NNCP for email relay?
 * http://nncpgo.org/Use-cases.html
 * https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html
 * https://github.com/jgoerzen/nncp-tools  helper shell scripts for maintaining and using NNCP
-* https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network
-* https://nncp.mirrors.quux.org/UsecaseMail.html  NNCP for email relay?
+
+
+Yggdrasil
+---------
+
+* https://cheapskateguide.org/articles/yggdrasil.html
+* https://yggdrasil-network.github.io/faq.html
+* https://github.com/yggdrasil-network/yggdrasil-go/issues/418  how does local peering work?
+* https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer
+* https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to
+* https://medium.com/@mdrahony/how-to-install-yggdrasil-in-debian-stretch-and-find-peers-a9525bf7d2c5
+* https://github.com/JB-SelfCompany/Tyr  Yggmail (Yggdrasil email) + DeltaChat/ArcaneChat client
+* https://github.com/neilalexander/yggmail
+* https://delta.chat
+* https://chatmail.at
+* https://chtml.ca  Canadian chatmail relay
+* https://github.com/ufm/yggdns64  DNS proxy for Yggdrasil
+* https://codeberg.org/miekg/dns  v2 of libary for yggdns64
+* https://forum.openwrt.org/t/yggdrasil-network-connection/211884  OpenWRT Yggdrasil setup
+* https://nncp.mirrors.quux.org/Yggdrasil.html  NNCP and Yggdrasil
+* https://complete.org/nncp-over-yggdrasil
 
 
 BBS
@@ -62,14 +84,6 @@ Messaging
 * https://iroh.computer/sendme
 * https://dumbpipe.dev
 
-::
-
-    apk add ejabberd
-
-::
-
-    apk add profanity
-
 
 Email
 -----
@@ -99,24 +113,6 @@ Email
 ::
 
     apk add opendkim postfix s-nail
-
-
-Yggdrasil
----------
-
-* https://cheapskateguide.org/articles/yggdrasil.html
-* https://yggdrasil-network.github.io/faq.html
-* https://github.com/yggdrasil-network/yggdrasil-go/issues/418  how does local peering work?
-* https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer
-* https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to
-* https://medium.com/@mdrahony/how-to-install-yggdrasil-in-debian-stretch-and-find-peers-a9525bf7d2c5
-* https://github.com/JB-SelfCompany/Tyr  Yggmail (Yggdrasil email) + DeltaChat/ArcaneChat client
-* https://github.com/neilalexander/yggmail
-* https://delta.chat
-* https://chatmail.at
-* https://chtml.ca  Canadian chatmail relay
-* https://github.com/ufm/yggdns64  DNS proxy for Yggdrasil
-* https://codeberg.org/miekg/dns  v2 of libary for yggdns64
 
 
 DNS
@@ -347,6 +343,7 @@ Networking
 * https://github.com/hrimfaxi/tutuicmptunnel  bpf for doing udp-over-icmp? (replaces udp2raw icmp mode?)
 * https://hysteria.network  censorship-resistant proxy
 * https://github.com/apernet/hysteria  censorship-resistant proxy
+* https://tpl.house  the promised LAN
 
 
 AI

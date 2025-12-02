@@ -91,6 +91,7 @@ Software Design and Documentation
 * https://github.com/charmbracelet/glow  render Markdown in a terminal
 * https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer
 * https://boringtechnology.club  choose boring technology
+* https://docker.com/blog/do-you-really-need-microservices
 
 
 Messaging and Logging
@@ -233,6 +234,7 @@ Style Guide Stuff
 * https://github.com/google/yamlfmt  still early days for this CLI tool
 * https://github.com/mvdan/sh  shell auto-formatter?
 * https://sembr.org  semantic line breaks
+* https://zsh.sourceforge.io/FAQ/zshfaq02.html#l17  bash shell scripts in zsh
 
 
 Diagrams-as-Code Stuff
