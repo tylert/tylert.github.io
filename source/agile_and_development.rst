@@ -42,6 +42,8 @@ Kanban/Ticket Stuff
 * https://timewarrior.net  does time-tracking (and works with Task Warrior)
 * https://fossil-scm.org  does tickets and wiki stuff
 * https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate  (mandatory "www" here)
+* https://vikunja.io  self-hosted Kanban board
+* https://github.com/go-vikunja/vikunja  self-hosted Kanban board
 
 ::
 

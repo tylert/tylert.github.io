@@ -97,8 +97,10 @@ PDF + Contacts
 * https://github.com/Shravendra/address_book  neat address book API thingy
 * https://realpython.com/contact-book-python-textual  tutorial creating an address book management tool in Python
 * https://zupzup.org/go-example-ical/index.html  creating an iCal feed with Go
+* https://github.com/zupzup/example-go-ical  example code from iCal feed article above
 * https://github.com/arran4/golang-ical
 * https://pkg.go.dev/github.com/arran4/golang-ical
+* https://github.com/samedi/caldav-go  abandoned library
 
 ::
 
@@ -109,7 +111,7 @@ PDF + Contacts
 Barcodes
 --------
 
-* https://qr.blinry.org
+* https://qr.blinry.org  reading QR codes without a computer
 
 
 Docker + Alpine Linux
