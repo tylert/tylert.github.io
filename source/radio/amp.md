@@ -1,6 +1,6 @@
 # Amp
 
-* <https://www.aliexpress.com/item/32971427148.html>
+* <https://aliexpress.com/item/32971427148.html>
 
 Be sure to connect the input and output and then power on, the input
 power is less than 10dBm. Impedance 50 ohms
@@ -43,6 +43,7 @@ power-on test.
 
 Package Contents 100% Brand New 1 X1MHZ-1000MHZ 3W HF VHF UHF FM
 Transmitter RF Power Amplifier For Ham Radio 35dB
+
 
 # Transmission Lines
 

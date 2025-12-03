@@ -16,12 +16,14 @@
 * <https://robrobinette.com/Ham_VHF-UHF_Digital_Modes.htm> loads of MMDVM and repeater tuning things
 * <https://github.com/jopohl/urh> Universal Radio Hacker suite
 
+
 # LimeSDR Mini
 
 * <https://electro.pizza/2019/02/limesdrmini-gqrx-arch>
 * <https://wiki.myriadrf.org/Installing_Lime_Suite_on_Linux#Building_from_Source>
 * <https://wiki.myriadrf.org/LimeSDR_Firmware_Management>
 * <https://github.com/myriadrf/LimeSuite>
+
 
 # Modems and Interfaces
 
@@ -43,12 +45,14 @@
 * <https://github.com/mobilinkd/tnc1>
 * <https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html>
 
+
 # Transceivers
 
 * <https://n6qw.com/PSSST_20.html> copper-clad 7-transistor SSB rig
 * <https://ai6ym.radio/t41-ep-sdt> \"T41-EP SDT\" radio
 * <https://github.com/WB2CBA/ADX> FT8 transceiver with Arduino
 * <https://github.com/lu7did/RDX-rp2040> FT8 transceiver with RP2040
+
 
 # GRCon And Others
 
@@ -60,6 +64,7 @@
 * <https://youtube.com/watch?v=kVY3E3e--_I&t=11713s> ARDC
 * <https://youtube.com/watch?v=MHkz7jNynOg>
 * <https://youtube.com/watch?v=kVY3E3e--_I> TAPR DCC
+
 
 # Hermes Lite 2
 
@@ -74,6 +79,7 @@
 * <https://lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html>
 * <https://github.com/mathisschmieder/HL2-MRF101/blob/master/README.md>
 
+
 # Keyers and Decoders
 
 * <https://youtube.com/watch?v=FaaQbMpAI1U>
@@ -81,6 +87,7 @@
 * <https://github.com/jmharvey1/MCUFriend_STM32CUBEIDE>
 * <https://ve3yt.com/cw-course>
 * <https://ve3yt.com/cw-mp3s-links> resources for CW course
+
 
 # Antenna Stuff
 
@@ -92,6 +99,7 @@
     2300-2450 MHz for hams and 2400-2500 MHz for non-hams - 13 cm band
     5650–5925 MHz for hams and 5725-5875 MHz for non-hams - 5  cm band
 
+
 # Ribbit
 
 The current \"walled garden\" app is called \"Rattlegram\" on The Poodle
@@ -102,6 +110,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://github.com/phase4ground/ribbit> possible location for source code eventually maybe???
 * <https://youtube.com/watch?v=_jN4IVccIEw> initial presentation video
 * <https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new> presentation slides (PDF)
+
 
 # Assorted Stuff
 
@@ -131,6 +140,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://craiger.org/digipi>
 * <https://computer.rip/2025-08-16-passive-microwave-repeaters.html>
 
+
 # Logging
 
 * <https://github.com/ftl/cabrillo> read/write Cabrillo using Golang
@@ -151,6 +161,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://github.com/VE2ZAZ/VHF_Contest_Logger_Software>
 * <https://gist.github.com/ericek111/d2325c55921853a4592e46962dfe37f2> setup N1MM under Wine
 * <https://calf-studio-gear.org> JACK audio magic
+
 
 # Bluetooth Stuff
 
