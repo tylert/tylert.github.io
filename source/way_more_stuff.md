@@ -2,7 +2,8 @@
 
 * <https://jeffgeerling.com/blog/2020/collections-signal-major-shift-ansible-ecosystem>
 * <https://github.com/sivel/amanda> Golang web thing for self-hosting Ansible Galaxy Collections
-* <https://github.com/Blackmamoth/sshsync> possible, smaller replacement for ad-hoc ansible?
+* <https://github.com/Blackmamoth/sshsync> possible, smaller replacement for ad-hoc Ansible?
+* <https://github.com/volution/z-run> other possible replacement for Ansible
 
 
 # OpenTofu Stuff
