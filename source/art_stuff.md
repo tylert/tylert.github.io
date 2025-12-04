@@ -110,15 +110,24 @@ Record terminal commands to an SVG animation:
 
 # CHDK Doc/Book Scanner
 
+* <https://mighty-hoernsche.de>
+* <https://chdk.fandom.com/wiki/CHDK>
 * <https://chdk.fandom.com/wiki/CHDK_User_Manual>
 * <https://chdk.fandom.com/wiki/PTP_Extension>
 * <https://app.assembla.com/wiki/show/chdkptp>
 * <https://aur.archlinux.org/packages/chdkptp-svn> currently abandoned package
 * <https://gitman.readthedocs.io/en/latest/setup/git-svn> git-svn annoyances?
 * <https://chdk.setepontos.com/index.php?topic=14091.0> set_clock to set camera date/time
+* <https://diybookscanner.org>
 * <https://diybookscanner.org/en/intro.html> some camera selection criteria
+* <https://duckduckgo.com/?q=diy+book+scanner&ia=images&iax=images>
 * <https://scantips.com>
 * <https://ocr4all.org/about/ocr4all> automated workflows for OCR?
+* <https://www.monperrus.net/martin/store-data-paper> (mandatory 'www' here)
+* <https://www.monperrus.net/martin/perfect-ocr-digital-data> (mandatory 'www' here)
+* <https://thephoblographer.com/2025/08/20/how-chdk-helped-bring-my-old-canon-back-to-life>
+* <https://35mmc.com/13/06/2022/digital-negatives-the-power-of-chdk-on-canon-powershots-by-sean-benham>
+* <https://danielc.dev/ptp/chdk>
 
     pacman -S git subversion perl-term-readkey
     pacman -S libusb-compat lua53 lua53-lgi

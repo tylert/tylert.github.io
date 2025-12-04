@@ -207,6 +207,7 @@ EOL:
 * <https://github.com/snesrev/zelda3/wiki>
 * <https://github.com/cjhoward/smc2sfc>
 * <https://archive.org/details/legend-of-zelda-the-a-link-to-the-past-u_202407>
+* <https://aur.archlinux.org/packages/zelda3-git>
 
     # Strip headers from a SNES ROM
     $ wget https://raw.githubusercontent.com/cjhoward/smc2sfc/refs/heads/master/smc2sfc.cpp
