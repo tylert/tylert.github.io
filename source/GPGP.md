@@ -104,6 +104,30 @@
     $ for i in *000* ; do echo ; pgpdump -i $i ; echo ; done
 
 
+# SSH
+
+* <https://goral.net.pl/post/use-gpg-for-ssh-keys> overview but missing the SSH private key file
+* <https://github.com/pinpox/pgp2ssh> actually get a working SSH private key file (tool works but is very cumbersome to use)
+* <https://github.com/ProtonMail/go-crypto> dependency of pgp2ssh
+* <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto
+
+    # First, ensure you have a key with 'auth' capability
+    gpg --export-ssh-key ${KEY_ID}  # just get the ssh pub key
+
+    # Get the SSH private key
+    $ gpg --export-secret-key ${KEY_ID} > foo.txt
+    $ git clone https://github.com/pinpox/pgp2ssh ; cd pgp2ssh ; go build . ; mv pgp2ssh .. ; cd ..
+    $ ./pgp2ssh
+    ... follow the interactive prompts, copy-and-paste the private key to a file
+    $ rm foo.txt  # get rid of the temporary key export file
+
+    # Compare the private key file contents you just extracted to what comes directly from GPG
+    $ gpg --export-ssh-key ${KEY_ID}
+    ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s openpgp:0xCA299433
+    $ ssh-keygen -f floob -y
+    ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s
+
+
 # Commit Signing
 
 * <https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work>
