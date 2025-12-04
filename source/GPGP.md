@@ -33,12 +33,12 @@
     $ gpg -K  # equivalent to "gpg --list-secret-keys"
 
     # Show extra info
-    $ gpg -k --with-keygrip --keyid-format long
-    $ gpg -K --with-keygrip --keyid-format long
-    $ ls .gnupg/private-keys-v1.d
+    $ gpg -k --with-keygrip --with-subkey-fingerprint
+    $ gpg -K --with-keygrip --with-subkey-fingerprint
+    $ ls ~/.gnupg/private-keys-v1.d
     ...
-    $ echo "keyid-format long" >> ~/.gnupg/gpg.conf
     $ echo "with-keygrip" >> ~/.gnupg/gpg.conf
+    $ echo "with-subkey-fingerprint" >> ~/.gnupg/gpg.conf
 
     # Change the expiry on things???
     $ gpg --edit-key ${KEY_ID}
@@ -60,47 +60,48 @@
 # Backups
 
 * <https://saminiir.com/paper-storage-and-recovery-of-gpg-keys>
-* <https://wiki.archlinux.org/title/Paperkey>
-* <https://jabberwocky.com/software/paperkey>
-* <https://github.com/dmshaw/paperkey>
+* <https://wiki.archlinux.org/title/Paperkey> can't backup public keys
+* <https://jabberwocky.com/software/paperkey> can't backup public keys
+* <https://github.com/dmshaw/paperkey> can't backup public keys
 * <https://github.com/volution/punchcard-key-backup>
 * <https://docs.python.org/3/library/binascii.html#binascii.crc_hqx> Python CRC-CCITT CRC-16/XMODEM function
 * <https://beebwiki.mdfs.net/CRC-16> C CRC-CCITT CRC-16/XMODEM function
 * <https://www.monperrus.net/martin/store-data-paper> (mandatory 'www' here)
 * <https://www.monperrus.net/martin/perfect-ocr-digital-data> (mandatory 'www' here)
 
-    # Export stuff for safe-keeping???
-    $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foop.gpg.priv.asc
-    $ umask 0022 ; gpg --armor --export ${KEY_ID} > foop.gpg.pub.asc
-    $ if [ $(stat -c %s foop.gpg.pub.asc) -eq 0 ]; then rm foop.gpg.pub.asc ; fi
-    $ if [ $(stat -c %s foop.gpg.priv.asc) -eq 0 ]; then rm foop.gpg.priv.asc ; fi
+    # Export stuff for safe-keeping??? (Don't forget the revcert too!!!)
+    $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foo.gpg.priv.asc
+    $ umask 0022 ; gpg --armor --export ${KEY_ID} > foo.gpg.pub.asc
+    $ if [ $(stat -c %s foo.gpg.pub.asc) -eq 0 ]; then rm foo.gpg.pub.asc ; fi
+    $ if [ $(stat -c %s foo.gpg.priv.asc) -eq 0 ]; then rm foo.gpg.priv.asc ; fi
     $ gpg --armor --export-secret-subkeys ${SUBKEY_ID}\!
     # ...
 
-    $ gpg --export foo | gpgsplit
-    $ ls -1 000*
-    000001-006.public_key
-    000002-013.user_id
-    000003-002.sig
-    000004-014.public_subkey
-    000005-002.sig
-    000006-014.public_subkey
-    000007-002.sig
-    000008-014.public_subkey
-    000009-002.sig
-    $ rm 000*
-    $ gpg --export-secret-key | gpgsplit
-    $ ls -1 000*
-    000001-005.secret_key
-    000002-013.user_id
-    000003-002.sig
-    000004-007.secret_subkey
-    000005-002.sig
-    000006-007.secret_subkey
-    000007-002.sig
-    000008-007.secret_subkey
-    000009-002.sig
-    $ rm 000*
+    # Packets containing 3 subkeys
+    $ gpg --export ${KEY_ID} | gpgsplit --prefix "p-${KEY_ID}-"
+    $ gpg --export-secret-key ${KEY_ID} | gpgsplit --prefix "s-${KEY_ID}-"
+    $ ls -1 *000*
+    p-foo-000001-006.public_key
+    p-foo-000002-013.user_id
+    p-foo-000003-002.sig
+    p-foo-000004-014.public_subkey
+    p-foo-000005-002.sig
+    p-foo-000006-014.public_subkey
+    p-foo-000007-002.sig
+    p-foo-000008-014.public_subkey
+    p-foo-000009-002.sig
+    s-foo-000001-005.secret_key
+    s-foo-000002-013.user_id
+    s-foo-000003-002.sig
+    s-foo-000004-007.secret_subkey
+    s-foo-000005-002.sig
+    s-foo-000006-007.secret_subkey
+    s-foo-000007-002.sig
+    s-foo-000008-007.secret_subkey
+    s-foo-000009-002.sig
+
+    # View the actual contents of the packets
+    $ for i in *000* ; do echo ; pgpdump -i $i ; echo ; done
 
 
 # Commit Signing

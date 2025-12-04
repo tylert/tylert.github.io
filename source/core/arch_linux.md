@@ -6,7 +6,7 @@
     pacman -Si foo  # show info about available package 'foo'
     pacman -Ss bar  # show names of available packages with 'bar' in the name
 
-    pacman -Qi foo  # show files installed by package 'foo'
+    pacman -Ql foo  # show files installed by package 'foo'
 
 
 # Arch Linux AMIs
