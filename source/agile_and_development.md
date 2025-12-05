@@ -305,6 +305,7 @@
 * <https://stavros.io/posts/switch-to-jujutsu-already-a-tutorial>
 * <https://maurycyz.com/misc/easy_git> you already have a git server
 * <https://github.com/go-gitea/gitea/issues/29426#issuecomment-1967418237> .git at the end of git remotes is kinda legacy
+* <https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto>
 
 
 # Process Stuff

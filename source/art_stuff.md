@@ -151,8 +151,8 @@ Record terminal commands to an SVG animation:
 * <https://codeberg.org/unspeaker/tek> old-school tracker?
 * <https://crowdsupply.com/cool-tech-zone/tangara> currently unobtainable (CAD \$250+)
 * <https://amazon.ca/HIFI-WALKER-H2-Resolution-Bluetooth/dp/B072C4YPCG> runs Rockbox and you can get it now (CAD \$170)
-* <https://rockbox.org/wiki/AIGOErosQK.html> install Rockbox on \"HIFI WALKER H2\"
-* <https://rockbox.org/wiki/JztoolInstall.html> install Rockbox on \"HIFI WALKER H2\"
+* <https://rockbox.org/wiki/AIGOErosQK.html> install Rockbox on 'HIFI WALKER H2'
+* <https://rockbox.org/wiki/JztoolInstall.html> install Rockbox on 'HIFI WALKER H2'
 * <https://mynoise.net> OMFG fabulous background sounds (forest, waterfall, kitten purring, ringing bowls, etc.)
 * <https://hannahilea.com/blog/birdnet-intro> BirdNET-Pi
 * <https://sonic-pi.net>
@@ -173,6 +173,9 @@ Record terminal commands to an SVG animation:
 * <https://qtractor.org>
 * <https://famistudio.org> NES native and Linux options
 * <https://kvraudio.com/product/stargate-daw-by-stargate-daw>
+* <https://github.com/Daninet/mtxt>
+* <https://abcnotation.com>
+* <https://abcplus.sourceforge.net>
 
 
 # Blender

@@ -1,5 +1,6 @@
 ![image](example.png)
 
+
 # Initial Preparations
 
 1. Completely update your phone to the latest official Android load first.
@@ -9,6 +10,7 @@
 1. Use Settings, go to System - Advanced - Developer options, enable OEM unlocking; May require stupidity like 'adb shell pm uninstall \-\-user 0 com.android.phone', reboot after changing this.
 1. Follow all installation instructions for your chosen Android distribution (e.g.: LineageOS, /e/, etc.).
 1. Reboot into the new system when you're finished with all the installation steps.
+
 
 # Factory-Fresh Setup
 
@@ -26,6 +28,7 @@
 1. Use Settings, go to About phone, tap Build number 7 times.
 1. Use Settings, go to System - Advanced - Developer options, enable USB debugging.
 
+
 # Install Other Apps
 
 1. Use Browser, visit <https://f-droid.org>, download F-Droid app after allowing Browser to access files and media on this device and allow install unknown apps permission.
@@ -40,6 +43,7 @@
 
 It is very likely that you will also desire/need some apps from
 <https://fossify.org/apps> as well.  Fossify Calendar might be a good choice.
+
 
 # Thunderbird
 
@@ -66,6 +70,7 @@ the default settings for the app as follows:
         Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
         Notification light:  Account colour
 
+
 # Firefox
 
     Search:  select DuckDuckGo, delete the rest of the engines
@@ -90,12 +95,14 @@ the default settings for the app as follows:
       Marketing data:  Off
       Experiments:  Off
 
+
 # Osmin
 
 * <https://apt.izzysoft.de/fdroid/repo>
 * <https://github.com/janbar/osmin>
 * <https://github.com/janbar/osmin/wiki>
 * <http://download.openstreetmap.fr/extracts> more-granular maps for osmin (may have trouble writing to needed location)
+
 
 # Evict Obstinate System Apps
 
@@ -143,10 +150,12 @@ the default settings for the app as follows:
         pm uninstall --user 0 ${package}
     done
 
+
 # SSH
 
 * <https://gitlab.com/d4rcm4rc/MagiskSSH>
 * <https://github.com/topjohnwu/Magisk> SU + other stuff?
+
 
 # Others
 
@@ -168,6 +177,8 @@ the default settings for the app as follows:
 * <https://landley.net/toybox> build Android on Android?
 * <https://github.com/landley/toybox> build Android on Android?
 * <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
+* <https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame>
+
 
 # GrapheneOS
 

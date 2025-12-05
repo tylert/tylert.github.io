@@ -211,6 +211,7 @@ UUID stuff:
 * <https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support>
 * <https://lucumr.pocoo.org/2025/11/3/absurd-workflows> durable execution for agents using just PostgreSQL (Absurd library)
 * <https://github.com/earendil-works/absurd>
+* <https://pglite.dev> PostgreSQL as embedded WASM in Jabbascript?
 
 
 # MySQL Stuff

@@ -333,6 +333,16 @@
 * <https://tpl.house> the promised LAN
 
 
+# Sharing
+
+* <https://0x0.st>
+* <https://git.0x0.st/mia/0x0>
+* <https://hole.0x0.st> webwormhole
+* <https://github.com/saljam/webwormhole>
+* <https://opengist.io>
+* <https://github.com/thomiceli/opengist>
+
+
 # AI
 
 * <https://getubo.com> personal assitant gimmick?
