@@ -55,190 +55,6 @@
     # etc., etc., etc...
 
 
-# Game Stuff
-
-* <https://github.com/kentonv/lanparty>
-* <https://news.ycombinator.com/item?id=31590724>
-* <https://bazzite.gg> immutable desktop for Steam Decks?
-* <https://renpy.org/doc/html/build.html#archives> .rpa scripts and images files example
-* <https://reddit.com/r/RenPy/comments/wq6jms/how_to_compress_un_rpa>
-* <https://reddit.com/r/RenPy/comments/sv92zp/rpa_files> .rpa files are just Python pickle files maybe?
-* <https://github.com/Lattyware/unrpa> RenPy data file unpacking
-* <https://pypi.org/project/unrpa> pip install unrpa
-* <https://github.com/shizmob/rpatool> RenPy data file repacking thing maybe?
-* <https://github.com/Steam-Headless/docker-steam-headless> access your big game machine from any web browser?
-* <https://diymultideck.mauri.app> fancy deck of cards
-* <https://naikari.github.io> open-source space game thing
-* <https://thearcadestick.com> review arcade sticks
-* <https://gp2040-ce.info> RP2040 based arcade sticks
-* <https://github.com/OpenStickCommunity> RP2040 based arcade sticks
-* <https://osa-stick.com> Open Source Arcade stick (nearly all 3D-printed)
-* <https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick> Open Source Arcade stick
-* <https://aperture-software.github.io/colditz-escape>
-* <https://github.com/aperture-software/colditz-escape>
-* <https://zero-k.info>
-* <https://zerok.itch.io/zero-k>
-* <https://veloren.net>
-* <https://openmw.org>
-* <https://wesnoth.org>
-
-
-# Retro Computing
-
-* <https://kilograham.github.io/rp2040-doom>
-* <https://github.com/pod-arcade/pod-arcade> k8s + RetroArch???
-* <https://lakka.tv> neato interface like RetroArch, RetroPie, Kodi?
-* <https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start> 486SX in an FPGA
-* <https://0mhz.net/download>
-* <https://0mhz.net/docs>
-* <https://amiga.vision/download>
-* <https://amiga.vision/docs>
-* <https://medium.com/@8bitsten/start-with-c-programming-on-amiga-1e8312cec2db>
-* <http://compilers.de/vbcc.html> vintage CPU/computer C99-compiler, assembler, linker
-* <https://aminet.net/tree?path=dev>
-* <https://misterreplay.com/mister-fpga-guide.html>
-* <https://krystof.io/mister-fpga-initial-setup-and-network-mounting>
-* <https://mister-devel.github.io/MkDocs_MiSTer/advanced/computer/#ppp-connection>
-* <https://brutman.com/mTCP> DHCP, HTGET, PING, TELNET, etc.
-* <https://github.com/AnttiTakala/SSH2DOS>
-* <https://misterfpga.org/viewtopic.php?t=478> change hostname, MAC address, etc.
-* <https://datagubbe.se/adosmyst> AmigaDOS tips and tricks
-* <https://sttmedia.com/newline> Amiga line endings should be the same as Linux/Unix
-* <https://wiki.amigaos.net/wiki/AmigaOS_Apps_Productivity_%26_Utilities>
-* <https://ocawesome101.github.io/486-linux.html> Linux on a i486SX
-* <http://slackware.com/install/sysreq.php> Slackware claims to run on a 486
-* <https://knopper.net/knoppix-info/index-en.html> Knoppix claims to run on a 486
-* <https://retrocomputing.stackexchange.com/questions/1811/which-linux-or-bsd-distributions-do-still-support-i386-i486-or-i586-cpus#1815> more ancient CPU discussions
-* <https://github.com/rasteri/HIDman> using your favourite USB keyboards and mice with a computer that only talks PS/2, AT, XT, etc.
-* <https://snes.nesdev.org/wiki/ROM_file_formats> .SFC, .SMC, .SWC, .FIG ROM files
-* <https://github.com/franckverrot/EmulationResources/blob/master/consoles/megadrive/genesis_rom.txt> .BIN, .MD, .SMD ROM files
-* <https://theblackzone.net/posts/2018/msdos622-in-qemu>
-* <https://github.com/jessodum/ngrom> convert Genesis/MegaDrive SMD format ROMs to BIN format ROMs
-* <https://zeldix.net/t1662-remove-header> stripping SNES ROM headers
-* <https://r-roms.github.io>
-* <https://pukepals.com/2025/06/05/mister-fpga-console>
-* <https://github.com/Abdess/retroarch_system> BIOS
-* <https://retropie.org.uk/docs/3do> BIOS md5sums
-* <https://aterik.github.io/Transpiler.and.similar.List> Go to C???
-* <https://en.wikipedia.org/wiki/Newline#Representation>
-* <https://en.wikipedia.org/wiki/EBCDIC>
-* <https://en.wikipedia.org/wiki/End-of-file>
-* <https://ultibo.org> Raspberry Pi bare metal magic?
-* <https://reddit.com/r/fpgagaming/comments/7uvp0h/baremetal_raspberry_pi_emulators>
-* <https://aliexpress.com/item/33046715575.html> arcade stick
-* <https://multi-console-controller.com>
-* <https://breadbox64.com/blog/universal-fight-stick>
-* <https://pcem-emulator.co.uk/index.html>
-* <https://dansanderson.com/lab-notes/mister-in-an-amiga-600> pretty
-* <https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m> pretty
-* <https://ravener.is-a.dev/posts/compressing-games-to-chd> converting various CD images to CHD format
-* <https://retrogamecoders.com/roguelike-multiplatform> also using cc65, vbcc, etc. C compilers
-* <https://github.com/wickerwaka/PicoROM> RP2040 simulating a ROM
-* <https://zuzebox.wordpress.com/2023/12/31/raspberry-pi-pico-rp2040-retro-vintage-home-computer-emulation>
-* <https://benjamin.computer/posts/2025-07-28-amiga40.html> Amiga Workbench installs with modern conveniences
-* <https://kazeta.org> console appliance distro?
-* <https://the-ventureweaver.itch.io> The Labyrinth of Time\'s Edge text adventure
-* <https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment> OpenGEM, FreeGEM, etc.???
-* <https://cmaiolino.wordpress.com/dosbian> apt-get install dosbox?
-* <https://cmaiolino.wordpress.com/amiga-pi> apt-get install uae4arm?
-* <https://cmaiolino.wordpress.com> apt-get install vice?
-* <https://mariozechner.at/posts/2025-04-20-boxie>
-* <https://github.com/ItsDanik/rfidisk>
-* <https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive>
-* <https://hackaday.com/2024/07/12/making-sd-cards-more-nostalgic-with-more-cartridge-ness>
-* <https://onerom.org>
-* <https://github.com/piersfinlayson/one-rom>
-* <https://printables.com/model/1053628-nfc-entertainment-system-pc-based>
-* <https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case>
-* <https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt>
-* <https://bytecellar.com/bbsing>
-* <https://misterfpga.org/viewtopic.php?t=9699&start=30> Gravis UltraSound settings on ao486
-* <https://franke.ms/git/bebbo/bebbossh> SSH2 client and server for Amiga m68k
-* <https://franke.ms/git/bebbo/bebboget> tiny HTTPS file fetcher for Amiga m68k
-
-    myrient?
-
-EOL:
-
-    Linux,Unix,Amiga  LF
-    Commodore,MacOld  CR
-    CP/M,OS/2,DOS     CRLF
-    BBCMicro          CR or LFCR
-    RISCOS            LF or LFCR
-    EvilOS            LCFR
-    SortedOS          CFLR
-    MorseCode         BT
-
-    CR  0x0d  13  \r
-    LF  0x0a  10  \n
-
-
-# NFC
-
-* <https://github.com/ItsDanik/rfidisk> fake floppy disks with NFC reader
-* <https://github.com/ZaparooProject> NFC reader for MiSTer
-* <https://zaparoo.org/docs/readers/nfc/pn532-usb> readers
-* <https://zaparoo.org/docs/tokens/nfc/ntag> tags
-* <https://zaparoo.org/docs/core/cli/#write> write to the tags
-* <https://printables.com/model/955506-tapto-usb-c-reader-case-black-pn532-board> enclosure for PN532 board
-* <https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt> fancy eject mechanism
-* <https://printables.com/model/1140054-zaparootapto-for-mister-fpga-add-on-enclosure> other enclosure option
-* <https://github.com/NyLan-1/Floppy_Disk_Labels> floppy disk labels
-* <https://github.com/GSWXXN/NFCToolsGUI> maybe?
-* <https://blog.sknk.ws/blog/2021/05/03/using-a-pn532-nfc-module-with-libnfc> maybe?
-* <https://wakdev.com/en/apps/nfc-tools-pc-mac.html> closed-source AppImage, might not support PN532 readers
-* <https://eccel.co.uk/how-to-set-a-password-for-the-read-write-operations-on-ntag2xx> password-protect stuff?
-* <https://forums.adafruit.com/viewtopic.php?t=82031> password-protect stuff?
-* <https://docs.mtoolstec.com/pn532-cli/how-to-start> CLI?
-* <https://github.com/whywilson/pn532-python> CLI?
-* <https://www.ecotner.com/blog/nfc-hacking> (mandatory \"www\" here)
-* <https://nfcpy.readthedocs.io/en/latest/index.html>
-* <https://ndeftool.readthedocs.io/en/stable/index.html>
-
-    NTAG216 has 888 user bytes
-    NXP NTAG216 is a NFC Forum Type 2 tag?  ISO/IEC 14443 Type A?
-
-    pip install ndeftool nfcpy
-
-
-# Zelda3
-
-* <https://github.com/snesrev/zelda3>
-* <https://github.com/snesrev/zelda3/wiki>
-* <https://github.com/cjhoward/smc2sfc>
-* <https://archive.org/details/legend-of-zelda-the-a-link-to-the-past-u_202407>
-* <https://aur.archlinux.org/packages/zelda3-git>
-
-    # Strip headers from a SNES ROM
-    $ wget https://raw.githubusercontent.com/cjhoward/smc2sfc/refs/heads/master/smc2sfc.cpp
-    $ g++ smc2sfc.cpp -o smc2sfc
-    $ ./smc2sfc zelda3.smc zelda3.sfc
-
-    # Only generate assets needed to play
-    $ git clone https://github.com/snesrev/zelda3 ; cd zelda3
-    $ python -m venv .venv && source .venv/bin/activate
-    $ python -m pip install --upgrade --requirement requirements.txt  # pillow PyYAML
-    # Put zelda3.sfc in the top-level directory of the project
-    $ python assets/restool.py --extract-from-rom
-
-    # Checksums you might care about
-    $ sha256sum zelda3.smc  # header included
-    d9c69c5270b2f7eac54f254688a43cc767fd5cb4f21fc079a0f9fbe09978eaec  zelda3.smc
-    $ sha256sum zelda3.sfc  # header excluded
-    66871d66be19ad2c34c927d6b14cd8eb6fc3181965b6e517cb361f7316009cfb  zelda3.sfc
-    $ sha256sum zelda3_assets.dat
-    0fe2e4bd75d70f06fb9a74cd3a9cb336c838149b831b56e8792114a89292c793  zelda3_assets.dat
-
-    # Just play the damn game
-    $ git clone https://github.com/snesrev/zelda3 ; cd zelda3
-    $ sudo pacman -S sdl2
-    $ python -m venv .venv && source .venv/bin/activate
-    $ python -m pip install --upgrade --requirement requirements.txt  # pillow PyYAML
-    # Put zelda3.sfc in the top-level directory of the project
-    $ make
-    $ ./zelda3
-
-
 # Video/Audio/Camera Awesome
 
     # Convert files to/from other formats
@@ -461,7 +277,7 @@ Sigh, Debian:
 
 * <https://imgur.com/a/iJD8f> Tales of IT (humour)
 * <https://imgur.com/a/AOz0d> Tales of IT Part 2 (humour)
-* <https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1> DevOps Borat \"fortune\" data file
+* <https://gist.github.com/textarcana/676ef78b2912d42dbf355a2f728a0ca1> DevOps Borat fortune data file
 * <https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers> humour
 * <https://futurerack.info/main.php#/products_pets> cat server shelf
 * <https://fmt2.cat> HE datacentre cats
@@ -469,7 +285,7 @@ Sigh, Debian:
 * <https://benjamin-brady.github.io/gitlab-simulator> meeting simulator
 * <https://experience.prfalken.dev/english/subway-poker>
 * <https://github.com/vxfemboy/purrcrypt> meowthematical encryption
-* <https://wtfpl.net> the \"do what you want to public license\"
+* <https://wtfpl.net> the do what you want to public license
 * <https://friendda.org> FriendDA
 * <https://programmingforcats.com>
 
@@ -535,24 +351,6 @@ macOS:
 * <https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch>
 * <https://picoide.com>
 * <https://picog.us>
-
-
-# RPG Stuff
-
-* <https://adventurekeep.com>
-* <https://github.com/stassa/nests-and-insects> TTRPG
-* <https://gitlab.com/wargames_tex/wargame_tex>
-* <https://gitlab.com/wargames_tex/bfm_tex>
-* <http://www.ericharshbarger.org/dice/go_first_dice.html>
-* <https://elleosiliwood.itch.io/the-missing-locksmith>
-* <https://perchance.org/dnd-draconic-names>
-* <http://mewo2.com/notes/terrain> OMG awesome
-* <http://mewo2.com/notes/naming-language> OMG awesome
-* <https://github.com/mewo2/deserts> code for 2 items above
-* <https://github.com/mewo2/terrain> Jabbascript version??
-* <https://github.com/mewo2/naming-language> more Jabbascript for name generation??
-* <https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604> random dungeon generator on a business card
-* <https://olano.dev/blog/deconstructing-the-role-playing-videogame> GURPS, TWERPS, Dinky Dungeons, etc.
 
 
 # Awesome Stuff

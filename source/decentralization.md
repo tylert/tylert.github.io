@@ -15,12 +15,14 @@
 # Yggdrasil
 
 * <https://cheapskateguide.org/articles/yggdrasil.html>
-* <https://yggdrasil-network.github.io/faq.html>
+* <https://yggdrasil-network.github.io>
 * <https://github.com/yggdrasil-network/yggdrasil-go/issues/418> how does local peering work?
 * <https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer>
 * <https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to>
 * <https://medium.com/@mdrahony/how-to-install-yggdrasil-in-debian-stretch-and-find-peers-a9525bf7d2c5>
+* <https://apt.izzysoft.de/fdroid/index/apk/com.jbselfcompany.tyr>
 * <https://github.com/JB-SelfCompany/Tyr> Yggmail (Yggdrasil email) + DeltaChat/ArcaneChat client
+* <https://github.com/JB-SelfCompany/yggmail-android>
 * <https://github.com/neilalexander/yggmail>
 * <https://delta.chat>
 * <https://chatmail.at>
