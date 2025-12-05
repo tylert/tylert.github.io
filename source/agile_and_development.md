@@ -238,6 +238,7 @@
 * <https://github.com/stan-smith/OpenFLOW> isometric network diagrams
 * <https://penrose.cs.cmu.edu> web diagrams from text
 
+
 # Books
 
 * <https://amazon.com/Collaborating-Enemy-People-Agree-Trust/dp/1626568227>
@@ -486,6 +487,8 @@
 * <https://github.com/cmd-stream/cmd-stream-go> faster than RPC?
 * <https://github.com/vvvvv/dlg> printf-style debug with magic to remove it from production builds
 * <https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know>
+* <https://blog.chariot-chaser.net/posts/2024/go-tools-replace-deps> go mod edit -replace
+* <https://stackoverflow.com/questions/68764637/how-to-use-an-alternate-go-mod-file-for-local-development> go build -modfile=alt.go.mod .
 
 
 # Rust Stuff

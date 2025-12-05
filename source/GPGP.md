@@ -70,6 +70,9 @@
 * <https://beebwiki.mdfs.net/CRC-16> C CRC-CCITT CRC-16/XMODEM function
 * <https://www.monperrus.net/martin/store-data-paper> (mandatory 'www' here)
 * <https://www.monperrus.net/martin/perfect-ocr-digital-data> (mandatory 'www' here)
+* <https://qr.blinry.org> reading QR codes without a computer
+* <https://ronja.twibright.com/optar> another barcode thing
+* <https://github.com/colindean/optar> another barcode thing
 
     # Export stuff for safe-keeping??? (Don't forget the revcert too!!!)
     $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foo.gpg.priv.asc
@@ -172,3 +175,5 @@ ED25519!
 * <https://github.com/golang/go/issues/44226> deprecated library!!!
 * <https://github.com/ProtonMail/gopenpgp> possible replacement library
 * <https://pkg.go.dev/github.com/ProtonMail/gopenpgp/v2> docs for possible replacement library
+* <https://asecuritysite.com/age> go examples
+* <https://github.com/yeqown/go-qrcode>

@@ -97,11 +97,6 @@
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
 
 
-# Barcodes
-
-* <https://qr.blinry.org> reading QR codes without a computer
-
-
 # Docker + Alpine Linux
 
 * <https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure>
