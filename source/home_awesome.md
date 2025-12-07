@@ -7,16 +7,16 @@
 
 # Ontario Things
 
-* <https://www.lioapplications.lrc.gov.on.ca/ForestFireInformationMap/index.html?viewer=FFIM.FFIM>
+* <https://www.lioapplications.lrc.gov.on.ca/ForestFireInformationMap/index.html?viewer=FFIM.FFIM> (mandatory 'www' here)
 * <https://firesmoke.ca>
-* <https://www.ontario.ca/page/ontario-connects-making-high-speed-internet-accessible-in-every-community>
-* <https://www.ertyu.org/steven_nikkel/cancellsites.html>
-* <https://www.mensshedsontario.ca/Sheds-Activities%202/OntMensShedsList>
+* <https://ertyu.org/steven_nikkel/cancellsites.html>
+* <https://mensshedsontario.ca>
 * <https://hackberrymensshed.org>
-* <https://www.cps-ecp.ca>
-* <https://www.canboat.ca>
+* <https://canboat.ca>
+* <https://ontario.ca/page/ontario-connects-making-high-speed-internet-accessible-in-every-community>
+* <https://infrastructureontario.ca/en/what-we-do/projectssearch/accelerated-high-speed-internet-program>
 
 
 # ERV and HRV
 
-* <https://www.openerv.ca>
+* <https://www.openerv.ca> (mandatory 'www' here)
