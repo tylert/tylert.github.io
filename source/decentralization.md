@@ -240,8 +240,12 @@
 
 * <https://algernon.roboticoverlords.org>
 * <https://github.com/xyproto/algernon>
-* <https://github.com/xyproto/wercstyle> entire site as a self-contained algernon application
+* <https://github.com/xyproto/permissionbolt> auth module
+* <https://github.com/etcd-io/bbolt> bolt database used by Algernon
+* <https://github.com/xyproto/wercstyle> entire site as a self-contained Algernon application
 * <https://caddyserver.com>
+* <https://github.com/caddyserver/certmagic> cert stuff
+* <https://github.com/hackfixme/caddy-paseto> auth plugin
 * <https://til.jakelazaroff.com/caddy/run-an-https-reverse-proxy-for-local-development>
 * <https://blakesite.com/blog/2024-10-03-building-a-markdown-website-with-caddy>
 * <https://caddyserver.com/docs/quick-starts/reverse-proxy>

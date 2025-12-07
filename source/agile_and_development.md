@@ -376,6 +376,7 @@
 * <https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux>
 * <https://github.com/erning/gorun>
 * <https://wiki.ubuntu.com/gorun>
+* <https://upx.github.io> binary squasher
 
 
 # Go Stuff
