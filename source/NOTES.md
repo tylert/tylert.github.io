@@ -314,15 +314,19 @@ macOS:
 # Secret Management Stuff
 
 * <https://github.com/sniptt-official/ots>
-* <https://www.sniptt.com/ots>
+* <https://sniptt.com>
 * <https://github.com/onetimesecret/onetimesecret>
 * <https://onetimesecret.com>
 * <https://mprimi.github.io/portable-secret>
+* <https://mprimi.github.io/portable-secret/creator>
 * <https://github.com/mprimi/portable-secret>
-* <https://www.franzoni.eu/password-requirements-myths-madness>
+* <https://privacyprotect.dev>
+* <https://github.com/therockstorm/privacy-protect> node.js CLI tool
+* <https://franzoni.eu/password-requirements-myths-madness>
 * <https://github.com/slok/agebox> works with SSH pub keys even
 * <https://github.com/getsops/sops> kubernetes-compatible secret stuff???
 * <https://embrasure.dev>
+* <https://github.com/dropbox/zxcvbn> low-budget password strength estimation
 
 
 # Cool Products
@@ -477,7 +481,7 @@ macOS:
 * <https://ecapture.cc> eBPF SSL/TLS fun
 
 
-# Family IT Support Calls
+# IT Support Calls
 
 * <https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1>
 * <https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2>
@@ -493,3 +497,5 @@ macOS:
 * <https://2018.pycon-au.org/talks/41686-operation-luigi-how-i-hacked-my-friend-without-her-noticing>
 * <https://lwn.net/Articles/925870> TOTP
 * <https://scottrlarson.com/publications/publication-looking-back-windows-to-linux>
+* <https://endof10.org>
+* <https://troubled.engineer/posts/no-ads>

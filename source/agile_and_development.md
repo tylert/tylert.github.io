@@ -318,6 +318,7 @@
 
 * <https://fasterthanli.me/articles/a-terminal-case-of-linux> deep Rust/C and ancient nix voodoo
 * <https://redsymbol.net/articles/bash-exit-traps>
+* <https://blog.gabornyeki.com/2025-12-usenet> ancient Unix history
 
 
 # Python Stuff
