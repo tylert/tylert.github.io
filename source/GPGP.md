@@ -120,17 +120,16 @@
     $ gpg --export-ssh-key ${KEY_ID}  # just get the ssh pub key
 
     # Get the SSH private key
-    $ gpg --export-secret-key ${KEY_ID} > foo.txt
+    $ gpg --armor --export-secret-key ${KEY_ID} > foo.txt
     $ git clone https://github.com/pinpox/pgp2ssh ; cd pgp2ssh ; go build . ; mv pgp2ssh .. ; cd ..
-    $ ./pgp2ssh
-    ... follow the interactive prompts, copy-and-paste the private key to a file
-    ... TODO FIXME fix this tool so it has a less silly command-line interface
+    $ ./pgp2ssh 2>&1 | (umask 0077 && tee bar.txt)
+    $ # manually fix the resulting file
     $ rm foo.txt  # get rid of the temporary key export file
 
     # Compare the private key file contents you just extracted to what comes directly from GPG
     $ gpg --export-ssh-key ${KEY_ID}
     ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s openpgp:0xCA299433
-    $ ssh-keygen -f floob -y
+    $ ssh-keygen -f bar.txt -y
     ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s
 
 
