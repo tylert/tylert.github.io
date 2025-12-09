@@ -11,6 +11,8 @@
 * <https://github.com/sbernheim4/dotfiles/blob/master/tmux/.tmux.conf>
 * <https://ditig.com/256-colors-cheat-sheet>
 * <https://ianthehenry.com/posts/how-to-configure-tmux>
+* <https://ianthehenry.com/posts/tmux-copy-last-command>
+* <https://ianthehenry.com/posts/tmux-psa>
 * <https://davidwinter.dev/2019/03/14/tmux-the-essentials>
 * <https://bower.sh/you-might-not-need-tmux> some of the tmux stuff without tmux
 * <https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful>
