@@ -16,6 +16,9 @@
 
 * <https://cheapskateguide.org/articles/yggdrasil.html>
 * <https://yggdrasil-network.github.io>
+* <https://yggdrasil-network.github.io/configuration.html>
+* <https://wiki.archlinux.org/title/Yggdrasil>
+* <https://complete.org/easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn>
 * <https://github.com/yggdrasil-network/yggdrasil-go/issues/418> how does local peering work?
 * <https://reddit.com/r/yggdrasil/comments/ov6hkf/how_do_you_configure_yggdrasil_to_be_a_public_peer>
 * <https://reddit.com/r/WireGuard/comments/po56i3/using_wireguard_over_yggdrasilnetwork_how_to>
@@ -32,6 +35,8 @@
 * <https://forum.openwrt.org/t/yggdrasil-network-connection/211884> OpenWRT Yggdrasil setup
 * <https://nncp.mirrors.quux.org/Yggdrasil.html> NNCP and Yggdrasil
 * <https://complete.org/nncp-over-yggdrasil>
+* <https://github.com/ScriptNinja-GNU/YggdraSpeed-Mesh-Weaver>
+* <https://github.com/ScriptNinja-GNU/TurboTux-BBR-FQ-CoDel-Optimizer>
 
 
 # BBS
