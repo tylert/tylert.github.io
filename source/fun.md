@@ -17,13 +17,6 @@
 * <https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu>
 * <https://plop.at/en/bootmanager/full.html> other low-level boot goop?
 * <https://anemos.io> build custom initramfs installers
-* <https://words.filippo.io/dispatches/frood> initramfs Alpine NAS
-* <https://willhbr.net/2025/03/09/a-slim-home-server-with-alpine-linux>
-* <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
-* <https://blog.bythewood.me/posts/minimal-automated-updates-for-alpine-linux> Alpine actually provides a way to do automatic upgrades (unlike Arch)
-* <https://codentium.com/guides/alpine> Alpine server setup
-* <https://wildtechgarden.ca/doc/server-alpine-linux-docs4web> Alpine server setup
-* <https://regrow.earth/diy-server/installation> Alpine server setup
 * <https://github.com/liquidmetal-dev/flintlock> containerd-backed micro VMs?
 * <https://wiki.debian.org/ThomasChung/CloudImage>
 * <https://libguestfs.org>
@@ -34,6 +27,19 @@
 * <https://ventoy.net/en/doc_search_path.html> skip entire directories with a .ventoyignore file
 * <https://github.com/FlyGoat/csmwrap> BIOS wrapped in fancy-pants UEFI
 * <https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html>
+
+
+# Alpine Linux
+
+* <https://words.filippo.io/dispatches/frood> initramfs Alpine NAS
+* <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
+* <https://willhbr.net/2025/03/09/a-slim-home-server-with-alpine-linux>
+* <https://blog.bythewood.me/posts/minimal-automated-updates-for-alpine-linux> Alpine actually provides a way to do automatic upgrades (unlike Arch)
+* <https://codentium.com/guides/alpine> Alpine server setup
+* <https://wildtechgarden.ca/doc/server-alpine-linux-docs4web> Alpine server setup
+* <https://regrow.earth/diy-server/installation> Alpine server setup
+* <https://wiki.alpinelinux.org/wiki/Installation> official Alpine install procedure
+* <https://wiki.alpinelinux.org/wiki/Uncomplicated_Firewall> ufw on Alpine
 
 
 # Style
