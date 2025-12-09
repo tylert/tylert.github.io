@@ -378,6 +378,8 @@
 * <https://github.com/erning/gorun>
 * <https://wiki.ubuntu.com/gorun>
 * <https://upx.github.io> binary squasher
+* <https://ianthehenry.com/posts/why-janet> Janet -> C
+* <https://ianthehenry.com/posts/drinking-with-datalog> Datalog
 
 
 # Go Stuff
