@@ -4,10 +4,10 @@
 * <https://docs.pikvm.org>
 * <https://github.com/pikvm/pikvm>
 * <https://github.com/pikvm/kvmd>
-* <https://blicube.com/blikvm-pcie>
+* <https://blikvm.com/docs/device-guides/BliKVM-v2-guide>
 
-Web default login is: \"admin\" with password \"admin\" SSH default
-login is: \"root\" with password \"root\"
+Web default login is: 'admin' with password 'admin'
+SSH default login is: 'root' with password 'root'
 
 Look under \"pages\" in the GitHub repo for additional documentation.
 
@@ -52,26 +52,18 @@ Look under \"pages\" in the GitHub repo for additional documentation.
     # Put the main root filesystem into "writable mode"
     rw
 
-    # Correct the timezone
-    # timedatectl show
-    # timedatectl list-timezones
-    # timedatectl set-timezone UTC
-
-    # Fix /etc/hostname manually or use the following...
+    # Set the hostname
     hostnamectl set-hostname pantaloons
     hostname pantaloons
-    # Fix host in /etc/kvmd/meta.yaml too for the webUI
-    # Replace localhost.localdomain with new hostname
 
     # Change the default web and ssh passwords
-    # Use the local terminal and use su or ssh in, then do...
     kvmd-htpasswd set admin
     passwd root
 
 
 # Firmware and Updates
 
-    pikvm-update
-
     pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
     rpi-eeprom-update -a -d
+
+    pikvm-update
