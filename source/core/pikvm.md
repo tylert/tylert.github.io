@@ -63,6 +63,8 @@ Look under \"pages\" in the GitHub repo for additional documentation.
 
 # Firmware and Updates
 
+    # Install https://xkcd.com/1654 upgrade script
+
     pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
     rpi-eeprom-update -a -d
 
