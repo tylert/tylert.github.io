@@ -47,6 +47,16 @@ Look under \"pages\" in the GitHub repo for additional documentation.
 * <https://blog.ktz.me/use-1-pikvm-instance-to-control-4-systems>
 
 
+# Firmware and Updates
+
+    # Install https://xkcd.com/1654 upgrade script
+
+    pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
+    rpi-eeprom-update -a -d
+
+    pikvm-update
+
+
 # Initial Setup
 
     # Put the main root filesystem into "writable mode"
@@ -59,13 +69,3 @@ Look under \"pages\" in the GitHub repo for additional documentation.
     # Change the default web and ssh passwords
     kvmd-htpasswd set admin
     passwd root
-
-
-# Firmware and Updates
-
-    # Install https://xkcd.com/1654 upgrade script
-
-    pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
-    rpi-eeprom-update -a -d
-
-    pikvm-update
