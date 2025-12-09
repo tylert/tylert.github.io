@@ -276,6 +276,13 @@
 * <https://github.com/pocketbase/pocketbase> backend for web stuff?
 
 
+# Static Site Generator
+
+* <https://getzola.org>
+* <https://getzola.org/documentation/getting-started/overview>
+* <https://github.com/getzola/zola>
+
+
 # Offline Fun
 
 * <https://8chananon.github.io/tut/scraping1.html> scraping web sites using nothing but a web browser???
