@@ -14,6 +14,18 @@
 * <https://reddit.com/r/fountainpens/comments/xuywdm/how_to_clean_the_kakimori_brass_nib>
 * <https://paintspot.ca/art-supplies/drawing1606883528/inks1606883528/chunghua-chinese-sumi-ink>
 
+# LAMY Safari et al
+
+Safari is ABS, Vista is resin, Al Star is aluminium, Lx is an Al Star plated
+with fancy platinum-group metals.  Vista is the clear demonstrator version.
+Z28 or Z27 or Z26 converters will fit.  Z50 or Z52 or Z55 (or Z5x) nibs will
+fit.
+
+* <https://farzs.com/2025/02/15/lamy-al-star-vs-lamy-safari-complete-comparability-2025>
+* <https://jetpens.com/blog/LAMY-safari-A-Comprehensive-Guide/pt/176>
+* <https://gouletpens.com/blogs/fountain-pen-blog/comparing-lamy-al-star-safari-and-vista>
+* <https://reddit.com/r/fountainpens/comments/17xqe97/can_you_install_the_lamy_z52_lx_nibs_on_the_alstar>
+
 
 # Fancy Journals
 
