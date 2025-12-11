@@ -94,6 +94,7 @@ UUID stuff:
 * <https://github.com/maxpert/marmot>
 * <https://maxpert.github.io/marmot>
 * <https://litestream.io>
+* <https://fly.io/blog/litestream-vfs>
 * <https://fly.io/blog/introducing-litefs>
 * <https://github.com/superfly/litefs>
 * <https://rqlite.io>

@@ -31,7 +31,7 @@
 * <https://github.com/debuerreotype/docker-debian-artifacts> Debian
 * <https://github.com/tianon/docker-brew-ubuntu-core> Ubuntu
 * <https://github.com/alpinelinux/docker-alpine> Alpine Linux
-* <https://partner-images.canonical.com/oci> Ubuntu root fs tarballs for containers \"FROM scratch\"
+* <https://partner-images.canonical.com/oci> Ubuntu root fs tarballs for containers 'FROM scratch'
 * <https://cloud-images.ubuntu.com> OVA, VDI, IMG, etc.
 * <https://cloud-images.ubuntu.com/locator> AMIs, etc.
 * <https://hub.docker.com/_/debian> Voldemorthub Debian
@@ -48,7 +48,7 @@
 * <https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc>
 * <https://iximiuz.com/en/posts/iximiuz-labs-story> building a Firecracker-powered platform for containers
 
-Typical OS container image \"Dockerfile\":
+Typical OS container image 'Dockerfile':
 
     FROM scratch
     ADD ${DISTRO}-${ARCH}-rootfs.tar.gz
@@ -263,3 +263,4 @@ Deleting cluster:
 # Linux From Scratch
 
 * <https://landley.net/aboriginal/about.html>
+* <https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program>
