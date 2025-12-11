@@ -87,6 +87,9 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://github.com/dekuNukem/RGBeeb/blob/master/README.md> modern retro computer
 * <https://tanelpoder.com/posts/rtx4090-egpu>
 * <https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network>
+* <https://github.com/albogdano/compaqt-portable-sffpc>
+* <https://printables.com/model/1354903-compaqt-portable-x86-64-all-in-one-sff-pc>
+* <https://printables.com/model/826374-beamcase-sw-sff-sandwich-case-in-18-different-size>
 
 
 # Mini Racks

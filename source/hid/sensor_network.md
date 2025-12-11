@@ -17,6 +17,7 @@
 * <https://buzzert.net/posts/2020-02-10-chipotherm>
 * <https://github.com/gtls64/MontyHome-Hackers-Guide> MontyHome compost sensor
 * <https://montycompost.co> MontyHome compost sensor
+* <https://badgewa.re> fancy displays
 
 
 # Doorbell/Camera Stuff

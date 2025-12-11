@@ -357,6 +357,7 @@ macOS:
 * <https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch>
 * <https://picoide.com>
 * <https://picog.us>
+* <https://hackergadgets.com/products/uconsole-aio-v2> uConsole from Snow Crash
 
 
 # Awesome Stuff
@@ -394,6 +395,7 @@ macOS:
 * <https://github.com/tomhea/c2fj> compile C programs to NOT gates?
 * <https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji>
 * <https://idiallo.com/blog/zipbomb-protection> feeding gzip-compressed blobs of /dev/zero to bots
+* <https://metacircular.net> lots of neat things to read
 
 
 # Microservices

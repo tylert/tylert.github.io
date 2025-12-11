@@ -274,6 +274,7 @@
 * <https://github.com/dgraph-io/badger>
 * <https://pocketbase.io> backend for web stuff?
 * <https://github.com/pocketbase/pocketbase> backend for web stuff?
+* <https://git.wntrmute.dev/kyle/caddyhole> geo-blocking fun
 
 
 # Static Site Generator

@@ -176,3 +176,9 @@ ED25519!
 * <https://pkg.go.dev/github.com/ProtonMail/gopenpgp/v2> docs for possible replacement library
 * <https://asecuritysite.com/age> go examples
 * <https://github.com/yeqown/go-qrcode>
+* <https://github.com/gokyle> some other nifty ideas for tiny Go tools
+
+
+# X.509 Stuff
+
+* <https://github.com/kisom/cert> nifty Go CLI tool for dealing with cert stuff
