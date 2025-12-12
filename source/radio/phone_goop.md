@@ -155,6 +155,10 @@ the default settings for the app as follows:
 
 * <https://gitlab.com/d4rcm4rc/MagiskSSH>
 * <https://github.com/topjohnwu/Magisk> SU + other stuff?
+* <https://cgoldberg.github.io/posts/android-ssh-server>
+
+    # Delete files as they are moved
+    rsync --remove-source-files ${rsync_opts} /path/to/src/ /path/to/dest
 
 
 # Others
@@ -178,6 +182,7 @@ the default settings for the app as follows:
 * <https://github.com/landley/toybox> build Android on Android?
 * <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
 * <https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame>
+* <https://gioui.org> Android apps in Go?
 
 
 # GrapheneOS
