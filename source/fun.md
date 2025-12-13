@@ -40,6 +40,10 @@
 * <https://regrow.earth/diy-server/installation> Alpine server setup
 * <https://wiki.alpinelinux.org/wiki/Installation> official Alpine install procedure
 * <https://wiki.alpinelinux.org/wiki/Uncomplicated_Firewall> ufw on Alpine
+* <https://vixalien.com/blog/an-alpine-setup>
+* <https://linuxmind.dev/2025/09/02/how-to-install-the-operating-system-alpine-linux>
+* <https://krython.com/post/resolving-alpine-linux-installation-errors>
+* <https://linuxiac.com/how-to-install-alpine-linux>
 
 
 # Style
