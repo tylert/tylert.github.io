@@ -2,9 +2,9 @@
 
 * <https://drewscape.blogspot.com/2023/07/kakimori-nib-review.html>
 * <https://notes.stlartsupply.com/product-test-kakimori-stainless-steel-nib>
-* <https://www.gentlemanstationer.com/blog/2022/6/25/pen-review-kakimori-brass-dip-nib>
-* <https://www.penaddict.com/blog/2024/2/15/kaweco-kakimori-perfect-swatching-tool>
-* <https://www.lizsteel.com/kakimori-nib-with-watercolour-ink>
+* <https://gentlemanstationer.com/blog/2022/6/25/pen-review-kakimori-brass-dip-nib>
+* <https://penaddict.com/blog/2024/2/15/kaweco-kakimori-perfect-swatching-tool>
+* <https://lizsteel.com/kakimori-nib-with-watercolour-ink>
 * <https://takenotestore.ca/products/kakimori-metal-nib?variant=42043184644179> Kakimori stainless steel nib
 * <https://takenotestore.ca/products/kakimori-metal-nib?variant=42043184611411> Kakimori brass nib
 * <https://takenotestore.ca/products/kakimori-metal-nib-antique-brass> Kakimori antique brass nib
@@ -29,8 +29,8 @@ fit.
 
 # Fancy Journals
 
-* <https://www.youtube.com/watch?v=hCYAnmQnn6w&list=UUqjRRwnme0687dsSr8Y5TAg>
+* <https://youtube.com/watch?v=hCYAnmQnn6w&list=UUqjRRwnme0687dsSr8Y5TAg>
 * <https://onesleepydad.blogspot.com/2014/02/diy-travel-journal.html>
 * <http://greyladyshearth.blogspot.com/2014/10/my-eldori-is-finished.html>
-* <https://www.tortagialla.com/make-your-own-midori-fauxdori-travelers-notebook>
-* <https://www.wellappointeddesk.com/2022/10/a-deep-dive-into-elastic-planner-systems-aka-travelers-notebooks-fauxdori>
+* <https://tortagialla.com/make-your-own-midori-fauxdori-travelers-notebook>
+* <https://wellappointeddesk.com/2022/10/a-deep-dive-into-elastic-planner-systems-aka-travelers-notebooks-fauxdori>
