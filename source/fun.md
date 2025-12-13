@@ -46,6 +46,11 @@
 * <https://linuxiac.com/how-to-install-alpine-linux>
 
 
+# UEFI
+
+* <https://linuxbabe.com/command-line/how-to-use-linux-efibootmgr-examples>
+
+
 # Style
 
 * <https://github.com/mvdan/sh>
