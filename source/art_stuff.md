@@ -35,27 +35,10 @@ Record terminal commands to an SVG animation:
 * <https://jackw01.github.io/scanlight> negative/slide scanning light source
 * <https://github.com/wikey/bookscan> workflow automation for scanning books
 * <https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes>
-* <http://aggregate.org/DIT/CHDK> CHDK with CHDKPTP remote control
 * <https://gitlab.com/zephray/sitina1> open-source DSLR body
 * <https://printables.com/model/356278-camera-2-cinema-style-camera-housing-for-raspberry>
 * <https://github.com/eat-sleep-code/camera>
 * <https://github.com/schoolpost/CinePI> CinePi v2
-
-    0.  fetch CHDK firmware zip for "Elph 115" (full).
-    1.  put SD card in camera (unlocked).
-    2.  hit "Play" button to start camera without moving the lens.
-    3.  select menu item to format SD card.
-    4.  power off camera.
-    5.  put SD card in computer (unlocked).
-    6.  extract CHDK firmware zip onto root of SD card.
-    7.  unmount SD card from computer.
-    8.  put SD card in camera (unlocked).
-    9.  select menu item to upgrade firmware.
-    10.  hit "Play" button to enter "<ALT>" mode.
-    11.  select menu item Miscellaneous -> Make SD card bootable.
-    12.  power off camera and take out SD card.
-    13.  put SD card in camera (locked).
-    14.  power off camera.
 
 
 # Microscopes and Camera Stuff
@@ -128,6 +111,12 @@ Record terminal commands to an SVG animation:
 * <https://thephoblographer.com/2025/08/20/how-chdk-helped-bring-my-old-canon-back-to-life>
 * <https://35mmc.com/13/06/2022/digital-negatives-the-power-of-chdk-on-canon-powershots-by-sean-benham>
 * <https://danielc.dev/ptp/chdk>
+* <https://aggregate.org/DIT/CHDK> CHDK with CHDKPTP remote control
+* <https://chdk.fandom.com/wiki/Multiple_Cameras_using_CHDK>
+* <https://github.com/Tenrec-Builders/pi-scan>
+* <https://chdk.setepontos.com/index.php?topic=14229.0> two cameras with chdkptp
+* <https://chdk.setepontos.com/index.php?topic=13442.0> simultaneous capture with dual cameras and chdkptp scripts
+* <https://github.com/scoder/lupa> Python with inline Lua
 
     pacman -S git subversion perl-term-readkey
     pacman -S libusb-compat lua53 lua53-lgi
@@ -141,6 +130,24 @@ Record terminal commands to an SVG animation:
     make LUA_LIB=lua5.3 LUA_INCLUDE_DIR=/usr/include/lua5.3 GUI=1 GTK_SUPPORT=1
     popd
     popd
+
+Upgrading CHDK
+
+    0.  fetch CHDK firmware zip for "Elph 115" (full).
+    1.  put SD card in camera (unlocked).
+    2.  hit "Play" button to start camera without moving the lens.
+    3.  select menu item to format SD card.
+    4.  power off camera.
+    5.  put SD card in computer (unlocked).
+    6.  extract CHDK firmware zip onto root of SD card.
+    7.  unmount SD card from computer.
+    8.  put SD card in camera (unlocked).
+    9.  select menu item to upgrade firmware.
+    10.  hit "Play" button to enter "<ALT>" mode.
+    11.  select menu item Miscellaneous -> Make SD card bootable.
+    12.  power off camera and take out SD card.
+    13.  put SD card in camera (locked).
+    14.  power off camera.
 
 
 # Music and Audio Stuff
