@@ -111,6 +111,10 @@
 * <https://vkttech.com/setup-and-configure-stalwart-email-server-a-comprehensive-guide-for-2025>
 * <https://maxadamski.com/blog/2025/10/email.html> self-hosting email
 * <https://wiki.archlinux.org/title/S-nail>
+* <https://wiki.archlinux.org/title/Isync> IMAP message sync tool
+* <https://askubuntu.com/questions/1493425/how-to-convert-multiple-eml-files-into-one-mbox-file>
+* <https://github.com/crepererum-oss/tatutanatata> Tuta mail exporter
+* <https://addy.io> mail forwarder service
 
     apk add opendkim postfix s-nail
 
