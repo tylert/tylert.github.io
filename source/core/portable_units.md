@@ -204,7 +204,7 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://johnthenerd.com/blog/local-llm-assistant>
 * <https://github.com/project-alice-assistant/ProjectAlice> offline voice assistant
 * <https://github.com/nkasmanoff/pi-card> offline personal assistant?
-* <https://www.optoutproject.net/ditch-your-alexa> (mandatory \"www\")
+* <https://www.optoutproject.net/ditch-your-alexa> (mandatory 'www' here)
 * <https://geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs>
 * <https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device>
 * <https://pavlinbg.com/posts/python-speech-to-text-guide>

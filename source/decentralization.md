@@ -14,7 +14,11 @@
 
 # Yggdrasil
 
+* <https://willyyangwt.cc/posts/2022/03/08/using-yggdrasil-network-virtual-mesh-ipv6-network.html>
+* <https://complete.org/user-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers>
+* <https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network>
 * <https://cheapskateguide.org/articles/yggdrasil.html>
+* <https://github.com/yggdrasil-network/yggdrasil-go>
 * <https://yggdrasil-network.github.io>
 * <https://yggdrasil-network.github.io/configuration.html>
 * <https://wiki.archlinux.org/title/Yggdrasil>
@@ -37,6 +41,21 @@
 * <https://complete.org/nncp-over-yggdrasil>
 * <https://github.com/ScriptNinja-GNU/YggdraSpeed-Mesh-Weaver>
 * <https://github.com/ScriptNinja-GNU/TurboTux-BBR-FQ-CoDel-Optimizer>
+
+    ufw prepend deny in on tun0 proto ipv6  # put yggdrasil rule first
+
+    # Generate keys (openssl 3.6.0, yggdrasil 0.5.12)
+    yggdrasil -genconf > meh.txt
+    yggdrasil -useconffile meh.txt -exportkey | openssl pkey -text  # show priv/pub hex strings
+    yggdrasil -useconffile meh.txt -exportkey > sec1.key  # extract private key
+    openssl pkey -in sec1.key -pubout > pub1.key  # extract public key from private key
+    openssl genpkey -algorithm ed25519 -out sec2.key -outpubkey pub2.key  # equivalent keypair
+    openssl pkey -in sec2.key -text  # show hex values to pack into yggdrasil config file
+
+    # Generate addresses along with keys
+    git clone https://github.com/yggdrasil-network/yggdrasil-go
+    cd yggdrasil-go ; go build -o genkeys cmd/genkeys/main.go ; mv genkeys .. ; cd ..
+    ./genkeys
 
 
 # BBS

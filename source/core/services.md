@@ -99,15 +99,6 @@
 * <https://github.com/sdushantha/tmpmail>
 
 
-# Mesh
-
-* <https://github.com/yggdrasil-network/yggdrasil-go>
-* <https://yggdrasil-network.github.io>
-* <https://willyyangwt.cc/posts/2022/03/08/using-yggdrasil-network-virtual-mesh-ipv6-network.html>
-* <https://complete.org/user-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers>
-* <https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network>
-
-
 # Other
 
 * <https://github.com/awesome-selfhosted/awesome-selfhosted>
