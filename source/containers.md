@@ -264,3 +264,6 @@ Deleting cluster:
 
 * <https://landley.net/aboriginal/about.html>
 * <https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program>
+* <https://u-root.org> single binary initramfs kinda like busybox
+* <https://github.com/u-root/u-root> single binary initramfs kinda like busybox
+* <https://github.com/u-root/gobusybox> tool for building magical Go binaries
