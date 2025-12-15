@@ -182,3 +182,4 @@ ED25519!
 # X.509 Stuff
 
 * <https://github.com/kisom/cert> nifty Go CLI tool for dealing with cert stuff
+* <https://blog.pinterjann.is/ed25519-certificates.html> ED25519 for TLS certificates

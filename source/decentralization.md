@@ -41,6 +41,8 @@
 * <https://complete.org/nncp-over-yggdrasil>
 * <https://github.com/ScriptNinja-GNU/YggdraSpeed-Mesh-Weaver>
 * <https://github.com/ScriptNinja-GNU/TurboTux-BBR-FQ-CoDel-Optimizer>
+* <https://github.com/averyanalex/yggdrasil-vanity>
+* <https://github.com/averyanalex/ygglkan>
 
     ufw prepend deny in on tun0 proto ipv6  # put yggdrasil rule first
 
@@ -56,6 +58,15 @@
     git clone https://github.com/yggdrasil-network/yggdrasil-go
     cd yggdrasil-go ; go build -o genkeys cmd/genkeys/main.go ; mv genkeys .. ; cd ..
     ./genkeys
+
+
+# Yggdrasil DNS
+
+* <https://github.com/ru-crypto-anarchy/YggNS>
+* <https://github.com/zhoreeq/meshname>
+* <https://github.com/zhoreeq/coredns-meshname>
+* <https://coredns.io/explugins/meshname>
+* <https://howto.yggno.de/yggdrasil:dns:meshname>
 
 
 # BBS
