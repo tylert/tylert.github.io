@@ -10,6 +10,7 @@
 * <https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key>
 * <https://stackoverflow.com/questions/56582016/gpg-change-passphrase-non-interactively>
 * <https://superuser.com/questions/1478615/extend-the-expiration-date-of-a-gpg-key-non-interactively>
+* <https://github.com/rpgp/rpgp> pure Rust implementation of OpenPGP
 
     # Sigh... macOS...
     $ export GPG_TTY=$(tty)

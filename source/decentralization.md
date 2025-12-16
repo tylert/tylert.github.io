@@ -85,6 +85,7 @@
 * <https://bmaupin.github.io/wiki/other/openwrt/openwrt-80211s.html>
 * <https://openwrt.org/docs/guide-user/network/wifi/mesh/802-11s>
 * <https://tekovic.com/blog/openwrt-80211s-mesh-networking>
+* <https://dn42.dev>
 
 
 # BBS
@@ -150,6 +151,7 @@
 * <https://github.com/dynamail/gosmtp>
 * <https://github.com/emersion/go-smtp>
 * <https://github.com/pimalaya/himalaya> CLI for managing emails
+* <https://crates.io/crates/himalaya>
 * <https://lostpackets.de/khal> CLI CalDAV client
 * <https://stalw.art>
 * <https://workaround.org/ispmail-bookworm>
