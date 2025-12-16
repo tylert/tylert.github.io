@@ -69,6 +69,24 @@
 * <https://howto.yggno.de/yggdrasil:dns:meshname>
 
 
+# CJDNS
+
+* <https://gathman.org/meshdoc/Cjdns%20-%20Wikipedia.html>
+* <https://github.com/ProjectMeshnet>
+* <https://github.com/hyperboria>
+* <https://wiki.archlinux.org/title/Cjdns>
+* <https://github.com/cjdelisle/cjdns>
+
+
+# Mesh
+
+* <https://mango.vg/post/12> 802.11s and WiFi IBSS mesh stuff
+* <https://github.com/popura-network/HyperModem/wiki/Ideal-devices-for-Yggdrasil-and-802.11s-mesh> 802.11s devices
+* <https://bmaupin.github.io/wiki/other/openwrt/openwrt-80211s.html>
+* <https://openwrt.org/docs/guide-user/network/wifi/mesh/802-11s>
+* <https://tekovic.com/blog/openwrt-80211s-mesh-networking>
+
+
 # BBS
 
 * <https://github.com/markqvist/Reticulum/discussions/610> Reticulum BBS notes
