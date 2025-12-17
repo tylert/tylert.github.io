@@ -242,6 +242,11 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://github.com/ericjenott/Evertop> solar-powered emulated 80186 for running Minix, DOS, Windows 3.0, etc.
 * <https://github.com/unkyulee/micro-journal>
 * <https://danielmangum.com/posts/laptop-hdmi-monitor-sbc> using an old laptop as a HDMI display for an SBC (using a USB capture device)
+* <https://typeframe.net> PX-88 assembly guide
+* <https://homecomputermuseum.nl/en/collectie/epson/epson-px-4> Epson PX-4
+* <https://homecomputermuseum.nl/en/collectie/epson/epson-px-8> Epson PX-8
+* <https://homecomputermuseum.nl/en/collectie/epson/epson-hx-20> Epson HX-20
+* <https://homecomputermuseum.nl/en/collectie/tandy/tandy-100> Tandy TRS-80 Model 100
 
 
 # Power Supplies

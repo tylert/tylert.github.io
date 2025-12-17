@@ -12,8 +12,16 @@
 * <https://heckmeck.de/computerstuff/psf_tools>
 * <https://linuxfromscratch.org/blfs/view/basic/console-fonts.html>
 * <https://github.com/NateChoe1/ttf2psf> maybe convert TTF to PSF directly
+* <https://github.com/pcarrin2/otf2psf>
 
     setfont moo.psf.gz
+
+
+# ANSI and PETSCII and so on
+
+* <http://viznut.fi/unscii> unicode bitmapped fonts for classic computing
+* <https://github.com/viznut/unscii>
+* <https://github.com/TheZoraiz/ascii-image-converter>
 
 
 # Screen Recording

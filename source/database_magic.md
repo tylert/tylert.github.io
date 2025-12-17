@@ -127,6 +127,7 @@ UUID stuff:
 * <https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite>
 * <https://github.com/medialab/xan> the CSV magician
 * <https://github.com/cube2222/octosql> CLI tool to join JSON with SQL and other weird things
+* <https://github.com/Maxteabag/sqlit> another TUI tool for querying SQL stuff
 
 
 # ORM
@@ -161,6 +162,7 @@ UUID stuff:
 * <https://github.com/taylorh140/typst-pintora> Pintorita plugin for Typst
 * <https://pintorajs.vercel.app/docs/intro>
 * <https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid>
+* <https://andyatkinson.com/avoid-uuid-version-4-primary-keys> UUIDv4 is bad m'kay
 
 
 # K8s Stuff
@@ -213,6 +215,7 @@ UUID stuff:
 * <https://lucumr.pocoo.org/2025/11/3/absurd-workflows> durable execution for agents using just PostgreSQL (Absurd library)
 * <https://github.com/earendil-works/absurd>
 * <https://pglite.dev> PostgreSQL as embedded WASM in Jabbascript?
+* <https://hatchet.run/blog/postgres-partitioning> PostgreSQL partitioning
 
 
 # MySQL Stuff

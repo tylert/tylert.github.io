@@ -50,6 +50,9 @@
 * <https://yingtongli.me/blog/2018/07/30/kobo-ssh.html> enable dropbear
 * <https://github.com/shermp/go-fbink-v2> FBInk for Go?
 * <https://github.com/ciromattia/kcc> Python manga image-processing workflow thing?
+* <https://quill-os.org> open-source OS for a few antique Kobo models
+* <https://github.com/Quill-OS>
+* <https://github.com/PorQ-Pine> not-quite-ready open-source OS for PineNote readers
 
 
 # Old Kobo Stuff
