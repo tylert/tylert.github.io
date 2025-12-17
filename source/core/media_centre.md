@@ -21,6 +21,46 @@ hard to do a \"send hostname\" for DHCP.
 * <https://github.com/nawar/kodi-cli>
 
 
+# Caddy for Kodi
+
+* <https://github.com/caddyserver/caddy/issues/4991>
+* <https://caddy.community/t/kodi-compatible-browse-template-again2/16977>
+* <https://linuxblog.xyz/posts/caddy-file-server>
+* <https://caddyserver.com/docs/caddyfile/directives/file_server>
+
+/etc/cady/kodi.html
+
+    {{$useragent := .Req.Header.Get "User-Agent"}}
+    {{if regexMatch "^Kodi" $useragent}}
+    <!DOCTYPE html>
+    <html><body><table><tbody>
+    {{range .Items}}
+      <tr>
+        <td><a href="{{html .URL | replace "./" ""}}">{{html .Name}}</a></td>
+        <td>{{.HumanModTime "2006-Jan-02 15:04:05"}}</td>
+        <td>{{if .IsDir}}-{{else}}{{.HumanSize | replace " " "" | replace "iB" ""}}{{end}}</td>
+        <td>{{if .IsDir}}Directory{{else}}application/octet-stream{{end}}</td>
+      </tr>
+    {{end}}
+    <tbody></table></body></html>
+    {{else}}
+    ... browse output for other user agents (not kodi) ...
+    {{end}}
+
+/etc/caddy/Caddyfile
+
+    :80 {
+        root * /foo
+        file_server * {
+            browse /etc/caddy/kodi.html
+        }
+    }
+    :81 {
+        root * /foo
+        file_server browse
+    }
+
+
 # OSMC on Debian
 
     #!/usr/bin/env bash
