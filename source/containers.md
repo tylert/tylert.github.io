@@ -267,3 +267,4 @@ Deleting cluster:
 * <https://u-root.org> single binary initramfs kinda like busybox
 * <https://github.com/u-root/u-root> single binary initramfs kinda like busybox
 * <https://github.com/u-root/gobusybox> tool for building magical Go binaries
+* <https://fil-c.org/pizlix> memory safe LFS

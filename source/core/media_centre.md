@@ -113,3 +113,4 @@ The less painful way of enabling the codecs:
 * <https://raspberrytips.com/install-netflix-on-kodi>
 * <https://raw.githubusercontent.com/zjoasan/netflix-install-script/master/netflix_prep_install.sh>
 * <https://hackster.io/sbcomponentsuk/netflix-and-amazon-prime-video-now-streaming-on-raspberry-pi-44f3cb>
+* <https://johnlian.net/posts/hdmi-cec> HDMI-CEC

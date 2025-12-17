@@ -69,6 +69,7 @@
 # Automation
 
 * <https://chameth.com/home-automation-without-megacorps>
+* <https://homebridge.io>
 
 
 # Pi Pico/PicoW
