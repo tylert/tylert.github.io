@@ -179,6 +179,8 @@ EOL:
 * <https://multisystem.uk/products/mister-multisystem-2>
 * <https://shop.heber.co.uk/mister-multisystem2-fpga-analogue-console-system-black-enclosure>
 * <https://shop.heber.co.uk/blog-news/december-update-last-shipping-dates-levels-achieved-dec-2nd-2025>
+* <https://boogermann.github.io/Bible_MiSTer> loads more customization and stuff
+* <https://gamehacking.org> magic cheat codes for various games
 
 
 # Zaparoo
