@@ -86,6 +86,7 @@
 * <https://openwrt.org/docs/guide-user/network/wifi/mesh/802-11s>
 * <https://tekovic.com/blog/openwrt-80211s-mesh-networking>
 * <https://dn42.dev>
+* <https://wireless.docs.kernel.org/en/latest/en/users/drivers/ath10k/mesh.html>
 
 
 # BBS

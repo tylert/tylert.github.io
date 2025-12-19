@@ -27,6 +27,13 @@ hard to do a \"send hostname\" for DHCP.
 * <https://caddy.community/t/kodi-compatible-browse-template-again2/16977>
 * <https://linuxblog.xyz/posts/caddy-file-server>
 * <https://caddyserver.com/docs/caddyfile/directives/file_server>
+* <https://caddyserver.com/docs/caddyfile/directives/basic_auth>
+* <https://caddyserver.com/docs/automatic-https#local-https> CA root
+* <https://kodi.wiki/view/SSL_certificates>
+* <https://smallstep.com/docs/step-ca/getting-started> step and step-ca
+* <https://smallstep.com/docs/tutorials/acme-protocol-acme-clients/#caddy-v2> step-ca with caddy2
+* <https://github.com/smallstep/certificates>
+* <https://support.tools/create-certificate-authority-homelab> self-signed certs the old way
 
 /etc/cady/kodi.html
 
