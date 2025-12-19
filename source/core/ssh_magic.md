@@ -137,7 +137,7 @@ on hostA B -\> A:
 * <https://graystum.com/aws-ssm-do-you-really-need-ssh> AWS SSM
 * <https://hackernoon.com/ditch-your-ssh-keys-and-enable-aws-ssm-ec1c2b27350c>
 * <https://smallstep.com/blog/use-ssh-certificates>
-* <https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault>
+* <https://hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault>
 * <https://www.sweharris.org/post/2022-02-06-ssh-certs-again>
 * <https://www.toptal.com/aws/ssh-log-with-ssm>
 * <https://news.ycombinator.com/item?id=32660773> SSH CA discussion/poll
