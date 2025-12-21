@@ -50,11 +50,6 @@
 * <https://github.com/Steam-Headless/docker-steam-headless> access your big game machine from any web browser?
 * <https://diymultideck.mauri.app> fancy deck of cards
 * <https://naikari.github.io> open-source space game thing
-* <https://thearcadestick.com> review arcade sticks
-* <https://gp2040-ce.info> RP2040 based arcade sticks
-* <https://github.com/OpenStickCommunity> RP2040 based arcade sticks
-* <https://osa-stick.com> Open Source Arcade stick (nearly all 3D-printed)
-* <https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick> Open Source Arcade stick
 * <https://aperture-software.github.io/colditz-escape>
 * <https://github.com/aperture-software/colditz-escape>
 * <https://zero-k.info>
@@ -88,10 +83,8 @@
 * <https://github.com/pod-arcade/pod-arcade> k8s + RetroArch???
 * <https://lakka.tv> neato interface like RetroArch, RetroPie, Kodi?
 * <https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start> 486SX in an FPGA
-* <https://0mhz.net/download>
-* <https://0mhz.net/docs>
-* <https://amiga.vision/download>
-* <https://amiga.vision/docs>
+* <https://0mhz.net>
+* <https://amiga.vision>
 * <https://medium.com/@8bitsten/start-with-c-programming-on-amiga-1e8312cec2db>
 * <http://compilers.de/vbcc.html> vintage CPU/computer C99-compiler, assembler, linker
 * <https://aminet.net/tree?path=dev>
@@ -124,9 +117,6 @@
 * <https://en.wikipedia.org/wiki/End-of-file>
 * <https://ultibo.org> Raspberry Pi bare metal magic?
 * <https://reddit.com/r/fpgagaming/comments/7uvp0h/baremetal_raspberry_pi_emulators>
-* <https://aliexpress.com/item/33046715575.html> arcade stick
-* <https://multi-console-controller.com>
-* <https://breadbox64.com/blog/universal-fight-stick>
 * <https://pcem-emulator.co.uk/index.html>
 * <https://dansanderson.com/lab-notes/mister-in-an-amiga-600> pretty
 * <https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m> pretty
@@ -142,15 +132,8 @@
 * <https://cmaiolino.wordpress.com/dosbian> apt-get install dosbox?
 * <https://cmaiolino.wordpress.com/amiga-pi> apt-get install uae4arm?
 * <https://cmaiolino.wordpress.com> apt-get install vice?
-* <https://mariozechner.at/posts/2025-04-20-boxie>
-* <https://github.com/ItsDanik/rfidisk>
-* <https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive>
-* <https://hackaday.com/2024/07/12/making-sd-cards-more-nostalgic-with-more-cartridge-ness>
 * <https://onerom.org>
 * <https://github.com/piersfinlayson/one-rom>
-* <https://printables.com/model/1053628-nfc-entertainment-system-pc-based>
-* <https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case>
-* <https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt>
 * <https://bytecellar.com/bbsing>
 * <https://misterfpga.org/viewtopic.php?t=9699&start=30> Gravis UltraSound settings on ao486
 * <https://franke.ms/git/bebbo/bebbossh> SSH2 client and server for Amiga m68k
@@ -173,6 +156,18 @@ EOL:
 
     CR  0x0d  13  \r
     LF  0x0a  10  \n
+
+
+# Controllers
+
+* <https://thearcadestick.com> review arcade sticks
+* <https://gp2040-ce.info> RP2040 based arcade sticks
+* <https://github.com/OpenStickCommunity> RP2040 based arcade sticks
+* <https://osa-stick.com> Open Source Arcade stick (nearly all 3D-printed)
+* <https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick> Open Source Arcade stick
+* <https://multi-console-controller.com>
+* <https://breadbox64.com/blog/universal-fight-stick>
+* <https://learn.adafruit.com/super-nintendo-usb-controller/overview>
 
 
 # MiSTer
@@ -204,6 +199,8 @@ EOL:
 * <https://printables.com/model/955506-tapto-usb-c-reader-case-black-pn532-board> enclosure for PN532 board
 * <https://printables.com/model/999381-tapto-card-reader-with-spring-loaded-ejection-butt> fancy eject mechanism
 * <https://printables.com/model/1140054-zaparootapto-for-mister-fpga-add-on-enclosure> other enclosure option
+* <https://printables.com/model/1053628-nfc-entertainment-system-pc-based>
+* <https://printables.com/model/896333-tapto-pn532-v2-nfc-reader-case>
 * <https://github.com/NyLan-1/Floppy_Disk_Labels> floppy disk labels
 * <https://github.com/GSWXXN/NFCToolsGUI> maybe?
 * <https://blog.sknk.ws/blog/2021/05/03/using-a-pn532-nfc-module-with-libnfc> maybe?
@@ -220,3 +217,10 @@ EOL:
     NXP NTAG216 is a NFC Forum Type 2 tag?  ISO/IEC 14443 Type A?
 
     pip install ndeftool nfcpy
+
+
+# Modern Floppy Discs
+
+* <https://mariozechner.at/posts/2025-04-20-boxie>
+* <https://hackaday.com/2024/07/12/making-sd-cards-more-nostalgic-with-more-cartridge-ness>
+* <https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive>

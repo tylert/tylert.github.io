@@ -56,6 +56,8 @@
     shift + left/middle/right-button  # tmux pass-through left/middle/right-button
     # etc., etc., etc...
 
+    export TERM=xterm  # if you're on a crappy machine that doesn't know about tmux
+
 
 # Video/Audio/Camera Awesome
 
@@ -143,6 +145,8 @@ HandBrake settings for DVDs:
 * <https://motion-project.github.io> MotionEye
 * <https://danq.me/2025/05/26/downloading-vs-streaming>
 * <https://rm2000.app> macOS app that acts like a tape recorder
+* <http://nyanko.ws/nymphcast.php> NymphCast Linux network video/audio stuff
+* <https://github.com/MayaPosch/NymphCast> NymphCast Linux network video/audio stuff
 
 
 # Apt Stuff
