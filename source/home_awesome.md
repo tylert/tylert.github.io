@@ -15,6 +15,7 @@
 * <https://canboat.ca>
 * <https://ontario.ca/page/ontario-connects-making-high-speed-internet-accessible-in-every-community>
 * <https://infrastructureontario.ca/en/what-we-do/projectssearch/accelerated-high-speed-internet-program>
+* <https://tsimobile.viarail.ca/data/allData.json> VIA Rail arrivals data
 
 
 # ERV and HRV

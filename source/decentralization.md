@@ -124,6 +124,7 @@
 * <https://profanity-im.github.io> XMPP client
 * <https://berty.tech>
 * <https://berty.tech/features> BLE and mDNS for messaging?
+* <https://fabiensanglard.net/mdns> mDNS
 * <https://github.com/berty/berty>
 * <https://github.com/berty/weshnet>
 * <https://wesh.network>
@@ -166,6 +167,8 @@
 * <https://askubuntu.com/questions/1493425/how-to-convert-multiple-eml-files-into-one-mbox-file>
 * <https://github.com/crepererum-oss/tatutanatata> Tuta mail exporter
 * <https://addy.io> mail forwarder service
+* <https://blog.eppie.io/post/addresses> email ownership
+* <https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture> more about identity
 
     apk add opendkim postfix s-nail
 

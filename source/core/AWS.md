@@ -92,6 +92,7 @@
 * <https://awsipv6.neveragain.de> 41% IPv4-only, 58% IPv6-friendly???
 * <https://tty.neveragain.de> more awesome stuff
 * <https://tty.neveragain.de/2021/04/26/road-to-reweb.html>
+* <https://apalrd.net/posts/2023/network_ipv6>
 
 
 # TGW

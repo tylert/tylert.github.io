@@ -1,7 +1,7 @@
 # LibreELEC
 
-The networking stuff for LibreELEC is \"slightly weird\". Makes it kinda
-hard to do a \"send hostname\" for DHCP.
+The networking stuff for LibreELEC is 'slightly weird'. Makes it kinda
+hard to do a 'send hostname' for DHCP.
 
 * <https://wiki.archlinux.org/index.php/ConnMan>
 * <https://git.kernel.org/pub/scm/network/connman/connman.git>
@@ -34,6 +34,7 @@ hard to do a \"send hostname\" for DHCP.
 * <https://smallstep.com/docs/tutorials/acme-protocol-acme-clients/#caddy-v2> step-ca with caddy2
 * <https://github.com/smallstep/certificates>
 * <https://support.tools/create-certificate-authority-homelab> self-signed certs the old way
+* <https://fxgn.dev/blog/anubis> block bots from Caddy without Anubis
 
 /etc/cady/kodi.html
 

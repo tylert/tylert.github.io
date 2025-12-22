@@ -193,6 +193,11 @@ Upgrading CHDK
 * <https://abcplus.sourceforge.net>
 
 
+# CAD
+
+* <https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat>
+
+
 # Blender
 
 * <https://gitlab.com/sheepitrenderfarm>

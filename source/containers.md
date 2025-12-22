@@ -23,6 +23,7 @@
 # Container Hosts
 
 * <https://uncloud.run> distributed homelab fun?
+* <https://ungleich.ch/u/blog/encrypted-rootfs-with-alpine-linux>
 
 
 # Official OS Images
@@ -37,6 +38,10 @@
 * <https://hub.docker.com/_/debian> Voldemorthub Debian
 * <https://hub.docker.com/_/ubuntu> Voldemorthub Ubuntu
 * <https://hub.docker.com/_/alpine> Voldemorthub Alpine
+* <https://github.com/alpinelinux> Voldemorthub Alpine
+* <https://github.com/alpinelinux/docker-alpine>
+* <https://github.com/alpinelinux/alpine-make-rootfs>
+* <https://github.com/alpinelinux/alpine-make-vm-image>
 * <https://ubuntu.com/blog/craft-custom-chiselled-ubuntu-distroless>
 * <https://github.com/canonical/chisel>
 * <https://xenialinux.com> immutable Gentoo?
