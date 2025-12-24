@@ -35,6 +35,9 @@ hard to do a 'send hostname' for DHCP.
 * <https://github.com/smallstep/certificates>
 * <https://support.tools/create-certificate-authority-homelab> self-signed certs the old way
 * <https://fxgn.dev/blog/anubis> block bots from Caddy without Anubis
+* <https://blog.techotom.com/post/2024-02-06-caddy-local-https-snakeoil>
+* <https://waitwhat.sh/blog/custom_ca_caddy>
+* <https://m0x2a.dreamymatrix.com/caddy-as-internal-ca-and-reverse-proxy>
 
 /etc/cady/kodi.html
 
@@ -57,14 +60,23 @@ hard to do a 'send hostname' for DHCP.
 
 /etc/caddy/Caddyfile
 
+    {
+        pki {
+            ca internal {
+                name moo_lab
+            }
+        }
+    }
     :80 {
         root * /foo
+        tls internal
         file_server * {
             browse /etc/caddy/kodi.html
         }
     }
     :81 {
         root * /foo
+        tls internal
         file_server browse
     }
 
