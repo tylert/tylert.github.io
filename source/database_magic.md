@@ -217,6 +217,7 @@ UUID stuff:
 * <https://pglite.dev> PostgreSQL as embedded WASM in Jabbascript?
 * <https://hatchet.run/blog/postgres-partitioning> PostgreSQL partitioning
 * <https://pierce.dev/notes/go-ahead-self-host-postgres>
+* <https://boringsql.com/posts/instant-database-clones>
 
 
 # MySQL Stuff

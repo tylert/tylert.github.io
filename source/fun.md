@@ -49,6 +49,8 @@
 # UEFI
 
 * <https://linuxbabe.com/command-line/how-to-use-linux-efibootmgr-examples>
+* <https://github.com/usbarmory/go-boot> UEFI shell unikernel and OS loader
+* <https://github.com/usbarmory/tamago> bare metal Go
 
 
 # Style

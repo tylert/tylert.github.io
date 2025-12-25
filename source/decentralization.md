@@ -328,6 +328,7 @@
 * <https://www.corgijan.dev/2025/05/10/caddy-anubis.html> (mandatory 'www' here)
 * <https://anubis.techaro.lol/docs/admin/environments/caddy>
 * <https://crispcache.com/help/how-to-setup-cache-on-caddy>
+* <https://danburzo.ro/http-caching-refresher>
 * <https://github.com/caddyserver/cache-handler> might need souin/badger storage
 * <https://github.com/dgraph-io/badger>
 * <https://pocketbase.io> backend for web stuff?
