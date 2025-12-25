@@ -151,11 +151,16 @@ the default settings for the app as follows:
     done
 
 
-# SSH
+# SSH and Rsync
 
 * <https://gitlab.com/d4rcm4rc/MagiskSSH>
 * <https://github.com/topjohnwu/Magisk> SU + other stuff?
 * <https://cgoldberg.github.io/posts/android-ssh-server>
+* <https://izzyondroid.org/quickstart>
+* <https://github.com/tfonteyn/Sshd4a>
+* <https://github.com/tfonteyn/Sshd4a/wiki>
+* <https://howtos.davidsebek.com/android-rsync-termux.html>
+* <https://howtos.davidsebek.com/android-rsync-adb.html>
 
     # Delete files as they are moved
     rsync --remove-source-files ${rsync_opts} /path/to/src/ /path/to/dest
