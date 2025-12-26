@@ -72,12 +72,18 @@
 * <https://sedimental.org/the_packaging_gradient.html>
 
 
-# 2FA
+# 2FA and HSM
 
 * <https://karl-voit.at/2019/03/03/oathtool-otp>
 * <https://www.sendthemtomir.com/blog/cli-2-factor-authentication> (mandatory 'www' here)
 * <https://blog.snapdragon.cc/2019/04/27/using-a-yubikey-to-secure-ssh-on-macos>
-* <https://www.engineerbetter.com/blog/yubikey-all-the-things>
+* <https://wiki.debian.org/GNUK>
+* <https://blog.danman.eu/2-usb-crypto-token-for-use-with-gpg-and-ssh>
+* <https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage>
+* <https://www.fsij.org/doc-gnuk/index.html> GNUK documentation
+* <https://git.gniibe.org/cgit/gnuk/gnuk.git>
+* <https://salsa.debian.org/gnuk-team/gnuk/gnuk>
+* <https://github.com/ran-sama/stm32-gnuk-usb-smartcard>
 
 
 # PDF + Contacts
