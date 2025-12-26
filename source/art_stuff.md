@@ -225,6 +225,7 @@ Upgrading CHDK
 * <https://github.com/trycua/cua> containers for AI?
 * <https://koomen.dev/essays/horseless-carriages>
 * <https://simonwillison.net/2025/Oct/13/nanochat>
+* <https://github.com/hkjarral/Asterisk-AI-Voice-Agent>
 
 
 # Other

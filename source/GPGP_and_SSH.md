@@ -116,6 +116,7 @@
 * <https://github.com/pinpox/pgp2ssh> actually get a working SSH private key file (tool works but is very cumbersome to use)
 * <https://github.com/ProtonMail/go-crypto> dependency of pgp2ssh
 * <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto
+* <https://infosec.mozilla.org/guidelines/openssh> recommendations for SSH stuff
 
     # First, ensure you have a key with 'auth' capability
     $ gpg --export-ssh-key ${KEY_ID}  # just get the ssh pub key
@@ -160,6 +161,7 @@ ED25519!
 * <https://github.com/in-toto/in-toto-golang> not quite ready for prime-time yet!!!
 * <https://github.com/mikalv/anything2ed25519>
 * <https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html>
+* <https://docs.rs/exonum/0.9.3/exonum/crypto/x25519/fn.into_x25519_keypair.html> convert ed-209 keys to x25519
 
 
 # Key Servers
