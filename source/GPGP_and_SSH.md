@@ -161,7 +161,39 @@ ED25519!
 * <https://github.com/in-toto/in-toto-golang> not quite ready for prime-time yet!!!
 * <https://github.com/mikalv/anything2ed25519>
 * <https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html>
-* <https://docs.rs/exonum/0.9.3/exonum/crypto/x25519/fn.into_x25519_keypair.html> convert ed-209 keys to x25519
+* <https://doc.libsodium.org/advanced/ed25519-curve25519>
+* <https://asecuritysite.com/blog/2024-04-05_The-Confusing-Thing-About-X25519-and-Ed25519-10310df41f81.html>
+* <https://asecuritysite.com/age/go_age9>
+* <https://pkg.go.dev/crypto/internal/edwards25519> ripped out in go1.24.0 but present in 1.23.12
+
+Steps to convert ED-209 keys to X25519 keys
+
+    package main
+
+    import (
+      "crypto/ed25519"
+      "encoding/base64"
+      "fmt"
+
+      "filippo.io/edwards25519"
+    )
+
+    func main() {
+      public, private, _ := ed25519.GenerateKey(nil)
+      p, _ := new(edwards25519.Point).SetBytes(public)
+
+      fmt.Printf("== Private key ==\n")
+      fmt.Printf("Private key=%s\n", base64.StdEncoding.EncodeToString(private))
+      fmt.Printf("Private key=%x\n", private)
+
+      fmt.Printf("\n== Public key ==\n")
+      fmt.Printf("Public key=%s\n", base64.StdEncoding.EncodeToString(public))
+      fmt.Printf("Public key=%x\n", public)
+
+      fmt.Printf("\n== Edwards Point ==\n")
+      fmt.Printf("Edwards point =%x\n", p.Bytes())
+      fmt.Printf("Montgomery point =%x\n", p.BytesMontgomery())
+    }
 
 
 # Key Servers
