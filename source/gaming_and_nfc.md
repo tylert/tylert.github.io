@@ -168,6 +168,14 @@ EOL:
 * <https://multi-console-controller.com>
 * <https://breadbox64.com/blog/universal-fight-stick>
 * <https://learn.adafruit.com/super-nintendo-usb-controller/overview>
+* <https://github.com/misteraddons/Reflex-CTRL> NES, SNES, MD controller replacement PCBs
+* <https://github.com/RWeick/N64-Controller-CFS8120-700010> KiCAD PCB for N64 controller
+* <https://phobgcc.com> replacement GC controller PCB
+* <https://aliexpress.com/item/1005009088913192.html> USB GC controllers
+* <https://elecrow.com/phobgcc-v2-gamecube-controller-motherboard.html>
+* <https://github.com/darthcloud/cube64-dx> GC vs N64 button comparisons
+* <https://www.raphnet.net/electronique/gc_to_n64/index_en.php>
+* <https://github.com/timville85/4dapter> all-in-one adapter for NES, SNES, MD, N64, GC controllers
 
 
 # MiSTer
