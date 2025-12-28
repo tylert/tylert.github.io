@@ -190,9 +190,16 @@ the default settings for the app as follows:
 * <https://gioui.org> Android apps in Go?
 
 
+# FFUpdater
+
+* <https://f-droid.org/en/packages/de.marmaro.krt.ffupdater>
+* <https://github.com/Tobi823/ffupdater>
+
+
 # GrapheneOS
 
 * <https://github.com/iAnonymous3000/awesome-grapheneos-guide>
 * <https://funnymonkey.com/2025/02/configuring-grapheneos-for-daily-use>
 * <https://seprand.github.io/articles/best-user-profile-setup>
 * <https://theprivacydad.com/using-android-without-a-google-account> F-Droid, Aurora Store
+* <https://designed-cybersecurity.com/tutorial/grapheneos-guide> Organic Maps, Obtainium, etc.
