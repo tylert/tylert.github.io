@@ -167,3 +167,9 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 
 * <https://vanhunteradams.com/Pico/BLE/GATT_Server.html>
 * <https://bettercap.org>
+
+
+# HD Radio
+
+* <https://github.com/theori-io/nrsc5>
+* <https://hddirectory.neocities.org>
