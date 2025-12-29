@@ -46,6 +46,17 @@
 * <https://linuxiac.com/how-to-install-alpine-linux>
 
 
+# Laptop Distros
+
+* <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
+* <https://wiki.alpinelinux.org/wiki/Setting_up_a_laptop>
+* <https://iso.artixlinux.org/isos.php>
+* <https://mirror.leaseweb.com/devuan/devuan_excalibur/desktop-live>
+* <https://devuan.org>
+* <https://artixlinux.org>
+* <https://alpinelinux.org>
+
+
 # UEFI
 
 * <https://linuxbabe.com/command-line/how-to-use-linux-efibootmgr-examples>
