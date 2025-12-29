@@ -173,6 +173,7 @@ EOL:
 * <https://phobgcc.com> replacement GC controller PCB
 * <https://aliexpress.com/item/1005009088913192.html> USB GC controllers
 * <https://elecrow.com/phobgcc-v2-gamecube-controller-motherboard.html>
+* <https://compendium.dol-003.info> more detailed GC controller details
 * <https://github.com/darthcloud/cube64-dx> GC vs N64 button comparisons
 * <https://www.raphnet.net/electronique/gc_to_n64/index_en.php>
 * <https://github.com/timville85/4dapter> all-in-one adapter for NES, SNES, MD, N64, GC controllers
