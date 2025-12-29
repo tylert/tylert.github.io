@@ -199,6 +199,10 @@ System76 stuff:
 Sigh, Debian:
 
     sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
+    sudo apt-get install systemd-timesyncd
+    # sudo systemctl enable systemd-timesyncd
+    # sudo systemctl start systemd-timesyncd
+    # sudo timedatectl set-ntp true
 
 
 # LDAP/Kerberos
