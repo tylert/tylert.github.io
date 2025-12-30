@@ -48,6 +48,7 @@
 
 # Laptop Distros
 
+* <https://github.com/ErikSchlyter/alpine-scripts/blob/master/sys_alpine_with_full_disk_encryption_on_btrfs.md>
 * <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
 * <https://wiki.alpinelinux.org/wiki/Setting_up_a_laptop>
 * <https://iso.artixlinux.org/isos.php>
