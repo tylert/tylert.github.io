@@ -446,8 +446,12 @@ macOS:
 * <https://github.com/purpleidea/mgmt> possible replacement for Ansible (Go)
 * <https://pyinfra.com> another replacement for Ansible?
 * <https://github.com/debauchee/barrier> open replacement for Synergy
-* <https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html>
+* <https://brendangregg.com/blog/2024-03-24/linux-crisis-tools.html>
 * <https://codentium.com/accessing-physical-memory-from-userspace-on-linux>
+* <https://archive.0x00sec.org/t/super-stealthy-droppers/3715>
+* <https://github.com/ariary/fileless-xec>
+* <https://github.com/ariary/QueenSono> ICMP toys
+* <https://slingacademy.com/article/handling-binary-data-over-websockets-in-go-for-file-transfers>
 
 
 # Vault Awesome
