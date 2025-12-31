@@ -377,9 +377,23 @@
 * <https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux>
 * <https://github.com/erning/gorun>
 * <https://wiki.ubuntu.com/gorun>
-* <https://upx.github.io> binary squasher
+* <https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick> Go binary squashing
+* <https://upx.github.io> Go binary squashing
 * <https://ianthehenry.com/posts/why-janet> Janet -> C
 * <https://ianthehenry.com/posts/drinking-with-datalog> Datalog
+* <https://lorentz.app/blog-item.html?id=go-shebang>
+
+Executable go scripts
+
+    $ sed -i '1 i\/*usr/bin/env go run "$0" "$@"; exit;*/' foo.go
+    $ head -1 foo.go
+    /*usr/bin/env go run "$0" "$@"; exit;*/
+    $ bash foo.go
+    ...
+    $ go run foo.go
+    ...
+    $ go build -o foo foo.go ; ./foo
+    ...
 
 
 # Go Stuff
@@ -494,6 +508,8 @@
 * <https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know>
 * <https://blog.chariot-chaser.net/posts/2024/go-tools-replace-deps> go mod edit -replace
 * <https://stackoverflow.com/questions/68764637/how-to-use-an-alternate-go-mod-file-for-local-development> go build -modfile=alt.go.mod .
+* <https://gobinaries.com> maybe too specific to GitHub
+* <https://github.com/tj/gobinaries> maybe too specific to GitHub
 
 
 # Rust Stuff

@@ -188,6 +188,8 @@ the default settings for the app as follows:
 * <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
 * <https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame>
 * <https://gioui.org> Android apps in Go?
+* <https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret> maybe avoid eSIM as long as possible
+* <https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail> SMS 2FA
 
 
 # FFUpdater
