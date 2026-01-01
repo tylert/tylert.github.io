@@ -65,7 +65,7 @@
 * <https://github.com/stassa/nests-and-insects> TTRPG
 * <https://gitlab.com/wargames_tex/wargame_tex>
 * <https://gitlab.com/wargames_tex/bfm_tex>
-* <http://www.ericharshbarger.org/dice/go_first_dice.html>
+* <http://www.ericharshbarger.org/dice/go_first_dice.html> (mandatory 'http' and 'www' here)
 * <https://elleosiliwood.itch.io/the-missing-locksmith>
 * <https://perchance.org/dnd-draconic-names>
 * <http://mewo2.com/notes/terrain> OMG awesome
@@ -166,24 +166,30 @@ EOL:
 * <https://osa-stick.com> Open Source Arcade stick (nearly all 3D-printed)
 * <https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick> Open Source Arcade stick
 * <https://multi-console-controller.com>
-* <https://breadbox64.com/blog/universal-fight-stick>
 * <https://learn.adafruit.com/super-nintendo-usb-controller/overview>
 * <https://github.com/misteraddons/Reflex-CTRL> NES, SNES, MD controller replacement PCBs
 * <https://github.com/RWeick/N64-Controller-CFS8120-700010> KiCAD PCB for N64 controller
 * <https://phobgcc.com> replacement GC controller PCB
+* <https://github.com/PhobGCC/PhobGCCv2-HW> PhobGCC STEP files
+* <https://3dprinting.stackexchange.com/questions/12258/step-f3d-to-scad-file/21488#21488> STEP files in OpenSCAD
+* <https://github.com/ashley-hawkins/openscad-step-reader> STEP files in OpenSCAD
 * <https://aliexpress.com/item/1005009088913192.html> USB GC controllers
 * <https://elecrow.com/phobgcc-v2-gamecube-controller-motherboard.html>
 * <https://compendium.dol-003.info> more detailed GC controller details
 * <https://github.com/darthcloud/cube64-dx> GC vs N64 button comparisons
-* <https://www.raphnet.net/electronique/gc_to_n64/index_en.php>
 * <https://github.com/timville85/4dapter> all-in-one adapter for NES, SNES, MD, N64, GC controllers
+* <https://raphnet.net/electronique/gc_to_n64/index_en.php>
+* <https://raphnet-tech.com/products/gc_usb_adapter_v4/index.php>
+* <https://amazon.ca/Mayflash-GameCube-Controller-Adapter-Switch/dp/B00RSXRLUE> Linux-friendly GC USB adapter (9 ms latency?)
+* <https://raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php> another GC USB adapter option (6 ms latency?)
+* <https://retrorgb.com/open-source-usb-to-gamecube-adapter-from-robert-dale-smith.html>
+* <https://github.com/joypad-ai/joypad-os>
 
 
 # MiSTer
 
 * <https://multisystem.uk/products/mister-multisystem-2>
 * <https://shop.heber.co.uk/mister-multisystem2-fpga-analogue-console-system-black-enclosure>
-* <https://shop.heber.co.uk/blog-news/december-update-last-shipping-dates-levels-achieved-dec-2nd-2025>
 * <https://boogermann.github.io/Bible_MiSTer> loads more customization and stuff
 * <https://gamehacking.org> magic cheat codes for various games
 
