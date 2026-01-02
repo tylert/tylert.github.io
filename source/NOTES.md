@@ -59,96 +59,6 @@
     export TERM=xterm  # if you're on a crappy machine that doesn't know about tmux
 
 
-# Video/Audio/Camera Awesome
-
-    # Convert files to/from other formats
-    ffmpeg -i foo.mov -map 0 -c copy foo.mp4
-    ffmpeg -i foo.webm -c copy foo.mp4
-
-    # Downsample videos and/or chop off/out sections based on time
-    # to alter length of videos, after the -i, add:  '-ss' start time, '-t' duration or '-to' end time
-    ffmpeg -i foo.mpg -r 30 -s 960x540 smaller.mp4
-
-    # Concatenate files end-to-end
-    # put "file 1.mp4\nfile2.mp4" and so on in a list.txt file and then run
-    ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
-
-    # audio cd -> wav -> flac
-    cdda2wav -vall cddb=0 speed=4 -paranoia paraopts=proof -B -D /dev/sr0
-    flac --verify foo.wav
-
-    # Stream ripping example (try to keep metadata; needs work)
-    ffmpeg -i http://fr.ah.fm:8000/192k -map_metadata 0:s:0 ah_fm.mp3
-
-    # Yootoob
-    yt-dlp -f 'bv[height<=360]+ba' https://foobiewoobie.com/wholebunchofblablablablablabla
-
-Just fix the title of the video file:
-
-    ffmpeg -i input.whatever -c copy -map 0 -metadata title='Something else' output.whatever
-
-HandBrake settings for DVDs:
-
-    # Start with settings 'Official -> General -> HQ 1080p30 Surround'
-    Summary:
-        Format:  MPEG-4 (avformat)
-        Web Optimized:  disabled
-        Align A/V Start:  enabled
-        iPod 5G Support:  disabled
-        Passthru Common Metadata:  enabled
-    Dimensions:
-        Flipping Horizontal:  disabled
-        Rotation:  Off
-        Cropping:  Conservative or None depending on the disc
-        Resolution Limit:  720p HD
-        Anamorphic:  Automatic
-        Optimal Size:  enabled
-        Allow Upscaling:  disabled
-        Borders Fill:  None
-        Color:  Black
-        Final Dimensions Automatic:  enabled
-    Filters:
-        Detelecine:  Off
-        Interlace Detection:  Default
-        Deinterlace:  Decomb
-        Deinterlace Preset:  Default
-        Deblock Filter:  Off
-        Denoise Filter:  Off
-        Chroma Smooth Filter:  Off
-        Sharpen Filter:  Off
-        Colorspace:  Off
-        Grayscale:  disabled
-    Video:
-        Video Encoder:  H.264 (x264)
-        Framerate:  30
-        RF:  19
-        Constant Quality:  selected
-        Constant Framerate:  selected
-        Preset:  slow
-        Tune:  None
-        Fast Decode:  disabled
-        Profile:  high
-        Level:  4.0
-    Audio:
-        Bitrate:  English (AC3) (5.1 ch) 448 kpbs (48 kHz) -> AAC (avcodec) Stereo 160 kbps
-        Gain:  7 dB
-        DRC:  4.0
-    Subtitles:
-        Foreign Audio Scan -> Burned Into Video (Forced Subtitles Only)
-
-* <https://trac.ffmpeg.org/wiki/Capture/Desktop>
-* <https://img.ly/blog/ultimate-guide-to-ffmpeg>
-* <https://mifi.no/losslesscut>
-* <https://github.com/mifi/lossless-cut>
-* <https://en.wikipedia.org/wiki/LosslessCut>
-* <https://frigate.video>
-* <https://motion-project.github.io> MotionEye
-* <https://danq.me/2025/05/26/downloading-vs-streaming>
-* <https://rm2000.app> macOS app that acts like a tape recorder
-* <http://nyanko.ws/nymphcast.php> NymphCast Linux network video/audio stuff
-* <https://github.com/MayaPosch/NymphCast> NymphCast Linux network video/audio stuff
-
-
 # Apt Stuff
 
 * <http://www.boehmi.net/index.php/blog/14-how-to-setup-an-apt-cacher-ng-server-in-ubuntu>
@@ -251,26 +161,28 @@ Sigh, Debian:
 
 * <http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1>
 * <http://lett.be/oauth2>
-* <http://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop>
+* <https://unix.stackexchange.com/questions/66154/ssh-causes-while-loop-to-stop>
 * <https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying>
-* <http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2>
+* <https://velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2>
 * <https://github.com/mitchellh/packer/pull/2962>
 * <https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0>
 * <https://mergeboard.com/blog/2-qemu-microvm-docker>
 * <https://plaintextaccounting.org>
-* <https://www.netmeister.org/blog/inet_aton.html>
+* <https://lalitm.com/post/one-number-i-trust> more notes about plaintextaccounting
+* <http://textfiles.com/uploads/textfiles.txt> why use text files (mandatory 'http' here)
+* <https://netmeister.org/blog/inet_aton.html>
 * <https://randsinrepose.com/archives/the-seven-levels-of-busy>
 * <https://kellycordes.com/2009/11/02/the-fun-scale>
 * <https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two>
 * <https://sambleckley.com/writing/church-of-interruption.html>
 * <https://tynan.com/letstalk>
-* <https://www.neelnanda.io/blog/43-making-friends>
-* <https://www.theguardian.com/lifeandstyle/2025/aug/24/dont-like-joining-in-why-it-could-be-your-superpower>
+* <https://neelnanda.io/blog/43-making-friends>
+* <https://theguardian.com/lifeandstyle/2025/aug/24/dont-like-joining-in-why-it-could-be-your-superpower>
 * <https://structuredprocrastination.com/index.php>
-* <https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office>
+* <https://ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office>
 * <https://blog.jim-nielsen.com/2022/what-work-looks-like>
 * <https://github.com/milanm/DevOps-Roadmap#learning-resources-for-devops-engineers-mostly-free>
-* <http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers>
+* <http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers> (mandatory 'http' here)
 * <https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all>
 * <https://onedayyoullfindyourself.com>
 * <https://garnix.io/blog/call-by-hash>
