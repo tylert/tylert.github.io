@@ -184,6 +184,16 @@ EOL:
 * <https://raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php> another GC USB adapter option (6 ms latency?)
 * <https://retrorgb.com/open-source-usb-to-gamecube-adapter-from-robert-dale-smith.html>
 * <https://github.com/joypad-ai/joypad-os>
+* <https://github.com/FreeJoy-Team/FreeJoy>
+* <https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt>
+
+
+# Cartridges
+
+* <https://vkc.sh/sannis-open-source-cartridge-reader>
+* <https://savethehero.builders>
+* <https://github.com/sanni/cartreader>
+* <https://cartreader.net>
 
 
 # MiSTer
