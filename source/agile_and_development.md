@@ -417,6 +417,7 @@ Executable go scripts
 * <https://jogendra.dev/building-command-line-tools-in-go>
 * <https://coder.com/blog/building-command-line-tools-with-go>
 * <https://gocli.io>
+* <https://pallier.org/how-to-create-libraries-in-go.html>
 * <https://github.com/tmrts/boilr>
 * <https://quii.gitbook.io/learn-go-with-tests>
 * <https://github.com/jltorresm/otpgo> TOTP
