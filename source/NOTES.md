@@ -316,6 +316,7 @@ macOS:
 * <https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji>
 * <https://idiallo.com/blog/zipbomb-protection> feeding gzip-compressed blobs of /dev/zero to bots
 * <https://metacircular.net> lots of neat things to read
+* <https://fabien.benetou.fr> more neat reading
 
 
 # Microservices

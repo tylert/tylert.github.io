@@ -510,6 +510,7 @@ Executable go scripts
 * <https://stackoverflow.com/questions/68764637/how-to-use-an-alternate-go-mod-file-for-local-development> go build -modfile=alt.go.mod .
 * <https://gobinaries.com> maybe too specific to GitHub
 * <https://github.com/tj/gobinaries> maybe too specific to GitHub
+* <https://github.com/shirou/gopsutil> psutil system information library
 
 
 # Rust Stuff

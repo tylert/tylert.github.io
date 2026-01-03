@@ -78,6 +78,11 @@
 * <https://github.com/cjdelisle/cjdns>
 
 
+# Onion Routing
+
+* <https://flower.codes/2025/10/23/onion-mirror.html>
+
+
 # Mesh
 
 * <https://mango.vg/post/12> 802.11s and WiFi IBSS mesh stuff
@@ -97,7 +102,8 @@
 * <https://github.com/TechTucson/TT-BBSmesh-Plus> Meshtastic BBS
 * <https://unsigned.io/hardware/RNode.html> better than Meshtastic?
 * <https://f6fbb.org>
-* <http://textfiles.com/hamradio/wreck.ham> (mandatory \"http\" here)
+* <http://textfiles.com/hamradio/wreck.ham> (mandatory 'http' here)
+* <https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites> another neat idea
 * <https://donuts-are-good.github.io/shhhbb> SSH BBS
 * <https://shazow.net/posts/ssh-how-does-it-even> ssh-chat
 * <https://github.com/shazow/ssh-chat>
