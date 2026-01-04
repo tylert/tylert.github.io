@@ -193,6 +193,23 @@
 * <https://furilabs.com/shop/flx1> Linux-like phone? (Android HAL underneath?)
 
 
+# More Tunnel Magic
+
+* <https://haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html> holepunch (squid, stunnel, ssh -R, corkscrew)
+* <https://github.com/Gabriella439/holepunch> holepunch (squid, stunnel, ssh -R, corkscrew)
+* <https://github.com/alebeck/boring> SSH tunnel management
+* <https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go> SSH tunnel management
+* <https://ixday.github.io/post/golang_ssh_tunneling>
+* <https://github.com/opencoff/go-tunnel>
+* <https://github.com/MSSkowron/SSHTunnelHTTP>
+* <https://gost.run>
+* <https://gost.plus>
+* <https://github.com/go-gost/gost>
+* <https://github.com/go-gost/gostctl>
+* <https://github.com/jpillora/chisel>
+* <https://stackoverflow.com/questions/35906991/go-x-crypto-ssh-how-to-establish-ssh-connection-to-private-instance-over-a-ba> jump through a bastion
+
+
 # Other
 
 * <https://complete.org/interesting-topics>
@@ -200,14 +217,10 @@
 * <https://inkandswitch.com/essay/local-first>
 * <https://inkandswitch.com/local-first>
 * <https://inkandswitch.com>
-* <https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html> holepunch (squid, stunnel, ssh -R, corkscrew)
-* <https://github.com/Gabriella439/holepunch> holepunch (squid, stunnel, ssh -R, corkscrew)
 * <https://github.com/coder/wush> WireGuard + Tailscale for sharing files?
 * <https://github.com/harsxv/tinystatus> self-hosted statuspage thing?
 * <https://gethomepage.dev> self-hosted statuspage thing?
 * <https://ploum.net/the-computer-built-to-last-50-years/index.html>
-* <https://github.com/alebeck/boring> SSH tunnel management
-* <https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go> SSH tunnel management
 * <https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse>
 * <https://github.com/ricott1/rebels-in-the-sky> terminal-based game?
 * <https://taoshu.in/unix/jool-nat64.html>
