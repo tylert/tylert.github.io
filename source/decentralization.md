@@ -175,6 +175,10 @@
 * <https://addy.io> mail forwarder service
 * <https://blog.eppie.io/post/addresses> email ownership
 * <https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture> more about identity
+* <https://maddy.email> Go SMTP server
+* <https://github.com/foxcpp/maddy> Go SMTP server
+* <https://blitiri.com.ar/p/chasquid> Go SMTP server
+* <https://github.com/albertito/chasquid> Go SMTP server
 
     apk add opendkim postfix s-nail
 
