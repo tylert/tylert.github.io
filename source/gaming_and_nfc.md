@@ -127,7 +127,7 @@
 * <https://zuzebox.wordpress.com/2023/12/31/raspberry-pi-pico-rp2040-retro-vintage-home-computer-emulation>
 * <https://benjamin.computer/posts/2025-07-28-amiga40.html> Amiga Workbench installs with modern conveniences
 * <https://kazeta.org> console appliance distro?
-* <https://the-ventureweaver.itch.io> The Labyrinth of Time\'s Edge text adventure
+* <https://the-ventureweaver.itch.io> The Labyrinth of Time's Edge text adventure
 * <https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment> OpenGEM, FreeGEM, etc.???
 * <https://cmaiolino.wordpress.com/dosbian> apt-get install dosbox?
 * <https://cmaiolino.wordpress.com/amiga-pi> apt-get install uae4arm?
@@ -140,6 +140,8 @@
 * <https://franke.ms/git/bebbo/bebboget> tiny HTTPS file fetcher for Amiga m68k
 * <https://markround.com/blog/2023/08/30/amiga-systems-programming-in-2023>
 * <https://amikit.amiga.sk/devpack>
+* <https://scenelist.org> old-school BBS stuff
+* <https://github.com/bquenin/interpreter> translate JRPGs into English?
 
     myrient?
 

@@ -143,6 +143,9 @@
 * <https://iroh.computer>
 * <https://iroh.computer/sendme>
 * <https://dumbpipe.dev>
+* <https://tryquiet.org>
+* <https://github.com/TryQuiet/quiet>
+* <https://github.com/TryQuiet/quiet/wiki>
 
 
 # Email

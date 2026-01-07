@@ -148,6 +148,7 @@
 * <https://github.com/shizunge/endlessh-go> endlessssh ssh tarpit in Go with Prometheus fancy
 * <https://unsigned.io/articles/2018_06_30_15-kilometre-ssh-link-with-rnode.html> SSH over LoRa
 * <https://pico.sh>
+* <https://github.com/FiloSottile/whoami.filippo.io> nifty SSH key magic
 
 
 # Logging and Metrics

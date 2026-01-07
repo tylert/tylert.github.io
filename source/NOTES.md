@@ -170,6 +170,7 @@ Sigh, Debian:
 * <https://plaintextaccounting.org>
 * <https://lalitm.com/post/one-number-i-trust> more notes about plaintextaccounting
 * <http://textfiles.com/uploads/textfiles.txt> why use text files (mandatory 'http' here)
+* <https://sparkbox.com/foundry/helene_and_mobile_web_performance> why simple web pages are a good idea
 * <https://netmeister.org/blog/inet_aton.html>
 * <https://randsinrepose.com/archives/the-seven-levels-of-busy>
 * <https://kellycordes.com/2009/11/02/the-fun-scale>
