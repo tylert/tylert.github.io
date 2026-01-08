@@ -325,13 +325,8 @@
 * <https://activitypub.rocks> ActivityPub
 
 
-# Web Server
+# Caddy
 
-* <https://algernon.roboticoverlords.org>
-* <https://github.com/xyproto/algernon>
-* <https://github.com/xyproto/permissionbolt> auth module
-* <https://github.com/etcd-io/bbolt> bolt database used by Algernon
-* <https://github.com/xyproto/wercstyle> entire site as a self-contained Algernon application
 * <https://caddyserver.com>
 * <https://github.com/caddyserver/certmagic> cert stuff
 * <https://github.com/hackfixme/caddy-paseto> auth plugin
@@ -340,22 +335,35 @@
 * <https://caddyserver.com/docs/quick-starts/reverse-proxy>
 * <https://cloudinfrastructureservices.co.uk/setup-caddy-cdn-on-ubuntu-in-azure-aws-gcp>
 * <https://ellen.dev/serve-static-site-using-caddy.html>
-* <http://scripting.com/2025/08/28/140604.html> (mandatory 'http' here)
 * <https://github.com/zhangjiayin/caddy-geoip2> Caddy module for GeoIP
-* <https://devever.net/~hl/mildlydynamic>
 * <https://devguide.dev/blog/routing-requests-in-caddy-to-api-or-file-server-based-on-header>
 * <https://caddy.community/t/how-to-return-the-contents-of-a-file-with-the-respond-directive/10458/2>
-* <https://it-notes.dragas.net/tags/cdn> DIY CDN magic?
-* <https://github.com/mtlynch/picoshare> clicky file sharing thing for non-technical people?
 * <https://caddyserver.com/docs/quick-starts/reverse-proxy>
+* <https://github.com/daegalus/caddy-anubis>
 * <https://anubis.techaro.lol>
 * <https://github.com/TecharoHQ/anubis>
-* <https://github.com/daegalus/caddy-anubis>
 * <https://www.corgijan.dev/2025/05/10/caddy-anubis.html> (mandatory 'www' here)
 * <https://anubis.techaro.lol/docs/admin/environments/caddy>
 * <https://crispcache.com/help/how-to-setup-cache-on-caddy>
-* <https://danburzo.ro/http-caching-refresher>
 * <https://github.com/caddyserver/cache-handler> might need souin/badger storage
+* <https://reddit.com/r/selfhosted/comments/13no9oo/is_it_possible_to_password_protected_reverse_proxy> other caddy-friendly options
+* <https://nikstar.me/post/caddy-authelia>
+* <https://deuts.org/p/docker-caddy-basic-auth>
+* <https://blog.mtaha.dev/security/caddyserver_auth_setup>
+
+
+# Web Server
+
+* <https://algernon.roboticoverlords.org>
+* <https://github.com/xyproto/algernon>
+* <https://github.com/xyproto/permissionbolt> auth module
+* <https://github.com/etcd-io/bbolt> bolt database used by Algernon
+* <https://github.com/xyproto/wercstyle> entire site as a self-contained Algernon application
+* <http://scripting.com/2025/08/28/140604.html> (mandatory 'http' here)
+* <https://devever.net/~hl/mildlydynamic>
+* <https://it-notes.dragas.net/tags/cdn> DIY CDN magic?
+* <https://github.com/mtlynch/picoshare> clicky file sharing thing for non-technical people?
+* <https://danburzo.ro/http-caching-refresher>
 * <https://github.com/dgraph-io/badger>
 * <https://pocketbase.io> backend for web stuff?
 * <https://github.com/pocketbase/pocketbase> backend for web stuff?
