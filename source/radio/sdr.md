@@ -54,6 +54,14 @@
 * <https://github.com/lu7did/RDX-rp2040> FT8 transceiver with RP2040
 
 
+# (tr)uSDX
+
+* <https://dl2man.de> official creator/home of the (tr)uSDX
+* <https://github.com/GW8RDI/uSDXOpen> open-source firmware for (tr)uSDX
+* <https://aliexpress.com/item/1005003908457475.html> (tr)uSDX purchase
+* <https://youtube.com/watch?v=NrqQmoN8d80> FT8 on the (tr)uSDX (might be old)
+
+
 # GRCon And Others
 
 * <https://irrational.net/2022/10/04/building-challenges-for-the-grcon22-ctf>
@@ -102,14 +110,24 @@
 
 # Ribbit
 
-The current \"walled garden\" app is called \"Rattlegram\" on The Poodle
-Grey Store. This might be useful if there\'s ever a desktop app too.
+The current walled garden app is called 'Rattlegram' on The Poodle Grey Store.
+This might be useful if there's ever a desktop app too.
 
 * <https://ribbitradio.org> official site
 * <https://github.com/aicodix/rattlegram> app source code
 * <https://github.com/phase4ground/ribbit> possible location for source code eventually maybe???
 * <https://youtube.com/watch?v=_jN4IVccIEw> initial presentation video
 * <https://wze95h.qsotodayhamexpo.com/sessionInfo/ribbit_a_new> presentation slides (PDF)
+
+
+# Band Pass Filters
+
+* <https://kitsandparts.com/W3NQN_filter.php> cheaper band pass filter kits
+* <https://www.onallbands.com/simple-filters-from-transmission-line-stubs> coax stub filters
+* <http://www.k1ttt.net/technote/k2trstub.html> coax stub filters
+* <https://www.n1nc.org/Filters> ugly filter project
+* <https://groups.io/g/TXBPF/message/3034> W3NQN-compatible filters with a more reasonable price tag
+* <https://www.arraysolutions.com/filters/bpf-hpf> insanely-expensive filters
 
 
 # Assorted Stuff
@@ -120,12 +138,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://github.com/phase4ground/opv-cxx-demod>
 * <https://github.com/BrucePerens/rigcontrol>
 * <https://youtube.com/watch?v=wUQsfDX1AnU> presentation about BrucePerens/rigcontrol
-* [https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#]{.title-ref} IMS 100 self-study course
-* <https://www.onallbands.com/simple-filters-from-transmission-line-stubs> coax stub filters
-* <http://www.k1ttt.net/technote/k2trstub.html> coax stub filters
-* <https://www.n1nc.org/Filters> ugly filter project
-* <https://groups.io/g/TXBPF/message/3034> W3NQN-compatible filters with a more reasonable price tag
-* <https://www.arraysolutions.com/filters/bpf-hpf> insanely-expensive filters
+* <https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#> IMS 100 self-study course
 * <https://youtube.com/watch?v=D1LYLDGknOY> KA9Q-Radio
 * <https://lcamtuf.substack.com/p/radios-how-do-they-work>
 * <https://oe7drt.com/posts/2024/64-packet-radio-vara-mobilinkd-and-digirig-on-linux>
@@ -133,7 +146,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://blaines.world/projects/push-to-reboot/logs/locking-things-down> HOTP over DTMF?
 * <https://gitlab.com/unixispower/push-to-reboot> HOTP over DTMF?
 * <https://hackaday.com/2023/04/07/arbitrary-code-execution-over-radio>
-* <https://www.sota-antennas.com/efhw.php> End-Fed Half-Wave (EFHW) antennas
+* <https://sota-antennas.com/efhw.php> End-Fed Half-Wave (EFHW) antennas
 * <https://github.com/dmd/morse> Morse-to-email toy
 * <https://ciechanow.ski/gps> how GPS works
 * <https://lyonscomputer.com.au> gold mine of useful ham info
@@ -156,7 +169,7 @@ Grey Store. This might be useful if there\'s ever a desktop app too.
 * <https://github.com/Ewpratten/adif-rs> no ADIF 3.x.x support
 * <https://github.com/davepacheco/rust-adif>
 * <https://adif.org>
-* [https://wikitia.com/wiki/Amateur_Data_Interchange_Format\_(ADIF)]{.title-ref}
+* <https://wikitia.com/wiki/Amateur_Data_Interchange_Format\_(ADIF)>
 * <https://github.com/xaratustrah/dolphinlog> Python SQLite logger with ADIF 3.x.x export
 * <https://github.com/VE2ZAZ/VHF_Contest_Logger_Software>
 * <https://gist.github.com/ericek111/d2325c55921853a4592e46962dfe37f2> setup N1MM under Wine

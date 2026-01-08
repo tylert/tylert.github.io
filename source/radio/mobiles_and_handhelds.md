@@ -27,10 +27,11 @@
 * <https://github.com/markqvist/Reticulum/wiki/Awesome-Reticulum>
 * <https://reticulum.betweentheborders.com/guidance.pdf> \"Sideband Situation Tracker\" search-and-rescue team sensor network?
 * <https://r8io.github.io/rns-presentations/source/001-introduction.html>
-* <https://www.hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2> cute yagi
+* <https://hackster.io/news/blagojce-bill-kolicoski-hits-a-25-mile-range-with-a-3d-printed-yagi-style-lora-antenna-a9ef96458da2> cute yagi
 * <https://media.ccc.de/v/38c3-building-your-first-lora-mesh-network-from-scratch>
 * <https://elecrow.com/thinknode-m1-meshtastic-lora-signal-transceiver-powered-by-nrf52840-with-154-screen-support-gps.html>
 * <https://adrelien.com/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio>
+
 
 # APRS
 
@@ -38,6 +39,7 @@
 * <https://hamradio.my/2024/09/how-to-turn-a-433-mhz-heltec-wireless-tracker-into-a-433-mhz-lora-aprs-tracker>
 * <https://github.com/richonguzman/LoRa_APRS_Tracker> for some older ESP32 LoRa boards
 * <https://github.com/richonguzman/LoRa_APRS_iGate> for some older ESP32 LoRa boards
+
 
 # Heltec T114
 
@@ -127,6 +129,7 @@ Raw bytes sent by rnodeconf:
 * <https://github.com/bugst/go-serial>
 * <https://pkg.go.dev/go.bug.st/serial>
 
+
 # Transport RNodes
 
 * <https://unsigned.io/articles/2022_01_27_rnode-with-anything.html>
@@ -145,6 +148,7 @@ Raw bytes sent by rnodeconf:
 * <https://lectronz.com/products/fully-assembled-meshtastic-solar-node-station> another all-in-one solution
 * <https://youtube.com/watch?v=T1itQcdf5cc> nRF52840 RNode, Pi Zero RNS, WiFi hotspot
 * <https://loramesh.org> loads more Reticulum/RNode info and solar installs
+
 
 # Reticulum
 
@@ -263,6 +267,7 @@ lxmd.service:
     [Install]
     WantedBy=multi-user.target
 
+
 # Meshtastic
 
 * <https://treerocket.bearblog.dev/reticulum-vs-meshtastic-why-i-chose-reticulum>
@@ -271,17 +276,18 @@ lxmd.service:
 * <https://linuxinabit.codeberg.page/blog/reticulum> loads of useful links
 * <https://github.com/landandair/RNS_Over_Meshtastic>
 
+
 # DMR
 
 * <https://farnsworth.org/dale/codeplug/editcp> better CPS
 * <https://github.com/dalefarnsworth-dmr> better CPS
-* <https://www.retevis.com/Download/brochure/RT3S-brochure.pdf> RT3S brochure
-* <https://www.retevis.com/resources_center/mannual/RT3S-English-Manual.pdf> RT3S manual
-* <https://www.passion-radio.com/index.php?controller=attachment&id_attachment=204> RT3 manual in French
-* <https://www.retevis.com/resources_center/mannual/RT3_manual_del_usuario_en_espanol.pdf> RT3 manual in Spanish
-* <https://www.retevis.com/resources_center/software/RT3S_updated_FirmwareV3.04.zip> official firmware
-* <https://www.retevis.com/resources_center/software/RT3S_GPS_SoftwareV1.2.zip> official CPS
-* <https://www.retevis.com/resources_center/software/RT3&RT8_USBDriver.zip> official USB driver
+* <https://retevis.com/Download/brochure/RT3S-brochure.pdf> RT3S brochure
+* <https://retevis.com/resources_center/mannual/RT3S-English-Manual.pdf> RT3S manual
+* <https://passion-radio.com/index.php?controller=attachment&id_attachment=204> RT3 manual in French
+* <https://retevis.com/resources_center/mannual/RT3_manual_del_usuario_en_espanol.pdf> RT3 manual in Spanish
+* <https://retevis.com/resources_center/software/RT3S_updated_FirmwareV3.04.zip> official firmware
+* <https://retevis.com/resources_center/software/RT3S_GPS_SoftwareV1.2.zip> official CPS
+* <https://retevis.com/resources_center/software/RT3&RT8_USBDriver.zip> official USB driver
 * <https://youtube.com/watch?v=Lw0Y-jQZMZ0> DMR features and overview
 * <https://www.jeffreykopcak.com/2017/06/11/dmr-in-amateur-radio-programming-a-code-plug> DMR programming
 * <https://youtube.com/watch?v=VExx628R0DM> DMR programming
@@ -290,8 +296,8 @@ lxmd.service:
 * <https://www.jpole-antenna.com/2018/07/13/retevis-rt3s-dual-band-dmr-handheld-transceiver-review>
 * <https://m6ceb.com/reviews/retevis-rt3s-dmr-fm-dual-band-handheld-radio>
 * <https://blog.retevis.com/index.php/hd1-promiscuous-mode-and-rt3s-group-call-match-introduction>
-* <https://www.ailunce.com/blog/How-to-Upgrade-Retevis-RT3S-Firmware>
-* <https://www.ailunce.com/blog/How-to-import-Digital-Contacts-into-RT3S>
+* <https://ailunce.com/blog/How-to-Upgrade-Retevis-RT3S-Firmware>
+* <https://ailunce.com/blog/How-to-import-Digital-Contacts-into-RT3S>
 * <https://radioid.net>
 * <https://blog.retevis.com/index.php/how-to-set-rt3s-aprs>
 * <http://www.tothewoods.net/Comms-mounting-baofeng-uv-5r-ham-radio-in-Jeep-Wrangler-TJ.php>
@@ -302,11 +308,13 @@ lxmd.service:
 * <https://youtube.com/watch?v=gVlXYLTD_DI> MMDVM build
 * <https://youtube.com/watch?v=DNQgZx92Gj0> MMDVM build
 
+
 # M17
 
 * <https://github.com/M17-Project/Module_17>
 * <https://github.com/M17-Project/wiki/blob/main/wiki/radio_compatibility.md>
 * <https://github.com/M17-Project/wiki/blob/main/wiki/gm300.md> M17 VHF mobiles
+
 
 # Repeaters
 
@@ -318,11 +326,13 @@ lxmd.service:
 * <https://rtl-sdr.com/a-tutorial-on-using-sdrangel-for-dmr-d-star-and-fusion-reception-with-an-rtl-sdr>
 * <https://n5amd.com/digital-radio-how-tos/tune-mmdvm-repeater-sdr-low-ber>
 
+
 # Pagers
 
 * <https://hackster.io/news/alley-cat-s-alley-chat-pocket-ht-brings-back-the-pager-with-lora-and-meshtastic-technology-edb388e66c8f>
 * <https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1721-dapnet-bringing-pagers-back-to-the-21st-century>
 * <https://reddit.com/r/hackrf/comments/ls3a3c/portapack_pocsac_pager_guide>
+
 
 # HackRF and PortaPack
 
@@ -343,6 +353,7 @@ lxmd.service:
 * <https://blog.videah.net/attacking-my-landlords-boiler>
 * <https://github.com/lraton/FlopperZiro>
 
+
 # Shortwave Receivers
 
 * <https://swling.com/blog/2018/09/guest-post-supercharging-the-xhdata-d-808-with-a-7-5-loopstick>
@@ -355,6 +366,7 @@ lxmd.service:
 * <https://blogordie.com/2023/05/pl-330-or-d-808>
 * <https://blogordie.com/2023/03/my-favorite-shortwave-radio>
 
+
 # Other
 
 * <https://github.com/wb2osz/direwolf/tree/master/doc> docs for setting up DireWolf for various fun things
@@ -362,6 +374,7 @@ lxmd.service:
 * <https://github.com/km4ack/73Linux> pre-canned ham apps for to install on Linux
 * <https://www.scc-ares-races.org/gokit/SCCo_Go_Kit_rev20240326.pdf> 2-hour kits, 12-hour kits, etc.
 * <https://direbox.net>
+
 
 # Power
 
