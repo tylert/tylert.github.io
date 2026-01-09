@@ -128,6 +128,8 @@
 * <https://github.com/arran4/golang-ical>
 * <https://pkg.go.dev/github.com/arran4/golang-ical>
 * <https://github.com/samedi/caldav-go> abandoned library
+* <https://candid.dev/blog/many-hells-of-webdav> state of the world for Go and WebDAV
+* <https://github.com/emersion/go-webdav>
 
     # Password-protect a PDF
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever

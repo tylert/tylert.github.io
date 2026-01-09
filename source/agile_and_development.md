@@ -542,6 +542,8 @@ Executable go scripts
 * <https://go.dev/blog/wasmexport> Go 1.24 new capabilities
 * <https://wasmcloud.com> WASM-native orchestration? (even on-prem, self-hosted)
 * <https://github.com/cogentcore/core>
+* <https://emnudge.dev/blog/what-happened-to-webassembly>
+* <https://github.com/EmNudge/watlings> learn WASM by writing small programs
 
 
 # Compiler Stuff

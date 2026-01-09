@@ -57,6 +57,8 @@
 * <https://veloren.net>
 * <https://openmw.org>
 * <https://wesnoth.org>
+* <https://slipseer.com/index.php?resources/quake-brutalist-jam-iii.549> Quake Brutalist Jam III
+* <https://github.com/andrei-drexler/ironwail> Quake patch/upgrade
 
 
 # RPG Stuff
@@ -142,6 +144,7 @@
 * <https://amikit.amiga.sk/devpack>
 * <https://scenelist.org> old-school BBS stuff
 * <https://github.com/bquenin/interpreter> translate JRPGs into English?
+* <https://github.com/reinauer/amifuse> Amiga filesystems mounted using FUSE in Linux and so on
 
     myrient?
 

@@ -318,6 +318,7 @@ Upgrading CHDK
 * <https://koomen.dev/essays/horseless-carriages>
 * <https://simonwillison.net/2025/Oct/13/nanochat>
 * <https://github.com/hkjarral/Asterisk-AI-Voice-Agent>
+* <https://news.ycombinator.com/item?id=46549444> Claude Code cleverness
 
 
 # Other
