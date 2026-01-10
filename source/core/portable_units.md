@@ -55,7 +55,7 @@ Not an ideal size but gives a rough idea for cost-comparison:
 # HDPE Puckboard Sheets
 
 Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
-\"puckboard\" (3 or 4 may be needed for 8 cases).
+'puckboard' (3 or 4 may be needed for 8 cases).
 
 * <https://soundbarriers.ca/recreation-centre-applications/puckboard> Mississauga, ON
 * <https://www.libbymfg.com/hdpe-sheeting/polyethylene-sheeting-hdpe-puck-board> Blenheim, ON
@@ -186,7 +186,7 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://complete.org/nncp>
 * <https://dyne.org/software/tomb>
 * <https://changelog.complete.org/archives/5462-kr0l-amateur-radio-wikis-and-linux>
-* there\'s a GNU project for this stuff too hidden somewhere amongst the links above
+* there's a GNU project for this stuff too hidden somewhere amongst the links above
 
     ./contrib/do all      # compile everything
     ./contrib/do install  # maybe???

@@ -51,6 +51,9 @@
 * <https://zerofox3d.com/products/bender-heltec-v3-battery-case-hardware-kit> custom battery holder?
 * <https://github.com/arduino/arduino-cli/issues/1538> some Arduino horribleness
 * <https://forum.arduino.cc/t/why-are-there-four-config-directories-for-the-arduino-ide-under-linux/1237624> some more Arduino horribleness
+* <https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py>
+* <https://github.com/bugst/go-serial>
+* <https://pkg.go.dev/go.bug.st/serial>
 
 Build firmware for RNodes:
 
@@ -124,10 +127,6 @@ Raw bytes sent by rnodeconf:
     sf   => \xc0,\x04,....,\xc0  (1 byte, values ranging from \x07 to \x0c)
     cr   => \xc0,\x05,....,\xc0  (1 byte, values ranging from \x05 to \x08)
     tnc  => \xc0,\x53,\x00,\xc0
-
-* <https://github.com/markqvist/Reticulum/blob/master/RNS/Utilities/rnodeconf.py>
-* <https://github.com/bugst/go-serial>
-* <https://pkg.go.dev/go.bug.st/serial>
 
 
 # Transport RNodes

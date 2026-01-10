@@ -39,10 +39,10 @@ White) that can run the 100% open-source QMK keyboard firmware.
 
 ## Disassembly
 
-You must open the keyboard once to boot the keyboard into \"DFU mode\"
+You must open the keyboard once to boot the keyboard into 'DFU mode'
 for initial flashing of QMK. Once QMK is installed on the keyboard, you
 may boot it into \"DFU mode\" whenever you like by holding down the
-\"ESC\" key while plugging-in the keyboard (at power up).
+'ESC' key while plugging-in the keyboard (at power up).
 
 Follow this video to open the keyboard but use a dozen or so guitar
 picks instead of a nasty metal screwdriver.

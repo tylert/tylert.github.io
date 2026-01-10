@@ -8,7 +8,7 @@ GENERATED_FILES = \
 all: $(GENERATED_FILES)
 
 %.png: %.txt
-	@MAVEN_OPTS=-Djava.aws.headless=true ditaa --overwrite --round-corners $^ $@
+	@ditaa --overwrite --round-corners $^ $@
 
 .PHONY: clean
 clean:

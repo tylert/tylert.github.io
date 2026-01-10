@@ -234,7 +234,7 @@
 * <https://play.d2lang.com>
 * <https://github.com/terrastruct/d2>
 * <https://github.com/typst/typst/issues/729>
-* <https://github.com/stathissideris/ditaa> bloated Java thing (that works)
+* <https://github.com/stathissideris/ditaa> bloated Jabba thing (that works)
 * <https://github.com/stan-smith/OpenFLOW> isometric network diagrams
 * <https://penrose.cs.cmu.edu> web diagrams from text
 

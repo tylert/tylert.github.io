@@ -41,13 +41,13 @@
 * <https://www.arthurkoziel.com/generating-ethereum-addresses-in-python>
 * <https://github.com/miguelmota/go-ethereum-hdwallet>
 * <https://github.com/foxnut/go-hdwallet>
-* <https://github.com/meherett/python-hdwallet> \"hdwallet\" pypi package
-* <https://github.com/tiran/pysha3> \"pysha3\" pypi package; dependency of \"hdwallet\"
-* <https://github.com/XKCP/XKCP> fancy binary goop; dependency of \"pysha3\"
-* <https://github.com/trezor/python-mnemonic> \"mnemonic\" pypi package; dependency of \"hdwallet\"
-* <https://github.com/tlsfuzzer/python-ecdsa> \"ecdsa\" pypi package; dependency of \"hdwallet\"
-* <https://github.com/keis/base58> \"base58\" pypi package; dependency of \"hdwallet\"
-* <https://github.com/pallets/click> \"click\" pypi package
+* <https://github.com/meherett/python-hdwallet> hdwallet pypi package
+* <https://github.com/tiran/pysha3> pysha3 pypi package; dependency of hdwallet
+* <https://github.com/XKCP/XKCP> fancy binary goop; dependency of pysha3
+* <https://github.com/trezor/python-mnemonic> mnemonic pypi package; dependency of hdwallet
+* <https://github.com/tlsfuzzer/python-ecdsa> ecdsa pypi package; dependency of hdwallet
+* <https://github.com/keis/base58> base58 pypi package; dependency of hdwallet
+* <https://github.com/pallets/click> click pypi package
 * <https://github.com/cryptoadvance/specter-diy> hardware wallet thing?
 * <https://www.ethvm.com> check values of wallets
 * <https://en.bitcoin.it/wiki/Electrum/Documentation>

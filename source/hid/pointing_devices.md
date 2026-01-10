@@ -1,5 +1,6 @@
 # Pointing Devices
 
+
 ## Mouse Jiggler
 
 * <https://github.com/argilo/pico-jiggler>
@@ -70,7 +71,7 @@ use.
 
 ## More Ploopy Stuff
 
-QMK build \"0.12.26\" or newer includes the mainline-merged Ploopy Nano
+QMK build '0.12.26' or newer includes the mainline-merged Ploopy Nano
 code.
 
 * <https://github.com/valeriosetti/ploopy-nano-kicad> KiCAD design files for Ploopy Nano clone PCB
@@ -95,7 +96,7 @@ code.
 ## Power Management
 
 You might need to disable some silly USB stuff to get suspend to work
-\"properly\":
+'properly':
 
     # Force the USB bus to not immediately wake up again as you try to suspend/hibernate
     sudo -s
