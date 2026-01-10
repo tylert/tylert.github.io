@@ -57,6 +57,9 @@
 * <https://devuan.org>
 * <https://artixlinux.org>
 * <https://alpinelinux.org>
+* <https://github.com/matleborgne/archlinux-full-disk-encryption>
+* <https://github.com/icecmach/artix_installation_guide>
+* <https://forum.artixlinux.org/index.php/topic,8445.0.html> bug in latest stable Artix GUI installer (when using btrfs) -- open for almost a year
 
 
 # UEFI
