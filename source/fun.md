@@ -31,6 +31,11 @@
 
 # Alpine Linux
 
+* <https://alpinelinux.org>
+* <https://wiki.alpinelinux.org/wiki/Setting_up_a_laptop>
+* <https://battlepenguin.com/tech/alpine-linux-with-full-disk-encryption>
+* <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
+* <https://github.com/ErikSchlyter/alpine-scripts/blob/master/sys_alpine_with_full_disk_encryption_on_btrfs.md>
 * <https://words.filippo.io/dispatches/frood> initramfs Alpine NAS
 * <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
 * <https://willhbr.net/2025/03/09/a-slim-home-server-with-alpine-linux>
@@ -48,18 +53,11 @@
 
 # Laptop Distros
 
-* <https://github.com/ErikSchlyter/alpine-scripts/blob/master/sys_alpine_with_full_disk_encryption_on_btrfs.md>
 * <https://kennethjorgensen.com/blog/2022/encrypted-btrfs-array-with-luks>
-* <https://whynothugo.nl/journal/2023/11/19/setting-up-an-alpine-linux-workstation>
-* <https://wiki.alpinelinux.org/wiki/Setting_up_a_laptop>
-* <https://iso.artixlinux.org/isos.php>
-* <https://mirror.leaseweb.com/devuan/devuan_excalibur/desktop-live>
 * <https://devuan.org>
 * <https://artixlinux.org>
-* <https://alpinelinux.org>
 * <https://github.com/matleborgne/archlinux-full-disk-encryption>
 * <https://github.com/icecmach/artix_installation_guide>
-* <https://forum.artixlinux.org/index.php/topic,8445.0.html> bug in latest stable Artix GUI installer (when using btrfs) -- open for almost a year
 
 
 # UEFI
