@@ -16,3 +16,9 @@
 * <https://repeater-builder.com/products/stm32-dvm.html>
 * <https://sk7rfl.se/doc/Building%20a%20Repeater%20or%20Simplex%20node%20with%20SvxLink.pdf>
 * <https://sk7rfl.se/doc/Using%20a%20Repeater%20with%20SvxLink.pdf>
+
+
+# Other
+
+* <https://github.com/matiaspl/intercom> intercoms between SBCs with full-duplex audio
+* <https://github.com/talkkonnect/talkkonnect> Go Mumble integration thing
