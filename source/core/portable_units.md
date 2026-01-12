@@ -95,6 +95,12 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 # Mini Racks
 
 * <https://mini-rack.jeffgeerling.com>
+* <https://liliputing.com/open-source-project-mini-rack-aims-to-simplify-tiny-rackmount-computing-builds>
+* <https://reddit.com/r/minilab>
+* <https://reddit.com/r/minilab/comments/1pq4dwb/forgive_my_ignorance_does_this_drive_tray>
+* <https://reddit.com/r/minilab/comments/1ml7r18/updated_my_3dprintable_10_inch_rack_1u_2x_35_hdd>
+* <https://reddit.com/r/minilab/comments/1mxeb7m/10_2u_6x_35_hdd_aka_mini_jbod_3d_printer_and>
+* <https://printables.com/model/1290788-10-inch-rack-1u-2-x-35-inch-hdd-hot-swap>
 
 
 # Part Storage Cases
