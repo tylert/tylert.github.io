@@ -200,6 +200,10 @@ EOL:
 * <https://handheldlegend.com/products/4-port-gc-pocket-adapter-gamecube-to-usb-c-controller-adapter-diy-kit>
 * <https://github.com/HandHeldLegend/GC-Adapter-RP2040> PCB and firmware for kit above
 * <https://docs.handheldlegend.com/s/portal/doc/assembly-guide-mkbJM1PeIV> another open-source controller shell and PCB
+* <https://diylightgun.com/lightgun-details/?lgid=506>
+* <https://openfirelightgun.org>
+* <https://learn.adafruit.com/arcade-stick-conversion/prep-the-pico>
+* <https://github.com/MegaBitmap/PXP-Gamepad> GP2040-CE but in a handheld controller instead of one of those stick board things
 
 
 # Cartridges
