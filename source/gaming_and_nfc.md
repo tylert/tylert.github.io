@@ -191,6 +191,15 @@ EOL:
 * <https://github.com/joypad-ai/joypad-os>
 * <https://github.com/FreeJoy-Team/FreeJoy>
 * <https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt>
+* <https://instructables.com/Turn-an-N64-Controller-into-a-USB-Gamepad-using-an>
+* <https://github.com/JonnyHaystack/GameKeeb> USB keyboard to GC adapter using a Pi Pico
+* <https://hackster.io/news/david-pagels-raspberry-pi-pico-adapter-brings-nintendo-gamecube-n64-controllers-to-the-switch-1ac1431f308c>
+* <https://github.com/DavidPagels/retro-pico-switch> N64/GC controller to Pi Pico to USB adapter (or Bluetooth)
+* <https://github.com/Loc15/PicoGamepadConverter> Pi Pico game controller emulator and adapter and converter
+* <https://github.com/JulienBernard3383279/pico-rectangle> another Pi Pico GC controller adapter thing
+* <https://handheldlegend.com/products/4-port-gc-pocket-adapter-gamecube-to-usb-c-controller-adapter-diy-kit>
+* <https://github.com/HandHeldLegend/GC-Adapter-RP2040> PCB and firmware for kit above
+* <https://docs.handheldlegend.com/s/portal/doc/assembly-guide-mkbJM1PeIV> another open-source controller shell and PCB
 
 
 # Cartridges
