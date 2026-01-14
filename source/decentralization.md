@@ -83,6 +83,11 @@
 * <https://flower.codes/2025/10/23/onion-mirror.html>
 
 
+# Other IPv6
+
+* <https://github.com/TheusHen/I6P> another P2P thing
+
+
 # Mesh
 
 * <https://mango.vg/post/12> 802.11s and WiFi IBSS mesh stuff
@@ -271,6 +276,7 @@
 
 # Publishing
 
+* <https://lmnt.me/blog/how-to-make-a-damn-website.html>
 * <https://jvt.me/posts/2019/10/20/indieweb-talk>
 * <https://github.com/TimoKats/mdrss> Golang Markdown to RSS converter
 * <https://pagedjs.org/made-with-paged.js.html>

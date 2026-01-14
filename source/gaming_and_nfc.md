@@ -84,18 +84,11 @@
 * <https://kilograham.github.io/rp2040-doom>
 * <https://github.com/pod-arcade/pod-arcade> k8s + RetroArch???
 * <https://lakka.tv> neato interface like RetroArch, RetroPie, Kodi?
-* <https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start> 486SX in an FPGA
-* <https://0mhz.net>
-* <https://amiga.vision>
 * <https://medium.com/@8bitsten/start-with-c-programming-on-amiga-1e8312cec2db>
 * <http://compilers.de/vbcc.html> vintage CPU/computer C99-compiler, assembler, linker
 * <https://aminet.net/tree?path=dev>
-* <https://misterreplay.com/mister-fpga-guide.html>
-* <https://krystof.io/mister-fpga-initial-setup-and-network-mounting>
-* <https://mister-devel.github.io/MkDocs_MiSTer/advanced/computer/#ppp-connection>
 * <https://brutman.com/mTCP> DHCP, HTGET, PING, TELNET, etc.
 * <https://github.com/AnttiTakala/SSH2DOS>
-* <https://misterfpga.org/viewtopic.php?t=478> change hostname, MAC address, etc.
 * <https://datagubbe.se/adosmyst> AmigaDOS tips and tricks
 * <https://sttmedia.com/newline> Amiga line endings should be the same as Linux/Unix
 * <https://wiki.amigaos.net/wiki/AmigaOS_Apps_Productivity_%26_Utilities>
@@ -110,7 +103,6 @@
 * <https://github.com/jessodum/ngrom> convert Genesis/MegaDrive SMD format ROMs to BIN format ROMs
 * <https://zeldix.net/t1662-remove-header> stripping SNES ROM headers
 * <https://r-roms.github.io>
-* <https://pukepals.com/2025/06/05/mister-fpga-console>
 * <https://github.com/Abdess/retroarch_system> BIOS
 * <https://retropie.org.uk/docs/3do> BIOS md5sums
 * <https://aterik.github.io/Transpiler.and.similar.List> Go to C???
@@ -120,7 +112,6 @@
 * <https://ultibo.org> Raspberry Pi bare metal magic?
 * <https://reddit.com/r/fpgagaming/comments/7uvp0h/baremetal_raspberry_pi_emulators>
 * <https://pcem-emulator.co.uk/index.html>
-* <https://dansanderson.com/lab-notes/mister-in-an-amiga-600> pretty
 * <https://printables.com/model/1060816-gutbombs-retrodeck-amiga-ish-style-for-de10-nano-m> pretty
 * <https://ravener.is-a.dev/posts/compressing-games-to-chd> converting various CD images to CHD format
 * <https://retrogamecorps.com/2023/02/06/the-ultimate-rom-file-compression-guide> chdman
@@ -137,7 +128,6 @@
 * <https://onerom.org>
 * <https://github.com/piersfinlayson/one-rom>
 * <https://bytecellar.com/bbsing>
-* <https://misterfpga.org/viewtopic.php?t=9699&start=30> Gravis UltraSound settings on ao486
 * <https://franke.ms/git/bebbo/bebbossh> SSH2 client and server for Amiga m68k
 * <https://franke.ms/git/bebbo/bebboget> tiny HTTPS file fetcher for Amiga m68k
 * <https://markround.com/blog/2023/08/30/amiga-systems-programming-in-2023>
@@ -204,6 +194,7 @@ EOL:
 * <https://openfirelightgun.org>
 * <https://learn.adafruit.com/arcade-stick-conversion/prep-the-pico>
 * <https://github.com/MegaBitmap/PXP-Gamepad> GP2040-CE but in a handheld controller instead of one of those stick board things
+* <https://reddit.com/r/n64/comments/1d664s2/n64_miscellaneous_tooltesting_roms>
 
 
 # Cartridges
@@ -216,10 +207,28 @@ EOL:
 
 # MiSTer
 
+* <https://dansanderson.com/lab-notes/mister-in-an-amiga-600> pretty
+* <https://pukepals.com/2025/06/05/mister-fpga-console>
+* <https://krystof.io/mister-fpga-initial-setup-and-network-mounting>
+* <https://jamesfmackenzie.com/2021/02/06/mister-ao486-core-part-1-dos-quick-start> 486SX in an FPGA
+* <https://misterfpga.org/viewtopic.php?t=9699&start=30> Gravis UltraSound settings on ao486
+* <https://mister-devel.github.io/MkDocs_MiSTer/advanced/computer/#ppp-connection>
+* <https://misterreplay.com/mister-fpga-guide.html>
+* <https://misterfpga.org/viewtopic.php?t=478> change hostname, MAC address, etc.
 * <https://multisystem.uk/products/mister-multisystem-2>
 * <https://shop.heber.co.uk/mister-multisystem2-fpga-analogue-console-system-black-enclosure>
 * <https://boogermann.github.io/Bible_MiSTer> loads more customization and stuff
 * <https://gamehacking.org> magic cheat codes for various games
+* <https://0mhz.net>
+* <https://amiga.vision>
+* <https://savefileconverter.com>
+* <https://github.com/euan-forrester/save-file-converter>
+* <https://github.com/superctr/buram> MegaCD backup RAM converter (maybe MegaDrive too?)
+* <https://rclone.org/http> maybe usable from MiSTer to fetch things from an HTTP-only NAS
+
+    /media/usb[0-5]{,/games}
+    /media/network{,/games}
+    /media/fat{,/games}
 
 
 # Zaparoo
