@@ -271,10 +271,23 @@
 * <https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html>
 * <https://dokku.com>
 * <https://hamel.dev/blog/posts/dokku>
-* <https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync>
+
+
+# Rsync
+
+* <https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync> router7, distri, gokrazy-rsync, etc.
 * <https://github.com/minio/rsync-go>
 * <https://github.com/Redundancy/gosync-cmd>
 * <https://github.com/Redundancy/gosync>
+* <https://github.com/rclone/rclone/issues/7935> rclone pretending to be rsync maybe
+* <https://github.com/jbd/msrsync> multiple rsync (Python)
+* <https://github.com/nathanhaigh/parallel-rsync>
+* <https://strugglers.net/posts/2025/rethinking-my-backups>
+* <https://www.baeldung.com/linux/rsync-parallelize>
+
+One options is to do a dry-run and figure out the list of files, pass it to
+split and run rsync on those lists.  Another seems to be passing the list of
+file to GNU parallel.
 
 
 # Publishing
