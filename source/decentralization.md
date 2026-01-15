@@ -151,6 +151,7 @@
 * <https://tryquiet.org>
 * <https://github.com/TryQuiet/quiet>
 * <https://github.com/TryQuiet/quiet/wiki>
+* <https://remark42.com> comment engine thing
 
 
 # Email
@@ -187,6 +188,8 @@
 * <https://github.com/foxcpp/maddy> Go SMTP server
 * <https://blitiri.com.ar/p/chasquid> Go SMTP server
 * <https://github.com/albertito/chasquid> Go SMTP server
+* <https://jeffgeerling.com/blog/2026/mailpit-local-email-debugging>
+* <https://github.com/axllent/mailpit>
 
     apk add opendkim postfix s-nail
 
