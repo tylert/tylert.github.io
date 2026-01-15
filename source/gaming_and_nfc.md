@@ -79,6 +79,11 @@
 * <https://olano.dev/blog/deconstructing-the-role-playing-videogame> GURPS, TWERPS, Dinky Dungeons, etc.
 
 
+# DIY Games
+
+* <https://en.wikipedia.org/wiki/1000_Blank_White_Cards>
+
+
 # Retro Computing
 
 * <https://kilograham.github.io/rp2040-doom>

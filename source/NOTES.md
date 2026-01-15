@@ -318,6 +318,7 @@ macOS:
 * <https://idiallo.com/blog/zipbomb-protection> feeding gzip-compressed blobs of /dev/zero to bots
 * <https://metacircular.net> lots of neat things to read
 * <https://fabien.benetou.fr> more neat reading
+* <https://carefulwords.com> online thesaurus that's not full of ads
 
 
 # Microservices
