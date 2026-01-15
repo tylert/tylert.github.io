@@ -144,6 +144,7 @@
 # NixOS
 
 * <https://nathan-kim.org/writing/nixos-post-mortem>
+* <https://rasmuskirk.com/articles/2024-07-24_dont-use-nixos>
 
 
 # VMware + VirtualBox
