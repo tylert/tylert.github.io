@@ -273,7 +273,7 @@
 * <https://hamel.dev/blog/posts/dokku>
 
 
-# Rsync
+# Rsync and SSHFS
 
 * <https://media.ccc.de/v/gpn20-41-why-i-wrote-my-own-rsync> router7, distri, gokrazy-rsync, etc.
 * <https://github.com/minio/rsync-go>
@@ -283,7 +283,11 @@
 * <https://github.com/jbd/msrsync> multiple rsync (Python)
 * <https://github.com/nathanhaigh/parallel-rsync>
 * <https://strugglers.net/posts/2025/rethinking-my-backups>
-* <https://www.baeldung.com/linux/rsync-parallelize>
+* <https://baeldung.com/linux/rsync-parallelize>
+* <https://paulgorman.org/technical/gnu-parallel.txt.html>
+* <https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html>
+* <https://wiki.archlinux.org/title/SSHFS>
+* <https://forums.linuxmint.com/viewtopic.php?t=403971>
 
 One options is to do a dry-run and figure out the list of files, pass it to
 split and run rsync on those lists.  Another seems to be passing the list of
