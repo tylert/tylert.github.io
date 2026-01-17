@@ -184,8 +184,6 @@
 * <https://addy.io> mail forwarder service
 * <https://blog.eppie.io/post/addresses> email ownership
 * <https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture> more about identity
-* <https://maddy.email> Go SMTP server
-* <https://github.com/foxcpp/maddy> Go SMTP server
 * <https://blitiri.com.ar/p/chasquid> Go SMTP server
 * <https://github.com/albertito/chasquid> Go SMTP server
 * <https://jeffgeerling.com/blog/2026/mailpit-local-email-debugging>
@@ -349,6 +347,25 @@ file to GNU parallel.
 * <https://grebedoc.dev> codeberg pages
 * <https://gotosocial.org> ActivityPub self-hosted social network server written in Go
 * <https://activitypub.rocks> ActivityPub
+
+
+# Maddy
+
+* <https://maddy.email> Go SMTP server
+* <https://github.com/foxcpp/maddy> Go SMTP server
+* <https://github.com/foxcpp/maddy/issues/243#issuecomment-655694512> catch-all rule example
+* <https://github.com/foxcpp/maddy/blob/master/maddy.conf> default config file
+
+    # Catchall example
+    destination_in &local_mailboxes {
+        deliver_to &local_mailboxes
+    }
+    destination example.org {
+        modify {
+            replace_rcpt regexp ".*" "catchall@example.org"
+        }
+        deliver_to &local_mailboxes
+    }
 
 
 # Caddy

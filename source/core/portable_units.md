@@ -171,8 +171,6 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://github.com/quackduck/devzat> SSH chat
 * <https://donuts-are-good.github.io/shhhbb> SSH BBS
 * <https://github.com/donuts-are-good/shhhbb> SSH BBS
-* <https://maddy.email> maddy email server
-* <https://github.com/foxcpp/maddy> maddy email server
 * <https://github.com/beac0n/ruroco> UDP port-knocking to open SSH?
 * <https://github.com/nizarmah/igatha> BLE-only SOS app thing?
 * <https://romanzipp.com/blog/why-a-homelab-why-self-host>
