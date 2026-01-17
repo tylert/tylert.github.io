@@ -162,7 +162,10 @@ EOL:
 
 * <https://thearcadestick.com> review arcade sticks
 * <https://gp2040-ce.info> RP2040 based arcade sticks
-* <https://github.com/OpenStickCommunity> RP2040 based arcade sticks
+* <https://github.com/MegaBitmap/PXP-Gamepad> PCB and 3D files for PXP-Gamepad
+* <https://github.com/OpenStickCommunity/GP2040-CE> firmware for PXP-Gamepad
+* <https://youtube.com/watch?v=P8fA6qLY02c> GP2040-CE PXP-Gamepad assembly
+* <https://www.youtube.com/watch?v=U0qPBv3S6bI> USB conversion for SNES controller with GP2040-CE
 * <https://osa-stick.com> Open Source Arcade stick (nearly all 3D-printed)
 * <https://github.com/Technische-Dienstleistungen-Niggemann/osa-stick> Open Source Arcade stick
 * <https://multi-console-controller.com>
