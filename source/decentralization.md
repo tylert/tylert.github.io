@@ -113,6 +113,7 @@
 * <https://shazow.net/posts/ssh-how-does-it-even> ssh-chat
 * <https://github.com/shazow/ssh-chat>
 * <https://github.com/quackduck/devzat> another SSH chat thing
+* <https://shellbox.dev> return payment details over SSH (QRcode)
 * <https://en.wikipedia.org/wiki/FidoNet>
 * <https://codeberg.org/AutumnSpark1226/nomadForum>
 * <https://github.com/jquast/x84>

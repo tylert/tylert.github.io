@@ -140,6 +140,8 @@
 * <https://scenelist.org> old-school BBS stuff
 * <https://github.com/bquenin/interpreter> translate JRPGs into English?
 * <https://github.com/reinauer/amifuse> Amiga filesystems mounted using FUSE in Linux and so on
+* <https://picoide.com>
+* <https://picog.us>
 
     myrient?
 

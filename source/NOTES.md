@@ -178,6 +178,7 @@ Sigh, Debian:
 * <https://sambleckley.com/writing/church-of-interruption.html>
 * <https://tynan.com/letstalk>
 * <https://neelnanda.io/blog/43-making-friends>
+* <https://news.ycombinator.com/item?id=46635345> loneliness hacks
 * <https://theguardian.com/lifeandstyle/2025/aug/24/dont-like-joining-in-why-it-could-be-your-superpower>
 * <https://structuredprocrastination.com/index.php>
 * <https://ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office>
@@ -267,7 +268,8 @@ macOS:
 * <https://docs.vorondesign.com/hardware.html#voron-2>
 * <https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino>
 * <https://diypresso.com>
-* <https://www.kaseyhou.com/#/repairable-flatpack-toaster>
+* <https://openfunk.co/collections/re-mix> open-source mini blender with standard glass jars
+* <https://github.com/openfunkHQ/reMix> open-source mini blender with standard glass jars
 * <https://openinverter.org/wiki/ZombieVerter_VCU> Frankenstein electric vehicle brain
 * <https://hackaday.com/2025/05/27/hands-on-eufymake-e1-uv-printer>
 * <https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor> Tiny Code Sensor (QRcode reader)
@@ -276,8 +278,6 @@ macOS:
 * <https://en.alinx.com/Product/FPGA-Development-Boards/Artix-7/AX7201.html> FPGA-based networking gizmo?
 * <https://github.com/chili-chips-ba/wireguard-fpga> FPGA-based networking gizmo?
 * <https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch>
-* <https://picoide.com>
-* <https://picog.us>
 * <https://hackergadgets.com/products/uconsole-aio-v2> uConsole from Snow Crash
 
 
