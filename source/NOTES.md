@@ -70,6 +70,7 @@
 * <https://github.com/attunehq/attune> nerdctl compose up an APT repo
 * <https://attunehq.com> nerdctl compose up an APT repo
 * <https://optimizedbyotto.com/post/debian-packaging-from-git>
+* <https://packages.debian.org/trixie/python-is-python3> silly package to use instead of update-alternatives
 
 (on apt-cacher-ng server):
 
