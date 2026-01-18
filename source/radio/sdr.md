@@ -46,20 +46,15 @@
 * <https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html>
 
 
-# Transceivers
+# Open Source Transceivers
 
 * <https://n6qw.com/PSSST_20.html> copper-clad 7-transistor SSB rig
-* <https://ai6ym.radio/t41-ep-sdt> \"T41-EP SDT\" radio
+* <https://ai6ym.radio/t41-ep-sdt> T41-EP SDT radio
 * <https://github.com/WB2CBA/ADX> FT8 transceiver with Arduino
 * <https://github.com/lu7did/RDX-rp2040> FT8 transceiver with RP2040
-
-
-# (tr)uSDX
-
-* <https://dl2man.de> official creator/home of the (tr)uSDX
-* <https://github.com/GW8RDI/uSDXOpen> open-source firmware for (tr)uSDX
-* <https://aliexpress.com/item/1005003908457475.html> (tr)uSDX purchase
-* <https://youtube.com/watch?v=NrqQmoN8d80> FT8 on the (tr)uSDX (might be old)
+* <https://ubitx.net/category/software/out-of-band-mod>
+* <https://shop.qrp-labs.com/LPF> quick band pass filter kits
+* <https://shop.g7ufo.radio/collections/g7ufo-turret-mini-microphone-for-sota-pota> microphone kits
 
 
 # GRCon And Others
@@ -79,6 +74,11 @@
 * <http://hermeslite.com>
 * <https://github.com/softerhardware/Hermes-Lite2/wiki>
 * <https://makerfabs.com/hermes-lite-2.html>
+* <https://hermeslite2plus.com>
+* <https://youtube.com/watch?v=gKbvyuWPHyk> Hermes Lite 2 assembly
+* <https://youtube.com/watch?v=EfeMm96fIKk> 60dbm.com 100 Watt HF and 6m amplifier kit for Hermes Lite 2
+* <https://60dbm.com/product/100-watt-hf-6m-power-amplifier-for-yaesu-ft-817-icom-ic-703-705-elecraft-kx3-automatic-band-switching>
+* <https://60dbm.com/product/cable-kit-for-neptune-amp-and-hermes-lite2>
 * <https://youtube.com/watch?v=Z09Mr5I6trw>
 * <https://youtube.com/watch?v=QxUivqiMvb0>
 * <https://youtube.com/watch?v=ZY7_cr8SM7I>
