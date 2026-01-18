@@ -64,6 +64,11 @@
 
 * <https://github.com/keepworking/Mecha_QMC5883L>
 * <https://github.com/e-Gizmo/QMC5883L-GY-271-Compass-module>
+* <https://en.hwlibre.com/How-to-use-the-GY271-module-with-Arduino-to-create-a-digital-compass>
+* <https://circuitbasics.com/how-to-setup-a-magnetometer-on-the-arduino>
+* <https://github.com/tronikos/esphome-magnetometer-water-gas-meter>
+* <https://phyphox.org> test things using an Android phone maybe (on F-droid)
+* <https://github.com/phyphox/phyphox-android> test things using an Android phone maybe (on F-droid)
 
 
 # Automation
