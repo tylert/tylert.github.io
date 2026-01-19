@@ -227,7 +227,19 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 
 * <https://wiki.archlinux.org/title/Offline_installation>
 * <https://wiki.archlinux.org/title/Help:Browsing#Offline_viewing>
+
+
+# Takeover
+
 * <https://cloudbsd.xyz/main> install another OS with takeover.sh
+* <https://github.com/marcan/takeover.sh>
+* <https://github.com/rany2/takeover.sh>
+* <https://github.com/Epictek/newbie-takeover> Alpine one?
+* <https://github.com/ptrcnull/alpine-infect>
+* <https://codeberg.org/cent/alpine-takeover>
+* <https://news.ycombinator.com/item?id=13622301> takeover.sh
+* <https://unix.stackexchange.com/questions/226872/how-to-shrink-root-filesystem-without-booting-a-livecd/227318#227318>
+* <https://superuser.com/questions/111152/whats-the-proper-way-to-prepare-chroot-to-recover-a-broken-linux-installation>
 
 
 # Packet Radio

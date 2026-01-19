@@ -80,6 +80,8 @@
 * <https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing>
 * <https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html>
 * <https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers>
+* <https://termix.site> web-based server management thing
+* <https://github.com/Termix-SSH/Termix> web-based server management thing
 
 
 # QR Code Magic
