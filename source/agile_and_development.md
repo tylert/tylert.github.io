@@ -84,6 +84,8 @@
 * <https://passo.uno/what-docs-as-code-means>
 * <https://rm4n0s.github.io/posts/6-cant-driven-development>
 * <https://github.com/charmbracelet/glow> render Markdown in a terminal
+* <https://edgarsan68.github.io> markdown-scribe Rust
+* <https://github.com/edgarsan68/markdown-scribe>
 * <https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer>
 * <https://boringtechnology.club> choose boring technology
 * <https://docker.com/blog/do-you-really-need-microservices>

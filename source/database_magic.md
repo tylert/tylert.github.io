@@ -163,6 +163,7 @@ UUID stuff:
 * <https://pintorajs.vercel.app/docs/intro>
 * <https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid>
 * <https://andyatkinson.com/avoid-uuid-version-4-primary-keys> UUIDv4 is bad m'kay
+* <https://dev.to/takiuddinahmed/uuidv7-benefits-over-uuidv4-why-and-when-to-use-it-1cmb>
 * <https://pressly.github.io/goose> Go tool (and library) for managing schema migrations
 
 
