@@ -1,4 +1,4 @@
-# Mac become: Linux
+# Mac become Linux
 
 * <https://neilzone.co.uk/2021/07/wi-fi-on-a-2012-mac-mini-running-debian-11>
 * <https://kapware.com/blog/repurpose-mac-mini>
