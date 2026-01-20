@@ -172,6 +172,7 @@
 * <http://jro.io/nas>
 * <https://github.com/hughobrien/zfs-remote-mirror>
 
+```
     cryptsetup luksFormat /dev/disk/by-id/ata-foo2
     cryptsetup luksOpen /dev/disk/by-id/ata-foo2 ata-foo2
 
@@ -179,3 +180,4 @@
 
     zpool offline tank1 dm-ata-foo1
     zpool replace tank1 dm-ata-foo1 dm-ata-foo2
+```

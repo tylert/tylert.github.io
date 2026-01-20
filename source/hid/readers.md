@@ -1,5 +1,6 @@
 # New Kobo Stuff
 
+```
     $ cat .kobo/Kobo/Kobo\ eReader.conf
     [ApplicationPreferences]
     # ...
@@ -7,6 +8,7 @@
 
     $ mkdir .kobo/screensaver
     # 1440x1920 px images in PNG or JPEG or GIF format
+```
 
 * <https://reddit.com/r/kobo/comments/1dl6hym/libra_colour_how_to_bypass_registration>
 * <https://code.mendhak.com/kobo-customizations>
@@ -57,6 +59,7 @@
 
 # Old Kobo Stuff
 
+```
     127.0.0.1 host localhost.localdomain localhost localhost localhost.localdomain
     127.0.0.1 www.google-analytics.com ssl.google-analytics.com google-analytics.com
 
@@ -69,3 +72,4 @@
     INSERT INTO user (UserID, UserKey) VALUES ('1', '');
 
     ebook-convert dummy.html .epub
+```

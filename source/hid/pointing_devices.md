@@ -45,12 +45,14 @@ Aliexpress.
 * <https://github.com/adept-anyball/mod>
 * <https://github.com/adept-anyball/ploopy-adept-small-btu>
 
+```
     pip install qmk
 
     qmk setup
     qmk compile -kb ploopyco/trackball_nano -km default
 
     mv ploopyco_trackball_nano_rev1_001_default.hex qmk_${QMK_VERSION}_ploopyco_trackball_nano_rev1_001_default.hex
+```
 
 
 ## Ploopy Nano Improvements
@@ -98,6 +100,7 @@ code.
 You might need to disable some silly USB stuff to get suspend to work
 'properly':
 
+```
     # Force the USB bus to not immediately wake up again as you try to suspend/hibernate
     sudo -s
     echo XHCI > /proc/acpi/wakeup
@@ -105,12 +108,14 @@ You might need to disable some silly USB stuff to get suspend to work
     # Find which device is Ploopy and set it to "auto" (off) during suspend/hibernate
     lsusb -t
     echo "auto" > /sys/bus/usb/devices/1-4/power/control
+```
 
 * <https://kernel.org/doc/html/v4.19/driver-api/usb/power-management.html>
 
 
 ## Thiccpad Trackpoint Stuff
 
+```
     # https://wiki.debian.org/InstallingDebianOn/Thinkpad/Trackpoint
     # apt-get install xinput
     # Add the following to ~/.xsessionrc
@@ -122,6 +127,7 @@ You might need to disable some silly USB stuff to get suspend to work
 
     # horizontal scroll
     xinput set-prop "TPPS/2 IBM TrackPoint" "Evdev Wheel Emulation Axes" 6 7 4 5
+```
 
 * <https://github.com/moduloindustries/thinkeys>
 

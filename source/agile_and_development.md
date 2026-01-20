@@ -42,7 +42,9 @@
 * <https://vikunja.io> self-hosted Kanban board
 * <https://github.com/go-vikunja/vikunja> self-hosted Kanban board
 
+```
     cat all-kanbans-export.json | gojq -r '.[].columns[].cards[].name' > todo.txt
+```
 
 
 # Supply Chain Magic
@@ -387,6 +389,7 @@
 
 Executable go scripts
 
+```
     $ sed -i '1 i\/*usr/bin/env go run "$0" "$@"; exit;*/' foo.go
     $ head -1 foo.go
     /*usr/bin/env go run "$0" "$@"; exit;*/
@@ -396,10 +399,12 @@ Executable go scripts
     ...
     $ go build -o foo foo.go ; ./foo
     ...
+```
 
 
 # Go Stuff
 
+```
     go tool dist list            # show supported OS/ARCH combos
     go build                     # compile everything
     go version -m foo            # show build info packed into the binary
@@ -409,6 +414,7 @@ Executable go scripts
     go mod vendor                # vendor (copy) all dependencies locally
     go vet                       # do some linting/checking
     gofmt -l -w *.go             # style the code
+```
 
 * <https://opensource.com/article/22/4/go-build-options>
 * <https://howistart.org/posts/go/1>

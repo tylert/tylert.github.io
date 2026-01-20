@@ -20,6 +20,7 @@
 * <https://ubicloud.com> IaaS frontend?
 * <https://flightcontrol.dev> pay somebody else to do your DevOops on AWS to make it more platform-y?
 
+```
     aws sts assume-role \
         --role-arn arn:aws:iam::123456789012:role/dev/AdminRole \
         --role-session-name bubba
@@ -30,10 +31,12 @@
     packer build ...
 
     # AWS_DEFAULT_PROFILE???
+```
 
 
 # CLI
 
+```
     # Get the list of available instance types
     aws ec2 describe-instance-type-offerings |\
         jq .[][].InstanceType | tr -d '"' | sort | uniq
@@ -85,6 +88,7 @@
     # owner "093273469852" for ArchLinux AMIs from "Uplink Labs"
 
     jq '.Accounts[] | {"alias": .Alias, "acctid": .Account}' accounts.json | jq -s . > accounts_better.json
+```
 
 
 # IPv6
@@ -142,8 +146,7 @@
 * <https://digitalcloud.training/aws-cheat-sheets>
 * <https://dev.to/aws-builders/which-aws-certification-exam-should-i-sit-hah>
 
-Most useful: \"Cloud Practitioner\", \"System Operator\", \"Solutions
-Architect\".
+Most useful: 'Cloud Practitioner', 'System Operator', 'Solutions Architect'.
 
 
 # IAM
@@ -179,12 +182,14 @@ Architect\".
 
 # Account Setup
 
+```
     Payment Currency Preference -> Selected Currency:  CAD - Canadian Dollar
 
     IAM User and Role Access to Billing Information
     IAM user/role access to billing information is activated.
 
     Enable MFA for root account and users and so on.
+```
 
 * <https://alestic.com/2017/09/aws-organizations-cli>
 * <https://alestic.com/2019/12/aws-cli-across-organization-accounts>
@@ -234,7 +239,7 @@ Architect\".
 
 # IPAM
 
-Nowadays, you\'d just use AWS IPAM instead of rolling your own.
+Nowadays, you'd just use AWS IPAM instead of rolling your own.
 
 * <https://github.com/netbox-community/netbox>
 * <https://netbox.readthedocs.io/en/stable>

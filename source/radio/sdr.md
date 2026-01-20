@@ -103,9 +103,11 @@
 * <https://github.com/0x9900/AntennaSwitch>
 * <https://0x9900.com/remote-controlled-antenna-switch>
 
+```
     902-928 MHz   for hams and 902-928 MHz   for non-hams - 33 cm band
     2300-2450 MHz for hams and 2400-2500 MHz for non-hams - 13 cm band
     5650–5925 MHz for hams and 5725-5875 MHz for non-hams - 5  cm band
+```
 
 
 # Ribbit

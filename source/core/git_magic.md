@@ -23,6 +23,7 @@
 
 Stitch two repos together:
 
+```
     # Make the repo look like it was always under a subdirectory
     # Work on a local clone or be prepared to use '--force'
     git filter-repo --to-subdirectory-filter doohicky
@@ -36,9 +37,11 @@ Stitch two repos together:
 
     # Rejoice that you now have two initial commits
     git rev-list --abbrev-commit --max-parents=0 HEAD
+```
 
 Fetch a single file:
 
+```
     git archive \
         --format=tar \
         --output=foo.tar.gz \
@@ -56,22 +59,28 @@ Fetch a single file:
         --output=foo.tar.gz \
         --remote=foo master \
         "**/requirements*" "requirements*"
+```
 
 Cull files:
 
+```
     echo "whatever.txt\nsomething.txt" > foo.txt
     git filter-repo --invert-paths --force --paths-from-file foo.txt
+```
 
 Common ancestor between 2 things:
 
+```
     git merge-base foo bar
     # or
     git merge-base --fork-point trunkbranch
+```
 
 * <https://stackoverflow.com/questions/1549146/git-find-the-most-recent-common-ancestor-of-two-branches>
 
 Deprecated instructions???:
 
+```
     # Snip out just a single directory
     git clone foo
     cd foo
@@ -129,6 +138,7 @@ Deprecated instructions???:
     # edit stuff
     git commit --all --amend --no-edit
     git rebase --continue
+```
 
 
 # Workflow Stuff
@@ -212,6 +222,7 @@ Deprecated instructions???:
 * <https://www.geeksforgeeks.org/how-to-make-git-accept-a-self-signed-certificate>
 * <https://www.jvt.me/posts/2019/03/20/git-rewrite-url-https-ssh>
 
+```
     git config ${SCOPE} http.sslCAInfo /path/to/your-cert.crt
 
     git config ${SCOPE} http.sslVerify false
@@ -219,6 +230,7 @@ Deprecated instructions???:
     export GIT_SSL_NO_VERIFY=true
 
     git config ${SCOPE} url.ssh://git@github.com/.insteadOf https://github.com/
+```
 
 
 # Large Files

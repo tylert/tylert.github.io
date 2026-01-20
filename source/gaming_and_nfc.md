@@ -6,6 +6,7 @@
 * <https://archive.org/details/legend-of-zelda-the-a-link-to-the-past-u_202407>
 * <https://aur.archlinux.org/packages/zelda3-git>
 
+```
     # Strip headers from a SNES ROM
     $ wget https://raw.githubusercontent.com/cjhoward/smc2sfc/refs/heads/master/smc2sfc.cpp
     $ g++ smc2sfc.cpp -o smc2sfc
@@ -34,6 +35,7 @@
     # Put zelda3.sfc in the top-level directory of the project
     $ make
     $ ./zelda3
+```
 
 
 # Game Stuff
@@ -143,10 +145,13 @@
 * <https://picoide.com>
 * <https://picog.us>
 
+```
     myrient?
+```
 
 EOL:
 
+```
     Linux,Unix,Amiga  LF
     Commodore,MacOld  CR
     CP/M,OS/2,DOS     CRLF
@@ -158,6 +163,7 @@ EOL:
 
     CR  0x0d  13  \r
     LF  0x0a  10  \n
+```
 
 
 # Controllers
@@ -236,9 +242,11 @@ EOL:
 * <https://github.com/superctr/buram> MegaCD backup RAM converter (maybe MegaDrive too?)
 * <https://rclone.org/http> maybe usable from MiSTer to fetch things from an HTTP-only NAS
 
+```
     /media/usb[0-5]{,/games}
     /media/network{,/games}
     /media/fat{,/games}
+```
 
 
 # Zaparoo
@@ -275,10 +283,12 @@ EOL:
 * <https://nfcpy.readthedocs.io/en/latest/index.html>
 * <https://ndeftool.readthedocs.io/en/stable/index.html>
 
+```
     NTAG216 has 888 user bytes
     NXP NTAG216 is a NFC Forum Type 2 tag?  ISO/IEC 14443 Type A?
 
     pip install ndeftool nfcpy
+```
 
 
 # Modern Floppy Discs

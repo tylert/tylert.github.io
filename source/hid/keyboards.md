@@ -41,7 +41,7 @@ White) that can run the 100% open-source QMK keyboard firmware.
 
 You must open the keyboard once to boot the keyboard into 'DFU mode'
 for initial flashing of QMK. Once QMK is installed on the keyboard, you
-may boot it into \"DFU mode\" whenever you like by holding down the
+may boot it into 'DFU mode' whenever you like by holding down the
 'ESC' key while plugging-in the keyboard (at power up).
 
 Follow this video to open the keyboard but use a dozen or so guitar
@@ -54,7 +54,7 @@ picks instead of a nasty metal screwdriver.
 ### Weird Button Inside
 
 There is a weird button inside but nobody seems sure of what it does
-yet. It joins the \"D2\" pin (#54) to the \"VSS\" pin (#63).
+yet. It joins the `D2` pin (#54) to the `VSS` pin (#63).
 
 * <https://techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html>
 * <https://reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware>
@@ -62,7 +62,7 @@ yet. It joins the \"D2\" pin (#54) to the \"VSS\" pin (#63).
 
 ### Force DFU Boot
 
-Short R21 to C27 (\"BOOT0\" to \"VDD\" pin) and apply power (plug the
+Short R21 to C27 (`BOOT0` to `VDD` pin) and apply power (plug the
 USB into some orifice).
 
 ![image](boot0.png)
@@ -70,8 +70,8 @@ USB into some orifice).
 
 ## QMK Firmware
 
-QMK build \"0.11.54\" or newer includes the mainline-merged K320 code.
-QMK build \"0.13.39\" or newer includes the mainline-merged K310 code.
+QMK build `0.11.54` or newer includes the mainline-merged K320 code.
+QMK build `0.13.39` or newer includes the mainline-merged K310 code.
 
 * <https://github.com/qmk/qmk_configurator/pull/887> for the K320
 * <https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen>
@@ -86,6 +86,7 @@ QMK build \"0.13.39\" or newer includes the mainline-merged K310 code.
 
 ## Building New Firmware
 
+```
     pip install qmk
 
     qmk setup
@@ -96,12 +97,14 @@ QMK build \"0.13.39\" or newer includes the mainline-merged K310 code.
     chmod -x durgod_k310_base_chimera.bin
     mv durgod_k310_base_typhon.bin qmk_${QMK_VERSION}_durgod_k310_base_typhon.bin
     mv durgod_k310_base_chimera.bin qmk_${QMK_VERSION}_durgod_k310_base_chimera.bin
+```
 
 
 ## Flashing New Firmware
 
 Confirm the keyboard is in DFU mode and find out what\'s inside the box:
 
+```
     $ dfu-util --list
     dfu-util 0.9
 
@@ -112,12 +115,14 @@ Confirm the keyboard is in DFU mode and find out what\'s inside the box:
 
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=1, name="@Option Bytes  /0x1FFFF800/01*016 e", serial="FFFFFFFEFFFF"
     Found DFU: [0483:df11] ver=2200, devnum=61, cfg=1, intf=0, path="1-4", alt=0, name="@Internal Flash  /0x08000000/064*0002Kg", serial="FFFFFFFEFFFF"
+```
 
 WARNING: If you see no \"Found DFU\" lines, your keyboard is not in DFU
 mode.
 
 Download a firmware from the keyboard to a file:
 
+```
     $ dfu-util --upload foo.bin --alt 0 --dfuse-address 0x08000000
     dfu-util 0.9
 
@@ -139,9 +144,11 @@ Download a firmware from the keyboard to a file:
     Limiting upload to end of memory segment, 131072 bytes
     Upload  [=========================] 100%       131072 bytes
     Upload done.
+```
 
 Upload a firmware from a file to the keyboard:
 
+```
     $ dfu-util --download qmk_durgod_k320_default.bin --alt 0 --dfuse-address 0x08000000
     dfu-util 0.9
 
@@ -166,6 +173,7 @@ Upload a firmware from a file to the keyboard:
     Download    [=========================] 100%        22336 bytes
     Download done.
     File downloaded successfully
+```
 
 * <https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html>
 
@@ -229,14 +237,12 @@ Mill-max sockets can apparently be added to just about any PCB.
 
 * <https://github.com/coder12341/pico-ducky>
 * <https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky>
-* <https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01>
-    Pico BLE???
+* <https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01> Pico BLE???
 
 
 # The Uni
 
-Version 4 of the \"The Uni\" uses a RP2040 chip (like the Raspberry Pi
-Pico).
+Version 4 of the 'The Uni' uses a RP2040 chip (like the Raspberry Pi Pico).
 
 * <https://openstenoproject.org>
 * <https://stenokeyboards.com/products/the-uni-v4>
@@ -246,12 +252,14 @@ Pico).
 * <https://docs.stenokeyboards.com/customize/firmware.html>
 * <https://artofchording.com>
 
+```
     pip install qmk
 
     qmk setup
     qmk compile -kb stenokeyboards/the_uni/rp_2040 -km default
 
     mv stenokeyboards_the_uni_rp_2040_default.uf2 qmk_${QMK_VERSION}_stenokeyboards_the_uni_rp_2040_default.uf2
+```
 
 
 # Other

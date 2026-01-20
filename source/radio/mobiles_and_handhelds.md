@@ -57,6 +57,7 @@
 
 Build firmware for RNodes:
 
+```
     # Install some other needed tools
     # arduino-cli
     # make
@@ -74,21 +75,27 @@ Build firmware for RNodes:
     # patch ~/.arduino15/packages/Heltec_nRF52/hardware/Heltec_nRF52/1.7.0/tools/platform.txt (fix quotes on line with "uf2conv")
     make firmware-heltec_t114_gps
     make upload-heltec_t114
+```
 
 More firmware stuff for RNodes:
 
+```
     # If this is your first time running this here
     rnodeconf --key
 
     rnodeconf --autoinstall
+```
 
 Flash an official firmware zip fetched from GitHub:
 
+```
     adafruit-nrfutil dfu serial --package rnode_firmware_1.82_heltec_t114.zip --port /dev/ttyACM0 --baudrate 115200 --touch 1200
     rnodeconf /dev/ttyACM0 --firmware-hash $(./partition_hashes from_device /dev/ttyACM0)
+```
 
 Other fun over RNodes:
 
+```
     # host A
     rnodeconf /dev/ttyACM0 \
         --freq 915000000 \  # frequency in Hz (902000000 to 928000000)
@@ -118,15 +125,18 @@ Other fun over RNodes:
         --ethernet \
         --mtu 478  \  # 500 - 22 bytes Ethernet + VLANs (default 392)
         --noipv6
+```
 
 Raw bytes sent by rnodeconf:
 
+```
     freq => \xc0,\x01,....,\xc0  (4 bytes)
     bw   => \xc0,\x02,....,\xc0  (4 bytes)
     txp  => \xc0,\x03,....,\xc0  (1 byte, values ranging from \x01 to \x16)
     sf   => \xc0,\x04,....,\xc0  (1 byte, values ranging from \x07 to \x0c)
     cr   => \xc0,\x05,....,\xc0  (1 byte, values ranging from \x05 to \x08)
     tnc  => \xc0,\x53,\x00,\xc0
+```
 
 
 # Transport RNodes
@@ -183,13 +193,16 @@ Raw bytes sent by rnodeconf:
 
 LXMF config for a server:
 
+```
     [propagation]
     enable_node = yes
     [lxmf]
     display_name = Whoopdidoo
+```
 
 Reticulum config for a server:
 
+```
     [reticulum]
     enable_transport = yes
     respond_to_probes = yes
@@ -203,9 +216,11 @@ Reticulum config for a server:
         listen_ip = 0.0.0.0
         listen_port = 4242
         mode = gateway
+```
 
 Reticulum config for a client:
 
+```
     [reticulum]
     enable_transport = no
     [interfaces]
@@ -226,9 +241,11 @@ Reticulum config for a client:
         txpower = 22
         spreadingfactor = 8
         codingrate = 6
+```
 
 rnsd.service:
 
+```
     [Unit]
     Description=Reticulum Network Stack Daemon
     After=multi-user.target
@@ -248,9 +265,11 @@ rnsd.service:
 
     [Install]
     WantedBy=multi-user.target
+```
 
 lxmd.service:
 
+```
     [Unit]
     Description=Lightweight eXtensible Messaging Daemon
     After=multi-user.target
@@ -265,6 +284,7 @@ lxmd.service:
 
     [Install]
     WantedBy=multi-user.target
+```
 
 
 # Meshtastic

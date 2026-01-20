@@ -1,5 +1,6 @@
 # Pacman
 
+```
     # -i = --info
     # -S = --sync
 
@@ -7,6 +8,7 @@
     pacman -Ss bar  # show names of available packages with 'bar' in the name
 
     pacman -Ql foo  # show files installed by package 'foo'
+```
 
 
 # Arch Linux AMIs
@@ -23,6 +25,7 @@
 
 # Diagnostics
 
+```
     # Show open ports
     netstat -tunap
 
@@ -31,3 +34,4 @@
     ss -arpt6  # TCP/IPv6
     ss -arpu4  # UDP/IPv4
     ss -arpu6  # UDP/IPv6
+```

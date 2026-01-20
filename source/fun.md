@@ -6,8 +6,10 @@
 * <https://grahamc.com/blog/nix-and-layered-docker-images>
 * <https://git.sr.ht/~bitfehler/notariat> TLS manager ACME thingy for k8s
 
+```
     docker rmi $(docker images --filter "reference=myregistry.example.com/*" --quiet)
     docker rmi $(docker images --filter "dangling=true" --quiet)
+```
 
 
 # Linux
@@ -132,8 +134,10 @@
 * <https://candid.dev/blog/many-hells-of-webdav> state of the world for Go and WebDAV
 * <https://github.com/emersion/go-webdav>
 
+```
     # Password-protect a PDF
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
+```
 
 
 # Docker + Alpine Linux
@@ -151,11 +155,13 @@
 
 Commands to dump IPs/MACs:
 
+```
     VBoxManage guestproperty enumerate foo | grep IP
     VBoxManage guestproperty get foo '/VirtualBox/GuestInfo/Net/0/V4/IP'
     VBoxManage showvminfo foo --machinereadable | grep macaddress
 
     vmrun getGuestIPAddress foo.vmx
+```
 
 
 # Misc

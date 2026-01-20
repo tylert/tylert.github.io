@@ -118,6 +118,7 @@
 
 Upgrade ItsyBitsy bootloader to latest:
 
+```
     # Get latest bootloader files starting with "itsybitsy_nrf52840" from
     # https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases
 
@@ -128,6 +129,7 @@ Upgrade ItsyBitsy bootloader to latest:
     # Prepare to use tinygo
     pacman -S tinygo avrdude
     tinygo flash -target=itsybitsy-nrf52840 moo.go
+```
 
 
 # Tinygo
@@ -135,7 +137,9 @@ Upgrade ItsyBitsy bootloader to latest:
 * <https://tinygo.org/docs/tutorials/blinky> blink red LED
 * <https://github.com/tinygo-org/bluetooth/blob/release/examples/advertisement/main.go> BLE advertisements
 
+```
     go mod init blinky
+```
 
 
 # Electronics

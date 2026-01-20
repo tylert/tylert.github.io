@@ -18,25 +18,31 @@
 * <https://github.com/google/google-authenticator-libpam>
 * <https://feeding.cloud.geek.nz/posts/totp-in-2025>
 
+```
     # Enable TOTP for each USER
     sudo google-authenticator -s /root/.sudo_totp/${USER}/.google_authenticator
     sudo chmod 0600 -R /root/.sudo_totp
 
     sudo google-authenticator -s /root/.google_authenticator
     sudo chmod 0600 -R /root/.google_authenticator
+```
 
 /etc/pam.d/sudo:
 
+```
     # Use Google Auth -- Mandatory
     auth required pam_google_authenticator.so secret=/root/.sudo_totp/${USER}/.google_authenticator user=root
 
     # Use Google Auth -- Only if secret key exists
     # auth required pam_google_authenticator.so secret=/root/.sudo_totp/${USER}/.google_authenticator user=root nullok
+```
 
 /etc/pam.d/su:
 
+```
     # Use Google Auth -- Mandatory
     auth required pam_google_authenticator.so secret=/root/.google_authenticator user=root
+```
 
 
 # Firewall Magic
@@ -45,6 +51,7 @@
 * <https://digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-debian-11>
 * <https://github.com/fail2ban/fail2ban/discussions/3680>
 
+```
     apt-get --yes install ufw
     ufw status numbered
     ufw insert 1 deny from 100.100.100.100/32
@@ -56,6 +63,7 @@
 
     iptables -L ufw-user-input -n  # see what's being blocked by ufw
     iptables -L f2b-sshd -n  # see what's being blocked by fail2ban
+```
 
 
 # Dynamic DNS
@@ -174,16 +182,20 @@
 * <https://greg.jeanmart.me/2020/04/13/self-host-pi-hole-on-kubernetes-and-block-ad>
 * <https://den.dev/blog/pihole>
 
+```
     # PiHole
     wget -O basic-install.sh https://install.pi-hole.net
     sudo bash basic-install.sh
+```
 
 
 # Bash Magic
 
 Script, know thyself:
 
+```
     directory="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
+```
 
 * <https://die-welt.net/2021/11/i-just-want-to-run-this-one-python-script>
 * <https://github.com/gyf304/dotenv> C tool for populating running environment variables
@@ -195,6 +207,7 @@ Script, know thyself:
 
 nginx conf:
 
+```
     server {
         server_name tunnel.yourdomain;
 
@@ -219,11 +232,14 @@ nginx conf:
           root /usr/share/nginx/html;
         }
     }
+```
 
 bash lines:
 
+```
     python -m http.server 8888
     ssh -R 3333:localhost:8888 yourdomain
+```
 
 * <https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html>
 * <https://github.com/pgrok/pgrok>
@@ -247,6 +263,7 @@ bash lines:
 
 * <https://github.com/dehydrated-io/dehydrated> ACMEv2 shell script
 
+```
     # If working on slightly-wacky Unix-like operating systems
     alias openssl=$(brew --prefix openssl@1.1)/bin/openssl
 
@@ -257,6 +274,7 @@ bash lines:
     # ED-209
     openssl genpkey -algorithm ed25519 -out priv
     openssl pkey -pubout -in priv -out pub
+```
 
 
 # CI/CD

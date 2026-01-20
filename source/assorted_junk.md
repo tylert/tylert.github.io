@@ -31,8 +31,10 @@
 
 # Dumb OS X
 
+```
     export CFLAGS=-Qunused-arguments
     export CPPFLAGS=-Qunused-arguments
+```
 
 
 # DVD Ripping

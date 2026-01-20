@@ -41,6 +41,7 @@ hard to do a 'send hostname' for DHCP.
 
 /etc/cady/kodi.html
 
+```
     {{$useragent := .Req.Header.Get "User-Agent"}}
     {{if regexMatch "^Kodi" $useragent}}
     <!DOCTYPE html>
@@ -57,9 +58,11 @@ hard to do a 'send hostname' for DHCP.
     {{else}}
     ... browse output for other user agents (not kodi) ...
     {{end}}
+```
 
 /etc/caddy/Caddyfile
 
+```
     {
         pki {
             ca internal {
@@ -79,10 +82,12 @@ hard to do a 'send hostname' for DHCP.
         tls internal
         file_server browse
     }
+```
 
 
 # OSMC on Debian
 
+```
     #!/usr/bin/env bash
 
     # http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer
@@ -97,6 +102,7 @@ hard to do a 'send hostname' for DHCP.
 
     apt-get update
     apt-get install osmc-installer
+```
 
 
 # Activate MPEG Stuff (DEPRECATED)
@@ -108,19 +114,25 @@ Wait up to 24 hours for an email to arrive with your keys.
 
 FIXME Do this better:
 
+```
     # Add 'decode_MPG2=0xdeadbeef' to /boot/config.txt
     # Add 'decode_WVC1=0xdeadbeef' to /boot/config.txt
+```
 
 To verify that it worked after a reboot, type:
 
+```
     vcgencmd codec_enabled MPG2
     vcgencmd codec_enabled WVC1
+```
 
 The less painful way of enabling the codecs:
 
+```
     cd /boot
     cp start_x.elf start_x.elf.backup && \
         perl -pne 's/\x47\xE9362H\x3C\x18/\x47\xE9362H\x3C\x1F/g' < start_x.elf.backup > start_x.elf
+```
 
 * <https://reddit.com/r/raspberry_pi/comments/5x7xbo/patch_for_mpeg2_vc1_license>
 * <https://news.ycombinator.com/item?id=16381331>

@@ -1,3 +1,4 @@
+```
     0: 001
     1: 011
 
@@ -47,3 +48,4 @@
     each bit period has length 0.44863 ms
 
     4458 samples at 2msps
+```

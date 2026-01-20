@@ -1,5 +1,6 @@
 # Video/Audio/Camera Awesome
 
+```
     # Convert files to/from other formats
     ffmpeg -i foo.mov -map 0 -c copy foo.mp4
     ffmpeg -i foo.webm -c copy foo.mp4
@@ -21,13 +22,17 @@
 
     # Yootoob
     yt-dlp -f 'bv[height<=360]+ba' https://foobiewoobie.com/wholebunchofblablablablablabla
+```
 
 Just fix the title of the video file:
 
+```
     ffmpeg -i input.whatever -c copy -map 0 -metadata title='Something else' output.whatever
+```
 
 HandBrake settings for DVDs:
 
+```
     # Start with settings 'Official -> General -> HQ 1080p30 Surround'
     Summary:
         Format:  MPEG-4 (avformat)
@@ -74,6 +79,7 @@ HandBrake settings for DVDs:
         DRC:  4.0
     Subtitles:
         Foreign Audio Scan -> Burned Into Video (Forced Subtitles Only)
+```
 
 * <https://trac.ffmpeg.org/wiki/Capture/Desktop>
 * <https://img.ly/blog/ultimate-guide-to-ffmpeg>
@@ -105,7 +111,9 @@ HandBrake settings for DVDs:
 * <https://github.com/NateChoe1/ttf2psf> maybe convert TTF to PSF directly
 * <https://github.com/pcarrin2/otf2psf>
 
+```
     setfont moo.psf.gz
+```
 
 
 # ANSI and PETSCII and so on
@@ -119,14 +127,18 @@ HandBrake settings for DVDs:
 
 Record terminal commands to an SVG animation:
 
+```
     pip install termtosvg  # termtosvg is currently abandonware
     echo "PS1='\$ '" > ugh.sh
     termtosvg login.svg --screen-geometry 80x10 --command 'bash --rcfile ugh.sh'
+```
 
 * <https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en> hotkeys for video screen recording
 * <https://bubelov.com/blog/2020/10/gnome-screenshots> hotkeys for static screen captures
 
+```
     Shift + Ctrl + Alt + R  # start screen recording (same combo when you're done to stop it)
+```
 
 
 # Photography Stuff
@@ -217,6 +229,7 @@ Record terminal commands to an SVG animation:
 * <https://chdk.setepontos.com/index.php?topic=13442.0> simultaneous capture with dual cameras and chdkptp scripts
 * <https://github.com/scoder/lupa> Python with inline Lua
 
+```
     pacman -S git subversion perl-term-readkey
     pacman -S libusb-compat lua53 lua53-lgi
 
@@ -229,24 +242,25 @@ Record terminal commands to an SVG animation:
     make LUA_LIB=lua5.3 LUA_INCLUDE_DIR=/usr/include/lua5.3 GUI=1 GTK_SUPPORT=1
     popd
     popd
+```
 
 Upgrading CHDK
 
-    0.  fetch CHDK firmware zip for "Elph 115" (full).
-    1.  put SD card in camera (unlocked).
-    2.  hit "Play" button to start camera without moving the lens.
-    3.  select menu item to format SD card.
-    4.  power off camera.
-    5.  put SD card in computer (unlocked).
-    6.  extract CHDK firmware zip onto root of SD card.
-    7.  unmount SD card from computer.
-    8.  put SD card in camera (unlocked).
-    9.  select menu item to upgrade firmware.
-    10.  hit "Play" button to enter "<ALT>" mode.
-    11.  select menu item Miscellaneous -> Make SD card bootable.
-    12.  power off camera and take out SD card.
-    13.  put SD card in camera (locked).
-    14.  power off camera.
+1.  fetch CHDK firmware zip for "Elph 115" (full).
+1.  put SD card in camera (unlocked).
+1.  hit "Play" button to start camera without moving the lens.
+1.  select menu item to format SD card.
+1.  power off camera.
+1.  put SD card in computer (unlocked).
+1.  extract CHDK firmware zip onto root of SD card.
+1.  unmount SD card from computer.
+1.  put SD card in camera (unlocked).
+1.  select menu item to upgrade firmware.
+1.  hit "Play" button to enter "<ALT>" mode.
+1.  select menu item Miscellaneous -> Make SD card bootable.
+1.  power off camera and take out SD card.
+1.  put SD card in camera (locked).
+1.  power off camera.
 
 
 # Music and Audio Stuff

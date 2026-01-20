@@ -44,6 +44,7 @@
 * <https://github.com/averyanalex/yggdrasil-vanity>
 * <https://github.com/averyanalex/ygglkan>
 
+```
     ufw prepend deny in on tun0 proto ipv6  # put yggdrasil rule first
 
     # Generate keys (openssl 3.6.0, yggdrasil 0.5.12)
@@ -58,6 +59,7 @@
     git clone https://github.com/yggdrasil-network/yggdrasil-go
     cd yggdrasil-go ; go build -o genkeys cmd/genkeys/main.go ; mv genkeys .. ; cd ..
     ./genkeys
+```
 
 
 # Yggdrasil DNS
@@ -190,7 +192,9 @@
 * <https://jeffgeerling.com/blog/2026/mailpit-local-email-debugging>
 * <https://github.com/axllent/mailpit>
 
+```
     apk add opendkim postfix s-nail
+```
 
 
 # DNS
@@ -357,6 +361,7 @@ file to GNU parallel.
 * <https://github.com/foxcpp/maddy/issues/243#issuecomment-655694512> catch-all rule example
 * <https://github.com/foxcpp/maddy/blob/master/maddy.conf> default config file
 
+```
     # Catchall example
     destination_in &local_mailboxes {
         deliver_to &local_mailboxes
@@ -367,6 +372,7 @@ file to GNU parallel.
         }
         deliver_to &local_mailboxes
     }
+```
 
 
 # Caddy
@@ -447,7 +453,9 @@ file to GNU parallel.
 
 # Usenet
 
+```
     Usenet > NZBGet > NZBGeek, NZBPlanet
+```
 
 
 # Backups and File Sharing

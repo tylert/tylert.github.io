@@ -20,6 +20,7 @@
 Full OpenWRT installation instructions from recent vintage stock
 firmware:
 
+```
     # Prepare a payload that will work with the stock web UI firmware upload
     wget https://gist.githubusercontent.com/svanheule/9f82e156a3601d4a726639eb7400ec97/raw/10673b16c5d697e5f6bf8b8292ee6bccf0adfe67/patch-safeloader.py
     python patch-safeloader.py \
@@ -42,9 +43,11 @@ firmware:
     cliclientd stopcs
 
     # Finally upload the new, patched firmware via the stock web UI
+```
 
 UART Ramblings:
 
+```
     On the underside of the board, there's a unpopulated R225 resistor that was
     able to connect to to get 115200 baud 8n1 UART output. I need to bridge solder
     it, but it at least works by holding a jumper wire against it.
@@ -54,9 +57,11 @@ UART Ramblings:
     Make sure not to bridge R230 next to R237, or you'll connect RX to ground. R225
     is inside the can on the bottom side of the PCB. Carefully lift the can lid to
     access it.
+```
 
 WiFi config stickers:
 
+```
     WIFI_SSID='theinternet'
     WIFI_PASSWD='seven'
     qrencode "WIFI:S:${WIFI_SSID};H:false;P:${WIFI_PASSWD};T:WPA;" \
@@ -76,12 +81,14 @@ WiFi config stickers:
     # PH2 = WPA2-EAP phase2 method (MSCHAPV2)
     # R = WPA2/WPA3 transition mode disable
     # T = type (WEP, WPA, WPA2-EAP, nopass, <omit for no password>)
+```
 
 
 ## Basic Accesspoint Setup
 
 Configuration thingies:
 
+```
     System -> System                      :  Set hostname
     System -> Administration              :  Set password
     Network -> Interfaces                 :  Interfaces -> LAN -> Edit button
@@ -135,15 +142,18 @@ Configuration thingies:
 
     uci set uhttpd.main.redirect_https='1'
     uci commit uhttpd
+```
 
 Add stuff to /etc/rc.local (System - Startup - Local Startup):
 
+```
     for i in dnsmasq firewall odhcpd; do
         if /etc/init.d/"$i" enabled; then
             /etc/init.d/"$i" disable
             /etc/init.d/"$i" stop
         fi
     done
+```
 
 ![image](all_hostname.png)
 
@@ -179,15 +189,18 @@ Add stuff to /etc/rc.local (System - Startup - Local Startup):
 
 (New method) Steps for replacement of stock firmware:
 
+```
     To install on stock firmware, install the OpenWRT 22.03 factory firmware image
     from web UI or cli, reboot, then ssh in and directly run the migration scripts
     from that. You dont need to sysupgrade to the full 22.03 image. Now that 24.10
     has been released I suppose the wiki page should be updated. Basically step 3
     on the wiki page (https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka) should
     continue onto the migration instructions.
+```
 
 (Old method) Steps for replacement of stock firmware:
 
+```
     # Prepare your machine to talk to the stock UI and OpenWRT
     # Use eth0 if still on stock firmware and eth1 if on OpenWRT
     ip addr add 192.168.1.99/24 broadcast + dev enp0s25
@@ -212,6 +225,7 @@ Add stuff to /etc/rc.local (System - Startup - Local Startup):
     scp -O openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin root@192.168.1.1:/tmp
     ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1
     sysupgrade -F -n /tmp/openwrt-22.03.3-ramips-mt7621-ubnt_edgerouter-x-squashfs-sysupgrade.bin
+```
 
 ![image](all_hostname.png)
 
@@ -227,23 +241,29 @@ Add stuff to /etc/rc.local (System - Startup - Local Startup):
 
 Configuration thingies:
 
+```
     System -> System          :  Set hostname
     System -> Administration  :  Set password
     Network -> Interfaces     :  Interfaces -> LAN -> Edit button
+```
 
 QoS setup:
 
+```
     System -> Software                    :  Install package "luci-app-sqm"
     Network -> SQM QoS -> Basic Settings  :  Download and upload speeds (in kbit/s)
                                           :    [30000 kbit/s download speed]
                                           :    [3000 kbit/s upload speed]
                                           :  Enable this SQM instance checked
                                           :  Interface name (eth0 => wan, wan6)
+```
 
 Other:
 
+```
     System -> DHCP and DNS -> Static Leases  :  Set some statically-assigned entries
     System -> DHCP and DNS -> Hostnames      :  Set some backup fixed hostnames for IPv4
+```
 
 
 # OpenWRT
@@ -251,11 +271,11 @@ Other:
 * <https://openwisp.io> manage lots of OpenWRT devices from a web UI?
 * <https://libe.net/en/wlan-practice>
 
+```
     opkg update
-
     opkg list-upgradable | cut -f 1 -d ' ' | xargs -r opkg upgrade
-
     opkg list-upgradable | cut -f 1 -d ' ' | while IFS='$\n' read -r line; do opkg install $line ; done
+```
 
 
 # Other
@@ -283,7 +303,7 @@ Other:
 * <https://reddit.com/r/bell/comments/18sdfzy/are_you_technically_savvy_and_want_to_bypass_your>
 * <https://morey.tech/technical%20blog/Bell-HomeHub-4000-PPPoE-with-pfSense>
 
-    You will need to know if your service is gpon or xgs-pon.
+You will need to know if your service is gpon or xgs-pon.
 
 
 # Banana Pi BPI-R4

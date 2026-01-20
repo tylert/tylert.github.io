@@ -5,22 +5,25 @@
 
 Prepare to use CUPS:
 
+```
     # Install necessary printer packages
-    sudo apt-get --yes install avahi-daemon cups
-    sudo apt-get --yes install printer-driver-brlaser
+    apt-get --yes install avahi-daemon cups
+    apt-get --yes install printer-driver-brlaser
 
-    # Add a user to the 'lpadmin' group (and refresh list without logging out)
+    # Add a user to the 'lpadmin' group
     # This is needed for the web admin login for CUPS
-    sudo usermod -a -G lpadmin ${USER}
-    newgrp lpadmin
+    usermod -a -G lpadmin ${USER}
+    # Type 'newgrp lpadmin' to refresh login without a reboot/login
+```
 
 * <https://packages.debian.org/bullseye/printer-driver-brlaser>
 
+```
     # Ensure the local package index is up-to-date
-    pacman --refresh --sync --upgrade
+    pacman --refresh -S --upgrade
 
     # Install the prerequisites for the printer driver
-    pacman --noconfirm --sync git
+    pacman --noconfirm -S git
 
     gpg --keyserver keys.gnupg.net --recv-keys 6AD860EED4598027
     git clone https://aur.archlinux.org/brother-hll2300d.git
@@ -31,26 +34,28 @@ Prepare to use CUPS:
     pushd brlaser
     makepkg -si
     popd
+```
 
 Then, fix up the CUPS config file to allow remote administration via the
 web interface:
 
-    sudo cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.orig
+```
+    cp /etc/cups/cupsd.conf /etc/cups/cupsd.conf.orig
 
     # Comment out all 'Listen' lines
-    sudo sed -i '/^Listen /s/^/# /' /etc/cups/cupsd.conf
+    sed -i '/^Listen /s/^/# /' /etc/cups/cupsd.conf
 
     # Add 'Port 631' before 'Listen' lines
     if ! grep Port /etc/cups/cupsd.conf; then
-        sudo sed -i '/Listen localhost:631/i Port 631' /etc/cups/cupsd.conf
+        sed -i '/Listen localhost:631/i Port 631' /etc/cups/cupsd.conf
     fi
 
     # Add 'Allow @Local' after each 'Order allow,deny' or 'Order deny,allow'
     if ! grep Allow /etc/cups/cupsd.conf; then
-        sudo sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
-        sudo sed -i '/Order deny,allow/a Allow @Local' /etc/cups/cupsd.conf
+        sed -i '/Order allow,deny/a Allow @Local' /etc/cups/cupsd.conf
+        sed -i '/Order deny,allow/a Allow @Local' /etc/cups/cupsd.conf
     fi
-
+```
 
 ## Printer Setup
 

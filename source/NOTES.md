@@ -22,6 +22,7 @@
 * <https://aj.codes/posts/be-careful-using-tmux-and-environment-variables>
 * <https://math.dartmouth.edu/~sarunas/Linux_Compose_Key_Sequences.html> Linux compose key magic
 
+```
     # tmux
     PFX = ctrl + b (default)
 
@@ -57,6 +58,7 @@
     # etc., etc., etc...
 
     export TERM=xterm  # if you're on a crappy machine that doesn't know about tmux
+```
 
 
 # Apt Stuff
@@ -74,46 +76,62 @@
 
 (on apt-cacher-ng server):
 
-    apt-get install apt-cacher-ng
+```
+    apt-get --yes install apt-cacher-ng
+```
 
 (on servers and clients, assuming server is 10.0.2.4) New file
 /etc/apt/apt.conf.d/98check-proxy:
 
+```
     APT::Update::Pre-Invoke {
       "ping -c1 -W1 10.0.2.4; if [ $? == \"0\" ]; then echo \"Acquire::http::Proxy 'http://10.0.2.4:3142'\;\" > /etc/apt/apt.conf.d/99use-proxy; else echo \"\" > /etc/apt/apt.conf.d/99use-proxy; fi"
     }
+```
 
 Install it:
 
-    apt-get install unattended-upgrades
+```
+    apt-get --yes install unattended-upgrades
+```
 
 Then enable it:
 
+```
     dpkg-reconfigure -plow unattended-upgrades
+```
 
 Or, do it manually with:
 
+```
     # /etc/apt/apt.conf.d/20auto-upgrades
     APT::Periodic::Update-Package-Lists "1";
     APT::Periodic::Unattended-Upgrade "1";
+```
 
 Add other architectures:
 
-    sudo dpkg --add-architecture i386
-    sudo apt-get update
-    sudo apt-get install libc6:i386 libstdc++6:i386
+```
+    dpkg --add-architecture i386
+    apt-get update
+    apt-get --yes install libc6:i386 libstdc++6:i386
+```
 
 System76 stuff:
 
-    sudo apt-add-repository ppa:system76-dev/stable
+```
+    apt-add-repository ppa:system76-dev/stable
+```
 
 Sigh, Debian:
 
-    sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
-    sudo apt-get install systemd-timesyncd
-    # sudo systemctl enable systemd-timesyncd
-    # sudo systemctl start systemd-timesyncd
-    # sudo timedatectl set-ntp true
+```
+    update-alternatives --install /usr/bin/python python /usr/bin/python3 10
+    apt-get --yes install systemd-timesyncd
+    # systemctl enable systemd-timesyncd
+    # systemctl start systemd-timesyncd
+    # timedatectl set-ntp true
+```
 
 
 # LDAP/Kerberos
@@ -155,7 +173,9 @@ Sigh, Debian:
 * <https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals>
 * <https://dfir.ch/posts/today_i_learned_binfmt_misc>
 
+```
     git ls-files -z | while IFS= read -rd '' f; do if file --mime-encoding "$f" | grep -qv binary; then tail -c1 < "$f" | read -r _ || echo >> "$f"; fi; done
+```
 
 
 # Assorted Things-to-Read
@@ -219,7 +239,9 @@ Sigh, Debian:
 
 macOS:
 
+```
     open -a KeePassXC --args --allow-screencapture
+```
 
 * <https://keepassxc.org>
 * <https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options> allow screenshots

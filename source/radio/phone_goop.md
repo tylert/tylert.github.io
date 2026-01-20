@@ -50,6 +50,7 @@ It is very likely that you will also desire/need some apps from
 Fill in the settings you obtained from your email admin/provider and override
 the default settings for the app as follows:
 
+```
     General Settings:
       Display:
         Animation:  Disable Use gaudy visual effects
@@ -69,10 +70,12 @@ the default settings for the app as follows:
         New mail notifications:  On
         Vibration:  Enabled, Vibration pattern = Default pattern, Repeat vibration 2
         Notification light:  Account colour
+```
 
 
 # Firefox
 
+```
     Search:  select DuckDuckGo, delete the rest of the engines
       Autocomplete URLs:  Off
       Show clipboard suggestions:  Off
@@ -94,6 +97,7 @@ the default settings for the app as follows:
       Usage and technical data:  Off
       Marketing data:  Off
       Experiments:  Off
+```
 
 
 # Osmin
@@ -106,6 +110,7 @@ the default settings for the app as follows:
 
 # Evict Obstinate System Apps
 
+```
     # adb shell
     # pm list packages -3  # only show 3rd-party apps (non-system)
     # pm list packages -d  # only show disabled apps
@@ -149,6 +154,7 @@ the default settings for the app as follows:
     for package in ${packages}; do
         pm uninstall --user 0 ${package}
     done
+```
 
 
 # SSH and Rsync
@@ -162,8 +168,10 @@ the default settings for the app as follows:
 * <https://howtos.davidsebek.com/android-rsync-termux.html>
 * <https://howtos.davidsebek.com/android-rsync-adb.html>
 
+```
     # Delete files as they are moved
     rsync --remove-source-files ${rsync_opts} /path/to/src/ /path/to/dest
+```
 
 
 # Others

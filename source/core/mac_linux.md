@@ -9,14 +9,15 @@
 * <https://github.com/ravynsoft/ravynos>
 
 ```
-    # Get WiFi working again (Debian on Macmini6,1)
-    apt install broadcom-sta-dkms
+    # Get WiFi working (Debian on Macmini6,1)
+    apt-get --yes install broadcom-sta-dkms
 
     # Get HP printer working (Debian)
-    apt install hplip
+    apt-get --yes install hplip
 
     # Get printing working (Debian)
     for user in ${users}; do
         usermod -a -G lp ${user}
+        newgrp lp
     done
 ```

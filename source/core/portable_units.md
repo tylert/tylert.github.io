@@ -2,12 +2,14 @@
 
 Not an ideal size but gives a rough idea for cost-comparison:
 
+```
     PROX T-4RSS 4U case
     CAD $290
     26 x 21 x 9 inches dimensions (internal?)
     28 x 24 x 10 inches shipping dimensions (external?)
     27 pounds or 30 pounds / 9 mm plywood
     says it fits 19 inch rack components up to 19 inch depth
+```
 
 * <https://www.avshop.ca/cases-amp-racks-rack-cases/prox-t-4rss-4u-rack-case-19in-deep> Markham, ON
 * <https://www.proxdirect.com/products/view/4U-Space-Amp-Rack-Mount-ATA-Style-Flight-Case-19-In-Depth-T-4RSS>
@@ -43,6 +45,7 @@ Not an ideal size but gives a rough idea for cost-comparison:
 
 ![image](https://www.pennelcomonline.com/Images/Models/Full/8810-1.Jpg)
 
+```
     # 12 cases worth of latches, handles, corners, panels, tax in CAD (full price)
     # XXX FIXME TODO  What's regular price for 6mm 0.25inch 8footx4foot plywood???
     # XXX FIXME TODO  Add in aluminium extrusions (check personal stock!!!)
@@ -50,6 +53,7 @@ Not an ideal size but gives a rough idea for cost-comparison:
     2080.6012
     ((12*18.96*4)+(12*10.45*2)+(12*2.38*8)+(4*112.97))*1.13/12
     173.38343333333333333333
+```
 
 
 # HDPE Puckboard Sheets
@@ -192,15 +196,19 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 * <https://changelog.complete.org/archives/5462-kr0l-amateur-radio-wikis-and-linux>
 * there's a GNU project for this stuff too hidden somewhere amongst the links above
 
+```
     ./contrib/do all      # compile everything
     ./contrib/do install  # maybe???
+```
 
 
 # UFW
 
+```
     ufw enable
     ufw allow 2005/tcp                      # other thingy
     ufw prepend deny in on tun0 proto ipv6  # yggdrasil (put it first in the rule list)
+```
 
 
 # Voice Assistants

@@ -1,3 +1,4 @@
+```
     #flirc_util format
 
     # Creative RM-900
@@ -43,3 +44,4 @@
     flirc_util record enter
     flirc_util record right
     flirc_util record down
+```

@@ -55,9 +55,11 @@
 
 Typical OS container image 'Dockerfile':
 
+```
     FROM scratch
     ADD ${DISTRO}-${ARCH}-rootfs.tar.gz
     CMD ["bash"]
+```
 
 
 # Container Stuff
@@ -179,11 +181,14 @@ Typical OS container image 'Dockerfile':
 
 Installing stuff:
 
+```
     $ go install sigs.k8s.io/kind@latest
     # You'll also need kubectl and nerdctl/containerd
+```
 
 Creating cluster:
 
+```
     $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind create cluster --name moo
     using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
     Creating cluster "moo" ...
@@ -207,9 +212,11 @@ Creating cluster:
     $ kubectl config get-contexts
     CURRENT   NAME       CLUSTER    AUTHINFO   NAMESPACE
     *         kind-moo   kind-moo   kind-moo
+```
 
 Check container status:
 
+```
     $ nerdctl namespace ls
     NAME                          CONTAINERS    IMAGES    VOLUMES    LABELS
     buildkit                      0             0         0
@@ -230,9 +237,11 @@ Check container status:
     $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind get clusters
     using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
     moo
+```
 
 Basic operations:
 
+```
     $ kubectl get namespaces
     NAME                 STATUS   AGE
     default              Active   38m
@@ -243,9 +252,11 @@ Basic operations:
     $ kubectl get nodes
     NAME                STATUS   ROLES           AGE   VERSION
     moo-control-plane   Ready    control-plane   39m   v1.31.0
+```
 
 Deleting cluster:
 
+```
     $ KIND_EXPERIMENTAL_PROVIDER=nerdctl kind delete cluster --name moo
     using nerdctl due to KIND_EXPERIMENTAL_PROVIDER
     Deleting cluster "moo" ...
@@ -256,6 +267,7 @@ Deleting cluster:
     buildkit_history              0             0         0
     default                       0             3         1
     rancher-desktop-extensions    0             1         0
+```
 
 * <https://github.com/lisenet/kubernetes-homelab>
 * <https://iamsafts.com/posts/homelab-intro>

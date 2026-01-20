@@ -9,7 +9,7 @@
 Web default login is: 'admin' with password 'admin'
 SSH default login is: 'root' with password 'root'
 
-Look under \"pages\" in the GitHub repo for additional documentation.
+Look under 'pages' in the GitHub repo for additional documentation.
 
 
 # USB-C OTG + Power Splitter
@@ -33,10 +33,12 @@ Look under \"pages\" in the GitHub repo for additional documentation.
 * <https://amazon.ca/WayinTop-Display-SSD1306-3-3V-5V-Raspberry/dp/B085NHM5TC> 128x32, 0.91-inch, 1.49x0.47-inch
 * <https://amazon.ca/Elisona-0-96-Serial-Display-Module-Arduino/dp/B074FTQSNH> 128x64, 0.96-inch
 
+```
     # Add "i2c-dev" into /etc/modules-load.d/kvmd-extra.conf
     # Add "dtparam=i2c_arm=on" into /boot/config.txt
 
     systemctl enable --now kvmd-oled kvmd-oled-reboot kvmd-oled-shutdown
+```
 
 
 # Multiplexed Units
@@ -49,16 +51,19 @@ Look under \"pages\" in the GitHub repo for additional documentation.
 
 # Firmware and Updates
 
+```
     # Install https://xkcd.com/1654 upgrade script
 
     pacman --noconfirm --sync rpi4-eeprom  # or rpi5-eeprom
     rpi-eeprom-update -a -d
 
     pikvm-update
+```
 
 
 # Initial Setup
 
+```
     # Put the main root filesystem into "writable mode"
     rw
 
@@ -69,3 +74,4 @@ Look under \"pages\" in the GitHub repo for additional documentation.
     # Change the default web and ssh passwords
     kvmd-htpasswd set admin
     passwd root
+```

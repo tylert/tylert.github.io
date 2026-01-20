@@ -57,7 +57,9 @@
 
 # Random Stuff
 
-    sudo apt-get --yes install apt-transport-https
+```
+    apt-get --yes install apt-transport-https
+```
 
 
 # Tools

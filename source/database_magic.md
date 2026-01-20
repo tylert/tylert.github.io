@@ -51,10 +51,13 @@
 * <https://jacob.gold/posts/go-sqlite-best-practices>
 * <https://github.com/sqliteai/sqlite-sync>
 
+```
     sqlite3 foo.sqlite3 .dump > foo.sql
+```
 
 UUID stuff:
 
+```
     -- help doc at https://sqlite.org/loadext.html
     -- "raw" src file from https://sqlite.org/src/file/ext/misc/uuid.c
     -- gcc -g -fPIC -shared uuid.c -o uuid.so
@@ -67,6 +70,7 @@ UUID stuff:
     SELECT name FROM zip;
     SELECT data FROM zip WHERE name = '1.txt';
     DELETE FROM zip WHERE name = '1.txt';
+```
 
 
 # JSON
@@ -224,6 +228,7 @@ UUID stuff:
 
 # MySQL Stuff
 
+```
     select concat('KILL ',id,';') from information_schema.processlist where command='Sleep';
 
     #!/bin/bash
@@ -234,6 +239,7 @@ UUID stuff:
         echo "- process: ${process_id}"
         mysql -e "kill ${process_id}"
     done
+```
 
 * <https://github.com/dolthub/go-mysql-server>
 

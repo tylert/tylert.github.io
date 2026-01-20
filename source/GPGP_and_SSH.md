@@ -12,6 +12,7 @@
 * <https://superuser.com/questions/1478615/extend-the-expiration-date-of-a-gpg-key-non-interactively>
 * <https://github.com/rpgp/rpgp> pure Rust implementation of OpenPGP
 
+```
     # Sigh... macOS...
     $ export GPG_TTY=$(tty)
 
@@ -58,6 +59,7 @@
     # SSH key magic??? (the "auth" subkey and definitely not the cv25519 one)
     $ for i in $(gpg -k | grep ub | grep -v ring | cut -d '/' -f2 | cut -d ' ' -f1); do
         gpg --export-ssh-key $i\!; done
+```
 
 
 # Backups
@@ -75,6 +77,7 @@
 * <https://ronja.twibright.com/optar> another barcode thing
 * <https://github.com/colindean/optar> another barcode thing
 
+```
     # Export stuff for safe-keeping??? (Don't forget the revcert too!!!)
     $ umask 0077 ; gpg --armor --export-secret-key ${KEY_ID} > foo.gpg.priv.asc
     $ umask 0022 ; gpg --armor --export ${KEY_ID} > foo.gpg.pub.asc
@@ -108,6 +111,7 @@
 
     # View the actual contents of the packets
     $ for i in *000* ; do echo ; pgpdump -i $i ; echo ; done
+```
 
 
 # SSH
@@ -118,6 +122,7 @@
 * <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto
 * <https://infosec.mozilla.org/guidelines/openssh> recommendations for SSH stuff
 
+```
     # First, ensure you have a key with 'auth' capability
     $ gpg --export-ssh-key ${KEY_ID}  # just get the ssh pub key
 
@@ -133,6 +138,7 @@
     ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s openpgp:0xCA299433
     $ ssh-keygen -f bar.txt -y
     ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICQ1fY/xz1aoP1MMqLGmB7J4iOh2Qx27268mD2Y6HP8s
+```
 
 
 # Commit Signing
@@ -152,8 +158,10 @@
 You must have LibreSSL 3.7.x+ (or any old OpenSSL 1.1+???) to use
 ED25519!
 
+```
     openssl genpkey -algorithm ed25519 > priv
     openssl pkey -in priv -out pub -pubout
+```
 
 * <https://slsa.dev/provenance/v0.2> needs in-toto
 * <https://github.com/in-toto/in-toto> in-toto-keygen (pip install in-toto pynacl; see below for why)
@@ -168,6 +176,7 @@ ED25519!
 
 Steps to convert ED-209 keys to X25519 keys
 
+```
     package main
 
     import (
@@ -194,6 +203,7 @@ Steps to convert ED-209 keys to X25519 keys
       fmt.Printf("Edwards point =%x\n", p.Bytes())
       fmt.Printf("Montgomery point =%x\n", p.BytesMontgomery())
     }
+```
 
 
 # Key Servers

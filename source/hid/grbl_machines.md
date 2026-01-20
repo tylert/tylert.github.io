@@ -76,8 +76,10 @@
 
 Marlin firmware builds:
 
+```
     platformio run -e STM32F103RE_creality
     # ls .pio/build/STM32F103RE_creality/*.bin
+```
 
 
 # 3D Printing

@@ -9,6 +9,7 @@
 
 PT-2730:
 
+```
     # Fetch the source
     git clone https://git.familie-radermacher.ch/linux/ptouch-print.git
     cd ptouch-print
@@ -28,6 +29,7 @@ PT-2730:
 
     # Make fancier labels
     ptouch-print --font 'Noto Sans Black' --text BAMALAM --writepng bla.png
+```
 
 
 # 3D
