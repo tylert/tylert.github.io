@@ -1,4 +1,4 @@
-# Mac become Linux
+# Mac become: Linux
 
 * <https://neilzone.co.uk/2021/07/wi-fi-on-a-2012-mac-mini-running-debian-11>
 * <https://kapware.com/blog/repurpose-mac-mini>
@@ -8,6 +8,7 @@
 * <https://ravynos.com>
 * <https://github.com/ravynsoft/ravynos>
 
+```
     # Get WiFi working again (Debian on Macmini6,1)
     apt install broadcom-sta-dkms
 
@@ -18,3 +19,4 @@
     for user in ${users}; do
         usermod -a -G lp ${user}
     done
+```
