@@ -140,7 +140,7 @@ This might be useful if there's ever a desktop app too.
 * <https://github.com/phase4ground/opv-cxx-demod>
 * <https://github.com/BrucePerens/rigcontrol>
 * <https://youtube.com/watch?v=wUQsfDX1AnU> presentation about BrucePerens/rigcontrol
-* <https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/PublicCourse/COURSENO=COUR2009042216173303341001#> IMS 100 self-study course
+* <https://training.emergencymanagementontario.ca/GTFlex/GTOnline.dll/CourseCatalogue/group=CGRO2015121617525400872111> IMS training courses
 * <https://youtube.com/watch?v=D1LYLDGknOY> KA9Q-Radio
 * <https://lcamtuf.substack.com/p/radios-how-do-they-work>
 * <https://oe7drt.com/posts/2024/64-packet-radio-vara-mobilinkd-and-digirig-on-linux>
