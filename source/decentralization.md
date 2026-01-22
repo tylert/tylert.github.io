@@ -400,6 +400,69 @@ file to GNU parallel.
 * <https://nikstar.me/post/caddy-authelia>
 * <https://deuts.org/p/docker-caddy-basic-auth>
 * <https://blog.mtaha.dev/security/caddyserver_auth_setup>
+* <https://github.com/caddyserver/caddy/issues/4991> Caddy serving Kodi
+* <https://caddy.community/t/kodi-compatible-browse-template-again2/16977>
+* <https://linuxblog.xyz/posts/caddy-file-server>
+* <https://caddyserver.com/docs/caddyfile/directives/file_server>
+* <https://caddyserver.com/docs/caddyfile/directives/basic_auth>
+* <https://caddyserver.com/docs/automatic-https#local-https> CA root
+* <https://kodi.wiki/view/SSL_certificates>
+* <https://smallstep.com/docs/step-ca/getting-started> step and step-ca
+* <https://smallstep.com/docs/tutorials/acme-protocol-acme-clients/#caddy-v2> step-ca with caddy2
+* <https://github.com/smallstep/certificates>
+* <https://support.tools/create-certificate-authority-homelab> self-signed certs the old way
+* <https://fxgn.dev/blog/anubis> block bots from Caddy without Anubis
+* <https://blog.techotom.com/post/2024-02-06-caddy-local-https-snakeoil>
+* <https://waitwhat.sh/blog/custom_ca_caddy>
+* <https://m0x2a.dreamymatrix.com/caddy-as-internal-ca-and-reverse-proxy>
+* <https://unix.stackexchange.com/questions/67568/mount-http-server-as-file-system> replacement for samba
+* <https://gitlab.com/BylonAkila/astreamfs> replacement for samba
+* <https://github.com/fangfufu/httpdirfs> replacement for samba
+
+/etc/cady/kodi.html
+
+```
+    {{$useragent := .Req.Header.Get "User-Agent"}}
+    {{if regexMatch "^Kodi" $useragent}}
+    <!DOCTYPE html>
+    <html><body><table><tbody>
+    {{range .Items}}
+      <tr>
+        <td><a href="{{html .URL | replace "./" ""}}">{{html .Name}}</a></td>
+        <td>{{.HumanModTime "2006-Jan-02 15:04:05"}}</td>
+        <td>{{if .IsDir}}-{{else}}{{.HumanSize | replace " " "" | replace "iB" ""}}{{end}}</td>
+        <td>{{if .IsDir}}Directory{{else}}application/octet-stream{{end}}</td>
+      </tr>
+    {{end}}
+    <tbody></table></body></html>
+    {{else}}
+    ... browse output for other user agents (not kodi) ...
+    {{end}}
+```
+
+/etc/caddy/Caddyfile
+
+```
+    {
+        pki {
+            ca internal {
+                name moo_lab
+            }
+        }
+    }
+    :80 {
+        root * /foo
+        tls internal
+        file_server * {
+            browse /etc/caddy/kodi.html
+        }
+    }
+    :81 {
+        root * /foo
+        tls internal
+        file_server browse
+    }
+```
 
 
 # Web Server
