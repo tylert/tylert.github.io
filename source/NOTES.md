@@ -216,6 +216,7 @@ Sigh, Debian:
 * <https://mitchhorowitz.substack.com/p/101-rules-of-effective-living>
 * <https://improveyoursocialskills.com/basic-social-skills-guide>
 * <https://codenames.info> WWII codenames
+* <https://lcamtuf.coredump.cx/prep/index-old.shtml> basic emergency planning
 
 
 # Humour

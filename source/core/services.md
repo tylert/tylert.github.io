@@ -17,6 +17,7 @@
 * <https://wiki.archlinux.org/title/Google_Authenticator>
 * <https://github.com/google/google-authenticator-libpam>
 * <https://feeding.cloud.geek.nz/posts/totp-in-2025>
+* <https://github.com/VBranimir/mTOTP> manual TOTP
 
 ```
     # Enable TOTP for each USER
@@ -88,6 +89,7 @@
 * <https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028>
 * <https://github.com/axllent/wireguard-vanity-keygen> try to generate Wireguard keys containing words
 * <https://nginxproxymanager.com> more inbound networking magic
+* <https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html>
 
 
 # Email

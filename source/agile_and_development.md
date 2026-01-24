@@ -372,7 +372,7 @@
 * <https://github.com/bitfield/script>
 * <https://til.simonwillison.net/bash/go-script> kinda horrible hack
 * <https://taskfile.dev> Go binary to take the place of GNU Make?
-* <https://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv> Python with \"uv\" wrapper
+* <https://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv> Python with 'uv' wrapper
 * <https://calabro.io/zig-cgo> shoehorn Zig or C or Rust into a Go binary
 * <https://github.com/go-monk/from-bash-to-go>
 * <https://github.com/go-monk/from-bash-to-go-part-i>
@@ -580,3 +580,8 @@ Executable go scripts
 # Webby Stuff
 
 * <https://lyra.horse/blog/2025/08/you-dont-need-js> modern CSS magic
+
+
+# Mobile Stuff
+
+* <https://skip.dev>
