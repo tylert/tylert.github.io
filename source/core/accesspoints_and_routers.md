@@ -285,6 +285,9 @@ Other:
 * <https://blog.brixit.nl/making-a-linux-managed-network-switch> DIY managed Gigabit Ethernet switch
 * <https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev> another fancy whitebox switch
 * <https://interfacinglinux.com/2024/12/26/banana-pi-bpi-r4-openwrt-quickstart> dual-10GbE SFP
+* <https://github.com/martin-ger/esp32_nat_router> WiFi travel router
+* <https://github.com/dchristl/esp32_nat_router_extended> WiFi travel router
+* <https://danielraffel.me/til/2025/11/19/how-to-install-an-esp32-nat-router-config-on-an-m5nanoc6>
 
 
 # Bell

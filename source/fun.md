@@ -7,8 +7,8 @@
 * <https://git.sr.ht/~bitfehler/notariat> TLS manager ACME thingy for k8s
 
 ```
-    docker rmi $(docker images --filter "reference=myregistry.example.com/*" --quiet)
-    docker rmi $(docker images --filter "dangling=true" --quiet)
+    nerdctl rmi $(nerdctl images --filter "reference=myregistry.example.com/*" --quiet)
+    nerdctl rmi $(nerdctl images --filter "dangling=true" --quiet)
 ```
 
 
@@ -29,6 +29,9 @@
 * <https://ventoy.net/en/doc_search_path.html> skip entire directories with a .ventoyignore file
 * <https://github.com/FlyGoat/csmwrap> BIOS wrapped in fancy-pants UEFI
 * <https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html>
+* <https://habr.com/en/articles/654755> build your own Calamares GUI installer thing
+* <https://calamares.codeberg.page/docs/deploy-oem> build your own Calamares GUI installer thing
+* <https://kennethjorgensen.com/blog/2022/encrypted-btrfs-array-with-luks> some more LUKS magic
 
 
 # Alpine Linux
@@ -52,15 +55,41 @@
 * <https://linuxmind.dev/2025/09/02/how-to-install-the-operating-system-alpine-linux>
 * <https://krython.com/post/resolving-alpine-linux-installation-errors>
 * <https://linuxiac.com/how-to-install-alpine-linux>
+* <https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure>
 
 
-# Laptop Distros
+# Artix Arch Linux
 
-* <https://kennethjorgensen.com/blog/2022/encrypted-btrfs-array-with-luks>
-* <https://devuan.org>
 * <https://artixlinux.org>
 * <https://github.com/matleborgne/archlinux-full-disk-encryption>
 * <https://github.com/icecmach/artix_installation_guide>
+
+
+# Devuan Debian Linux
+
+* <https://devuan.org>
+
+
+# NixOS
+
+* <https://nathan-kim.org/writing/nixos-post-mortem>
+* <https://rasmuskirk.com/articles/2024-07-24_dont-use-nixos>
+
+
+# Arch Upgrades
+
+* <https://codeberg.org/RaphaelRochet/arch-update> visual upgrade indicator for GNOME
+* <https://github.com/bulletmark/arch-upgrade> an actual package not just a naked shell script
+* <https://aur.archlinux.org/packages/arch-upgrade> an actual package not just a naked shell script
+* <https://mickaelvieira.com/blog/2020/04/11/how-to-keep-archlinux-up-to-date.html> another good example
+* <https://github.com/vadzim/withsudo_arch> wrap stubborn tools like 'makepkg -si' or 'yay' that bitch at you
+
+
+# XFCE Config Automation
+
+* <https://jamescherti.com/command-line-tool-to-configure-xfce-4-programmatically>
+* <https://github.com/jamescherti/watch-xfce-xfconf> python thing
+* <https://github.com/jamescherti/jc-xfce-settings> shell thing which uses the python thing
 
 
 # UEFI
@@ -139,17 +168,6 @@
     # Password-protect a PDF
     pdftk unenc.pdf cat output enc.pdf encrypt_128bit user_pw whatever
 ```
-
-
-# Docker + Alpine Linux
-
-* <https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure>
-
-
-# NixOS
-
-* <https://nathan-kim.org/writing/nixos-post-mortem>
-* <https://rasmuskirk.com/articles/2024-07-24_dont-use-nixos>
 
 
 # VMware + VirtualBox
