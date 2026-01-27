@@ -1,16 +1,16 @@
 # GPG/PGP Magic
 
-* <https://musigma.blog/2021/05/09/gpg-ssh-ed25519.html> SSH and GPG with the same private key???
-* <https://serverfault.com/questions/887769/export-private-ed25519-key-from-gnupg-for-use-in-ssh>
-* <https://rgoulter.com/blog/posts/programming/2022-06-10-a-visual-explanation-of-gpg-subkeys.html>
-* <https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key>
-* <https://g-loaded.eu/2010/11/01/change-expiration-date-gpg-key>
-* <https://gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html>
-* <https://latacora.micro.blog/2019/07/16/the-pgp-problem.html> the worst parts about GPG/PGP!!!
-* <https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key>
-* <https://stackoverflow.com/questions/56582016/gpg-change-passphrase-non-interactively>
-* <https://superuser.com/questions/1478615/extend-the-expiration-date-of-a-gpg-key-non-interactively>
-* <https://github.com/rpgp/rpgp> pure Rust implementation of OpenPGP
+- <https://musigma.blog/2021/05/09/gpg-ssh-ed25519.html> SSH and GPG with the same private key???
+- <https://serverfault.com/questions/887769/export-private-ed25519-key-from-gnupg-for-use-in-ssh>
+- <https://rgoulter.com/blog/posts/programming/2022-06-10-a-visual-explanation-of-gpg-subkeys.html>
+- <https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key>
+- <https://g-loaded.eu/2010/11/01/change-expiration-date-gpg-key>
+- <https://gnupg.org/documentation/manuals/gnupg/OpenPGP-Key-Management.html>
+- <https://latacora.micro.blog/2019/07/16/the-pgp-problem.html> the worst parts about GPG/PGP!!!
+- <https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key>
+- <https://stackoverflow.com/questions/56582016/gpg-change-passphrase-non-interactively>
+- <https://superuser.com/questions/1478615/extend-the-expiration-date-of-a-gpg-key-non-interactively>
+- <https://github.com/rpgp/rpgp> pure Rust implementation of OpenPGP
 
 ```
     # Sigh... macOS...
@@ -64,18 +64,18 @@
 
 # Backups
 
-* <https://saminiir.com/paper-storage-and-recovery-of-gpg-keys>
-* <https://wiki.archlinux.org/title/Paperkey> can't backup public keys
-* <https://jabberwocky.com/software/paperkey> can't backup public keys
-* <https://github.com/dmshaw/paperkey> can't backup public keys
-* <https://github.com/volution/punchcard-key-backup>
-* <https://docs.python.org/3/library/binascii.html#binascii.crc_hqx> Python CRC-CCITT CRC-16/XMODEM function
-* <https://beebwiki.mdfs.net/CRC-16> C CRC-CCITT CRC-16/XMODEM function
-* <https://www.monperrus.net/martin/store-data-paper> (mandatory 'www' here)
-* <https://www.monperrus.net/martin/perfect-ocr-digital-data> (mandatory 'www' here)
-* <https://qr.blinry.org> reading QR codes without a computer
-* <https://ronja.twibright.com/optar> another barcode thing
-* <https://github.com/colindean/optar> another barcode thing
+- <https://saminiir.com/paper-storage-and-recovery-of-gpg-keys>
+- <https://wiki.archlinux.org/title/Paperkey> can't backup public keys
+- <https://jabberwocky.com/software/paperkey> can't backup public keys
+- <https://github.com/dmshaw/paperkey> can't backup public keys
+- <https://github.com/volution/punchcard-key-backup>
+- <https://docs.python.org/3/library/binascii.html#binascii.crc_hqx> Python CRC-CCITT CRC-16/XMODEM function
+- <https://beebwiki.mdfs.net/CRC-16> C CRC-CCITT CRC-16/XMODEM function
+- <https://www.monperrus.net/martin/store-data-paper> (mandatory 'www' here)
+- <https://www.monperrus.net/martin/perfect-ocr-digital-data> (mandatory 'www' here)
+- <https://qr.blinry.org> reading QR codes without a computer
+- <https://ronja.twibright.com/optar> another barcode thing
+- <https://github.com/colindean/optar> another barcode thing
 
 ```
     # Export stuff for safe-keeping??? (Don't forget the revcert too!!!)
@@ -116,11 +116,11 @@
 
 # SSH
 
-* <https://goral.net.pl/post/use-gpg-for-ssh-keys> overview but missing the SSH private key file
-* <https://github.com/pinpox/pgp2ssh> actually get a working SSH private key file (tool works but is very cumbersome to use)
-* <https://github.com/ProtonMail/go-crypto> dependency of pgp2ssh
-* <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto
-* <https://infosec.mozilla.org/guidelines/openssh> recommendations for SSH stuff
+- <https://goral.net.pl/post/use-gpg-for-ssh-keys> overview but missing the SSH private key file
+- <https://github.com/pinpox/pgp2ssh> actually get a working SSH private key file (tool works but is very cumbersome to use)
+- <https://github.com/ProtonMail/go-crypto> dependency of pgp2ssh
+- <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto
+- <https://infosec.mozilla.org/guidelines/openssh> recommendations for SSH stuff
 
 ```
     # First, ensure you have a key with 'auth' capability
@@ -143,14 +143,14 @@
 
 # Commit Signing
 
-* <https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work>
-* <https://help.gitkraken.com/gitkraken-client/commit-signing-with-gpg>
-* <https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html>
+- <https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work>
+- <https://help.gitkraken.com/gitkraken-client/commit-signing-with-gpg>
+- <https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html>
 
 
 # Key Discovery
 
-* <https://gist.github.com/kafene/0a6e259996862d35845784e6e5dbfc79>
+- <https://gist.github.com/kafene/0a6e259996862d35845784e6e5dbfc79>
 
 
 # Other ED25519 Stuff
@@ -163,16 +163,16 @@ ED25519!
     openssl pkey -in priv -out pub -pubout
 ```
 
-* <https://slsa.dev/provenance/v0.2> needs in-toto
-* <https://github.com/in-toto/in-toto> in-toto-keygen (pip install in-toto pynacl; see below for why)
-* <https://stackoverflow.com/questions/72981536/sign-a-text-with-pynacl-ed25519-importing-a-private-key>
-* <https://github.com/in-toto/in-toto-golang> not quite ready for prime-time yet!!!
-* <https://github.com/mikalv/anything2ed25519>
-* <https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html>
-* <https://doc.libsodium.org/advanced/ed25519-curve25519>
-* <https://asecuritysite.com/blog/2024-04-05_The-Confusing-Thing-About-X25519-and-Ed25519-10310df41f81.html>
-* <https://asecuritysite.com/age/go_age9>
-* <https://pkg.go.dev/crypto/internal/edwards25519> ripped out in go1.24.0 but present in 1.23.12
+- <https://slsa.dev/provenance/v0.2> needs in-toto
+- <https://github.com/in-toto/in-toto> in-toto-keygen (pip install in-toto pynacl; see below for why)
+- <https://stackoverflow.com/questions/72981536/sign-a-text-with-pynacl-ed25519-importing-a-private-key>
+- <https://github.com/in-toto/in-toto-golang> not quite ready for prime-time yet!!!
+- <https://github.com/mikalv/anything2ed25519>
+- <https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html>
+- <https://doc.libsodium.org/advanced/ed25519-curve25519>
+- <https://asecuritysite.com/blog/2024-04-05_The-Confusing-Thing-About-X25519-and-Ed25519-10310df41f81.html>
+- <https://asecuritysite.com/age/go_age9>
+- <https://pkg.go.dev/crypto/internal/edwards25519> ripped out in go1.24.0 but present in 1.23.12
 
 Steps to convert ED-209 keys to X25519 keys
 
@@ -208,23 +208,23 @@ Steps to convert ED-209 keys to X25519 keys
 
 # Key Servers
 
-* <https://keys.openpgp.org>
-* <https://keys.openpgp.org/about/api>
-* <https://keys.openpgp.org/search?q=0x3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C>
-* <https://keys.openpgp.org/vks/v1/by-fingerprint/3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C>
+- <https://keys.openpgp.org>
+- <https://keys.openpgp.org/about/api>
+- <https://keys.openpgp.org/search?q=0x3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C>
+- <https://keys.openpgp.org/vks/v1/by-fingerprint/3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C>
 
 
 # Golang
 
-* <https://github.com/golang/go/issues/44226> deprecated library!!!
-* <https://github.com/ProtonMail/gopenpgp> possible replacement library
-* <https://pkg.go.dev/github.com/ProtonMail/gopenpgp/v2> docs for possible replacement library
-* <https://asecuritysite.com/age> go examples
-* <https://github.com/yeqown/go-qrcode>
-* <https://github.com/gokyle> some other nifty ideas for tiny Go tools
+- <https://github.com/golang/go/issues/44226> deprecated library!!!
+- <https://github.com/ProtonMail/gopenpgp> possible replacement library
+- <https://pkg.go.dev/github.com/ProtonMail/gopenpgp/v2> docs for possible replacement library
+- <https://asecuritysite.com/age> go examples
+- <https://github.com/yeqown/go-qrcode>
+- <https://github.com/gokyle> some other nifty ideas for tiny Go tools
 
 
 # X.509 Stuff
 
-* <https://github.com/kisom/cert> nifty Go CLI tool for dealing with cert stuff
-* <https://blog.pinterjann.is/ed25519-certificates.html> ED25519 for TLS certificates
+- <https://github.com/kisom/cert> nifty Go CLI tool for dealing with cert stuff
+- <https://blog.pinterjann.is/ed25519-certificates.html> ED25519 for TLS certificates

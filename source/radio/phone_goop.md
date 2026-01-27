@@ -35,11 +35,11 @@
 1. Use Files, complete the installation of F-Droid.
 1. Use Files, delete the downloaded copy of the F-Droid app.
 1. Use F-Droid, install the following apps after allowing F-Droid to install apps from unknown sources:
-    * FFUpdater Thunderbird/Firefox downloader
-    * Termux phone productivity enhancer (termux, termux-api)
+    - FFUpdater Thunderbird/Firefox downloader
+    - Termux phone productivity enhancer (termux, termux-api)
 1. Use FFUpdater, allow access to files and media and allow install apps from unknown sources, hit + to install:
-    * Thunderbird Mail email client
-    * Firefox Browser web browser
+    - Thunderbird Mail email client
+    - Firefox Browser web browser
 
 It is very likely that you will also desire/need some apps from
 <https://fossify.org/apps> as well.  Fossify Calendar might be a good choice.
@@ -102,10 +102,10 @@ the default settings for the app as follows:
 
 # Osmin
 
-* <https://apt.izzysoft.de/fdroid/repo>
-* <https://github.com/janbar/osmin>
-* <https://github.com/janbar/osmin/wiki>
-* <http://download.openstreetmap.fr/extracts> more-granular maps for osmin (may have trouble writing to needed location)
+- <https://apt.izzysoft.de/fdroid/repo>
+- <https://github.com/janbar/osmin>
+- <https://github.com/janbar/osmin/wiki>
+- <http://download.openstreetmap.fr/extracts> more-granular maps for osmin (may have trouble writing to needed location)
 
 
 # Evict Obstinate System Apps
@@ -159,14 +159,14 @@ the default settings for the app as follows:
 
 # SSH and Rsync
 
-* <https://gitlab.com/d4rcm4rc/MagiskSSH>
-* <https://github.com/topjohnwu/Magisk> SU + other stuff?
-* <https://cgoldberg.github.io/posts/android-ssh-server>
-* <https://izzyondroid.org/quickstart>
-* <https://github.com/tfonteyn/Sshd4a>
-* <https://github.com/tfonteyn/Sshd4a/wiki>
-* <https://howtos.davidsebek.com/android-rsync-termux.html>
-* <https://howtos.davidsebek.com/android-rsync-adb.html>
+- <https://gitlab.com/d4rcm4rc/MagiskSSH>
+- <https://github.com/topjohnwu/Magisk> SU + other stuff?
+- <https://cgoldberg.github.io/posts/android-ssh-server>
+- <https://izzyondroid.org/quickstart>
+- <https://github.com/tfonteyn/Sshd4a>
+- <https://github.com/tfonteyn/Sshd4a/wiki>
+- <https://howtos.davidsebek.com/android-rsync-termux.html>
+- <https://howtos.davidsebek.com/android-rsync-adb.html>
 
 ```
     # Delete files as they are moved
@@ -176,40 +176,44 @@ the default settings for the app as follows:
 
 # Others
 
-* <https://rugu.dev/en/blog/debloat-with-adb>
-* <https://opensource.com/article/20/12/android-auto-open-source>
-* <https://reddit.com/r/fossdroid/comments/fh5jcr/foss_alternative_to_connect_to_android_auto>
-* <https://github.com/tomasz-grobelny/AACS>
-* <https://rafalgolarz.com/blog/2017/01/15/running_golang_on_android> termux-go?
-* <https://schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html>
-* <https://tycrek.github.io/degoogle>
-* <https://github.com/tycrek/degoogle>
-* <https://anysoftkeyboard.github.io>
-* <https://github.com/NeoApplications/Neo-Store> F-Droid alternative?
-* <https://mudkip.me/2024/02/28/Spiritual-Successor-to-the-Google-Nexus-7> tablets still suck
-* <https://keyboard.futo.org>
-* <https://kevinboone.me/lineageos-degoogled.html> making LineageOS a tiny bit less horrible
-* <https://plop.at/en/lineageos.html> backup/restore LineageOS stuff?
-* <https://gitlab.com/android_translation_layer/android_translation_layer> Android apps on your Linux workstation
-* <https://landley.net/toybox> build Android on Android?
-* <https://github.com/landley/toybox> build Android on Android?
-* <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
-* <https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame>
-* <https://gioui.org> Android apps in Go?
-* <https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret> maybe avoid eSIM as long as possible
-* <https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail> SMS 2FA
+- <https://rugu.dev/en/blog/debloat-with-adb>
+- <https://opensource.com/article/20/12/android-auto-open-source>
+- <https://reddit.com/r/fossdroid/comments/fh5jcr/foss_alternative_to_connect_to_android_auto>
+- <https://github.com/tomasz-grobelny/AACS>
+- <https://rafalgolarz.com/blog/2017/01/15/running_golang_on_android> termux-go?
+- <https://schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html>
+- <https://tycrek.github.io/degoogle>
+- <https://github.com/tycrek/degoogle>
+- <https://anysoftkeyboard.github.io>
+- <https://github.com/NeoApplications/Neo-Store> F-Droid alternative?
+- <https://mudkip.me/2024/02/28/Spiritual-Successor-to-the-Google-Nexus-7> tablets still suck
+- <https://keyboard.futo.org>
+- <https://kevinboone.me/lineageos-degoogled.html> making LineageOS a tiny bit less horrible
+- <https://plop.at/en/lineageos.html> backup/restore LineageOS stuff?
+- <https://gitlab.com/android_translation_layer/android_translation_layer> Android apps on your Linux workstation
+- <https://landley.net/toybox> build Android on Android?
+- <https://github.com/landley/toybox> build Android on Android?
+- <https://androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539>
+- <https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame>
+- <https://gioui.org> Android apps in Go?
+- <https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret> maybe avoid eSIM as long as possible
+- <https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail> SMS 2FA
 
 
 # FFUpdater
 
-* <https://f-droid.org/en/packages/de.marmaro.krt.ffupdater>
-* <https://github.com/Tobi823/ffupdater>
+- <https://f-droid.org/en/packages/de.marmaro.krt.ffupdater>
+- <https://github.com/Tobi823/ffupdater>
 
 
 # GrapheneOS
 
-* <https://github.com/iAnonymous3000/awesome-grapheneos-guide>
-* <https://funnymonkey.com/2025/02/configuring-grapheneos-for-daily-use>
-* <https://seprand.github.io/articles/best-user-profile-setup>
-* <https://theprivacydad.com/using-android-without-a-google-account> F-Droid, Aurora Store
-* <https://designed-cybersecurity.com/tutorial/grapheneos-guide> Organic Maps, Obtainium, etc.
+- <https://github.com/iAnonymous3000/awesome-grapheneos-guide>
+- <https://funnymonkey.com/2025/02/configuring-grapheneos-for-daily-use>
+- <https://seprand.github.io/articles/best-user-profile-setup>
+- <https://theprivacydad.com/using-android-without-a-google-account> F-Droid, Aurora Store
+- <https://designed-cybersecurity.com/tutorial/grapheneos-guide> Organic Maps, Obtainium, etc.
+- <https://マリウス.com/phone> more app suggestions
+- <https://マリウス.com/computer/#c4l1c0> more app suggestions
+- <https://xn--gckvb8fzb.com/phone> more app suggestions
+- <https://xn--gckvb8fzb.com/computer/#c4l1c0> more app suggestions
