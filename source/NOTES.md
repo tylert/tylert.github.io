@@ -320,7 +320,7 @@ macOS:
 * <https://blog.hansenpartnership.com/creating-a-home-ipv6-network>
 * <https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access>
 * <https://medium.com/faun/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8>
-* <https://www.alvarez.io/posts/living-like-it-s-99>
+* <https://alvarez.io/posts/living-like-it-s-99>
 * <https://www.sliderulemuseum.com/SR_Course.htm>
 * <https://youtube.com/watch?v=icyTnoonRqI> K3s and Home Assistant
 * <https://github.com/mwgg/Airports> JSON database of airport codes and locations
