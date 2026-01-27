@@ -117,6 +117,7 @@
 # SSH
 
 - <https://goral.net.pl/post/use-gpg-for-ssh-keys> overview but missing the SSH private key file
+- <https://procustodibus.com/blog/2024/02/wireguard-keys-for-ssh> use WireGuard keys for SSH
 - <https://github.com/pinpox/pgp2ssh> actually get a working SSH private key file (tool works but is very cumbersome to use)
 - <https://github.com/ProtonMail/go-crypto> dependency of pgp2ssh
 - <https://github.com/ProtonMail/gopenpgp> probably a better choice than go-crypto

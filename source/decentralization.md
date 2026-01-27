@@ -43,6 +43,8 @@
 - <https://github.com/ScriptNinja-GNU/TurboTux-BBR-FQ-CoDel-Optimizer>
 - <https://github.com/averyanalex/yggdrasil-vanity>
 - <https://github.com/averyanalex/ygglkan>
+- <https://jacksonchen666.com/posts/2023-06-19/18-19-32> WireGuard over Yggdrasil
+- <https://en.wikipedia.org/wiki/Decentralized_network_42> dn42
 
 ```
     ufw prepend deny in on tun0 proto ipv6  # put yggdrasil rule first
@@ -155,6 +157,7 @@
 - <https://github.com/TryQuiet/quiet>
 - <https://github.com/TryQuiet/quiet/wiki>
 - <https://remark42.com> comment engine thing
+- <https://handshake.org>
 
 
 # Email
@@ -250,8 +253,6 @@
 - <https://iroh.computer/sendme> built with iroh
 - <https://dumbpipe.dev> built with iroh
 - <https://foks.pub> kv store and git store?
-- <https://notes.pault.ag/tpl> The Promised LAN Manifesto
-- <https://tpl.house> The Promised LAN architecture
 - <https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks> portable network magic?
 - <https://github.com/polaroi8d/cactoide> self-hosted RSVP platform
 - <https://cactoide.dalev.hu> self-hosted RSVP platform
@@ -347,6 +348,8 @@ file to GNU parallel.
 - <https://github.com/sile-typesetter/sile>
 - <https://overreacted.io/open-social> AT protocol
 - <https://overreacted.io/where-its-at> AT protocol
+- <https://マリウス.com/domains-as-internet-handles> why the AT protocol is a bit silly
+- <https://xn--gckvb8fzb.com/domains-as-internet-handles> why the AT protocol is a bit silly
 - <https://solidproject.org> Solid protocol
 - <https://codeberg.org/git-pages/git-pages> codeberg pages
 - <https://grebedoc.dev> codeberg pages
@@ -498,6 +501,7 @@ file to GNU parallel.
 - <https://github.com/agersant/polaris> some kind of self-hosted streaming audio server thing
 - <https://github.com/ogarcia/docker-polaris> container for polaris
 - <https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page>
+- <https://internet-in-a-box.org> offline learning hotspots
 
 
 # Wireless
@@ -523,7 +527,7 @@ file to GNU parallel.
 
 # Backups and File Sharing
 
-- <https://www.suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing>
+- <https://suramya.com/blog/2021/03/syncing-data-between-my-machines-and-phones-using-syncthing>
 - <https://blog.jse.li/posts/torrent> Go torrent client
 - <http://mikerubel.org/computers/rsync_snapshots> (mandatory 'http' here)
 - <https://github.com/WikiBox/snapshot.sh>
@@ -557,7 +561,9 @@ file to GNU parallel.
 - <https://github.com/hrimfaxi/tutuicmptunnel> bpf for doing udp-over-icmp? (replaces udp2raw icmp mode?)
 - <https://hysteria.network> censorship-resistant proxy
 - <https://github.com/apernet/hysteria> censorship-resistant proxy
-- <https://tpl.house> the promised LAN
+- <https://notes.pault.ag/tpl> The Promised LAN Manifesto
+- <https://tpl.house> The Promised LAN architecture
+- <https://procustodibus.com/blog/2020/10/wireguard-topologies/#hub-and-spoke> WireGuard hub and spoke model diagram
 
 
 # Sharing
