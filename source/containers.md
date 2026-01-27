@@ -24,6 +24,7 @@
 
 * <https://uncloud.run> distributed homelab fun?
 * <https://ungleich.ch/u/blog/encrypted-rootfs-with-alpine-linux>
+* <https://github.com/jsixface/ddash> Caddy sidecar dashboard-y things?
 
 
 # Official OS Images
