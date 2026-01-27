@@ -136,6 +136,8 @@
 - <https://momi.ca/posts/2024-10-09-honeybee.html> XMPP for calls?
 - <https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat>
 - <https://snikket.org> XMPP
+- <https://マリウス.com/contact> potential XMPP watering hole
+- <https://xn--gckvb8fzb.com/contact> potential XMPP watering hole
 - <https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server> (mandatory 'www' here)
 - <https://profanity-im.github.io> XMPP client
 - <https://berty.tech>
