@@ -1,21 +1,21 @@
 # TP-Link EAP245 US v3
 
-* <https://amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1>
-* <https://lowtek.ca/roo/2022/openwrt-dumb-access-point>
-* <https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111> non-US firmware fix
-* <https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97>
-* <https://gist.githubusercontent.com/svanheule/9f82e156a3601d4a726639eb7400ec97/raw/10673b16c5d697e5f6bf8b8292ee6bccf0adfe67/patch-safeloader.py>
-* <https://openwrt.org/toh/tp-link/eap245_v3>
-* <https://openwrt.org/docs/guide-user/network/wifi/wifiextenders/bridgedap> postprandial setup
-* <https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10> serial UART info
-* <https://aliexpress.com/item/1005002605013057.html> DC-DC step-up passive PoE
-* <https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods>
-* <https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11>
-* <https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption>
-* <https://superuser.com/questions/1752083/wifi-qr-code-format-for-wpa2-wpa3>
-* <https://wi-fi.org/system/files/WPA3%20Specification%20v3.3.pdf#page=26>
-* <https://openwrt.org/docs/guide-user/network/wifi/basic#encryption_modes>
-* <https://firmware-selector.openwrt.org/?version=22.03.5&target=ath79%2Fgeneric&id=tplink_eap245-v3>
+- <https://amazon.ca/TP-Link-EAP245-Wireless-Supports-Injector/dp/B07NMZR3F1>
+- <https://lowtek.ca/roo/2022/openwrt-dumb-access-point>
+- <https://forum.openwrt.org/t/tp-link-eap245-v3-bad-file-when-attempting-to-flash/89111> non-US firmware fix
+- <https://gist.github.com/svanheule/9f82e156a3601d4a726639eb7400ec97>
+- <https://gist.githubusercontent.com/svanheule/9f82e156a3601d4a726639eb7400ec97/raw/10673b16c5d697e5f6bf8b8292ee6bccf0adfe67/patch-safeloader.py>
+- <https://openwrt.org/toh/tp-link/eap245_v3>
+- <https://openwrt.org/docs/guide-user/network/wifi/wifiextenders/bridgedap> postprandial setup
+- <https://forum.openwrt.org/t/adding-openwrt-support-for-tp-link-eap245/57583/10> serial UART info
+- <https://aliexpress.com/item/1005002605013057.html> DC-DC step-up passive PoE
+- <https://en.wikipedia.org/wiki/Wi-Fi#Securing_methods>
+- <https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11>
+- <https://unix.stackexchange.com/questions/628789/generate-a-qr-code-to-log-into-wireless-wifi-with-wpa-encryption>
+- <https://superuser.com/questions/1752083/wifi-qr-code-format-for-wpa2-wpa3>
+- <https://wi-fi.org/system/files/WPA3%20Specification%20v3.3.pdf#page=26>
+- <https://openwrt.org/docs/guide-user/network/wifi/basic#encryption_modes>
+- <https://firmware-selector.openwrt.org/?version=22.03.5&target=ath79%2Fgeneric&id=tplink_eap245-v3>
 
 Full OpenWRT installation instructions from recent vintage stock
 firmware:
@@ -176,16 +176,16 @@ Add stuff to /etc/rc.local (System - Startup - Local Startup):
 
 # Ubiquiti EdgeRouter X
 
-* <https://amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W>
-* <http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html> (mandatory 'http' here)
-* <http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html> (mandatory 'http' and 'www' here)
-* <https://reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x>
-* <https://reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage>
-* <https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka>
-* <https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka>
-* <https://openwrt.org/docs/techref/hardware/switch>
-* <https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x>
-* <https://github.com/darkxst/erx-migration> needed if upgrading an ERX from pre-24.10.x OpenWRT (see below)
+- <https://amazon.ca/Ubiquiti-ER-X-UBIQUITI-Router-Black/dp/B0144R449W>
+- <http://sector5d.org/openwrt-on-the-ubiquiti-edgerouter-x.html> (mandatory 'http' here)
+- <http://www.makikiweb.com/ipv6/edgerouterx_openwrt.html> (mandatory 'http' and 'www' here)
+- <https://reddit.com/r/openwrt/comments/x1grtz/proscons_of_openwrt_on_ubiquiti_edgerouter_x>
+- <https://reddit.com/r/openwrt/comments/nejwp6/openwrt_on_edgerouterx_advantage>
+- <https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka>
+- <https://openwrt.org/inbox/toh/ubiquiti/ubiquiti_edgerouter_x_er-x_ka>
+- <https://openwrt.org/docs/techref/hardware/switch>
+- <https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x>
+- <https://github.com/darkxst/erx-migration> needed if upgrading an ERX from pre-24.10.x OpenWRT (see below)
 
 (New method) Steps for replacement of stock firmware:
 
@@ -268,8 +268,8 @@ Other:
 
 # OpenWRT
 
-* <https://openwisp.io> manage lots of OpenWRT devices from a web UI?
-* <https://libe.net/en/wlan-practice>
+- <https://openwisp.io> manage lots of OpenWRT devices from a web UI?
+- <https://libe.net/en/wlan-practice>
 
 ```
     opkg update
@@ -280,40 +280,40 @@ Other:
 
 # Other
 
-* <https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt>
-* <https://github.com/benjojo/dumb-net-poller> Go utility to scrape /proc for network statistics for Grafana
-* <https://blog.brixit.nl/making-a-linux-managed-network-switch> DIY managed Gigabit Ethernet switch
-* <https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev> another fancy whitebox switch
-* <https://interfacinglinux.com/2024/12/26/banana-pi-bpi-r4-openwrt-quickstart> dual-10GbE SFP
-* <https://github.com/martin-ger/esp32_nat_router> WiFi travel router
-* <https://github.com/dchristl/esp32_nat_router_extended> WiFi travel router
-* <https://danielraffel.me/til/2025/11/19/how-to-install-an-esp32-nat-router-config-on-an-m5nanoc6>
+- <https://r.obin.ch/blog/2022/08/05/set-up-wireguard-on-openwrt>
+- <https://github.com/benjojo/dumb-net-poller> Go utility to scrape /proc for network statistics for Grafana
+- <https://blog.brixit.nl/making-a-linux-managed-network-switch> DIY managed Gigabit Ethernet switch
+- <https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev> another fancy whitebox switch
+- <https://interfacinglinux.com/2024/12/26/banana-pi-bpi-r4-openwrt-quickstart> dual-10GbE SFP
+- <https://github.com/martin-ger/esp32_nat_router> WiFi travel router
+- <https://github.com/dchristl/esp32_nat_router_extended> WiFi travel router
+- <https://danielraffel.me/til/2025/11/19/how-to-install-an-esp32-nat-router-config-on-an-m5nanoc6>
 
 
 # Bell
 
-* <https://pon.wiki>
-* <https://reddit.com/r/bell/comments/1hgh32v/what_are_my_options_to_use_my_own_router_instead>
-* <https://www.store.mikrotikcanada.ca/ethernet-routers/441-rb5009ugsin-4752224007148.html?SubmitCurrency=1&id_currency=3> (mandatory 'www' here)
-* <https://mikrotik.com/product/rb5009ug_s_in>
-* <https://mikrotik.com/product/rb5009_mount> K-79
-* <https://openwrt.org/toh/mikrotik/rb5009ug_s_in>
-* <https://github.com/adron-s/openwrt-rb5009>
-* <https://downloads.openwrt.org/releases/24.10.4/targets/mvebu/cortexa72> mikrotik_rb5009
-* <https://reddit.com/r/bell/comments/1o8zhj5/switched_from_bell_to_ebox_a_year_ago_same_fibre> ebox.ca?
-* <https://reddit.com/r/homelab/comments/wjd2ps/canadian_isp_with_whom_i_can_use_my_own_router>
-* <https://reddit.com/r/homelab/comments/wjd2ps/comment/ijhs6mu> use your own modem and router
-* <https://reddit.com/r/bell/comments/18sdfzy/are_you_technically_savvy_and_want_to_bypass_your>
-* <https://morey.tech/technical%20blog/Bell-HomeHub-4000-PPPoE-with-pfSense>
+- <https://pon.wiki>
+- <https://reddit.com/r/bell/comments/1hgh32v/what_are_my_options_to_use_my_own_router_instead>
+- <https://www.store.mikrotikcanada.ca/ethernet-routers/441-rb5009ugsin-4752224007148.html?SubmitCurrency=1&id_currency=3> (mandatory 'www' here)
+- <https://mikrotik.com/product/rb5009ug_s_in>
+- <https://mikrotik.com/product/rb5009_mount> K-79
+- <https://openwrt.org/toh/mikrotik/rb5009ug_s_in>
+- <https://github.com/adron-s/openwrt-rb5009>
+- <https://downloads.openwrt.org/releases/24.10.4/targets/mvebu/cortexa72> mikrotik_rb5009
+- <https://reddit.com/r/bell/comments/1o8zhj5/switched_from_bell_to_ebox_a_year_ago_same_fibre> ebox.ca?
+- <https://reddit.com/r/homelab/comments/wjd2ps/canadian_isp_with_whom_i_can_use_my_own_router>
+- <https://reddit.com/r/homelab/comments/wjd2ps/comment/ijhs6mu> use your own modem and router
+- <https://reddit.com/r/bell/comments/18sdfzy/are_you_technically_savvy_and_want_to_bypass_your>
+- <https://morey.tech/technical%20blog/Bell-HomeHub-4000-PPPoE-with-pfSense>
 
 You will need to know if your service is gpon or xgs-pon.
 
 
 # Banana Pi BPI-R4
 
-* <https://tarball.ca/posts/vyos-bypassing-bell-gigahub-with-was-110>
-* <https://pon.wiki/guides/masquerade-as-the-bce-inc-giga-hub-with-the-was-110>
-* <https://fibermall.com/sale-462134-xgspon-onu-sfp-stick-i-temp.htm> WAS-110 SFP+ module
-* <https://openwrt.org/tag/sfp_plus> OpenWRT-compatible routers with SFP+ ports
-* <https://openwrt.org/inbox/toh/sinovoip/bananapi_bpi-r4>
-* <https://aliexpress.com/item/1005006256988361.html> router without case
+- <https://tarball.ca/posts/vyos-bypassing-bell-gigahub-with-was-110>
+- <https://pon.wiki/guides/masquerade-as-the-bce-inc-giga-hub-with-the-was-110>
+- <https://fibermall.com/sale-462134-xgspon-onu-sfp-stick-i-temp.htm> WAS-110 SFP+ module
+- <https://openwrt.org/tag/sfp_plus> OpenWRT-compatible routers with SFP+ ports
+- <https://openwrt.org/inbox/toh/sinovoip/bananapi_bpi-r4>
+- <https://aliexpress.com/item/1005006256988361.html> router without case

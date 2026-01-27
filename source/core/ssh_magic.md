@@ -105,10 +105,10 @@ on hostA B -\> A:
     # putty.exe -ssh localhost -P ${PORT2} -l ${AUSER}
 ```
 
-* <https://superuser.com/questions/315523/ssh-connection-between-two-behind-nat-computers-through-third-public-ip-computer?rq=1>
-* <https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html>
-* <https://robotmoon.com/ssh-tunnels>
-* <https://infosec.mozilla.org/guidelines/openssh>
+- <https://superuser.com/questions/315523/ssh-connection-between-two-behind-nat-computers-through-third-public-ip-computer?rq=1>
+- <https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html>
+- <https://robotmoon.com/ssh-tunnels>
+- <https://infosec.mozilla.org/guidelines/openssh>
 
 
 # Session Stuff
@@ -119,58 +119,59 @@ example: ssh -oUseRoaming=no pacharest@mc.pubb-it.com
 Or, force the option for all future outgoing connections:
 Edit the /etc/ssh/ssh_config or ~/.ssh/config file to add "UseRoaming no" under the "Host *" section.
 
-* <https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing>
+- <https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing>
+- <https://jefftk.com/p/mosh> why use mosh
 
 
 # VPN Magic
 
-* <https://orth.uk/ssh-over-cloudflare>
-* <https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation>
-* <https://github.com/cloudflare/cloudflared>
-* <https://github.com/gravitational/teleport>
-* <https://github.com/moul/awesome-ssh>
-* <https://github.com/moul/sshportal>
-* <https://grahamhelton.com/blog/ssh-cheatsheet>
+- <https://orth.uk/ssh-over-cloudflare>
+- <https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation>
+- <https://github.com/cloudflare/cloudflared>
+- <https://github.com/gravitational/teleport>
+- <https://github.com/moul/awesome-ssh>
+- <https://github.com/moul/sshportal>
+- <https://grahamhelton.com/blog/ssh-cheatsheet>
 
 
 # Evil
 
-* <https://fly.io/blog/our-user-mode-wireguard-year>
-* <https://mjg59.dreamwidth.org/69646.html> SSH Agent as an RPC
-* <https://github.com/ekzhang/sshx>
-* <https://sshx.io>
-* <https://16years.secvuln.info> badkeys?
+- <https://fly.io/blog/our-user-mode-wireguard-year>
+- <https://mjg59.dreamwidth.org/69646.html> SSH Agent as an RPC
+- <https://github.com/ekzhang/sshx>
+- <https://sshx.io>
+- <https://16years.secvuln.info> badkeys?
 
 
 # SSH CA/Agent/Sudo/Signing
 
-* <https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617>
-* <https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20>
-* <https://github.com/cloudtools/ssh-ca>
-* <https://github.com/cloudtools/ssh-cert-authority>
-* <https://github.com/lgxz/sshca>
-* <https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca>
-* <https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority>
-* <https://thinkingeek.com/2020/06/06/using-ssh-certificates>
-* <https://www.lorier.net/docs/ssh-ca.html>
-* <http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication>
-* <http://unixwiz.net/techtips/ssh-agent-forwarding.html>
-* <https://github.com/jbeverly/pam_ssh_agent_auth>
-* <https://github.com/netflix/bless>
-* <https://github.com/uber/pam-ussh> sudo after SSH
-* <https://graystum.com/aws-ssm-do-you-really-need-ssh> AWS SSM
-* <https://hackernoon.com/ditch-your-ssh-keys-and-enable-aws-ssm-ec1c2b27350c>
-* <https://smallstep.com/blog/use-ssh-certificates>
-* <https://hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault>
-* <https://www.sweharris.org/post/2022-02-06-ssh-certs-again>
-* <https://www.toptal.com/aws/ssh-log-with-ssm>
-* <https://news.ycombinator.com/item?id=32660773> SSH CA discussion/poll
-* <https://smallstep.com/blog/diy-single-sign-on-for-ssh>
-* <https://keepassxc.org/docs/#faq-ssh-agent-how> combine with other magic!!!
-* <https://www.agwa.name/blog/post/ssh_signatures> ssh signatures and signature verification
-* <https://imzye.com/DevSecOps/signature-with-ssh-keys> ssh signatures and signature verification
-* <https://calebhearth.com/sign-git-with-ssh> sign git commits with SSH
-* <https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures> git commit signing
-* <https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated>
-* <https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication>
-* <https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement>
+- <https://betterprogramming.pub/how-to-use-ssh-certificates-for-scalable-secure-and-more-transparent-server-access-720a87af6617>
+- <https://gist.github.com/seanw2020/924c50e4c8428ad2d030db99cc819e20>
+- <https://github.com/cloudtools/ssh-ca>
+- <https://github.com/cloudtools/ssh-cert-authority>
+- <https://github.com/lgxz/sshca>
+- <https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca>
+- <https://jameshfisher.com/2018/03/16/how-to-create-an-ssh-certificate-authority>
+- <https://thinkingeek.com/2020/06/06/using-ssh-certificates>
+- <https://www.lorier.net/docs/ssh-ca.html>
+- <http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication>
+- <http://unixwiz.net/techtips/ssh-agent-forwarding.html>
+- <https://github.com/jbeverly/pam_ssh_agent_auth>
+- <https://github.com/netflix/bless>
+- <https://github.com/uber/pam-ussh> sudo after SSH
+- <https://graystum.com/aws-ssm-do-you-really-need-ssh> AWS SSM
+- <https://hackernoon.com/ditch-your-ssh-keys-and-enable-aws-ssm-ec1c2b27350c>
+- <https://smallstep.com/blog/use-ssh-certificates>
+- <https://hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault>
+- <https://www.sweharris.org/post/2022-02-06-ssh-certs-again>
+- <https://www.toptal.com/aws/ssh-log-with-ssm>
+- <https://news.ycombinator.com/item?id=32660773> SSH CA discussion/poll
+- <https://smallstep.com/blog/diy-single-sign-on-for-ssh>
+- <https://keepassxc.org/docs/#faq-ssh-agent-how> combine with other magic!!!
+- <https://www.agwa.name/blog/post/ssh_signatures> ssh signatures and signature verification
+- <https://imzye.com/DevSecOps/signature-with-ssh-keys> ssh signatures and signature verification
+- <https://calebhearth.com/sign-git-with-ssh> sign git commits with SSH
+- <https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures> git commit signing
+- <https://superuser.com/questions/421997/what-is-a-ssh-key-fingerprint-and-how-is-it-generated>
+- <https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Certificate-based_Authentication>
+- <https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement>

@@ -12,9 +12,9 @@ The shitty, less-automated download link is
 
 # Berryboot
 
-* <https://berryterminal.com/doku.php/berryboot>
-* <https://sourceforge.net/projects/berryboot/files>
-* <https://sourceforge.net/projects/berryboot/files/os_images>
+- <https://berryterminal.com/doku.php/berryboot>
+- <https://sourceforge.net/projects/berryboot/files>
+- <https://sourceforge.net/projects/berryboot/files/os_images>
 
 
 # Flash Image
@@ -30,9 +30,9 @@ If you have a pesky zip file:
     openssl passwd -6  # append to user:hash in boot/userconf.txt
 ```
 
-* <https://raspberrypi.com/documentation/computers/configuration.html#configuring-a-user>
-* <https://raspberrypi.com/documentation/computers/remote-access.html>
-* <https://raspberrypi.com/documentation/computers/configuration.html>
+- <https://raspberrypi.com/documentation/computers/configuration.html#configuring-a-user>
+- <https://raspberrypi.com/documentation/computers/remote-access.html>
+- <https://raspberrypi.com/documentation/computers/configuration.html>
 
 
 # Fix All The Broken Stuff
@@ -103,17 +103,17 @@ Images are always stale. Update them with:
 
 # Assorted Links
 
-* <https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt>
-* <https://raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793>
-* <https://gist.github.com/abulte/3941653>
-* <https://gist.github.com/sturadnidge/5630813>
-* <https://github.com/Wookie/rpi_image_builder>
-* <https://github.com/RPi-Distro/pi-gen>
-* <https://12dash.com>
-* <https://downloads.raspberrypi.org>
-* <https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi>
-* <https://amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t>
-* <https://hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget>
+- <https://github.com/raspberrypi/linux/blob/rpi-4.0.y/Documentation/kernel-parameters.txt>
+- <https://raspberrypi.org/forums/viewtopic.php?f=66&t=41520&p=343793>
+- <https://gist.github.com/abulte/3941653>
+- <https://gist.github.com/sturadnidge/5630813>
+- <https://github.com/Wookie/rpi_image_builder>
+- <https://github.com/RPi-Distro/pi-gen>
+- <https://12dash.com>
+- <https://downloads.raspberrypi.org>
+- <https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi>
+- <https://amazon.ca/BQLZR-3000mA-Mobile-Charger-Adapter/dp/B00LWQH99Q/ref=cm_cd_al_qh_dp_t>
+- <https://hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget>
 
 
 # Raspbian Stuff
@@ -135,27 +135,27 @@ Images are always stale. Update them with:
 
 # Hardware
 
-* <https://dfrobot.com/product-2242.html>
-* <https://lincolnbinns.com/shop/internet-of-things-iot/raspberry-pi4-enclosures/raspberry-pi4-accessories/pi4-extender-board.html>
-* <https://github.com/TzuHuanTai/RaspberryPi_WebRTC>
-* <https://josh.pencheon.dev/2025/01/05/manually-updating-raspberry-pi-eeprom.html> fetching and installing EEPROM images
-* <https://github.com/raspberrypi/rpi-eeprom> rpi-eeprom-update shell script and EEPROM bin files
+- <https://dfrobot.com/product-2242.html>
+- <https://lincolnbinns.com/shop/internet-of-things-iot/raspberry-pi4-enclosures/raspberry-pi4-accessories/pi4-extender-board.html>
+- <https://github.com/TzuHuanTai/RaspberryPi_WebRTC>
+- <https://josh.pencheon.dev/2025/01/05/manually-updating-raspberry-pi-eeprom.html> fetching and installing EEPROM images
+- <https://github.com/raspberrypi/rpi-eeprom> rpi-eeprom-update shell script and EEPROM bin files
 
 
 # UEFI
 
-* <https://github.com/pftf/RPi4> boot arm64 ISO images just like you can on amd64!!!
+- <https://github.com/pftf/RPi4> boot arm64 ISO images just like you can on amd64!!!
 
 
 # Encrypted Root
 
-* <https://gist.github.com/gea0/4fc2be0cb7a74d0e7cc4322aed710d38>
-* <https://wiki.polaire.nl/doku.php?id=archlinux-raspberry-encrypted>
+- <https://gist.github.com/gea0/4fc2be0cb7a74d0e7cc4322aed710d38>
+- <https://wiki.polaire.nl/doku.php?id=archlinux-raspberry-encrypted>
 
 
 # Kiosk
 
-* <https://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard>
+- <https://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard>
 
 Do all the usual stuff with raspi-config first.
 

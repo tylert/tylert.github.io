@@ -16,7 +16,7 @@ Prepare to use CUPS:
     # Type 'newgrp lpadmin' to refresh login without a reboot/login
 ```
 
-* <https://packages.debian.org/bullseye/printer-driver-brlaser>
+- <https://packages.debian.org/bullseye/printer-driver-brlaser>
 
 ```
     # Ensure the local package index is up-to-date
@@ -73,12 +73,12 @@ Remove the \'PDF\' printer, choose the new printer and, under
 
 ## Background
 
-* <https://njh.eu/printer.html>
-* <http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint>
-* <http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=hl2240_us_eu&os=128>
+- <https://njh.eu/printer.html>
+- <http://blog.pi3g.com/2013/08/using-the-raspberry-pi-as-cups-print-server-for-windows-and-apple-mac-airprint>
+- <http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=hl2240_us_eu&os=128>
 
 
 ## OMG
 
-* <https://retrohacker.substack.com/p/bye-cups-printing-with-netcat>
-* <https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html>
+- <https://retrohacker.substack.com/p/bye-cups-printing-with-netcat>
+- <https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html>
