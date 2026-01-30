@@ -91,6 +91,7 @@
 - <https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer>
 - <https://boringtechnology.club> choose boring technology
 - <https://docker.com/blog/do-you-really-need-microservices>
+- <https://blog.mikeswanson.com/backseat-software>
 
 
 # Messaging and Logging
@@ -542,6 +543,7 @@ Executable go scripts
 - <https://bernsteinbear.com/blog/fenster-microui>
 - <https://danielchasehooper.com/posts/typechecked-generic-c-data-structures>
 - <https://lysator.liu.se/c/pikestyle.html> C style
+- <https://deplet.ing/why-i-always-end-up-using-c>
 
 
 # WASM

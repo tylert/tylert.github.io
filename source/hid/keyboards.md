@@ -7,34 +7,34 @@ White) that can run the 100% open-source QMK keyboard firmware.
 
 ## Product Pages
 
-* <https://durgod.com/page9?_l=en&product_id=47>
-* <https://durgod.com/page9?_l=en&product_id=53>
+- <https://durgod.com/page9?_l=en&product_id=47>
+- <https://durgod.com/page9?_l=en&product_id=53>
 
 
 ## Reviews
 
-* <https://techpowerup.com/review/durgod-taurus-320-tkl-keyboard>
-* <https://aphnetworks.com/index.php/reviews/durgod-taurus-k320>
-* <https://switchandclick.com/2020/11/02/durgod-k320-review>
-* <https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good>
-* <https://reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard>
-* <https://rtings.com/keyboard/reviews/durgod/taurus-k320>
-* <https://youtube.com/watch?v=17rISRgJO1o>
-* <https://youtube.com/watch?v=D_S30mEkggQ>
-* <https://youtube.com/watch?v=dSXrde3sJpc>
-* <https://youtube.com/watch?v=JDkkMzMGIm0>
+- <https://techpowerup.com/review/durgod-taurus-320-tkl-keyboard>
+- <https://aphnetworks.com/index.php/reviews/durgod-taurus-k320>
+- <https://switchandclick.com/2020/11/02/durgod-k320-review>
+- <https://tlrtechnology.com/2019/07/09/durgod-taurus-k320-tkl-review-can-it-really-be-this-good>
+- <https://reddit.com/r/MechanicalKeyboards/comments/7t70fr/review_durgod_taurus_k320_tenkeyless_keyboard>
+- <https://rtings.com/keyboard/reviews/durgod/taurus-k320>
+- <https://youtube.com/watch?v=17rISRgJO1o>
+- <https://youtube.com/watch?v=D_S30mEkggQ>
+- <https://youtube.com/watch?v=dSXrde3sJpc>
+- <https://youtube.com/watch?v=JDkkMzMGIm0>
 
 
 ## Where To Buy
 
-* <https://aliexpress.com/item/32845509908.html>
-* <https://aliexpress.com/item/32852709021.html>
-* <https://kprepublic.com/products/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=4&_sid=bda219a06&_ss=r>
-* <https://kprepublic.com/products/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=3&_sid=bda219a06&_ss=r>
-* <https://amazon.ca/DURGOD-Mechanical-Keyboard-Switches-Interface/dp/B078H3WPHM>
-* <https://amazon.ca/Durgod-Taurus-K310-Mechanical-Keyboard/dp/B07V1SQYB8>
-* <https://durgodkeyboard.com/product/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch>
-* <https://durgodkeyboard.com/product/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch>
+- <https://aliexpress.com/item/32845509908.html>
+- <https://aliexpress.com/item/32852709021.html>
+- <https://kprepublic.com/products/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=4&_sid=bda219a06&_ss=r>
+- <https://kprepublic.com/products/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch?_pos=3&_sid=bda219a06&_ss=r>
+- <https://amazon.ca/DURGOD-Mechanical-Keyboard-Switches-Interface/dp/B078H3WPHM>
+- <https://amazon.ca/Durgod-Taurus-K310-Mechanical-Keyboard/dp/B07V1SQYB8>
+- <https://durgodkeyboard.com/product/durgod-87-taurus-k320-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch>
+- <https://durgodkeyboard.com/product/durgod-104-taurus-k310-mechanical-keyboard-using-cherry-mx-switches-pbt-doubleshot-keycaps-brown-blue-black-red-silver-switch>
 
 
 ## Disassembly
@@ -47,8 +47,8 @@ may boot it into 'DFU mode' whenever you like by holding down the
 Follow this video to open the keyboard but use a dozen or so guitar
 picks instead of a nasty metal screwdriver.
 
-* <https://youtube.com/watch?v=H-HN3f20aLI>
-* <https://duckduckgo.com/?t=ffab&q=guitar+pick+punch&iax=images&ia=images>
+- <https://youtube.com/watch?v=H-HN3f20aLI>
+- <https://duckduckgo.com/?t=ffab&q=guitar+pick+punch&iax=images&ia=images>
 
 
 ### Weird Button Inside
@@ -56,8 +56,8 @@ picks instead of a nasty metal screwdriver.
 There is a weird button inside but nobody seems sure of what it does
 yet. It joins the `D2` pin (#54) to the `VSS` pin (#63).
 
-* <https://techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html>
-* <https://reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware>
+- <https://techpowerup.com/review/durgod-taurus-320-tkl-keyboard/4.html>
+- <https://reddit.com/r/MechanicalKeyboards/comments/bvmlfi/bricked_my_durgod_k320_taurus_after_firmware>
 
 
 ### Force DFU Boot
@@ -73,15 +73,15 @@ USB into some orifice).
 QMK build `0.11.54` or newer includes the mainline-merged K320 code.
 QMK build `0.13.39` or newer includes the mainline-merged K310 code.
 
-* <https://github.com/qmk/qmk_configurator/pull/887> for the K320
-* <https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen>
-* <https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aclosed>
-* <https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen>
-* <https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aclosed>
-* <https://github.com/the-via/keyboards/pull/588> for the K320
-* <https://reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320>
-* <https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos>
-* <https://getreuer.info/posts/keyboards/index.html>
+- <https://github.com/qmk/qmk_configurator/pull/887> for the K320
+- <https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aopen>
+- <https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+durgod+is%3Aclosed>
+- <https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aopen>
+- <https://github.com/qmk/qmk_firmware/issues?q=is%3Aissue+durgod+is%3Aclosed>
+- <https://github.com/the-via/keyboards/pull/588> for the K320
+- <https://reddit.com/r/MechanicalKeyboards/comments/i0pfwv/first_qmk_powered_durgod_k320>
+- <https://coreysalzano.com/how-to/customizing-a-durgod-keyboard-for-macos>
+- <https://getreuer.info/posts/keyboards/index.html>
 
 
 ## Building New Firmware
@@ -175,82 +175,82 @@ Upload a firmware from a file to the keyboard:
     File downloaded successfully
 ```
 
-* <https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html>
+- <https://ardupilot.org/dev/docs/using-DFU-to-load-bootloader.html>
 
 
 ## Painting Cases
 
-* <https://youtube.com/watch?v=cOH5uVwAoi0>
-* <https://youtu.be/yAmCIceq8Zo>
+- <https://youtube.com/watch?v=cOH5uVwAoi0>
+- <https://youtu.be/yAmCIceq8Zo>
 
 
 ## Keycaps
 
-* <https://spkeyboards.com/collections/dsa-individual-keys>
-* <https://spkeyboards.com/blogs/product-guides/keycap-colors>
+- <https://spkeyboards.com/collections/dsa-individual-keys>
+- <https://spkeyboards.com/blogs/product-guides/keycap-colors>
 
 
 ## A Jump To Conclusions Key
 
-* <https://github.com/qmk/qmk_firmware/commit/47f55f417b9ecd2199b0b253e6dfb6881f9a8746>
+- <https://github.com/qmk/qmk_firmware/commit/47f55f417b9ecd2199b0b253e6dfb6881f9a8746>
 
 
 ## Mouse Jiggler
 
-* <https://reddit.com/r/MechanicalKeyboards/comments/10b3pk7/how_to_add_a_mousejiggler_toggle_macro_to_your>
-* <https://github.com/DIYCharles/MouseJigglerV2>
-* <https://getreuer.info/posts/keyboards/macros3/index.html>
-* <https://reddit.com/r/olkb/comments/1d36m6e/mouse_jiggler_in_qmk>
-* <https://tomshardware.com/how-to/diy-mouse-jiggler-raspberry-pi-pico>
+- <https://reddit.com/r/MechanicalKeyboards/comments/10b3pk7/how_to_add_a_mousejiggler_toggle_macro_to_your>
+- <https://github.com/DIYCharles/MouseJigglerV2>
+- <https://getreuer.info/posts/keyboards/macros3/index.html>
+- <https://reddit.com/r/olkb/comments/1d36m6e/mouse_jiggler_in_qmk>
+- <https://tomshardware.com/how-to/diy-mouse-jiggler-raspberry-pi-pico>
 
 
 ## Modifications
 
 Mill-max sockets can apparently be added to just about any PCB.
 
-* <https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb>
-* <https://reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good>
-* <https://keyboardlube.com/products/mill-max-sockets>
-* <https://reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght>
-* <https://digikey.ca/en/products/detail/mill-max-manufacturing-corp/0305-2-15-80-47-80-10-0/2639493>
-* <https://mouser.ca/ProductDetail/mill-max/0305-2-15-80-47-80-10-0/?qs=QtQX4uD3c2Uys0ai6Tr8NQ==>
+- <https://github.com/mattdibi/redox-keyboard/commit/f21b8012429fc5535975bc3ffa8748a3036dd564#diff-182f2658e98d80c37485c41da5065c6f07d49c259d26e8b7e331d4d9f2e124fb>
+- <https://reddit.com/r/MechanicalKeyboards/comments/8tuell/these_millmax_hotswap_sockets_are_so_good>
+- <https://keyboardlube.com/products/mill-max-sockets>
+- <https://reddit.com/r/MechanicalKeyboards/comments/cbykxw/millmax_socket_guide_pxlnght>
+- <https://digikey.ca/en/products/detail/mill-max-manufacturing-corp/0305-2-15-80-47-80-10-0/2639493>
+- <https://mouser.ca/ProductDetail/mill-max/0305-2-15-80-47-80-10-0/?qs=QtQX4uD3c2Uys0ai6Tr8NQ==>
 
 
 ## Wireless/Alternate Firmwares
 
-* <https://keebfol.io>
-* <https://zmkfirmware.dev>
-* <https://github.com/zmkfirmware/zmk>
-* <https://github.com/KMKfw/kmk_firmware>
+- <https://keebfol.io>
+- <https://zmkfirmware.dev>
+- <https://github.com/zmkfirmware/zmk>
+- <https://github.com/KMKfw/kmk_firmware>
 
 
 ## Nifty Adapters
 
-* <https://yaowei.dev/posts/usb-to-usb-converter>
-* <https://geekhack.org/index.php?topic=80421.0>
-* <https://trzsz.github.io>
-* <https://github.com/jfedor2/hid-remapper> external remapping dongle
-* <https://github.com/jfedor2/blinkenlights> extra LEDs for things
+- <https://yaowei.dev/posts/usb-to-usb-converter>
+- <https://geekhack.org/index.php?topic=80421.0>
+- <https://trzsz.github.io>
+- <https://github.com/jfedor2/hid-remapper> external remapping dongle
+- <https://github.com/jfedor2/blinkenlights> extra LEDs for things
 
 
 ## Rubber Ducks
 
-* <https://github.com/coder12341/pico-ducky>
-* <https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky>
-* <https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01> Pico BLE???
+- <https://github.com/coder12341/pico-ducky>
+- <https://pythonawesome.com/turn-your-raspberry-pi-pico-into-a-usb-rubber-ducky>
+- <https://twitter.com/aallan/status/1610616300597907456?t=jgwl3U6FSiq5pPqI3mA8Yw&s=01> Pico BLE???
 
 
 # The Uni
 
 Version 4 of the 'The Uni' uses a RP2040 chip (like the Raspberry Pi Pico).
 
-* <https://openstenoproject.org>
-* <https://stenokeyboards.com/products/the-uni-v4>
-* <https://stenokeyboards.com/products/20-gram-springs>
-* <https://docs.stenokeyboards.com>
-* <https://docs.stenokeyboards.com/customize/spring-swap.html>
-* <https://docs.stenokeyboards.com/customize/firmware.html>
-* <https://artofchording.com>
+- <https://openstenoproject.org>
+- <https://stenokeyboards.com/products/the-uni-v4>
+- <https://stenokeyboards.com/products/20-gram-springs>
+- <https://docs.stenokeyboards.com>
+- <https://docs.stenokeyboards.com/customize/spring-swap.html>
+- <https://docs.stenokeyboards.com/customize/firmware.html>
+- <https://artofchording.com>
 
 ```
     pip install qmk
@@ -264,6 +264,6 @@ Version 4 of the 'The Uni' uses a RP2040 chip (like the Raspberry Pi Pico).
 
 # Other
 
-* <https://github.com/jfedor2/hid-remapper>
-* <https://nick-gravgaard.com/qwerty-flip>
-* <https://github.com/bahaaador/bluetooth-usb-peripheral-relay> Pi Zero as a Bluetooth to USB bridge
+- <https://github.com/jfedor2/hid-remapper>
+- <https://nick-gravgaard.com/qwerty-flip>
+- <https://github.com/bahaaador/bluetooth-usb-peripheral-relay> Pi Zero as a Bluetooth to USB bridge

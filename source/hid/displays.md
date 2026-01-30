@@ -1,12 +1,12 @@
 # HDMI
 
-* <https://daniel.lawrence.lu/blog/y2023m12d15> using an 8k display as a regular computer monitor
+- <https://daniel.lawrence.lu/blog/y2023m12d15> using an 8k display as a regular computer monitor
 
 
 # Eink
 
-* <https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
-* <https://github.com/markfodor/InkCal>
+- <https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
+- <https://github.com/markfodor/InkCal>
 
 
 # I2C

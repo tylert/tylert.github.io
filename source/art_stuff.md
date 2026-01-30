@@ -301,6 +301,7 @@ Upgrading CHDK
 # CAD
 
 - <https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat>
+- <https://grid.space/stem>
 
 
 # Blender
@@ -348,3 +349,13 @@ Upgrading CHDK
 # Printer
 
 - <https://crowdsupply.com/open-tools/open-printer>
+
+
+# Crafts
+
+- <https://jeremykun.com/2023/04/01/were-knot-friends>
+
+
+# Commerce
+
+- <https://github.com/yournextstore/yournextstore> open-source Shopify with Stripe?

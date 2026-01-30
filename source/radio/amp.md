@@ -1,6 +1,6 @@
 # Amp
 
-* <https://aliexpress.com/item/32971427148.html>
+- <https://aliexpress.com/item/32971427148.html>
 
 ```
     Be sure to connect the input and output and then power on, the input
@@ -38,4 +38,4 @@
 
 # Transmission Lines
 
-* <https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html>
+- <https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html>

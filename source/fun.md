@@ -56,6 +56,7 @@
 - <https://krython.com/post/resolving-alpine-linux-installation-errors>
 - <https://linuxiac.com/how-to-install-alpine-linux>
 - <https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure>
+- <https://skreutz.com/posts/unattended-installation-of-alpine-linux>
 
 
 # Artix Arch Linux
