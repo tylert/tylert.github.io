@@ -323,8 +323,10 @@ file to GNU parallel.
 - <https://typst.app>
 - <https://github.com/typst/typst>
 - <https://github.com/typst/packages>
+- <https://github.com/typst/typst/issues/2089#issuecomment-3287457743> typst offline docs
 - <https://typst.app/universe/package/meander> for typesetting newsletters with images?
 - <https://blog.jreyesr.com/posts/typst> typesetting similar to LaTeX
+- <https://ydx-2147483647.github.io/best-of-typst> best of Typst links
 - <https://github.com/qjcg/awesome-typst> example templates and things for Typst
 - <https://github.com/typst/typst/issues/721> Typst HTML output
 - <https://github.com/pdf2htmlEX/pdf2htmlEX> PDF to HTML
