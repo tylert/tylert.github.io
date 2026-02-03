@@ -223,6 +223,7 @@
 - <https://styles.sh>
 - <https://jmmv.dev/2021/08/useless-use-of-gnu.html>
 - <https://sharats.me/posts/shell-script-best-practices>
+- <https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts>
 - <https://docs.gitlab.com/ee/development/shell_scripting_guide>
 - <https://github.com/google/yamlfmt> still early days for this CLI tool
 - <https://github.com/mvdan/sh> shell auto-formatter?
