@@ -359,6 +359,9 @@ file to GNU parallel.
 - <https://grebedoc.dev> codeberg pages
 - <https://gotosocial.org> ActivityPub self-hosted social network server written in Go
 - <https://activitypub.rocks> ActivityPub
+- <http://www.nncpgo.org/WARCs.html> (mandatory 'www' here)
+- <https://openzim.org/wiki/Build_your_ZIM_file> build zim files for kiwix-desktop
+- <https://github.com/typst/typst/issues/2089#issuecomment-3287457743> zim file for typst documentation
 
 
 # Maddy
