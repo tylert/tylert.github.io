@@ -7,8 +7,11 @@ GENERATED_FILES = \
 .PHONY: all
 all: $(GENERATED_FILES)
 
-%.png: %.txt
-	@ditaa --overwrite --round-corners $^ $@
+%.svg: %.txt
+	@svgbob_cli -o $@ $^
+
+%.png: %.svg
+	@magick $^ $@
 
 .PHONY: clean
 clean:
