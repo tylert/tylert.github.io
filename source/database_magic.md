@@ -190,6 +190,7 @@ UUID stuff:
 - <https://github.com/sebadob/hiqlite>
 - <https://heidisql.com> client that works with PostgreSQL, MySQL, etc.
 - <https://github.com/pingcap/tidb> MySQL comptabile, distributed?
+- <https://github.com/commaai/minikeyvalue> Go key-value store with some S3 features
 
 
 # PostgreSQL
