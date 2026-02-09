@@ -59,8 +59,11 @@
 - <https://veloren.net>
 - <https://openmw.org>
 - <https://wesnoth.org>
+- <https://play0ad.com>
+- <https://endless-sky.github.io>
 - <https://slipseer.com/index.php?resources/quake-brutalist-jam-iii.549> Quake Brutalist Jam III
 - <https://github.com/andrei-drexler/ironwail> Quake patch/upgrade
+- <https://openciv3.org> complete game that includes placeholder graphics
 
 
 # RPG Stuff
