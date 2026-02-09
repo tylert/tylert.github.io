@@ -32,6 +32,8 @@
 - <https://habr.com/en/articles/654755> build your own Calamares GUI installer thing
 - <https://calamares.codeberg.page/docs/deploy-oem> build your own Calamares GUI installer thing
 - <https://kennethjorgensen.com/blog/2022/encrypted-btrfs-array-with-luks> some more LUKS magic
+- <https://rodsbooks.com/efi-bootloaders/controlling-sb.html#why> Secure Boot
+- <https://rodsbooks.com/efi-bootloaders/secureboot.html#whatis> Secure Boot
 
 
 # Alpine Linux
