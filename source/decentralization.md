@@ -269,6 +269,8 @@
 
 - <https://anubis.techaro.lol/docs/admin/caveats-gitea-forgejo>
 - <https://github.com/antonmedv/gitmal>
+- <https://tylercipriani.com/blog/2020/09/22/migrating-git-data-with-rsync>
+- <http://www.nncpgo.org/Git.html> (mandatory 'http' and 'www' here)
 
 
 # Containers Images Backups
@@ -294,6 +296,7 @@
 - <https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html>
 - <https://wiki.archlinux.org/title/SSHFS>
 - <https://forums.linuxmint.com/viewtopic.php?t=403971>
+- <https://complete.org/an-asynchronous-rsync-with-dar>
 
 One options is to do a dry-run and figure out the list of files, pass it to
 split and run rsync on those lists.  Another seems to be passing the list of
