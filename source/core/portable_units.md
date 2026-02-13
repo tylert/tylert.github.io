@@ -182,6 +182,7 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 - <https://git.sr.ht/~whynothugo/ImapGoose>
 - <https://bitfehler.net/man/vsync.1.html>
 - <https://github.com/pimalaya/himalaya> Rust CLI to manage emails?
+- <https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks>
 
 
 # NNCP

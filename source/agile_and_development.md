@@ -181,6 +181,7 @@
 - <https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer>
 - <https://notashelf.dev/posts/curse-of-knowing>
 - <https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook>
+- <https://ntietz.com/blog/using-an-engineering-notebook/#fr-welllll-1>
 - <https://alanwu.xyz/posts/community> external motivation on-tap?
 - <https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a>
 - <https://benkuhn.net/attention> attention is your scarcest resource
