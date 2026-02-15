@@ -315,7 +315,6 @@ file to GNU parallel.
 - <https://github.com/fisodd/hugo-restructured> sexy ReStructuredText markup theme for Hugo
 - <https://hugo-restructured-demo.netlify.app/post/using-rest> example of stuff you can do with hugo-restructured
 - <https://raw.githubusercontent.com/fisodd/hugo-restructured/master/exampleSite/content/post/using-rest.rst> raw file for page above
-- <https://pandoc.org>
 - <https://willcrichton.net/notes/portable-epubs> render epubs directly in a web browser???
 - <https://krasjet.com/voice/pdf.tocgen> PDF Table Of Contents generation???
 - <https://johnfactotum.github.io/foliate> local e-reader app
@@ -365,6 +364,8 @@ file to GNU parallel.
 - <http://www.nncpgo.org/WARCs.html> (mandatory 'www' here)
 - <https://openzim.org/wiki/Build_your_ZIM_file> build zim files for kiwix-desktop
 - <https://github.com/typst/typst/issues/2089#issuecomment-3287457743> zim file for typst documentation
+- <https://lukaswhite.com/blog/writing-a-book-in-markdown>
+- <https://pandoc.org> supports Markdown and Typst
 
 
 # Maddy
