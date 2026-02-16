@@ -186,6 +186,7 @@ Add stuff to /etc/rc.local (System - Startup - Local Startup):
 - <https://openwrt.org/docs/techref/hardware/switch>
 - <https://firmware-selector.openwrt.org/?version=22.03.5&target=ramips%2Fmt7621&id=ubnt_edgerouter-x>
 - <https://github.com/darkxst/erx-migration> needed if upgrading an ERX from pre-24.10.x OpenWRT (see below)
+- <https://blog.kroy.io/2019/09/16/hacking-a-serial-port-into-an-edgerouter-x>
 
 (New method) Steps for replacement of stock firmware:
 
