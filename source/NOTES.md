@@ -256,7 +256,6 @@ macOS:
 - <https://github.com/phpwutz/libkeepass>
 - <https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45#keepass-file-format-explained>
 - <https://github.com/keepassxreboot/keepassxc/issues/8506>
-- <https://keepassxc.org/docs/KeePassXC_UserGuide.html#_command_line_options>
 
 
 # Secret Management Stuff
