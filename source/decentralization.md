@@ -134,6 +134,7 @@
 # Messaging
 
 - <https://momi.ca/posts/2024-10-09-honeybee.html> XMPP for calls?
+- <https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody> run your own XMPP server
 - <https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat>
 - <https://snikket.org> XMPP
 - <https://マリウス.com/contact> potential XMPP watering hole
@@ -160,6 +161,14 @@
 - <https://github.com/TryQuiet/quiet/wiki>
 - <https://remark42.com> comment engine thing
 - <https://handshake.org>
+
+```
+_xmpp-client._tcp.xmpp.example.com  SRV  0 5 5222 xmpp.example.com.
+_xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
+# A/AAAA for xmpp.example.com
+# A/AAAA/CNAME for upload.xmpp.example.com
+# A/AAAA/CNAME for conference.xmpp.example.com
+```
 
 
 # Email
