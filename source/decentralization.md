@@ -73,6 +73,12 @@
 - <https://howto.yggno.de/yggdrasil:dns:meshname>
 
 
+# CoreDNS
+
+- <https://ivansalloum.com/your-first-authoritative-dns-server-with-coredns>
+- <https://blog.idempotent.ca/2018/04/18/run-your-own-home-dns-on-coredns>
+
+
 # CJDNS
 
 - <https://gathman.org/meshdoc/Cjdns%20-%20Wikipedia.html>
@@ -135,6 +141,7 @@
 
 - <https://momi.ca/posts/2024-10-09-honeybee.html> XMPP for calls?
 - <https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody> run your own XMPP server
+- <https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood> view BLE messages?
 - <https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat>
 - <https://snikket.org> XMPP
 - <https://マリウス.com/contact> potential XMPP watering hole
