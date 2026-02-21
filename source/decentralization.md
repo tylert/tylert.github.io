@@ -2,12 +2,11 @@
 
 - <https://changelog.complete.org/archives/10165-asynchronous-email-exim-over-nncp-or-uucp>
 - <https://complete.org/building-an-asynchronous-internet-optional-instant-messaging-system>
-- <https://blog.taoetc.org/how_to_publish_a_static_site_over_nncp/index.html>
 - <https://complete.org/nncp>
 - <https://complete.org/nncpnet-email-network>
 - <https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network>
 - <https://nncp.mirrors.quux.org/UsecaseMail.html> NNCP for email relay?
-- <http://nncpgo.org/Use-cases.html>
+- <http://nncpgo.org/Use-cases.html> (mandatory 'http' here)
 - <https://dataswamp.org/~solene/2024-10-04-secure-file-transfer-with-nncp.html>
 - <https://github.com/jgoerzen/nncp-tools> helper shell scripts for maintaining and using NNCP
 
@@ -267,6 +266,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://letsdecentralize.org>
 - <https://bowshock.nl/irc> start your own internet resiliency club
 - <https://scuttlebutt.nz>
+- <https://billdietrich.me/SecureCommunication.html> asynchronous communications options
 - <https://iroh.computer> Rust libs for building point-to-point QUIC links?
 - <https://iroh.computer/sendme> built with iroh
 - <https://dumbpipe.dev> built with iroh
@@ -355,6 +355,7 @@ file to GNU parallel.
 - <https://github.com/kr1sp1n/awesome-gemini>
 - <https://github.com/pdfcpu/pdfcpu> Go PDF processing tool
 - <https://pdfcpu.io> Go PDF processing tool
+- <https://medium.com/@ohm.patel1997/command-linetool-to-merge-pdfs-files-in-go-c07e79c2a763> pdfcpu used as a library
 - <https://github.com/typst/svg2pdf>
 - <https://crates.io/crates/svg2pdf-cli> cargo install svg2pdf-cli
 - <https://aur.archlinux.org/packages/svg2pdf> AUR svg2pdf-typst
