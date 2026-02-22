@@ -77,8 +77,10 @@
 - <https://github.com/kelseyhightower/consul-on-kubernetes>
 - <https://kasvith.github.io/posts/lets-create-a-simple-lb-go>
 - <https://zwischenzugs.com/2016/04/04/convert-any-server-to-a-docker-container-updated>
-- <https://www.wezm.net/technical/2019/10/useful-command-line-tools>
-- <https://www.infoq.com/articles/containers-hypervisors-2019>
+- <https://wezm.net/technical/2019/10/useful-command-line-tools>
+- <https://espanso.org> auto-text-expansion tool
+- <https://github.com/espanso/espanso> auto-text-expansion tool
+- <https://infoq.com/articles/containers-hypervisors-2019>
 - <https://dmtechtalk.wordpress.com/2019/10/18/doing-what-you-love-doing>
 - <https://shinglyu.com/web/2018/03/25/merge-pull-requests-without-merge-commits.html>
 - <https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers>
