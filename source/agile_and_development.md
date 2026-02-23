@@ -313,6 +313,10 @@
 - <https://maurycyz.com/misc/easy_git> you already have a git server
 - <https://github.com/go-gitea/gitea/issues/29426#issuecomment-1967418237> .git at the end of git remotes is kinda legacy
 - <https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto>
+- <https://en.wikibooks.org/wiki/Git/Repository_on_a_USB_stick>
+- <https://alexwlchan.net/2026/bare-git>
+- <https://sethrobertson.github.io/GitBestPractices/#backups>
+- <https://nncp.mirrors.quux.org/Git.html>
 
 
 # Process Stuff
@@ -523,6 +527,7 @@ Executable go scripts
 - <https://gobinaries.com> maybe too specific to GitHub
 - <https://github.com/tj/gobinaries> maybe too specific to GitHub
 - <https://github.com/shirou/gopsutil> psutil system information library
+- <https://words.filippo.io/dependabot> govulncheck
 
 
 # Rust Stuff
