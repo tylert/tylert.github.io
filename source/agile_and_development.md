@@ -112,6 +112,7 @@
 - <https://gettys.wordpress.com/2018/02/11/the-blind-men-and-the-elephant>
 - <https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1>
 - <https://github.com/hackergrrl/art-of-readme>
+- <https://jvns.ca/blog/2026/02/18/man-pages> making better man pages
 - <https://catb.org/esr/writings/taoup/html/ch01s06.html> Basics of the Unix Philosophy
 - <https://blog.mechanicalrock.io/2020/10/06/manual-gates-git-flow-in-a-wig.html>
 - <https://blog.mechanicalrock.io/2019/07/01/continuous-deployment-the-first-step-on-the-road-to-recovery.html>
@@ -393,6 +394,7 @@
 - <https://ianthehenry.com/posts/why-janet> Janet -> C
 - <https://ianthehenry.com/posts/drinking-with-datalog> Datalog
 - <https://lorentz.app/blog-item.html?id=go-shebang>
+- <https://golangcookbook.com/chapters/running/shebang>
 
 Executable go scripts
 

@@ -38,7 +38,7 @@
 ```
 
 
-# Game Stuff
+# Retro Game Stuff
 
 - <https://github.com/kentonv/lanparty>
 - <https://news.ycombinator.com/item?id=31590724>
@@ -64,6 +64,8 @@
 - <https://slipseer.com/index.php?resources/quake-brutalist-jam-iii.549> Quake Brutalist Jam III
 - <https://github.com/andrei-drexler/ironwail> Quake patch/upgrade
 - <https://openciv3.org> complete game that includes placeholder graphics
+- <https://eduke32.com> Duke Nukem 3D port
+- <https://github.com/Ragnaroek/iron-wolf> Wolfenstein 3D port
 
 
 # RPG Stuff
