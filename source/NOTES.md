@@ -302,6 +302,10 @@ macOS:
 - <https://github.com/chili-chips-ba/wireguard-fpga> FPGA-based networking gizmo?
 - <https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch>
 - <https://hackergadgets.com/products/uconsole-aio-v2> uConsole from Snow Crash
+- <https://github.com/OMOTE-Community/OMOTE-Hardware> open-source ESP32 IR and Bluetooth and WiFi programmable remote control
+- <https://github.com/OMOTE-Community/OMOTE-Hardware/issues/6> how to order
+- <https://github.com/OMOTE-Community/OMOTE-Hardware/wiki/How-to-order-assembled-PCBs> how to order
+- <https://rudd-o.com/linux-and-free-software/how-to-get-100-pure-digital-music-on-your-home-theater-courtesy-of-esphome-and-music-assistant>
 
 
 # Awesome Stuff
