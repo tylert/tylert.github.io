@@ -59,6 +59,7 @@
 - <https://linuxiac.com/how-to-install-alpine-linux>
 - <https://wezm.net/technical/2019/02/alpine-linux-docker-infrastructure>
 - <https://skreutz.com/posts/unattended-installation-of-alpine-linux>
+- <https://erianna.com/creating-a-alpine-linux-repository>
 
 
 # Artix Arch Linux
@@ -66,6 +67,7 @@
 - <https://artixlinux.org>
 - <https://github.com/matleborgne/archlinux-full-disk-encryption>
 - <https://github.com/icecmach/artix_installation_guide>
+- <https://wiki.archlinux.org/title/Patching_packages>
 
 
 # Devuan Debian Linux

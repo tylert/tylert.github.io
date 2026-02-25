@@ -8,6 +8,9 @@
     pacman -Ss bar  # show names of available packages with 'bar' in the name
 
     pacman -Ql foo  # show files installed by package 'foo'
+
+    pacman -Fy  # update database of which files are in which packages
+    pacman -F /usr/bin/foo  # show which package provides file /usr/bin/foo
 ```
 
 

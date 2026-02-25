@@ -383,6 +383,7 @@ file to GNU parallel.
 - <https://github.com/typst/typst/issues/2089#issuecomment-3287457743> zim file for typst documentation
 - <https://lukaswhite.com/blog/writing-a-book-in-markdown>
 - <https://pandoc.org> supports Markdown and Typst
+- <https://furlo.sk/blog/odborny/2025-05-07-command-line_tools_for_pdf_processing>
 
 
 # Maddy
