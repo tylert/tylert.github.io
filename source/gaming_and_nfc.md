@@ -150,6 +150,8 @@
 - <https://picoide.com>
 - <https://picog.us>
 - <https://github.com/mdbergmann/ACEBasic> Amiga Basic
+- <https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#comment-5713334> UNIX99r3 UNIX for TI-99/4A computer
+- <https://github.com/visrealm/pico9918> drop-in TMS9918A Video Display Processor powered by a Raspberry Pi Pico 2040
 
 ```
     myrient?
