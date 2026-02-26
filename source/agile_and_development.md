@@ -41,6 +41,7 @@
 - <https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate> (mandatory 'www' here)
 - <https://vikunja.io> self-hosted Kanban board
 - <https://github.com/go-vikunja/vikunja> self-hosted Kanban board
+- <https://github.com/unnecessary-special-projects/ghist> maybe useful ticket system that lives in a git repo
 
 ```
     cat all-kanbans-export.json | gojq -r '.[].columns[].cards[].name' > todo.txt
