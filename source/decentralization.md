@@ -265,6 +265,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://github.com/bypirob/airo> deploy thingy?
 - <https://letsdecentralize.org>
 - <https://bowshock.nl/irc> start your own internet resiliency club
+- <https://startyourownisp.com/posts/network-topology/#gotta-start-somewhere>
 - <https://scuttlebutt.nz>
 - <https://billdietrich.me/SecureCommunication.html> asynchronous communications options
 - <https://iroh.computer> Rust libs for building point-to-point QUIC links?
@@ -384,6 +385,7 @@ file to GNU parallel.
 - <https://lukaswhite.com/blog/writing-a-book-in-markdown>
 - <https://pandoc.org> supports Markdown and Typst
 - <https://furlo.sk/blog/odborny/2025-05-07-command-line_tools_for_pdf_processing>
+- <https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html> tiny web
 
 
 # Maddy

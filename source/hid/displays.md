@@ -7,6 +7,7 @@
 
 - <https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
 - <https://github.com/markfodor/InkCal>
+- <https://hawksley.org/2026/02/17/timeframe.html> honkin' big e-ink HDMI displays
 
 
 # I2C
