@@ -214,3 +214,11 @@ Commands to dump IPs/MACs:
 - <https://kubernetes.io/docs/tutorials/online-training/overview>
 - <https://freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882>
 - <https://digitalocean.com/resources/kubernetes>
+
+
+# Calculators
+
+- <https://numworks.com> Numworks calculator
+- <https://clockworkpi.com/picocalc> PicoCalc calculator
+- <https://swissmicros.com/calculator-comparison> DM42n, DM42, DM32, etc. calculators
+- <https://calcoverlays.com> overlays for the DM42n, DM42, DM32, etc.
