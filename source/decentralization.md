@@ -280,6 +280,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://github.com/ekzhang/ssh-hypervisor> unique VMs for each SSH session
 - <https://automerge.org>
 - <https://github.com/automerge/automerge-go> maybe sucks to build on Linux?
+- <https://gitlab.com/here_forawhile/terminalphone> send voice messages over Tor from the CLI
 
 
 # Git
