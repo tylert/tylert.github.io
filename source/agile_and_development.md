@@ -93,6 +93,7 @@
 - <https://boringtechnology.club> choose boring technology
 - <https://docker.com/blog/do-you-really-need-microservices>
 - <https://blog.mikeswanson.com/backseat-software>
+- <https://hannahilea.com/blog/houseplant-programming>
 
 
 # Messaging and Logging
@@ -187,6 +188,7 @@
 - <https://alanwu.xyz/posts/community> external motivation on-tap?
 - <https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a>
 - <https://benkuhn.net/attention> attention is your scarcest resource
+- <https://ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype>
 
 
 # Interviews
