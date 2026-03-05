@@ -146,6 +146,8 @@
 - <https://underlap.org/developers-block>
 - <https://micro-editor.github.io> another simple, server-friendly option for text editor?
 - <https://github.com/zyedidia/micro> another simple, server-friendly option for text editor?
+- <https://orbitalquark.github.io/textadept> self-contained text editor option
+- <https://github.com/orbitalquark/textadept> self-contained text editor option
 
 
 # Versioning

@@ -198,6 +198,7 @@ the default settings for the app as follows:
 - <https://gioui.org> Android apps in Go?
 - <https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret> maybe avoid eSIM as long as possible
 - <https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail> SMS 2FA
+- <https://github.com/aj3423/SpamBlocker> Android call and SMS blocker
 
 
 # FFUpdater
@@ -217,3 +218,5 @@ the default settings for the app as follows:
 - <https://マリウス.com/computer/#c4l1c0> more app suggestions
 - <https://xn--gckvb8fzb.com/phone> more app suggestions
 - <https://xn--gckvb8fzb.com/computer/#c4l1c0> more app suggestions
+- <https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos>
+- <https://blog.matthewbrunelle.com/the-backup-and-restore-experience-on-grapheneos>
