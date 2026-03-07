@@ -316,6 +316,7 @@ Upgrading CHDK
 - <https://remove.bg> remove background from images automatically
 - <https://remove.bg/b/remove-the-background-in-gimp>
 - <https://ciechanow.ski/cameras-and-lenses>
+- <https://libresprite.github.io> sprite editor thing
 
 
 # AI

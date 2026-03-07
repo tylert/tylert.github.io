@@ -307,6 +307,7 @@ macOS:
 - <https://github.com/OMOTE-Community/OMOTE-Hardware/issues/6> how to order
 - <https://github.com/OMOTE-Community/OMOTE-Hardware/wiki/How-to-order-assembled-PCBs> how to order
 - <https://rudd-o.com/linux-and-free-software/how-to-get-100-pure-digital-music-on-your-home-theater-courtesy-of-esphome-and-music-assistant>
+- <https://redteamtools.com>
 
 
 # Awesome Stuff

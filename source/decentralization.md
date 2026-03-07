@@ -122,6 +122,9 @@
 - <https://shazow.net/posts/ssh-how-does-it-even> ssh-chat
 - <https://github.com/shazow/ssh-chat>
 - <https://github.com/quackduck/devzat> another SSH chat thing
+- <https://github.com/gliderlabs/ssh> other SSH features like channels and such
+- <https://dev.to/jodaut/implementing-a-minimal-ssh-server-in-go-3b2k> other SSH features like channels and such
+- <https://github.com/JoDaUT/go-ssh-server>
 - <https://shellbox.dev> return payment details over SSH (QRcode)
 - <https://en.wikipedia.org/wiki/FidoNet>
 - <https://codeberg.org/AutumnSpark1226/nomadForum>
@@ -315,6 +318,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://wiki.archlinux.org/title/SSHFS>
 - <https://forums.linuxmint.com/viewtopic.php?t=403971>
 - <https://complete.org/an-asynchronous-rsync-with-dar>
+- <https://github.com/AlpinDale/parsync> parallel rsync-like pull
 
 One options is to do a dry-run and figure out the list of files, pass it to
 split and run rsync on those lists.  Another seems to be passing the list of
