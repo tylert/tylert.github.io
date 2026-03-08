@@ -93,6 +93,10 @@ HandBrake settings for DVDs:
 - <http://nyanko.ws/nymphcast.php> NymphCast Linux network video/audio stuff (mandatory 'http' here)
 - <https://github.com/MayaPosch/NymphCast> NymphCast Linux network video/audio stuff
 - <https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453> details about working with video files
+- <https://pitivi.org>
+- <https://shotcut.org>
+- <https://openshot.org>
+- <https://kdenlive.org>
 
 
 # Font Stuff

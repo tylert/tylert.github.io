@@ -152,3 +152,4 @@ You might need to disable some silly USB stuff to get suspend to work
 - <https://github.com/carlosefr/spinner-mouse> arcade spinny thing
 - <https://github.com/omriharel/deej> sliders
 - <https://hackaday.com/2024/01/31/3d-mouse-with-3d-printed-flexures-and-pcb-coils> OS3M open-source 3D mouse
+- <https://github.com/mattogodoy/mighty-mouse>

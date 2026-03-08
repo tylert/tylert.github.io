@@ -229,6 +229,7 @@ Mill-max sockets can apparently be added to just about any PCB.
 - <https://yaowei.dev/posts/usb-to-usb-converter>
 - <https://geekhack.org/index.php?topic=80421.0>
 - <https://trzsz.github.io>
+- <https://remapper.org>
 - <https://github.com/jfedor2/hid-remapper> external remapping dongle
 - <https://github.com/jfedor2/blinkenlights> extra LEDs for things
 
@@ -264,6 +265,7 @@ Version 4 of the 'The Uni' uses a RP2040 chip (like the Raspberry Pi Pico).
 
 # Other
 
-- <https://github.com/jfedor2/hid-remapper>
 - <https://nick-gravgaard.com/qwerty-flip>
 - <https://github.com/bahaaador/bluetooth-usb-peripheral-relay> Pi Zero as a Bluetooth to USB bridge
+- <https://blog.semanticsworks.com/2025/01/why-qmk-keyboard.html>
+- <https://techreviewadvisor.com/the-advantages-of-a-mechanical-keyboard>
