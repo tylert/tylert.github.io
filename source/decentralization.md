@@ -268,6 +268,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://github.com/bypirob/airo> deploy thingy?
 - <https://letsdecentralize.org>
 - <https://bowshock.nl/irc> start your own internet resiliency club
+- <https://news.ycombinator.com/item?id=44287395> internet resiliency club
 - <https://startyourownisp.com/posts/network-topology/#gotta-start-somewhere>
 - <https://scuttlebutt.nz>
 - <https://billdietrich.me/SecureCommunication.html> asynchronous communications options
