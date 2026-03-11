@@ -33,7 +33,7 @@
 - <https://amazon.ca/s?k=cm108>
 - <https://ea3fhp.cat/wp-content/uploads/2018/03/connexions-micrc3b2fon-tyt-md9600.pdf>
 - <https://consumer.gtv.be/media/wysiwyg/gtv/artikelen/pinout-aansluiting-2-pin-kenwood_1.jpg>
-- <http://radioamatoripeligni.it/i6ibe/rt3/cavo.jpg>
+- <https://radioamatoripeligni.it/i6ibe/rt3/cavo.jpg>
 - <https://kv4p.com> APRS HT-like add-on for Android phones (app is not on F-droid)
 - <https://na6d.com/collections/all> AIOC (emulated CM108 option) for handhelds
 - <https://github.com/eleccoder/raspi-pico-aprs-tnc>
@@ -41,7 +41,7 @@
 - <https://github.com/amedes/pico_tnc>
 - <https://ae0zw.github.io/pico-tnc>
 - <https://unsigned.io/introducing-openmodem>
-- <http://mobilinkd.com/2014/09/11/arduino-kiss-tnc>
+- <http://mobilinkd.com/2014/09/11/arduino-kiss-tnc> (mandatory 'http' here)
 - <https://github.com/mobilinkd/tnc1>
 - <https://meezenest.nl/mees/projects/RPi-pico-LoRa-APRS/index.html>
 
@@ -71,9 +71,15 @@
 
 # Hermes Lite 2
 
-- <http://hermeslite.com>
+- <https://hermeslite.com>
 - <https://github.com/softerhardware/Hermes-Lite2/wiki>
 - <https://makerfabs.com/hermes-lite-2.html>
+- <https://makerfabs.com/hermes-lite-2-n2adr.html> N2ADR filter module
+- <https://makerfabs.com/hermes-lite-2-io-board.html> I/O board
+- <https://wr9r.com/the-hermes-lite-2-with-an-atu>
+- <https://james.ahlstrom.name/hl2filter> N2ADR filter module
+- <https://m0aws.co.uk/?p=4566> HL2 with Xiegu XPA125B amp
+- <https://m0aws.co.uk/?p=3768> HL2 with Xiegu XPA125B amp
 - <https://hermeslite2plus.com>
 - <https://youtube.com/watch?v=gKbvyuWPHyk> Hermes Lite 2 assembly
 - <https://youtube.com/watch?v=EfeMm96fIKk> 60dbm.com 100 Watt HF and 6m amplifier kit for Hermes Lite 2
@@ -83,7 +89,6 @@
 - <https://youtube.com/watch?v=QxUivqiMvb0>
 - <https://youtube.com/watch?v=ZY7_cr8SM7I>
 - <https://vk-amps.com>
-- <https://wr9r.com/the-hermes-lite-2-with-an-atu>
 - <https://lyonscomputer.com.au/Radio-Frequency-Amplifiers/MiNi-PA100-Linear-Amp/MiNi-PA100-Linear-Amp.html>
 - <https://github.com/mathisschmieder/HL2-MRF101/blob/master/README.md>
 
@@ -102,6 +107,7 @@
 - <https://lyonscomputer.com.au/Projects/Coax-Switch-6-Way/Coax-Switch-6-Way.html>
 - <https://github.com/0x9900/AntennaSwitch>
 - <https://0x9900.com/remote-controlled-antenna-switch>
+- <https://hackaday.com/2023/10/25/a-quick-and-stealthy-mobile-slot-antenna-from-copper-tape>
 
 ```
     902-928 MHz   for hams and 902-928 MHz   for non-hams - 33 cm band
@@ -125,11 +131,11 @@ This might be useful if there's ever a desktop app too.
 # Band Pass Filters
 
 - <https://kitsandparts.com/W3NQN_filter.php> cheaper band pass filter kits
-- <https://www.onallbands.com/simple-filters-from-transmission-line-stubs> coax stub filters
-- <http://www.k1ttt.net/technote/k2trstub.html> coax stub filters
-- <https://www.n1nc.org/Filters> ugly filter project
+- <https://onallbands.com/simple-filters-from-transmission-line-stubs> coax stub filters
+- <http://k1ttt.net/technote/k2trstub.html> coax stub filters (mandatory 'http' here)
+- <https://n1nc.org/Filters> ugly filter project
 - <https://groups.io/g/TXBPF/message/3034> W3NQN-compatible filters with a more reasonable price tag
-- <https://www.arraysolutions.com/filters/bpf-hpf> insanely-expensive filters
+- <https://arraysolutions.com/filters/bpf-hpf> insanely-expensive filters
 
 
 # Assorted Stuff

@@ -309,18 +309,18 @@ lxmd.service:
 - <https://retevis.com/resources_center/software/RT3S_GPS_SoftwareV1.2.zip> official CPS
 - <https://retevis.com/resources_center/software/RT3&RT8_USBDriver.zip> official USB driver
 - <https://youtube.com/watch?v=Lw0Y-jQZMZ0> DMR features and overview
-- <https://www.jeffreykopcak.com/2017/06/11/dmr-in-amateur-radio-programming-a-code-plug> DMR programming
+- <https://jeffreykopcak.com/2017/06/11/dmr-in-amateur-radio-programming-a-code-plug> DMR programming
 - <https://youtube.com/watch?v=VExx628R0DM> DMR programming
 - <https://youtube.com/watch?v=ip3a37G68JA> DMR programming in French
-- <https://www.taitradioacademy.com/topic/benefits-of-dmr-1>
-- <https://www.jpole-antenna.com/2018/07/13/retevis-rt3s-dual-band-dmr-handheld-transceiver-review>
+- <https://taitradioacademy.com/topic/benefits-of-dmr-1>
+- <https://jpole-antenna.com/2018/07/13/retevis-rt3s-dual-band-dmr-handheld-transceiver-review>
 - <https://m6ceb.com/reviews/retevis-rt3s-dmr-fm-dual-band-handheld-radio>
 - <https://blog.retevis.com/index.php/hd1-promiscuous-mode-and-rt3s-group-call-match-introduction>
 - <https://ailunce.com/blog/How-to-Upgrade-Retevis-RT3S-Firmware>
 - <https://ailunce.com/blog/How-to-import-Digital-Contacts-into-RT3S>
 - <https://radioid.net>
 - <https://blog.retevis.com/index.php/how-to-set-rt3s-aprs>
-- <http://www.tothewoods.net/Comms-mounting-baofeng-uv-5r-ham-radio-in-Jeep-Wrangler-TJ.php>
+- <https://tothewoods.net/Comms-mounting-baofeng-uv-5r-ham-radio-in-Jeep-Wrangler-TJ.php>
 - <https://thingiverse.com/thing:2252779> RT3S cradle
 - <https://thingiverse.com/thing:267879> clone RAM arm
 - <https://thingiverse.com/thing:1323115> clone RAM base
@@ -341,7 +341,7 @@ lxmd.service:
 - <https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-2/550725> 20-pin connector housing
 - <https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/104422-1/289312> 16-pin connector housing
 - <https://digikey.ca/en/products/detail/te-connectivity-amp-connectors/1-87309-3/29826> 16-pin pins
-- <https://www.itead.cc/nextion-nx4832k035.html> 3.5 Nextion display
+- <https://itead.cc/nextion-nx4832k035.html> 3.5 Nextion display
 - <https://amazon.ca/M-D-Building-Products-84327-020-Inch/dp/B007NG6EQI> holey metal
 - <https://rtl-sdr.com/a-tutorial-on-using-sdrangel-for-dmr-d-star-and-fusion-reception-with-an-rtl-sdr>
 - <https://n5amd.com/digital-radio-how-tos/tune-mmdvm-repeater-sdr-low-ber>
@@ -392,16 +392,16 @@ lxmd.service:
 - <https://github.com/wb2osz/direwolf/tree/master/doc> docs for setting up DireWolf for various fun things
 - <https://ad6dm.net/log/2024/04/vara-fm-packet-dual-mode-winlink-gateway-in-linux> ugh, Wine
 - <https://github.com/km4ack/73Linux> pre-canned ham apps for to install on Linux
-- <https://www.scc-ares-races.org/gokit/SCCo_Go_Kit_rev20240326.pdf> 2-hour kits, 12-hour kits, etc.
 - <https://direbox.net>
+- <https://allscan.info/docs/radioless-node.php> radio-less AllStar node
 
 
 # Power
 
 - <https://blog.k7jlx.io/2021/08/21/100ah-battery-box-build>
-- <https://www.skywide.ca/portable-battery-box>
+- <https://skywide.ca/portable-battery-box>
 - <https://xplrcreate.com/2020/04/09/diy-camping-power-station-battery-pack>
-- <https://www.cloudynights.com/topic/842615-diy-power-tank-with-a-12v-100ah-lifepo4-battery-story-pros-cons-and-equipment>
-- <https://www.ke7hlr.com/ecw/personal_go-kit_2011.pdf> page 25
+- <https://cloudynights.com/topic/842615-diy-power-tank-with-a-12v-100ah-lifepo4-battery-story-pros-cons-and-equipment>
+- <https://ke7hlr.com/ecw/personal_go-kit_2011.pdf> page 25
 - <https://lyonscomputer.com.au/PV-Solar-Generator-Systems/SolarKing-100Ah-Battery-Rebuild/SolarKing-100Ah-Battery-Rebuild.html> test setup?
 - <https://zeroping.github.io/PowerPoleDist>
