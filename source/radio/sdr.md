@@ -160,6 +160,7 @@ This might be useful if there's ever a desktop app too.
 - <https://lyonscomputer.com.au> gold mine of useful ham info
 - <https://craiger.org/digipi>
 - <https://computer.rip/2025-08-16-passive-microwave-repeaters.html>
+- <https://github.com/DerHirschi/AX25_POPT> some neat packet radio tools wrapped in a Python thing
 
 
 # Logging
