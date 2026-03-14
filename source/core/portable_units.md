@@ -169,7 +169,10 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 - <https://bitfehler.srht.site/posts/2023-09-07_sorry--maildir--i-am-breaking-up-with-you.html>
 - <https://github.com/cminyard/gensio>
 - <https://github.com/cminyard/ser2net>
-- <https://www.complete.org/using-gensio-and-ser2net>
+- <https://complete.org/using-gensio-and-ser2net>
+- <https://github.com/la5nta/wl2k-go/issues/56#issuecomment-1015058159> gensio has AX.25 and CM108 GPIO support
+- <https://github.com/la5nta/pat/wiki> AX.25 and WL2K client stuff
+- <https://unsigned.io/aprs-over-lora-with-rnode>
 - <https://brr.fyi/posts/engineering-for-slow-internet>
 - <https://github.com/fiddyschmitt/File-Tunnel>
 - <https://github.com/quackduck/devzat> SSH chat
