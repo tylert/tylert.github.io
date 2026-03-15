@@ -234,6 +234,7 @@ Sigh, Debian:
 - <https://wtfpl.net> the do what you want to public license
 - <https://friendda.org> FriendDA
 - <https://programmingforcats.com>
+- <https://github.com/veggiedefender/open-and-shut> laptop lid Morse key
 
 
 # Keepass Stuff
