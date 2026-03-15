@@ -237,6 +237,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 # More Tunnel Magic
 
 - <https://haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html> holepunch (squid, stunnel, ssh -R, corkscrew)
+- <https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html>
 - <https://github.com/Gabriella439/holepunch> holepunch (squid, stunnel, ssh -R, corkscrew)
 - <https://github.com/alebeck/boring> SSH tunnel management
 - <https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go> SSH tunnel management

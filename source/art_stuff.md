@@ -364,3 +364,10 @@ Upgrading CHDK
 # Commerce
 
 - <https://github.com/yournextstore/yournextstore> open-source Shopify with Stripe?
+
+
+# Farming Planting Growing Hydroponics
+
+- <https://sa.lj.am/rack-mount-hydroponics>
+- <https://en.wikipedia.org/wiki/FarmBot>
+- <https://farm.bot>

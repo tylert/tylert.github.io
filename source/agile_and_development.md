@@ -94,6 +94,7 @@
 - <https://docker.com/blog/do-you-really-need-microservices>
 - <https://blog.mikeswanson.com/backseat-software>
 - <https://hannahilea.com/blog/houseplant-programming>
+- <https://dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo> put your docs right in your git repo
 
 
 # Messaging and Logging
@@ -573,10 +574,11 @@ Executable go scripts
 - <https://github.com/EmNudge/watlings> learn WASM by writing small programs
 
 
-# Compiler Stuff
+# Other Stuff
 
 - <https://github.com/raphamorim/goiaba> Rust compiler for Go code?
 - <https://tweag.io/blog/2025-11-27-shrinking-static-libs> libraries and linking magic
+- <https://purplesyringa.moe/blog/an-ode-to-bzip>
 
 
 # Kubernetes Stuff

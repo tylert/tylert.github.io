@@ -235,7 +235,7 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 - <https://garagehq.deuxfleurs.fr> S3-compatible object storage
 
 
-# OS Upgrades
+# Offline Updates
 
 - <https://wiki.archlinux.org/title/Offline_installation>
 - <https://wiki.archlinux.org/title/Help:Browsing#Offline_viewing>
@@ -275,6 +275,7 @@ Seems it might be just over CAD \$100 for a 8-foot x 4-foot sheet of
 - <https://homecomputermuseum.nl/en/collectie/epson/epson-px-8> Epson PX-8
 - <https://homecomputermuseum.nl/en/collectie/epson/epson-hx-20> Epson HX-20
 - <https://homecomputermuseum.nl/en/collectie/tandy/tandy-100> Tandy TRS-80 Model 100
+- <https://agelesslinux.org/hardware.html> tiny development machines
 
 
 # Power Supplies

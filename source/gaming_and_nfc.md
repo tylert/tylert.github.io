@@ -154,6 +154,7 @@
 - <https://github.com/visrealm/pico9918> drop-in TMS9918A Video Display Processor powered by a Raspberry Pi Pico 2040
 - <https://github.com/rh1tech/frankos> RP2350 as a tiny workstation
 - <https://github.com/rh1tech/frank> RP2350 as a tiny workstation
+- <https://github.com/drojaazu/megadev> Mega Drive and Mega CD build environment?
 
 ```
     myrient?
