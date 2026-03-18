@@ -510,9 +510,11 @@ file to GNU parallel.
 
 - <https://algernon.roboticoverlords.org>
 - <https://github.com/xyproto/algernon>
+- <https://hub.docker.com/r/xyproto/algernon>
 - <https://github.com/xyproto/permissionbolt> auth module
 - <https://github.com/etcd-io/bbolt> bolt database used by Algernon
 - <https://github.com/xyproto/wercstyle> entire site as a self-contained Algernon application
+- <https://docs.klutch.sh/guides/open-source-software/algernon>
 - <http://scripting.com/2025/08/28/140604.html> (mandatory 'http' here)
 - <https://devever.net/~hl/mildlydynamic>
 - <https://it-notes.dragas.net/tags/cdn> DIY CDN magic?
