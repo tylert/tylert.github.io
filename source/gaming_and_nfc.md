@@ -66,6 +66,7 @@
 - <https://openciv3.org> complete game that includes placeholder graphics
 - <https://eduke32.com> Duke Nukem 3D port
 - <https://github.com/Ragnaroek/iron-wolf> Wolfenstein 3D port
+- <https://github.com/ndroo/freeciv.andrewmcgrath.info> run your own longturn freeciv server
 
 
 # RPG Stuff

@@ -217,6 +217,7 @@ Sigh, Debian:
 - <https://improveyoursocialskills.com/basic-social-skills-guide>
 - <https://codenames.info> WWII codenames
 - <https://lcamtuf.coredump.cx/prep/index-old.shtml> basic emergency planning
+- <https://otherstrangeness.com/2026/03/14/have-a-fucking-website>
 
 
 # Humour

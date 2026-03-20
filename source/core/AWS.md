@@ -210,6 +210,7 @@ Most useful: 'Cloud Practitioner', 'System Operator', 'Solutions Architect'.
 - <https://www.bitsand.cloud/posts/slashing-data-transfer-costs>
 - <https://serverfault.com/questions/1073509/in-aws-can-an-ec2-instance-be-in-more-than-one-vpc-at-the-same-time>
 - <https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments>
+- <https://github.com/robotocore/robotocore> local AWS emulator
 
 
 # Cloud Backup and Recovery
