@@ -269,3 +269,8 @@ Version 4 of the 'The Uni' uses a RP2040 chip (like the Raspberry Pi Pico).
 - <https://github.com/bahaaador/bluetooth-usb-peripheral-relay> Pi Zero as a Bluetooth to USB bridge
 - <https://blog.semanticsworks.com/2025/01/why-qmk-keyboard.html>
 - <https://techreviewadvisor.com/the-advantages-of-a-mechanical-keyboard>
+- <https://github.com/mdev588/vboard> virtual keyboard for Linux
+- <https://mb.sb/x220#virtual_keyboard>
+- <https://wiki.archlinux.org/title/List_of_applications/Utilities#On-screen_keyboards>
+- <https://aur.archlinux.org/packages/caribou> GNOME Caribou
+- <https://archlinux.org/packages/extra/x86_64/onboard>
