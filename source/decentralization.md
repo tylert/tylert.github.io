@@ -264,6 +264,7 @@ _xmpp-server._tcp.xmpp.example.com  SRV  0 5 5269 xmpp.example.com.
 - <https://gethomepage.dev> self-hosted statuspage thing?
 - <https://ploum.net/the-computer-built-to-last-50-years/index.html>
 - <https://hackaday.com/2024/09/14/taking-back-the-internet-with-the-tildeverse>
+- <https://noemamag.com/we-need-to-rewild-the-internet>
 - <https://github.com/ricott1/rebels-in-the-sky> terminal-based game?
 - <https://taoshu.in/unix/jool-nat64.html>
 - <https://github.com/bypirob/airo> deploy thingy?
@@ -393,6 +394,8 @@ file to GNU parallel.
 - <https://pandoc.org> supports Markdown and Typst
 - <https://furlo.sk/blog/odborny/2025-05-07-command-line_tools_for_pdf_processing>
 - <https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html> tiny web
+- <https://ploum.net/2026-03-20-social-smolnet.html>
+- <https://ploum.net/2026-02-09-offpunk3.html> command-line Gemini, Gopher browser
 
 
 # Maddy
@@ -542,6 +545,7 @@ file to GNU parallel.
 - <https://github.com/ogarcia/docker-polaris> container for polaris
 - <https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page>
 - <https://internet-in-a-box.org> offline learning hotspots
+- <https://projectnomad.us>
 
 
 # Wireless
