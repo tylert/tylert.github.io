@@ -87,9 +87,11 @@
 - <https://olano.dev/blog/deconstructing-the-role-playing-videogame> GURPS, TWERPS, Dinky Dungeons, etc.
 
 
-# DIY Games
+# Simple Games
 
 - <https://en.wikipedia.org/wiki/1000_Blank_White_Cards>
+- <https://github.com/ArnoldSmith86/virtualtabletop>
+- <https://virtualtabletop.io>
 
 
 # Retro Computing
